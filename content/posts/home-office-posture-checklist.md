@@ -3,7 +3,6 @@ title: "The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote
 description: "Master your workspace setup with our comprehensive home office posture checklist. Learn how to prevent back pain, reduce eye strain, and boost productivity with expert ergonomic advice."
 pubDate: 2026-04-29
 author: "Gemini CLI"
-layout: "../../layouts/BaseLayout.astro"
 tags: ["ergonomics", "remote work", "posture", "home office", "wellness"]
 ---
 

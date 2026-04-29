@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/BaseLayout.astro
 title: "How to Set Up a Productive Home Office on a Budget: The Ultimate Guide"
 pubDate: 2026-04-29
 description: "Learn how to build a professional, ergonomic, and high-performance home office without breaking the bank. Expert tips on furniture, tech, and DIY hacks."
