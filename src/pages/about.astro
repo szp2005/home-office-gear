@@ -1,12 +1,36 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
-<BaseLayout title="About Home Office Gear">
-  <section class="page-heading">
-    <h1>About</h1>
-    <p>
-      Home Office Gear publishes practical, plain-English guides for remote
-      workers who want a better desk setup without overbuying.
-    </p>
-  </section>
+<BaseLayout title="About Home Office Gear" description="How Home Office Gear researches and recommends desk setups, ergonomic equipment, and workspace tools for remote workers.">
+  <article class="about">
+    <h1>About Home Office Gear</h1>
+    <p class="lead">Home Office Gear is an independent publication focused on practical buying guides and setup tutorials for remote and hybrid workers.</p>
+
+    <h2>What we cover</h2>
+    <p>Ergonomic chairs, standing desks, monitor arms, lighting, keyboards and mice, cable management, small-space setups, and the trade-offs that matter most when assembling a productive home workspace.</p>
+
+    <h2>Our editorial approach</h2>
+    <ul>
+      <li><strong>Independent &amp; reader-first.</strong> We don't accept payment for product placements. Recommendations are based on research, hands-on testing where possible, and analysis of established expert sources.</li>
+      <li><strong>Research-driven.</strong> Every guide draws from product specs, manufacturer documentation, established review benchmarks, and user feedback patterns across multiple communities.</li>
+      <li><strong>Updated when it matters.</strong> When products are updated or our recommendations change, articles are revised — not silently overwritten. Major changes are dated.</li>
+      <li><strong>Honest trade-offs.</strong> Every recommendation comes with explicit caveats. There is no perfect product; we name where each option falls short.</li>
+    </ul>
+
+    <h2>How to use this site</h2>
+    <p>Browse by topic on the <a href="/tags/">Tags</a> page, jump straight to the <a href="/posts/">post archive</a>, or use <a href="/search/">site search</a> to find a specific keyword.</p>
+
+    <h2>Disclosure</h2>
+    <p>Some links may be affiliate links. We earn a small commission if you buy through them, at no additional cost to you. This never influences which products we recommend or how we rank them.</p>
+  </article>
 </BaseLayout>
+
+<style>
+  .about { max-width: 760px; margin: 0 auto; padding: 2.5rem 1.25rem; line-height: 1.7; }
+  .about h1 { font-size: 2.1rem; margin-bottom: .5rem; }
+  .about .lead { color: #4b5563; font-size: 1.1rem; margin-bottom: 2rem; }
+  .about h2 { font-size: 1.3rem; margin: 2rem 0 .75rem; }
+  .about ul { padding-left: 1.25rem; }
+  .about li { margin-bottom: .65rem; }
+  .about a { color: #2563eb; text-decoration: underline; }
+</style>
