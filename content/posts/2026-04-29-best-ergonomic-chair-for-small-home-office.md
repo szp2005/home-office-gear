@@ -147,6 +147,21 @@ Measure your space before you order. Test the chair within its return window. In
 
 *Prices and availability correct at time of writing. Always verify current pricing before purchasing.*
 
+## Frequently Asked Questions
+
+### What is the most important feature to look for in a small office chair?
+The most crucial feature is a compact footprint combined with robust ergonomic adjustability. Look for chairs with a smaller base diameter and folding or removable armrests that allow you to tuck the chair neatly under your desk when not in use.
+
+### Are armless chairs better for small home offices?
+Armless chairs are excellent for tight spaces because they take up less physical room and can slide easily under almost any workspace. However, if you work long hours, a chair with flip-up arms provides a much better balance of essential support and space-saving design.
+
+### Do compact office chairs still provide good ergonomic support?
+Yes, many compact office chairs are specifically designed to offer premium ergonomic support without the bulk of a traditional executive model. You can easily find essential features like adjustable lumbar support, seat height mechanisms, and tilt tension controls built into smaller frames.
+
+### What type of chair base is best for a tight workspace?
+A five-point base with a smaller overall diameter is ideal because it provides necessary stability while minimizing your floor footprint. Additionally, consider replacing standard casters with inline skate-style wheels, which are much easier to maneuver in confined areas and safe for all floors.
+
+
 ---
 
 ## Related Reading
