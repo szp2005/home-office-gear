@@ -40,6 +40,6 @@ If you can only spend $250, get the **Sihoo M57**. It is the most "ergonomic" of
 ## Related Reading
 
 - [The 10 Best Footrests for Under Desk Ergonomics: Boost Comfort While Working](/posts/best-footrest-for-under-desk-ergonomics/)
-- [Why Standing Desks Work in Small Apartments](/posts/2026-04-29-standing-desk-setup-for-small-apartment/)
-- [What Makes an Office Chair Work in Small Spaces](/posts/2026-04-29-best-ergonomic-chair-for-small-home-office/)
+- [Why Standing Desks Work in Small Apartments](/posts/standing-desk-setup-for-small-apartment/)
+- [What Makes an Office Chair Work in Small Spaces](/posts/best-ergonomic-chair-for-small-home-office/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
