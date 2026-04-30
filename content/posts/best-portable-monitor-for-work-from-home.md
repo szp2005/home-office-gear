@@ -154,7 +154,7 @@ Investing in a high-quality portable monitor is an investment in your own effici
 
 ## Related Reading
 
-- [Why Dual Monitor Arms Matter for Home Office Setup](/posts/2026-04-29-best-monitor-arm-for-dual-monitors-home-office/)
+- [Why Dual Monitor Arms Matter for Home Office Setup](/posts/best-monitor-arm-for-dual-monitors-home-office/)
 - [The Ultimate Minimalist Home Office Setup Checklist for Peak Productivity](/posts/minimalist-home-office-setup-checklist/)
 - [How to Choose a Home Office Desk Size: The Definitive Guide for Productivity and Comfort](/posts/how-to-choose-a-home-office-desk-size/)
 - [Laptop Stand vs. Monitor Arm: The Ultimate Home Office Ergonomic Showdown](/posts/laptop-stand-vs-monitor-arm-home-office/)
