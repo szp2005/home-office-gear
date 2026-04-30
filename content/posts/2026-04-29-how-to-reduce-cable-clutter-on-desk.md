@@ -193,7 +193,7 @@ The tools are cheap. The result is a workspace that looks intentional, works rel
 
 ## Related Reading
 
-- [Why Desk Lamp Quality Matters for Video Calls](/posts/2026-04-29-best-desk-lamp-for-video-calls/)
-- [What Makes an Office Chair Work in Small Spaces](/posts/2026-04-29-best-ergonomic-chair-for-small-home-office/)
-- [Why Dual Monitor Arms Matter for Home Office Setup](/posts/2026-04-29-best-monitor-arm-for-dual-monitors-home-office/)
-- [Why Standing Desks Work in Small Apartments](/posts/2026-04-29-standing-desk-setup-for-small-apartment/)
+- [Why Desk Lamp Quality Matters for Video Calls](/posts/best-desk-lamp-for-video-calls/)
+- [What Makes an Office Chair Work in Small Spaces](/posts/best-ergonomic-chair-for-small-home-office/)
+- [Why Dual Monitor Arms Matter for Home Office Setup](/posts/best-monitor-arm-for-dual-monitors-home-office/)
+- [Why Standing Desks Work in Small Apartments](/posts/standing-desk-setup-for-small-apartment/)
