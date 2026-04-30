@@ -151,7 +151,7 @@ Measure your space before you order. Test the chair within its return window. In
 
 ## Related Reading
 
-- [Why Standing Desks Work in Small Apartments](/posts/2026-04-29-standing-desk-setup-for-small-apartment/)
+- [Why Standing Desks Work in Small Apartments](/posts/standing-desk-setup-for-small-apartment/)
 - [The Ultimate Guide to the Best Chair Mat for Hardwood Floors in Your Home Office](/posts/best-chair-mat-for-hardwood-floors-home-office/)
 - [The Best Document Scanner for Home Office in 2026: An Expert Guide](/posts/best-document-scanner-for-home-office/)
-- [Why Dual Monitor Arms Matter for Home Office Setup](/posts/2026-04-29-best-monitor-arm-for-dual-monitors-home-office/)
+- [Why Dual Monitor Arms Matter for Home Office Setup](/posts/best-monitor-arm-for-dual-monitors-home-office/)
