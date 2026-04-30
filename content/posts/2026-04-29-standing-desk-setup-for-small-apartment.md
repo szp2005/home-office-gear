@@ -202,7 +202,7 @@ Start with your elbow measurement, map your outlet, pick the smallest footprint 
 
 ## Related Reading
 
-- [What Makes an Office Chair Work in Small Spaces](/posts/2026-04-29-best-ergonomic-chair-for-small-home-office/)
+- [What Makes an Office Chair Work in Small Spaces](/posts/best-ergonomic-chair-for-small-home-office/)
 - [Compact Standing Desk Converter Review 2026: Transform Your Small Workspace](/posts/compact-standing-desk-converter-review/)
 - [The Best Portable Monitor for Work From Home: Boost Productivity Anywhere](/posts/best-portable-monitor-for-work-from-home/)
 - [Best Budget Ergonomic Chairs for Remote Work in 2026: Comfort Under $300](/posts/best-budget-ergonomic-chair-for-remote-work/)
