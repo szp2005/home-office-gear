@@ -1,6 +1,10 @@
 import type { APIRoute } from 'astro';
 export const GET: APIRoute = () =>
   new Response(
-    'User-agent: *\nAllow: /\n\nSitemap: https://gear.toolrouteai.com/sitemap.xml\n',
+    `User-agent: *
+Allow: /
+
+Sitemap: https://gear.toolrouteai.com/sitemap.xml
+`,
     { headers: { 'Content-Type': 'text/plain' } }
   );
