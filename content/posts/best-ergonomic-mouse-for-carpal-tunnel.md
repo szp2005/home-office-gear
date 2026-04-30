@@ -40,5 +40,5 @@ Don't wait for surgery to change your hardware. A **Logitech MX Vertical** or a 
 
 - [Best Budget Ergonomic Chairs for Remote Work in 2026: Comfort Under $300](/posts/best-budget-ergonomic-chair-for-remote-work/)
 - [Laptop Stand vs. Monitor Arm: The Ultimate Home Office Ergonomic Showdown](/posts/laptop-stand-vs-monitor-arm-home-office/)
-- [Why Desk Lamp Quality Matters for Video Calls](/posts/2026-04-29-best-desk-lamp-for-video-calls/)
-- [What Makes an Office Chair Work in Small Spaces](/posts/2026-04-29-best-ergonomic-chair-for-small-home-office/)
+- [Why Desk Lamp Quality Matters for Video Calls](/posts/best-desk-lamp-for-video-calls/)
+- [What Makes an Office Chair Work in Small Spaces](/posts/best-ergonomic-chair-for-small-home-office/)
