@@ -212,7 +212,7 @@ Set it up at 45 degrees, dial in 4000K, and your video presence will look notice
 
 ## Related Reading
 
-- [Why Cable Clutter Matters](/posts/2026-04-29-how-to-reduce-cable-clutter-on-desk/)
+- [Why Cable Clutter Matters](/posts/how-to-reduce-cable-clutter-on-desk/)
 - [The Ultimate Guide to the Best USB-C Hub for Your Desk Setup](/posts/best-usb-c-hub-for-desk-setup/)
 - [The Ultimate Guide: Best Pegboard Accessories for Desk Organization](/posts/best-pegboard-accessories-for-desk-organization/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
