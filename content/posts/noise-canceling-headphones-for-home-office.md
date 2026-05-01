@@ -5,6 +5,7 @@ description: "Need to block out domestic distractions? Here are the best noise c
 categories: ["Home Office", "Audio"]
 tags: ["Noise Canceling", "Productivity", "Focus", "Headphones"]
 slug: "noise-canceling-headphones-for-home-office"
+type: "review"
 ---
 
 # Top Noise Canceling Headphones for Home Office Workers 2026
