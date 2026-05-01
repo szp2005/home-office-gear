@@ -5,6 +5,7 @@ slug: best-ergonomic-chair-for-small-home-office
 description: "Most ergonomic chairs designed for standard offices don't fit apartments or small rooms—focus on compact base options and footprint dimensions as primary filter"
 keywords: ["compact ergonomic office chair", "small space office chair", "apartment home office seating", "narrow office chair", "best chair for small desk", "ergonomic chair under 300 dollars", "space saving office furniture", "lumbar support small chair"]
 draft: false
+type: "informational"
 ---
 
 # Best Ergonomic Chair for Small Home Office: Compact Picks That Don't Eat Your Room
