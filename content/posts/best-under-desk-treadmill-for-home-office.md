@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office"
 description: "Discover the best under desk treadmills to seamlessly blend productivity and health. We review top models, essential features, and expert tips for WFH integration."
 pubDate: "2026-04-30"
-author: "Workspace Ergonomics Expert"
+author: "Sarah Miller"
 tags: ["Home Office", "Ergonomics", "Fitness", "Productivity", "Desk Setup"]
 type: "review"
 ---
@@ -10,7 +10,6 @@ type: "review"
 # The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office
 
 > **Quick Answer:** The best under desk treadmills for a home office prioritize quiet motors, compact designs, and sturdy build quality to handle daily use. Top models feature shock absorption to protect your joints and operate at noise levels low enough to not disrupt video calls. When shopping, ensure the treadmill's dimensions fit comfortably beneath your specific standing desk while offering a speed range suitable for comfortable walking.
-
 
 In the modern era of remote work, our home offices have become highly optimized command centers. We have invested in ergonomic chairs, ultra-wide monitors, and split mechanical keyboards. Yet, despite these advancements, the fundamental problem of the modern knowledge worker remains: we sit too much. The sedentary lifestyle has been dubbed the "new smoking," leading to decreased energy levels, posture degradation, and a host of long-term health issues. 
 
@@ -136,19 +135,20 @@ Start slow, prioritize your ergonomic setup, respect the maintenance schedule, a
 ## Frequently Asked Questions
 
 ### Can I run on an under desk treadmill?
+
 Most under desk treadmills are designed specifically for walking, with maximum speeds typically capping out around 4 miles per hour. If you want to run, you will need to look for a 2-in-1 model with a specialized running mode and a foldable handrail. However, for getting daily steps in while typing, standard walking pads are perfectly sufficient.
 
 ### How noisy are under desk treadmills during a workday?
+
 Modern under desk treadmills are generally quiet enough to use during video calls or in a shared home office without causing disruptions. They typically produce a low hum that blends into background noise, usually ranging between 40 and 50 decibels. Placing a treadmill mat underneath can further dampen any motor sound and protect your hard floors.
 
 ### Are walking pads safe to use while typing and working?
+
 Yes, under desk treadmills are safe when used properly, but it takes a few sessions to get accustomed to typing and walking simultaneously. It is highly recommended to start at a slow pace, such as 1 or 1.5 miles per hour, until you find your balance and rhythm. Keeping your workspace clear and wearing supportive athletic shoes will also help prevent accidents and foot fatigue.
 
 ### Do under desk treadmills typically have an incline feature?
+
 Most standard under desk treadmills do not offer an incline feature because walking at an angle can compromise your posture and ergonomics while typing. A flat surface ensures that you maintain proper alignment with your standing desk and external monitor. If an incline is essential for your fitness goals, you may need to purchase a traditional folding treadmill instead of a slim walking pad.
-
-
----
 
 ## Related Reading
 
