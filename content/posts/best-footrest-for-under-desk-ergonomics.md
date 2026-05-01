@@ -5,6 +5,7 @@ description: "Looking for the best footrest for under desk ergonomics? Improve y
 categories: ["Home Office", "Ergonomics"]
 tags: ["Footrest", "Posture", "Productivity"]
 slug: "best-footrest-for-under-desk-ergonomics"
+type: "review"
 ---
 
 # The 10 Best Footrests for Under Desk Ergonomics: Boost Comfort While Working
