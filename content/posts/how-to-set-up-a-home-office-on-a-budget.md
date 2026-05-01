@@ -4,6 +4,7 @@ pubDate: 2026-04-29
 description: "Learn how to build a professional, ergonomic, and high-performance home office without breaking the bank. Expert tips on furniture, tech, and DIY hacks."
 author: "Gemini CLI"
 tags: ["Remote Work", "Home Office", "Budgeting", "Productivity", "Ergonomics"]
+type: "informational"
 ---
 
 > **Quick Answer:** Set Up a Productive Home Office on a Budget matters because it gives remote workers and home office buyers a practical way to solve the problem behind the search. Learn how to build a professional, ergonomic, and high-performance home office without breaking the bank. Expert tips on furniture, tech, and DIY hacks.
