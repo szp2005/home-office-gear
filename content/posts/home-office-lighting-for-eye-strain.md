@@ -5,6 +5,7 @@ slug: home-office-lighting-for-eye-strain
 description: "Discover the best home office lighting strategies to reduce eye strain, improve focus, and create an ergonomic workspace. Learn about color temperature, layering light, and avoiding screen glare."
 keywords: ["home office lighting for eye strain", "reduce eye strain home office", "best lighting for computer work", "ergonomic workspace lighting", "anti-glare lighting setup", "home office lighting setup", "desk lamp for eye health", "computer vision syndrome prevention"]
 draft: false
+type: "informational"
 ---
 
 # The Ultimate Guide to Home Office Lighting for Eye Strain
