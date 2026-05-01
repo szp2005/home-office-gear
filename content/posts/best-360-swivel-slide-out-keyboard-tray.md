@@ -2,7 +2,7 @@
 title: "Best 360 Swivel Slide-out Keyboard Tray in 2026"
 description: "Discover the best 360 swivel slide-out keyboard tray for your ergonomic desk setup. Compare top models for comfort, durability, and seamless adjustability."
 pubDate: "2026-05-01"
-author: "Workspace Ergonomics Editor"
+author: "Sarah Miller"
 tags: ["keyboard tray", "ergonomics", "desk setup", "home office"]
 slug: "best-360-swivel-slide-out-keyboard-tray"
 type: "review"

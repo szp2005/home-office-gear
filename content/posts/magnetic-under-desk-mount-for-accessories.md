@@ -2,7 +2,7 @@
 title: "Best Magnetic Under-Desk Mounts for Accessories in 2026"
 description: "Discover the top magnetic under-desk mounts for accessories to easily organize cables, hubs, and tools. Compare the best options for a clutter-free workspace."
 pubDate: "2026-05-01"
-author: "Workspace Ergonomics Editor"
+author: "Sarah Miller"
 tags: ["cable management", "desk organization", "home office setup", "workspace accessories"]
 slug: "magnetic-under-desk-mount-for-accessories"
 type: "review"

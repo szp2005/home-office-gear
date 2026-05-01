@@ -2,7 +2,7 @@
 title: "Best Ultra-Thin Mechanical Keyboards for Small Desks (2026)"
 description: "Discover the best ultra-thin mechanical keyboard for small desks. Compare top low-profile picks to maximize your workspace without sacrificing tactile feel."
 pubDate: "2026-05-01"
-author: "Workspace Ergonomics Editor"
+author: "Sarah Miller"
 tags: ["mechanical keyboards", "small desk setup", "ergonomics", "tech accessories"]
 slug: "ultra-thin-mechanical-keyboard-for-small-desks"
 type: "review"

@@ -2,7 +2,7 @@
 title: "How to Test Keywords: 5-Step Guide to Validating Search Intent"
 description: "Learn how to systematically test keywords before committing your budget or time. Discover proven methods to validate search volume, intent, and conversion potential."
 pubDate: "2026-05-01"
-author: "Workspace Ergonomics Editor"
+author: "Sarah Miller"
 tags: ["keyword research", "seo strategy", "search intent", "content planning"]
 slug: "test-keyword"
 type: "informational"
