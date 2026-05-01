@@ -3,6 +3,7 @@ title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
 description: "Discover the ideal desk depth for your home office. Our comprehensive expert guide covers ergonomics, monitor placement, and practical tips for maximizing productivity and comfort."
 pubDate: "2026-04-30"
 tags: ["home office", "ergonomics", "desk setup", "workspace", "productivity"]
+type: "informational"
 ---
 
 # The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup
