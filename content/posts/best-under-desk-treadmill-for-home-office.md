@@ -4,6 +4,7 @@ description: "Discover the best under desk treadmills to seamlessly blend produc
 pubDate: "2026-04-30"
 author: "Workspace Ergonomics Expert"
 tags: ["Home Office", "Ergonomics", "Fitness", "Productivity", "Desk Setup"]
+type: "review"
 ---
 
 # The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office
