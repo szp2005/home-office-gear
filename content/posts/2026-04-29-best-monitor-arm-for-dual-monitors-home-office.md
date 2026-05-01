@@ -5,6 +5,7 @@ slug: best-monitor-arm-for-dual-monitors-home-office
 description: "Dual monitor arms save 40-50% desk space compared to dual monitor stands while improving cable management and ergonomics"
 keywords: ["dual monitor arm mount", "adjustable monitor arm ergonomic", "monitor arm for home office", "best dual monitor setup", "monitor arm desk space", "VESA monitor mount", "monitor arm cable management", "heavy duty dual monitor arm"]
 draft: false
+type: "informational"
 ---
 
 # Best Monitor Arm for Dual Monitors: Home Office Buying Guide (2024)
