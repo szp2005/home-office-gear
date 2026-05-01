@@ -4,6 +4,7 @@ description: "Transform your workspace with our comprehensive minimalist home of
 pubDate: "2026-04-30"
 author: "Workspace Expert"
 tags: ["Home Office", "Minimalism", "Productivity", "Desk Setup", "Ergonomics"]
+type: "informational"
 ---
 
 # The Ultimate Minimalist Home Office Setup Checklist for Peak Productivity
