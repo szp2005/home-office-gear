@@ -5,6 +5,7 @@ description: "Read our comprehensive review of the best compact standing desk co
 categories: ["Home Office", "Reviews"]
 tags: ["Standing Desk", "Small Spaces", "Ergonomics"]
 slug: "compact-standing-desk-converter-review"
+type: "review"
 ---
 
 # Compact Standing Desk Converter Review 2026: Transform Your Small Workspace
