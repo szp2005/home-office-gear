@@ -55,6 +55,18 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gear.toolrouteai.com/posts/4k-ai-auto-framing-webcam-reviews/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/posts/asymmetric-monitor-light-bar-vs-desk-lamp/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gear.toolrouteai.com/posts/best-360-swivel-slide-out-keyboard-tray/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -103,6 +115,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gear.toolrouteai.com/posts/best-low-light-sensor-pro-webcams/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gear.toolrouteai.com/posts/best-pegboard-accessories-for-desk-organization/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -134,6 +152,12 @@
   </url>
   <url>
     <loc>https://gear.toolrouteai.com/posts/compact-standing-desk-converter-review/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/posts/dslr-quality-bokeh-webcam-setup/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -211,6 +235,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gear.toolrouteai.com/posts/multi-angle-streaming-cam-top-down-shots/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gear.toolrouteai.com/posts/negative-tilt-keyboard-tray-benefits/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -218,6 +248,30 @@
   </url>
   <url>
     <loc>https://gear.toolrouteai.com/posts/noise-canceling-headphones-for-home-office/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/posts/rgb-ambient-backlighting-for-office-aesthetic/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/posts/smart-circadian-desk-lamp-for-productivity/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/posts/softbox-key-light-for-video-conferencing/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/posts/split-ergonomic-keyboard-vs-standard-2026/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -235,7 +289,19 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://gear.toolrouteai.com/tags/keyboard-tray/</loc>
+    <loc>https://gear.toolrouteai.com/posts/webcams-with-physical-privacy-shutter-2026/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/tags/webcams/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/tags/remote-work/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -253,6 +319,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gear.toolrouteai.com/tags/productivity/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/tags/keyboard-tray/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gear.toolrouteai.com/tags/home-office/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -260,12 +338,6 @@
   </url>
   <url>
     <loc>https://gear.toolrouteai.com/tags/work-from-home/</loc>
-    <lastmod>2026-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gear.toolrouteai.com/tags/productivity/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -284,6 +356,12 @@
   </url>
   <url>
     <loc>https://gear.toolrouteai.com/tags/workspace-optimization/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/tags/streaming-gear/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -308,12 +386,6 @@
   </url>
   <url>
     <loc>https://gear.toolrouteai.com/tags/cable-management/</loc>
-    <lastmod>2026-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://gear.toolrouteai.com/tags/remote-work/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
