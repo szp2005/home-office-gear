@@ -5,6 +5,7 @@ slug: standing-desk-setup-for-small-apartment
 description: "Teach readers to calculate optimal desk height and depth for compact apartments using simple formulas rather than generic recommendations"
 keywords: ["standing desk small apartment", "compact standing desk", "space-saving standing desk setup", "adjustable standing desk small spaces", "standing desk for studio apartment", "portable standing desk", "corner standing desk setup", "budget standing desk"]
 draft: false
+type: "informational"
 ---
 
 # Standing Desk Setup for Small Apartment: Budget Fixes That Actually Work
