@@ -6,6 +6,7 @@ author: "Workspace Ergonomics Expert"
 tags: ["home office", "acoustics", "soundproofing", "productivity", "remote work"]
 category: "Workspace Setup"
 slug: "how-to-improve-home-office-acoustics"
+type: "informational"
 ---
 
 # How to Improve Home Office Acoustics: The Ultimate Guide for Remote Professionals
