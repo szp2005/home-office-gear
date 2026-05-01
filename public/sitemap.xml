@@ -55,6 +55,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gear.toolrouteai.com/posts/360-swivel-desk-clamp-mic-stand/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gear.toolrouteai.com/posts/4k-ai-auto-framing-webcam-reviews/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -217,13 +223,31 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gear.toolrouteai.com/posts/internal-spring-boom-arm-reviews-2026/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gear.toolrouteai.com/posts/laptop-stand-vs-monitor-arm-home-office/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gear.toolrouteai.com/posts/low-profile-mic-arm-for-minimalist-setup/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gear.toolrouteai.com/posts/magnetic-under-desk-mount-for-accessories/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/posts/mic-stand-with-hidden-cable-management/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -289,10 +313,28 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gear.toolrouteai.com/posts/voice-controlled-smart-lighting-home-office/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gear.toolrouteai.com/posts/webcams-with-physical-privacy-shutter-2026/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/tags/audio-gear/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/tags/streaming-setup/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://gear.toolrouteai.com/tags/webcams/</loc>
