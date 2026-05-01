@@ -4,6 +4,7 @@ description: "Discover the psychological and practical strategies to transform y
 pubDate: "2026-04-30"
 author: "Workspace Ergonomics Expert"
 tags: ["Home Office", "Productivity", "Desk Organization", "Minimalism", "Workspace Optimization"]
+type: "informational"
 ---
 
 # How to Organize a Desk Drawer for Productivity: The Ultimate Expert Guide
