@@ -5,6 +5,7 @@ description: "You don't need to spend $1,500 on a Herman Miller. Discover the be
 categories: ["Home Office", "Ergonomics"]
 tags: ["Budget Gear", "Ergonomic Chair", "Work From Home"]
 slug: "best-budget-ergonomic-chair-for-remote-work"
+type: "review"
 ---
 
 # Best Budget Ergonomic Chairs for Remote Work in 2026
