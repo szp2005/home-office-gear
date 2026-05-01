@@ -5,6 +5,7 @@ description: "Looking to improve your typing posture? Discover the best keyboard
 categories: ["Home Office", "Ergonomics"]
 tags: ["Keyboard Tray", "Wrist Health", "Workspace Optimization"]
 slug: "best-keyboard-tray-for-home-office-desk"
+type: "review"
 ---
 
 # Best Keyboard Trays for Home Office Desks in 2026: Save Your Wrists and Desk Space
