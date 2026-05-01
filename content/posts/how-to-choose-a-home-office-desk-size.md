@@ -4,6 +4,7 @@ description: "Struggling to find the right desk dimensions? Discover exactly how
 pubDate: "2026-04-30"
 author: "Workspace Ergonomics Expert"
 tags: ["home office", "desk setup", "ergonomics", "productivity"]
+type: "informational"
 ---
 
 > **Quick Answer:** Choose a Home Office Desk Size matters because it gives remote workers and home office buyers a practical way to solve the problem behind the search. Struggling to find the right desk dimensions? Discover exactly how to choose a home office desk size that perfectly balances your workspace, equipment needs, and ergonomic health.
