@@ -5,6 +5,7 @@ slug: best-desk-lamp-for-video-calls
 description: "Color temperature between 4000-5000K (neutral white) is optimal for video calls to avoid unflattering skin tones and camera color casts"
 keywords: ["best desk lamp for video calls", "desk lamp for zoom calls", "video conferencing lighting", "home office desk lamp", "desk lamp eye strain", "adjustable brightness desk lamp", "LED desk lamp for working", "warm white desk lamp"]
 draft: false
+type: "informational"
 ---
 
 # Best Desk Lamp for Video Calls: A Practical Comparison Guide for Remote Workers
