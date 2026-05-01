@@ -4,6 +4,7 @@ description: "Discover the best surge protector for your home office setup. Lear
 pubDate: "2026-04-30"
 author: "Workspace Expert"
 tags: ["home office", "desk setup", "surge protectors", "tech accessories", "cable management"]
+type: "review"
 ---
 
 # The Best Surge Protector for Home Office Setup: A Comprehensive Guide to Protecting Your Gear
