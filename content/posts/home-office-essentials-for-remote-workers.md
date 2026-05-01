@@ -5,6 +5,7 @@ description: "Discover the must-have home office essentials for remote workers t
 categories: ["Remote Work", "Home Office"]
 tags: ["Productivity", "Ergonomics", "Work From Home"]
 slug: "home-office-essentials-for-remote-workers"
+type: "informational"
 ---
 
 # The Ultimate Guide to Home Office Essentials for Remote Workers in 2026
