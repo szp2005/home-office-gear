@@ -4,6 +4,7 @@ description: "Tired of looking at the blinking lights and tangled mess of your h
 pubDate: "2026-04-30"
 author: "Home Office Tech Desk"
 tags: ["cable management", "home office setup", "router placement", "desk organization", "DIY aesthetics"]
+type: "informational"
 ---
 
 # How to Hide Your Router and Cables in a Home Office: An Expert Guide
