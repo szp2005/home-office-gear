@@ -5,6 +5,7 @@ slug: how-to-reduce-cable-clutter-on-desk
 description: "Bundle cables by function (power, data, peripherals) rather than location to simplify maintenance and troubleshooting"
 keywords: ["cable management desk", "organize cables under desk", "desk cable organizer", "reduce cable clutter", "cable management solutions", "desk cable clips", "cable sleeves", "cable boxes"]
 draft: false
+type: "informational"
 ---
 
 # How to Reduce Cable Clutter on Desk: A Practical, No-Nonsense Guide
