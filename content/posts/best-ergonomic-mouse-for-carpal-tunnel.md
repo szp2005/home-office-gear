@@ -5,6 +5,7 @@ description: "Suffering from wrist pain? Discover the best ergonomic mice for ca
 categories: ["Home Office", "Ergonomics"]
 tags: ["Ergonomic Mouse", "Carpal Tunnel", "Wrist Health"]
 slug: "best-ergonomic-mouse-for-carpal-tunnel"
+type: "review"
 ---
 
 # The Best Ergonomic Mice for Carpal Tunnel in 2026
