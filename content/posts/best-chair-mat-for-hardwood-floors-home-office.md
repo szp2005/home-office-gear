@@ -4,6 +4,7 @@ description: "Protect your expensive hardwood floors and improve your home offic
 pubDate: "2026-04-30"
 author: "Workspace Ergonomics Expert"
 tags: ["home office", "hardwood floors", "ergonomics", "office gear", "workspace setup"]
+type: "review"
 ---
 
 # The Ultimate Guide to the Best Chair Mat for Hardwood Floors in Your Home Office
