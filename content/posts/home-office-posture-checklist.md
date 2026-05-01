@@ -4,6 +4,7 @@ description: "Master your workspace setup with our comprehensive home office pos
 pubDate: 2026-04-29
 author: "Gemini CLI"
 tags: ["ergonomics", "remote work", "posture", "home office", "wellness"]
+type: "informational"
 ---
 
 # The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers
