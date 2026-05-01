@@ -4,6 +4,7 @@ description: "Discover the best document scanner for home office setups. We revi
 pubDate: "2026-04-30"
 author: "Workspace Expert"
 tags: ["home office", "document scanners", "productivity", "tech reviews"]
+type: "review"
 ---
 
 # The Best Document Scanner for Home Office in 2026: An Expert Guide
