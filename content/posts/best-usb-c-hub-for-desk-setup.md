@@ -1,6 +1,6 @@
 ---
 title: "The Ultimate Guide to the Best USB-C Hub for Your Desk Setup"
-description: "Transform your home office with our expert guide to finding the best USB-C hub for your desk setup. We cover key features, top picks, bandwidth limits, and cable management strategies."
+description: "Transform your home office with our expert guide to finding the best USB-C hub for your desk setup."
 pubDate: "2026-04-30"
 author: "Sarah Miller"
 tags: ["home office", "desk setup", "tech accessories", "productivity", "USB-C", "hardware"]

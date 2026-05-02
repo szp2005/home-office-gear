@@ -144,3 +144,10 @@ It depends entirely on your footwear and flooring. Memory foam is excellent for 
 
 ### Should my footrest move or stay locked in place?
 Movement is generally better for your circulatory system. Free-floating or rocking footrests allow your ankles to pivot, acting as a muscular pump that pushes blood back up your legs, preventing fatigue during long stretches of seated work.
+
+---
+
+## Related Reading
+
+- [Best 360 Swivel Slide-out Keyboard Tray in 2026](/posts/best-360-swivel-slide-out-keyboard-tray/)
+- [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)

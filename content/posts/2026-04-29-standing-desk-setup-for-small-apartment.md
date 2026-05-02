@@ -3,10 +3,11 @@ title: "Standing Desk Setup for Small Apartments: Compact Ergonomic Guide"
 author: "Sarah Miller"
 date: 2026-04-29
 slug: standing-desk-setup-for-small-apartment
-description: "Maximize your limited space with the perfect standing desk setup for small apartments. Our expert guide covers compact ergonomic solutions, layout tips, and top gear picks for 2026."
+description: "Maximize your limited space with the perfect standing desk setup for small apartments. Our expert guide covers compact ergonomic solutions, layout tips."
 keywords: ["standing desk small apartment", "compact standing desk", "space-saving standing desk setup", "adjustable standing desk small spaces", "standing desk for studio apartment", "portable standing desk", "corner standing desk setup", "budget standing desk"]
 draft: false
 type: "informational"
+tags: ["standing", "desk", "setup", "small"]
 ---
 
 # Standing Desk Setup for Small Apartment: Budget Fixes That Actually Work

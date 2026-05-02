@@ -169,3 +169,10 @@ Most high-quality track-mounted trays are rated to hold between 10 to 20 pounds.
 
 ### Can I install a keyboard tray on a glass desk?
 You cannot screw a traditional track mount into a glass desk. If you have a tempered glass desk, you must purchase a clamp-on keyboard tray that features rubberized or padded C-clamps to grip the edge of the glass without shattering it.
+
+---
+
+## Related Reading
+
+- [Best Ergonomic Footrest for Tall Users in 2026](/posts/ergonomic-footrest-for-tall-users/)
+- [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)

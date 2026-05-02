@@ -159,3 +159,10 @@ It can, if positioned incorrectly. Because standard desk lamps emit light symmet
 
 ### Are monitor light bars bright enough for reading?
 Yes, most monitor light bars produce between 500 and 800 lux of illuminance at the desk surface, which comfortably exceeds the standard recommendation of 300 to 500 lux for reading and writing. However, the light is strictly confined to the area directly in front of the keyboard.
+
+---
+
+## Related Reading
+
+- [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)
+- [How to Choose a Home Office Desk Size: The Definitive Guide for Productivity and Comfort](/posts/how-to-choose-a-home-office-desk-size/)

@@ -196,3 +196,10 @@ Yes, but with caveats. Standing desks often have a thick metal crossbar running 
 
 ### How do I route a power strip through an under desk drawer?
 Instead of putting the power strip *inside* the drawer, mount the power strip to the underside of the desk behind the drawer using heavy-duty double-sided mounting tape. Then, run the individual device charging cables from the power strip, through the open back or rear grommet of the drawer, and connect them to the devices stored inside.
+
+---
+
+## Related Reading
+
+- [How to Hide Your Router and Cables in a Home Office: An Expert Guide](/posts/how-to-hide-router-and-cables-in-home-office/)
+- [Best Magnetic Under-Desk Mounts for Accessories in 2026](/posts/magnetic-under-desk-mount-for-accessories/)

@@ -1,6 +1,6 @@
 ---
 title: "How to Hide Your Router and Cables in a Home Office: An Expert Guide"
-description: "Tired of looking at the blinking lights and tangled mess of your home network? Learn professional strategies to seamlessly hide your router and cables without sacrificing Wi-Fi performance."
+description: "Tired of looking at the blinking lights and tangled mess of your home network? Learn professional strategies to seamlessly hide your router and cables."
 pubDate: "2026-04-30"
 author: "Sarah Miller"
 tags: ["cable management", "home office setup", "router placement", "desk organization", "DIY aesthetics"]

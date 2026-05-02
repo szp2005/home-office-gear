@@ -162,3 +162,10 @@ For focused, analytical work in the morning and early afternoon, a color tempera
 
 ### Can I just use a smart bulb instead of a dedicated desk lamp?
 While a smart bulb in a standard desk fixture can provide basic color shifting, dedicated smart desk lamps typically offer superior optical diffusers, zero-glare designs, and physical adjustability that standard A19 bulbs simply cannot replicate for strict task lighting.
+
+---
+
+## Related Reading
+
+- [Modular Workspace Setup for Small Apartments: Complete Guide](/posts/modular-workspace-setup-for-small-apartments/)
+- [Negative Tilt Keyboard Tray Benefits: Complete Ergonomic Guide](/posts/negative-tilt-keyboard-tray-benefits/)

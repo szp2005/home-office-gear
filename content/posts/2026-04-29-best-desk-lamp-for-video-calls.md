@@ -3,10 +3,11 @@ title: "Best Desk Lamp for Video Calls: Bias Lighting & Color Temperature Guide"
 author: "Sarah Miller"
 date: 2026-04-29
 slug: best-desk-lamp-for-video-calls
-description: "Look your best on every meeting. Our guide to the best desk lamps for video calls covers CRI, color temperature, and bias lighting techniques to eliminate shadows and eye strain."
+description: "Look your best on every meeting. Our guide to the best desk lamps for video calls covers CRI, color temperature, and bias lighting techniques to eliminate."
 keywords: ["best desk lamp for video calls", "desk lamp for zoom calls", "video conferencing lighting", "home office desk lamp", "desk lamp eye strain", "adjustable brightness desk lamp", "LED desk lamp for working", "warm white desk lamp"]
 draft: false
 type: "informational"
+tags: ["desk", "lamp", "video", "calls"]
 ---
 
 # Best Desk Lamp for Video Calls: A Practical Comparison Guide for Remote Workers

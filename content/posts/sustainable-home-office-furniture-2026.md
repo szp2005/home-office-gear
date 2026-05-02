@@ -102,3 +102,10 @@ Historically, no, because they were complex mixtures of glued foams, plastics, a
 
 ### What is the most eco-friendly material for a desk mat?
 Natural cork and recycled wool felt are currently the most sustainable materials for desk mats. Cork is harvested from the bark of living trees without cutting them down, and recycled felt utilizes textile waste. Both materials offer excellent mouse tracking and durability while avoiding the use of synthetic neoprene or PVC.
+
+---
+
+## Related Reading
+
+- [Best Acoustic Panels for Home Office Soundproofing in 2026](/posts/acoustic-panels-for-home-office-soundproofing/)
+- [Best AI-Integrated Desk: Height Adjustment Automatic Systems 2026](/posts/ai-integrated-desk-height-adjustment-automatic/)

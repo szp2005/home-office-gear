@@ -125,3 +125,10 @@ Wide-plank engineered or solid hardwood (such as white oak or walnut) with a mat
 
 ### How do I make a small office feel luxurious?
 In a small space, editing is critical. Limit furniture to a perfectly scaled desk, a premium chair, and one closed storage unit to hide all clutter. Paint the walls, trim, and ceiling in the same color (color drenching) to blur the boundaries of the room, and use a single, large piece of art rather than a gallery wall to make the space feel expansive rather than cramped.
+
+---
+
+## Related Reading
+
+- [Best 360 Swivel Slide-out Keyboard Tray in 2026](/posts/best-360-swivel-slide-out-keyboard-tray/)
+- [The Ultimate Guide to the Best Chair Mat for Hardwood Floors in Your Home Office](/posts/best-chair-mat-for-hardwood-floors-home-office/)

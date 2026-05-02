@@ -7,6 +7,7 @@ description: "Dont compromise on comfort just because of space. Discover the bes
 keywords: ["compact ergonomic office chair", "small space office chair", "apartment home office seating", "narrow office chair", "best chair for small desk", "ergonomic chair under 300 dollars", "space saving office furniture", "lumbar support small chair"]
 draft: false
 type: "informational"
+tags: ["ergonomic", "chair", "small", "home"]
 ---
 
 # Best Ergonomic Chair for Small Home Office: Compact Picks That Don't Eat Your Room
