@@ -97,6 +97,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gear.toolrouteai.com/posts/best-air-purifier-for-small-office-spaces/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gear.toolrouteai.com/posts/best-budget-ergonomic-chair-for-remote-work/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
@@ -265,8 +271,20 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://gear.toolrouteai.com/posts/how-to-reduce-glare-from-office-windows/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://gear.toolrouteai.com/posts/how-to-set-up-a-home-office-on-a-budget/</loc>
     <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/posts/how-to-soundproof-a-home-office-window/</loc>
+    <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -278,6 +296,12 @@
   </url>
   <url>
     <loc>https://gear.toolrouteai.com/posts/ideal-screen-height-for-preventing-neck-strain/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/posts/impact-of-natural-light-on-remote-focus/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -344,6 +368,12 @@
   </url>
   <url>
     <loc>https://gear.toolrouteai.com/posts/portable-monitor-for-dual-screen-laptop-setup/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://gear.toolrouteai.com/posts/pros-and-cons-of-saddle-chairs-ergonomics/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -505,6 +535,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://gear.toolrouteai.com/tags/workspace-lighting/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://gear.toolrouteai.com/tags/desk-setup/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -529,13 +565,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gear.toolrouteai.com/tags/work-from-home/</loc>
+    <loc>https://gear.toolrouteai.com/tags/office-gear/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://gear.toolrouteai.com/tags/office-gear/</loc>
+    <loc>https://gear.toolrouteai.com/tags/work-from-home/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
