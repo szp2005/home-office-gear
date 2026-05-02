@@ -10,6 +10,8 @@ slug: "best-footrest-for-under-desk-ergonomics"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # The 10 Best Footrests for Under Desk Ergonomics: Boost Comfort While Working
 
 > **Quick Answer:** The best under-desk footrests promote proper sitting posture, reduce lower back strain, and improve leg circulation during long work hours. Top ergonomic options typically feature adjustable heights and angles, with choices ranging from plush memory foam cushions to tilting platforms that encourage active foot movement. Investing in a supportive footrest is a simple yet highly effective way to boost your daily comfort and overall workplace ergonomics.
@@ -29,13 +31,13 @@ When you sit, your feet should be flat on a surface to allow your weight to be d
 
 ## Top Picks for 2026
 
-### 1. The Dynamic Rocker: ErgoFoot Adjustable Footrest
+### 1. [The Dynamic Rocker: ErgoFoot Adjustable Footrest](https://www.amazon.com/s?k=The%20Dynamic%20Rocker%3A%20ErgoFoot%20Adjustable%20Footrest&tag=gear.toolrouteai-20)
 This model is a favorite for those who can't stay still. Its curved base allows for a gentle rocking motion, keeping your ankles active.
 
-### 2. The Comfort King: Everlasting Comfort Memory Foam Pier
+### 2. [The Comfort King: Everlasting Comfort Memory Foam Pier](https://www.amazon.com/s?k=The%20Comfort%20King%3A%20Everlasting%20Comfort%20Memory%20Foam%20Pier&tag=gear.toolrouteai-20)
 Perfect for home workers who prefer to work in socks or barefoot. The high-density memory foam provides a plush yet supportive surface.
 
-### 3. The Heavy Duty: Kensington SoleMassage
+### 3. [The Heavy Duty: Kensington SoleMassage](https://www.amazon.com/s?k=The%20Heavy%20Duty%3A%20Kensington%20SoleMassage&tag=gear.toolrouteai-20)
 Featuring a textured surface that massages the soles of your feet, this adjustable-height model is built to last in a busy office environment.
 
 ## What to Look for When Buying

@@ -8,6 +8,8 @@ slug: "ergonomic-footrest-for-tall-users"
 type: "review"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Best Ergonomic Footrest for Tall Users in 2026
 
 > **Quick Answer:** The best ergonomic footrest for tall users must offer an extra-large surface area, heavy-duty stability, and most importantly, a low-profile design that doesn't push knees into the underside of the desk. Our top pick is the Humanscale FM300B, which provides dynamic, fluid movement and accommodates users over 6'2" without compromising valuable legroom. 
@@ -30,7 +32,7 @@ An ergonomic footrest acts as a bridge. By providing an angled surface, it allow
 
 Finding the right equipment requires navigating dimensions carefully. The following models have been selected specifically for their ability to support larger shoe sizes, heavier leg weights, and their low vertical footprints.
 
-### 1. Humanscale FM300B Foot Machine
+### 1. [Humanscale FM300B Foot Machine](https://www.amazon.com/s?k=Humanscale%20FM300B%20Foot%20Machine&tag=gear.toolrouteai-20)
 
 **Best for:** Dynamic movement and larger foot sizes
 **Price:** $130-$150
@@ -47,7 +49,7 @@ The Humanscale FM300B stands out for tall individuals primarily due to its fluid
 - Premium price point requires a larger investment
 - Considerably heavier than plastic alternatives, making it hard to kick out of the way
 
-### 2. Kensington SmartFit SoleMate Plus
+### 2. [Kensington SmartFit SoleMate Plus](https://www.amazon.com/s?k=Kensington%20SmartFit%20SoleMate%20Plus&tag=gear.toolrouteai-20)
 
 **Best for:** Highly customizable height and tilt angles
 **Price:** $55-$75
@@ -64,7 +66,7 @@ The Kensington SmartFit SoleMate Plus utilizes a proprietary color-coded system 
 - All-plastic build can feel less premium than metal or wood models
 - Foot pedal adjustment mechanism can be stiff and tricky to engage initially
 
-### 3. Mount-It! Ergonomic Footrest with Massage Rollers
+### 3. [Mount-It! Ergonomic Footrest with Massage Rollers](https://www.amazon.com/s?k=Mount-It%21%20Ergonomic%20Footrest%20with%20Massage%20Rollers&tag=gear.toolrouteai-20)
 
 **Best for:** Budget-conscious buyers needing free-floating angle adjustments
 **Price:** $25-$35
@@ -81,7 +83,7 @@ If you need functional workspace ergonomics without a high price tag, the Mount-
 - Lacks a locking mechanism if you prefer a static foot angle
 - Lightweight plastic base can slide on hard hardwood floors
 
-### 4. ErgoFoam Adjustable Desk Foot Rest
+### 4. [ErgoFoam Adjustable Desk Foot Rest](https://www.amazon.com/s?k=ErgoFoam%20Adjustable%20Desk%20Foot%20Rest&tag=gear.toolrouteai-20)
 
 **Best for:** Users who prefer soft support and work without shoes
 **Price:** $35-$45
