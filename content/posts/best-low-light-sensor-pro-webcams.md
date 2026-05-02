@@ -1,5 +1,5 @@
 ---
-image: "/og/best-low-light-sensor-pro-webcams.png"
+image: "/og/best-low-light-sensor-pro-webcams.webp"
 title: "Best Low-light Sensor Pro Webcams in 2026: Clear Video in Any Lighting"
 description: "Discover the best low-light sensor pro webcams to dramatically improve your video quality, even in dark rooms. Compare top picks for streamers and professionals."
 pubDate: "2026-05-01"

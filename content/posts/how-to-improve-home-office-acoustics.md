@@ -1,5 +1,5 @@
 ---
-image: "/og/how-to-improve-home-office-acoustics.png"
+image: "/og/how-to-improve-home-office-acoustics.webp"
 title: "How to Improve Home Office Acoustics: The Ultimate Guide for Remote Professionals"
 description: "Discover expert strategies to improve your home office acoustics. Learn how to eliminate echo, reduce background noise, and create a professional sound."
 pubDate: "2026-04-30"

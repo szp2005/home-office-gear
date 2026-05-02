@@ -1,5 +1,5 @@
 ---
-image: "/og/home-office-posture-checklist.png"
+image: "/og/home-office-posture-checklist.webp"
 title: "The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers"
 description: "Master your workspace setup with our comprehensive home office posture checklist. Learn how to prevent back pain, reduce eye strain, and boost."
 pubDate: 2026-04-29

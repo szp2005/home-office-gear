@@ -1,5 +1,5 @@
 ---
-image: "/og/multi-angle-streaming-cam-top-down-shots.png"
+image: "/og/multi-angle-streaming-cam-top-down-shots.webp"
 title: "Best Multi-Angle Streaming Cams for Top-Down Shots (2026)"
 description: "Discover the best multi-angle streaming cams for top-down shots in 2026. Compare top cameras for art, unboxings, and overhead desk streams."
 pubDate: "2026-05-01"

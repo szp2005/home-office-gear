@@ -1,5 +1,5 @@
 ---
-image: "/og/rgb-ambient-backlighting-for-office-aesthetic.png"
+image: "/og/rgb-ambient-backlighting-for-office-aesthetic.webp"
 title: "Best RGB Ambient Backlighting for Office Aesthetic in 2026"
 description: "Upgrade your workspace with the best RGB ambient backlighting for office aesthetic. Compare top light strips, bars, and panels to reduce eye strain and boost focus."
 pubDate: "2026-05-01"

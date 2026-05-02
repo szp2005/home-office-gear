@@ -1,5 +1,5 @@
 ---
-image: "/og/home-office-desk-depth-guide.png"
+image: "/og/home-office-desk-depth-guide.webp"
 title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
 author: "Sarah Miller"
 description: "Discover the ideal desk depth for your home office. Our comprehensive expert guide covers ergonomics, monitor placement, and practical tips for maximizing."

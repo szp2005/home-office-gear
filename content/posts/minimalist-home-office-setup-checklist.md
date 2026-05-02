@@ -1,5 +1,5 @@
 ---
-image: "/og/minimalist-home-office-setup-checklist.png"
+image: "/og/minimalist-home-office-setup-checklist.webp"
 title: "The Ultimate Minimalist Home Office Setup Checklist for Peak Productivity"
 description: "Transform your workspace with our comprehensive minimalist home office setup checklist. Discover expert tips for decluttering, essential gear, and maintaining focus."
 pubDate: "2026-04-30"

@@ -1,5 +1,5 @@
 ---
-image: "/og/asymmetric-monitor-light-bar-vs-desk-lamp.png"
+image: "/og/asymmetric-monitor-light-bar-vs-desk-lamp.webp"
 title: "Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?"
 description: "Struggling with screen glare and eye strain? Compare asymmetric monitor light bars and traditional desk lamps to find the perfect lighting for your workspace."
 pubDate: "2026-05-01"

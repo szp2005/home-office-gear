@@ -1,5 +1,5 @@
 ---
-image: "/og/best-budget-ergonomic-chair-for-remote-work.png"
+image: "/og/best-budget-ergonomic-chair-for-remote-work.webp"
 title: "Best Budget Ergonomic Chairs for Remote Work in 2026: Comfort Under $300"
 author: "Sarah Miller"
 date: 2026-04-29T14:20:00Z

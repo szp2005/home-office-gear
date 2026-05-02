@@ -1,5 +1,5 @@
 ---
-image: "/og/internal-spring-boom-arm-reviews-2026.png"
+image: "/og/internal-spring-boom-arm-reviews-2026.webp"
 title: "7 Best Internal Spring Boom Arms: 2026 Expert Reviews & Buying Guide"
 description: "Discover the best internal spring boom arms of 2026. Read our hands-on reviews of top desk mounts for podcasters, streamers, and vocalists to find your."
 pubDate: "2026-05-01"

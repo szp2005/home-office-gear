@@ -1,5 +1,5 @@
 ---
-image: "/og/best-under-desk-treadmill-for-home-office.png"
+image: "/og/best-under-desk-treadmill-for-home-office.webp"
 title: "The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office"
 description: "Discover the best under desk treadmills to seamlessly blend productivity and health. We review top models, essential features, and expert tips for WFH integration."
 pubDate: "2026-04-30"

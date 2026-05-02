@@ -1,5 +1,5 @@
 ---
-image: "/og/how-to-hide-router-and-cables-in-home-office.png"
+image: "/og/how-to-hide-router-and-cables-in-home-office.webp"
 title: "How to Hide Your Router and Cables in a Home Office: An Expert Guide"
 description: "Tired of looking at the blinking lights and tangled mess of your home network? Learn professional strategies to seamlessly hide your router and cables."
 pubDate: "2026-04-30"

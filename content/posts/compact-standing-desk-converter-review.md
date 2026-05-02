@@ -1,5 +1,5 @@
 ---
-image: "/og/compact-standing-desk-converter-review.png"
+image: "/og/compact-standing-desk-converter-review.webp"
 title: "Compact Standing Desk Converter Review 2026: Transform Your Small Workspace"
 author: "Sarah Miller"
 date: 2026-04-29T13:10:00Z

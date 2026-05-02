@@ -1,5 +1,5 @@
 ---
-image: "/og/mic-stand-with-hidden-cable-management.png"
+image: "/og/mic-stand-with-hidden-cable-management.webp"
 title: "Best Mic Stand with Hidden Cable Management for Clean Setups (2026)"
 description: "Upgrade your desk setup with the best mic stand with hidden cable management. Compare top boom arms for podcasters, streamers, and creators based on design."
 pubDate: "2026-05-01"

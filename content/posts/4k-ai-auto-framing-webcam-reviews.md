@@ -1,5 +1,5 @@
 ---
-image: "/og/4k-ai-auto-framing-webcam-reviews.png"
+image: "/og/4k-ai-auto-framing-webcam-reviews.webp"
 title: "Best 4K AI Auto-Framing Webcams for Remote Work in 2026"
 description: "Discover the top 4K AI auto-framing webcams of 2026. We review the best cameras with intelligent tracking to keep you centered during meetings and streams."
 pubDate: "2026-05-01"

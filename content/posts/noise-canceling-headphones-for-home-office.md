@@ -1,5 +1,5 @@
 ---
-image: "/og/noise-canceling-headphones-for-home-office.png"
+image: "/og/noise-canceling-headphones-for-home-office.webp"
 title: "Top Noise Canceling Headphones for Home Office Workers 2026"
 author: "Sarah Miller"
 date: 2026-04-29T14:10:00Z

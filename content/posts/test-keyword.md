@@ -1,5 +1,5 @@
 ---
-image: "/og/test-keyword.png"
+image: "/og/test-keyword.webp"
 title: "How to Test Keywords: 5-Step Guide to Validating Search Intent"
 description: "Learn how to systematically test keywords before committing your budget or time. Discover proven methods to validate search volume, intent, and conversion potential."
 pubDate: "2026-05-01"

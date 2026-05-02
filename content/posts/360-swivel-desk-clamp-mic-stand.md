@@ -1,5 +1,5 @@
 ---
-image: "/og/360-swivel-desk-clamp-mic-stand.png"
+image: "/og/360-swivel-desk-clamp-mic-stand.webp"
 title: "Best 360 Swivel Desk Clamp Mic Stands in 2026"
 description: "Discover the top-rated 360 swivel desk clamp mic stands for your setup. Compare our picks for stability, reach, and cable management to upgrade your audio."
 pubDate: "2026-05-01"

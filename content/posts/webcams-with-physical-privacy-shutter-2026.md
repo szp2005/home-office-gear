@@ -1,5 +1,5 @@
 ---
-image: "/og/webcams-with-physical-privacy-shutter-2026.png"
+image: "/og/webcams-with-physical-privacy-shutter-2026.webp"
 title: "Best Webcams with Physical Privacy Shutter in 2026"
 description: "Discover the top webcams with a physical privacy shutter for ultimate security in 2026. Compare 4K options, budget picks, and business-ready cameras."
 pubDate: "2026-05-01"

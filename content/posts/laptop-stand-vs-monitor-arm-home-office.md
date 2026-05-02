@@ -1,5 +1,5 @@
 ---
-image: "/og/laptop-stand-vs-monitor-arm-home-office.png"
+image: "/og/laptop-stand-vs-monitor-arm-home-office.webp"
 title: "Laptop Stand vs. Monitor Arm: The Ultimate Home Office Ergonomic Showdown"
 description: "Struggling to optimize your desk space? We dive deep into the pros, cons, and ideal use cases for laptop stands and monitor arms to help you build the."
 pubDate: "2026-04-30"
