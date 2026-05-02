@@ -131,3 +131,10 @@ Yes, but you must select a film specifically rated for Insulated Glass Units (IG
 
 ### Do anti-glare monitor screens reduce image quality?
 Matte anti-glare filters scatter light to prevent mirror-like reflections, which slightly reduces the perceived contrast and sharpness of the monitor. Text may appear very slightly "fuzzy" at the microscopic level compared to a glossy screen. However, in a bright sunlit office, the massive reduction in veiling glare results in a net positive for readability and eye comfort.
+
+---
+
+## Related Reading
+
+- [Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)
+- [Best Acoustic Panels for Home Office Soundproofing in 2026](/posts/acoustic-panels-for-home-office-soundproofing/)

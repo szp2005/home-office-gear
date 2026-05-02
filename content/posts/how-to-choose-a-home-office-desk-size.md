@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-choose-a-home-office-desk-size.png"
 title: "How to Choose a Home Office Desk Size: The Definitive Guide for Productivity and Comfort"
 description: "Struggling to find the right desk dimensions? Discover exactly how to choose a home office desk size that perfectly balances your workspace, equipment."
 pubDate: "2026-04-30"

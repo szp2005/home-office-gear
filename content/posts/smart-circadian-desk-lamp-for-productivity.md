@@ -1,4 +1,5 @@
 ---
+image: "/og/smart-circadian-desk-lamp-for-productivity.png"
 title: "Best Smart Circadian Desk Lamp for Productivity in 2026"
 description: "Find the best smart circadian desk lamp for productivity. Boost your focus, energy, and sleep quality with these top-rated tunable lighting solutions."
 pubDate: "2026-05-01"

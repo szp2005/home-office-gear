@@ -1,4 +1,5 @@
 ---
+image: "/og/best-document-scanner-for-home-office.png"
 title: "The Best Document Scanner for Home Office in 2026: An Expert Guide"
 description: "Discover the best document scanner for home office setups. We review top models, key features, and provide practical advice for digitizing your workspace."
 pubDate: "2026-04-30"

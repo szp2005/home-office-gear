@@ -1,4 +1,5 @@
 ---
+image: "/og/best-ergonomic-mouse-for-carpal-tunnel.png"
 title: "The Best Ergonomic Mice for Carpal Tunnel in 2026: Relieve Wrist Pain"
 author: "Sarah Miller"
 date: 2026-04-29T14:00:00Z

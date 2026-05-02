@@ -191,3 +191,10 @@ Yes, standard tension rods or cheap aluminum rods will likely bend or tear out o
 
 ### Can I layer curtains to get better soundproofing?
 Absolutely. Layering is a highly effective soundproofing technique. Hanging a heavy thermal blackout curtain over a thick cellular shade or a set of dense wooden blinds creates multiple layers of mass and multiple pockets of dead air, which forces sound waves to expend significantly more energy before reaching your room.
+
+---
+
+## Related Reading
+
+- [Best Acoustic Panels for Home Office Soundproofing in 2026](/posts/acoustic-panels-for-home-office-soundproofing/)
+- [How to Improve Home Office Acoustics: The Ultimate Guide for Remote Professionals](/posts/how-to-improve-home-office-acoustics/)

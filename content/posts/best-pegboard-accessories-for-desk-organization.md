@@ -1,4 +1,5 @@
 ---
+image: "/og/best-pegboard-accessories-for-desk-organization.png"
 title: "The Ultimate Guide: Best Pegboard Accessories for Desk Organization"
 description: "Discover the top pegboard accessories for desk organization. Learn how to maximize your vertical space, reduce clutter, and create a highly productive workspace."
 pubDate: "2026-04-30"

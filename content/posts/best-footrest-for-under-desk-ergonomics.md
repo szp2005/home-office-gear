@@ -1,4 +1,5 @@
 ---
+image: "/og/best-footrest-for-under-desk-ergonomics.png"
 title: "The 10 Best Footrests for Under Desk Ergonomics: Boost Comfort While Working"
 author: "Sarah Miller"
 date: 2026-04-29T13:00:00Z

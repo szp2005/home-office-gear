@@ -150,3 +150,10 @@ In most cases, no. Modern window inserts use a compression tube to press-fit int
 
 ### What is the most cost-effective way to soundproof a window?
 The most cost-effective method is replacing degraded weatherstripping and applying a fresh bead of acoustic caulk around the interior window frame. This seals air leaks (the primary path for noise) and usually costs less than $30 in materials.
+
+---
+
+## Related Reading
+
+- [Best Acoustic Panels for Home Office Soundproofing in 2026](/posts/acoustic-panels-for-home-office-soundproofing/)
+- [How to Improve Home Office Acoustics: The Ultimate Guide for Remote Professionals](/posts/how-to-improve-home-office-acoustics/)

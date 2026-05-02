@@ -169,3 +169,10 @@ The chin tuck (neck retraction) is the single most effective exercise for forwar
 
 ### Are standing desks better than sitting all day?
 Standing is generally better than sitting statically, but standing completely still for eight hours introduces its own set of problems, including foot fatigue and lower back compression. The optimal approach is transitioning between sitting, standing, and moving (using a balance board or walking pad) throughout the day.
+
+---
+
+## Related Reading
+
+- [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)
+- [How to Improve Home Office Acoustics: The Ultimate Guide for Remote Professionals](/posts/how-to-improve-home-office-acoustics/)

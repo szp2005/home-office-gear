@@ -1,8 +1,9 @@
 ---
+image: "/og/noise-canceling-headphones-for-home-office.png"
 title: "Top Noise Canceling Headphones for Home Office Workers 2026"
 author: "Sarah Miller"
 date: 2026-04-29T14:10:00Z
-description: "Need to block out domestic distractions? Here are the best noise canceling headphones for your home office in 2026."
+description: "Need to block out domestic distractions? Discover the best noise canceling headphones for your home office in 2026 to boost focus and productivity at work."
 categories: ["Home Office", "Audio"]
 tags: ["Noise Canceling", "Productivity", "Focus", "Headphones"]
 slug: "noise-canceling-headphones-for-home-office"

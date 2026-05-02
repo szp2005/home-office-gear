@@ -1,4 +1,5 @@
 ---
+image: "/og/standing-desk-setup-for-small-apartment.png"
 title: "Standing Desk Setup for Small Apartments: Compact Ergonomic Guide"
 author: "Sarah Miller"
 date: 2026-04-29

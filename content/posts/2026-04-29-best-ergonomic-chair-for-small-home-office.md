@@ -1,4 +1,5 @@
 ---
+image: "/og/best-ergonomic-chair-for-small-home-office.png"
 title: "Best Ergonomic Chair for Small Home Office (Compact 2026 Picks)"
 author: "Sarah Miller"
 date: 2026-04-29

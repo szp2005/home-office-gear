@@ -1,4 +1,5 @@
 ---
+image: "/og/best-desk-lamp-for-video-calls.png"
 title: "Best Desk Lamp for Video Calls: Bias Lighting & Color Temperature Guide"
 author: "Sarah Miller"
 date: 2026-04-29

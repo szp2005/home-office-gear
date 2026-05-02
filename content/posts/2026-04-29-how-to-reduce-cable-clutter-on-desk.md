@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-reduce-cable-clutter-on-desk.png"
 title: "How to Reduce Cable Clutter on Your Desk: 12 Pro Methods"
 author: "Sarah Miller"
 date: 2026-04-29

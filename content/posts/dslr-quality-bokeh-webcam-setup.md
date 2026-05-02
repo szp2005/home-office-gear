@@ -1,4 +1,5 @@
 ---
+image: "/og/dslr-quality-bokeh-webcam-setup.png"
 title: "DSLR-Quality Bokeh Webcam Setup: Complete 2026 Guide"
 description: "Build a professional DSLR-quality bokeh webcam setup to elevate your video calls and streams. Discover the exact cameras, lenses, and lighting."
 pubDate: "2026-05-01"

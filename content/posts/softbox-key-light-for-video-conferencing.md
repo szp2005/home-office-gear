@@ -1,4 +1,5 @@
 ---
+image: "/og/softbox-key-light-for-video-conferencing.png"
 title: "Best Softbox Key Light for Video Conferencing in 2026"
 description: "Upgrade your home office setup with a softbox key light for video conferencing. Discover top models that eliminate shadows and reduce eye strain in 2026."
 pubDate: "2026-05-01"

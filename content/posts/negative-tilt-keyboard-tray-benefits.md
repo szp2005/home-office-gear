@@ -1,4 +1,5 @@
 ---
+image: "/og/negative-tilt-keyboard-tray-benefits.png"
 title: "Negative Tilt Keyboard Tray Benefits: Complete Ergonomic Guide"
 description: "Discover the core negative tilt keyboard tray benefits for wrist health. Learn how this ergonomic adjustment reduces pain, improves posture, and prevents RSI."
 pubDate: "2026-05-01"

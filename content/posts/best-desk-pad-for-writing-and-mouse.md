@@ -191,3 +191,10 @@ For linoleum or synthetic leather, simply wipe the surface down with a microfibe
 
 ### Is felt a good material if I write heavily?
 No, pure felt is arguably the worst material for writing. It is highly textured, compressible, and provides zero structural support for single sheets of paper. Your pen will snag on the fibers instantly. If you love the look of felt, choose a hybrid pad like the DeltaHub, which uses felt only as a base beneath a firm writing surface.
+
+---
+
+## Related Reading
+
+- [Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)
+- [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)

@@ -1,4 +1,5 @@
 ---
+image: "/og/home-office-lighting-for-eye-strain.png"
 title: "The Ultimate Guide to Home Office Lighting for Eye Strain"
 author: "Sarah Miller"
 date: 2026-04-30

@@ -1,4 +1,5 @@
 ---
+image: "/og/best-label-maker-for-home-office-organization.png"
 title: "The Best Label Maker for Home Office Organization: A Complete Guide"
 author: "Sarah Miller"
 date: 2026-04-30

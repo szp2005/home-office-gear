@@ -1,4 +1,5 @@
 ---
+image: "/og/low-profile-mic-arm-for-minimalist-setup.png"
 title: "Best Low-Profile Mic Arm for Minimalist Setups in 2026"
 description: "Discover the best low-profile mic arm for your minimalist setup. We compare top models for clean aesthetics, sturdy build, and unobstructed camera views."
 pubDate: "2026-05-01"

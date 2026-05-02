@@ -1,4 +1,5 @@
 ---
+image: "/og/home-office-essentials-for-remote-workers.png"
 title: "The Ultimate Guide to Home Office Essentials for Remote Workers in 2026"
 author: "Sarah Miller"
 date: 2026-04-29T12:00:00Z

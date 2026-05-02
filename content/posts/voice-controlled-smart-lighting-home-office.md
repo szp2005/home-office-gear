@@ -1,4 +1,5 @@
 ---
+image: "/og/voice-controlled-smart-lighting-home-office.png"
 title: "Best Voice-Controlled Smart Lighting for Home Offices in 2026"
 description: "Discover the best voice-controlled smart lighting for home offices in 2026. Compare top smart bulbs for productivity, featuring Alexa, Siri, and Google support."
 pubDate: "2026-05-01"

@@ -1,4 +1,5 @@
 ---
+image: "/og/best-portable-monitor-for-work-from-home.png"
 title: "The Best Portable Monitor for Work From Home: Boost Productivity Anywhere"
 author: "Sarah Miller"
 date: 2026-04-29

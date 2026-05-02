@@ -158,3 +158,10 @@ Standard under-desk cable trays cannot be screwed into glass desks. For glass su
 
 ### How much weight can a standard under desk cable tray hold?
 A standard solid steel or metal wire cable tray properly screwed into a solid wood or MDF desktop can typically hold between 15 and 30 pounds. This is more than enough to support a heavy surge protector, a half-dozen large laptop power bricks, and thick bundles of display cables. Always verify the manufacturer's weight rating before installation.
+
+---
+
+## Related Reading
+
+- [Best Magnetic Cable Management Sleeves for Desk Legs in 2026](/posts/magnetic-cable-management-sleeves-for-desk-legs/)
+- [Best Triple Monitor Mounts for Home Office Setups in 2026](/posts/triple-monitor-mount-for-home-office-setup/)

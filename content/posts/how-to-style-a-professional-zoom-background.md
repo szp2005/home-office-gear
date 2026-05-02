@@ -126,3 +126,10 @@ Aim for a minimum of 3 to 5 feet of space between the back of your head and the 
 
 ### Are bookshelves good for video backgrounds?
 Yes, bookshelves are excellent for establishing authority and providing visual interest, provided they are cleanly styled. Do not overstuff them; leave about 30% empty space, arrange books neatly, and intersperse professional decor like plants or subtle artwork to break up the lines of text.
+
+---
+
+## Related Reading
+
+- [Best Desk Exercises for Remote Workers in 2026: Gear Review](/posts/best-desk-exercises-for-remote-workers-2026/)
+- [Best Studio Monitors for Clear Video Conferencing in 2026](/posts/best-studio-monitors-for-clear-video-conferencing/)

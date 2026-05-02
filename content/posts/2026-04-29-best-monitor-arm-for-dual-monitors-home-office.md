@@ -1,4 +1,5 @@
 ---
+image: "/og/best-monitor-arm-for-dual-monitors-home-office.png"
 title: "Best Monitor Arm for Dual Monitors in 2026 (Home Office)"
 author: "Sarah Miller"
 date: 2026-04-29

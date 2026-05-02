@@ -1,4 +1,5 @@
 ---
+image: "/og/best-keyboard-tray-for-home-office-desk.png"
 title: "Best Keyboard Trays for Home Office Desks in 2026: Save Your Wrists and Desk Space"
 author: "Sarah Miller"
 date: 2026-04-29T13:20:00Z

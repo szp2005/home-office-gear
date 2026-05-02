@@ -1,4 +1,5 @@
 ---
+image: "/og/best-surge-protector-for-home-office-setup.png"
 title: "The Best Surge Protector for Home Office Setup: Protect Your Tech"
 description: "Discover the best surge protector for your home office setup. Learn about joule ratings, clamping voltage, and how to safeguard your expensive work-from-home gear."
 pubDate: "2026-04-30"

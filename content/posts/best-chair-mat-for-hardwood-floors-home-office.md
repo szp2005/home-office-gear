@@ -1,4 +1,5 @@
 ---
+image: "/og/best-chair-mat-for-hardwood-floors-home-office.png"
 title: "The Ultimate Guide to the Best Chair Mat for Hardwood Floors in Your Home Office"
 description: "Protect your expensive hardwood floors and improve your home office ergonomics. Discover the best chair mats for hardwood floors, featuring expert."
 pubDate: "2026-04-30"

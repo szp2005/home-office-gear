@@ -1,4 +1,5 @@
 ---
+image: "/og/best-usb-c-hub-for-desk-setup.png"
 title: "The Ultimate Guide to the Best USB-C Hub for Your Desk Setup"
 description: "Transform your home office with our expert guide to finding the best USB-C hub for your desk setup."
 pubDate: "2026-04-30"

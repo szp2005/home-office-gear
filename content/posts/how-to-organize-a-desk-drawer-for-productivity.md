@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-organize-a-desk-drawer-for-productivity.png"
 title: "How to Organize a Desk Drawer for Productivity: The Ultimate Expert Guide"
 description: "Discover the psychological and practical strategies to transform your chaotic desk drawer into a streamlined productivity engine."
 pubDate: "2026-04-30"

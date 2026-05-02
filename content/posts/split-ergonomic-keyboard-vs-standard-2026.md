@@ -1,4 +1,5 @@
 ---
+image: "/og/split-ergonomic-keyboard-vs-standard-2026.png"
 title: "Split Ergonomic Keyboard vs Standard in 2026: Which Is Better?"
 description: "Comparing split ergonomic keyboards vs standard keyboards in 2026. Discover the health benefits, learning curve, and top models to find your perfect typing setup."
 pubDate: "2026-05-01"
