@@ -168,5 +168,7 @@ While a smart bulb in a standard desk fixture can provide basic color shifting, 
 
 ## Related Reading
 
+- [Manual vs Electric Standing Desk Longevity 2026: Which Lasts?](/posts/manual-vs-electric-standing-desk-longevity-2026/)
+
 - [Modular Workspace Setup for Small Apartments: Complete Guide](/posts/modular-workspace-setup-for-small-apartments/)
 - [Negative Tilt Keyboard Tray Benefits: Complete Ergonomic Guide](/posts/negative-tilt-keyboard-tray-benefits/)

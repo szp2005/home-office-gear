@@ -162,5 +162,7 @@ Yes, indirectly. Solid hardwood desktops (like walnut or oak) can weigh up to 80
 
 ## Related Reading
 
+- [Best Smart Circadian Desk Lamp for Productivity in 2026](/posts/smart-circadian-desk-lamp-for-productivity/)
+
 - [Best AI-Integrated Desk: Height Adjustment Automatic Systems 2026](/posts/ai-integrated-desk-height-adjustment-automatic/)
 - [How to Reduce Glare From Office Windows: 7 Effective Solutions](/posts/how-to-reduce-glare-from-office-windows/)

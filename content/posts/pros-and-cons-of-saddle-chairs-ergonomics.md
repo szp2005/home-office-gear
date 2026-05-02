@@ -141,5 +141,7 @@ A solid saddle chair has a continuous surface, which can cause uncomfortable pre
 
 ## Related Reading
 
+- [Best Ultra-Thin Mechanical Keyboards for Small Desks (2026)](/posts/ultra-thin-mechanical-keyboard-for-small-desks/)
+
 - [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)
 - [Benefits of Lumbar Support for Spinal Health Complete Guide](/posts/benefits-of-lumbar-support-for-spinal-health/)

@@ -125,5 +125,7 @@ Always prioritize ergonomic height. Do not lower your monitor into a poor postur
 
 ## Related Reading
 
+- [Split Ergonomic Keyboard vs Standard in 2026: Which Is Better?](/posts/split-ergonomic-keyboard-vs-standard-2026/)
+
 - [Benefits of Lumbar Support for Spinal Health Complete Guide](/posts/benefits-of-lumbar-support-for-spinal-health/)
 - [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)

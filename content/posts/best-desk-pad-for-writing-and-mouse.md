@@ -196,5 +196,7 @@ No, pure felt is arguably the worst material for writing. It is highly textured,
 
 ## Related Reading
 
+- [Best RGB Ambient Backlighting for Office Aesthetic in 2026](/posts/rgb-ambient-backlighting-for-office-aesthetic/)
+
 - [Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)
 - [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)

@@ -163,5 +163,7 @@ A standard solid steel or metal wire cable tray properly screwed into a solid wo
 
 ## Related Reading
 
+- [Sustainable Home Office Furniture 2026: Complete Eco-Friendly Guide](/posts/sustainable-home-office-furniture-2026/)
+
 - [Best Magnetic Cable Management Sleeves for Desk Legs in 2026](/posts/magnetic-cable-management-sleeves-for-desk-legs/)
 - [Best Triple Monitor Mounts for Home Office Setups in 2026](/posts/triple-monitor-mount-for-home-office-setup/)

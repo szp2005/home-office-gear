@@ -71,6 +71,8 @@ Absolutely. By moving your keyboard and mouse below the desk surface, you instan
 
 ## Related Reading
 
+- [The Best Ergonomic Mice for Carpal Tunnel in 2026: Relieve Wrist Pain](/posts/best-ergonomic-mouse-for-carpal-tunnel/)
+
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
 - [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)
 - [How to Choose a Home Office Desk Size: The Definitive Guide for Productivity and Comfort](/posts/how-to-choose-a-home-office-desk-size/)

@@ -165,5 +165,7 @@ Yes, most monitor light bars produce between 500 and 800 lux of illuminance at t
 
 ## Related Reading
 
+- [Best Desk Pad for Writing and Mouse Use in 2026](/posts/best-desk-pad-for-writing-and-mouse/)
+
 - [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)
 - [How to Choose a Home Office Desk Size: The Definitive Guide for Productivity and Comfort](/posts/how-to-choose-a-home-office-desk-size/)

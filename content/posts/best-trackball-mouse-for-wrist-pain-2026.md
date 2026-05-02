@@ -170,5 +170,7 @@ Trackballs are excellent for slow-paced strategy games, RPGs, and simulators due
 
 ## Related Reading
 
+- [Best Air Purifiers for Small Office Spaces in 2026](/posts/best-air-purifier-for-small-office-spaces/)
+
 - [Best Vertical Mouse for Carpal Tunnel in 2026: Ergonomic Picks](/posts/vertical-mouse-for-carpal-tunnel-2026/)
 - [The Ultimate Guide to the Best Chair Mat for Hardwood Floors in Your Home Office](/posts/best-chair-mat-for-hardwood-floors-home-office/)
