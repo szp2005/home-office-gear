@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Using a felt desk pad protects your work surface from scratches, significantly dampens keyboard typing noise, adds a layer of ergonomic warmth during cold months, and elevates the overall visual aesthetic of your workspace. However, genuine wool felt provides superior durability and comfort compared to synthetic polyester alternatives.
 
-Building a productive home office requires paying attention to the subtle details that affect your daily comfort. While monitors, ergonomic chairs, and mechanical keyboards usually receive the bulk of the research budget, the surface you interact with for eight hours a day is often an afterthought. 
+Building a productive [home office](/posts/how-to-improve-home-office-acoustics/) requires paying attention to the subtle details that affect your daily comfort. While monitors, ergonomic chairs, and [mechanical keyboards](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) usually receive the bulk of the research budget, the surface you interact with for eight hours a day is often an afterthought. 
 
 If you have spent any time looking at high-end workspace setups online, you have likely noticed a recurring theme: the textured, matte look of a felt desk mat sitting beneath the keyboard and mouse. The shift away from glossy, rigid plastics and cheap rubber toward natural textiles is not just a visual trend.
 
@@ -49,7 +49,7 @@ Conversely, the felt also protects your peripherals. The feet of your keyboard a
 
 Functionality aside, the visual impact of felt cannot be understated. Modern workspaces often consist of harsh lines, cold metals, and smooth plastics. The addition of a felt desk pad introduces much-needed organic texture into the environment. 
 
-The matte finish of felt does not reflect monitor glare or overhead lighting, reducing visual fatigue. Its textured appearance breaks up the monotony of a large, flat desk surface, creating a defined "active zone" for your work. This visual framing helps organize the workspace, implicitly telling your brain that the area within the bounds of the pad is meant for focus and productivity.
+The matte finish of felt does not reflect monitor glare or overhead lighting, reducing visual fatigue. Its textured appearance breaks up the monotony of a large, flat desk surface, creating a defined "active zone" for your work. This visual framing helps organize the workspace, implicitly telling your brain that the area within the bounds of the pad is meant for focus and [productivity](/posts/how-to-choose-a-home-office-desk-size/).
 
 Available in various shades—most commonly light grey, charcoal, and black—felt coordinates effortlessly with almost any interior design scheme, from minimalist Scandinavian setups to dark, moody industrial aesthetics.
 

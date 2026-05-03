@@ -16,7 +16,7 @@ tags: ["monitor", "arm", "dual", "monitors"]
 ---
 
 **TL;DR**
-- Dual monitor arms reclaim 40–50% of desk surface compared to stands, and most pay for themselves in productivity and posture improvements within months.
+- Dual monitor arms reclaim 40–50% of desk surface compared to stands, and most pay for themselves in [productivity](/posts/how-to-choose-a-home-office-desk-size/) and posture improvements within months.
 - Verify VESA compatibility (75×75 mm or 100×100 mm) and per-monitor weight capacity *before* you buy — these two specs eliminate 80% of buyer regret.
 - The Ergotron LX Dual is the clearest overall pick; HUANUO wins mid-range on value; Monoprice delivers if you're under $100.
 
@@ -36,7 +36,7 @@ tags: ["monitor", "arm", "dual", "monitors"]
 
 ## Why Dual Monitor Arms Matter for Your Home Office {#why-dual-monitor-arms-matter}
 
-If you're running two monitors on standard stands, roughly one-third of your desk is occupied by bases you never interact with. Swap those stands for a single dual monitor arm, and that space comes back — available for notebooks, a drawing tablet, a keyboard tray, or just clear working surface.
+If you're running two monitors on standard stands, roughly one-third of your desk is occupied by bases you never interact with. Swap those stands for a single dual monitor arm, and that space comes back — available for notebooks, a drawing tablet, a [keyboard tray](/posts/best-keyboard-tray-for-home-office-desk/), or just clear working surface.
 
 **Monitor arms vs. stands vs. wall mounts — a straight comparison:**
 
@@ -213,7 +213,7 @@ You need to check if your monitors have VESA mounting holes, which are the stand
 
 ### Are gas spring dual monitor arms better than mechanical ones?
 
-Gas spring arms offer smoother and more effortless adjustments compared to mechanical spring or pole-mounted alternatives. They allow you to easily reposition your screens on the fly for optimal ergonomics, though they tend to be slightly more expensive.
+Gas spring arms offer smoother and more effortless adjustments compared to mechanical spring or pole-mounted alternatives. They allow you to easily reposition your screens on the fly for optimal [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/), though they tend to be slightly more expensive.
 
 ## Related Reading
 

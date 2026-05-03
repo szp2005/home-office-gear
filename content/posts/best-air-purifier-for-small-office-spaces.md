@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Whether you are working from a converted spare bedroom or a leased suite in a commercial building, indoor air quality directly impacts cognitive function, energy levels, and overall health. Small office spaces present unique challenges: they often suffer from poor ventilation, accumulate dust from electronics, and harbor volatile organic compounds (VOCs) off-gassing from office furniture and printers. 
 
-A dedicated air purifier addresses these invisible productivity killers. However, you cannot simply purchase the largest unit available; small spaces require specific form factors, minimal noise output during calls, and targeted filtration capabilities. Balancing Clean Air Delivery Rate (CADR) with acoustic profile is essential when the device sits only a few feet from your microphone.
+A dedicated air purifier addresses these invisible [productivity](/posts/how-to-choose-a-home-office-desk-size/) killers. However, you cannot simply purchase the largest unit available; [small spaces](/posts/wall-mounted-fold-down-desk-for-laptop/) require specific form factors, minimal noise output during calls, and targeted filtration capabilities. Balancing Clean Air Delivery Rate (CADR) with acoustic profile is essential when the device sits only a few feet from your microphone.
 
 This comprehensive guide evaluates the top models on the market, focusing on how they perform in confined professional environments. We look past marketing claims to examine filter replacement costs, real-world noise levels, and footprint efficiency.
 
@@ -129,7 +129,7 @@ Look for units that operate under 30 decibels (dB) on their lowest or medium set
 
 CADR measures an air purifier's effectiveness at removing smoke, dust, and pollen from the air, expressed in cubic feet per minute (CFM). The Association of Home Appliance Manufacturers (AHAM) developed this standard.
 
-For a small office (100-150 square feet), a CADR of 100 is generally sufficient to achieve four to five air changes per hour (ACH). However, purchasing a unit with a higher CADR (e.g., 200+) allows you to run the machine on a lower, quieter fan speed while still achieving the necessary air turnover. Over-sizing your air purifier is a highly recommended strategy for workspace acoustics.
+For a small office (100-150 square feet), a CADR of 100 is generally sufficient to achieve four to five air changes per hour (ACH). However, purchasing a unit with a higher CADR (e.g., 200+) allows you to run the machine on a lower, quieter fan speed while still achieving the necessary air turnover. Over-sizing your air purifier is a highly recommended strategy for workspace [acoustics](/posts/how-to-improve-home-office-acoustics/).
 
 ### Odor and VOC Management
 

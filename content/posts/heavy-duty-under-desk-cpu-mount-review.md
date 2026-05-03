@@ -56,7 +56,7 @@ What sets this mount apart is its massive adjustability range. It can accommodat
 **Price:** $35-$50
 **Rating:** 4.5/5
 
-VIVO has built a reputation for delivering reliable ergonomic office gear at accessible price points, and their heavy duty PC mount is no exception. Supporting up to 60 pounds, this mount uses a simpler clamping mechanism than the Mount-It! but achieves excellent stability through its wide mounting plate. The open-frame design ensures that your PC's airflow is completely unobstructed, which is crucial for high-performance builds.
+VIVO has built a reputation for delivering reliable ergonomic [office gear](/posts/best-chair-mat-for-hardwood-floors-home-office/) at accessible price points, and their heavy duty PC mount is no exception. Supporting up to 60 pounds, this mount uses a simpler clamping mechanism than the Mount-It! but achieves excellent stability through its wide mounting plate. The open-frame design ensures that your PC's airflow is completely unobstructed, which is crucial for high-performance builds.
 
 This mount offers a 135-degree swivel rather than a full 360 degrees. While this is slightly less flexible, it is usually more than enough to reach the back of the motherboard to plug in peripherals. The height and width adjustments are handled via straightforward locking bolts. It fits cases up to 8.8 inches wide and 20.5 inches tall, making it a perfect match for the vast majority of popular mid-tower cases on the market.
 
@@ -109,11 +109,11 @@ If you frequently swap out USB devices, connect different monitors, or tinker wi
 
 ### 5. [Ergotron Neo-Flex Underdesk Computer Mount](https://www.amazon.com/s?k=Ergotron%20Neo-Flex%20Underdesk%20Computer%20Mount&tag=gear.toolrouteai-20)
 
-**Best for:** High-end standing desk users seeking maximum security
+**Best for:** High-end [standing desk](/posts/compact-standing-desk-converter-review/) users seeking maximum security
 **Price:** $90-$120
 **Rating:** 4.6/5
 
-Ergotron is a premium name in office ergonomics, and the Neo-Flex mount is designed for users who want zero compromises on security. Supporting up to 50 pounds, this mount utilizes a robust, fully enclosed steel loop system that guarantees the PC cannot accidentally slip out, regardless of how vigorously the desk is bumped or moved during sit-stand transitions.
+Ergotron is a premium name in office [ergonomics](/posts/how-to-choose-a-home-office-desk-size/), and the Neo-Flex mount is designed for users who want zero compromises on security. Supporting up to 50 pounds, this mount utilizes a robust, fully enclosed steel loop system that guarantees the PC cannot accidentally slip out, regardless of how vigorously the desk is bumped or moved during sit-stand transitions.
 
 The mount includes a specialized security fastener system to deter theft in open office environments. It fits cases up to 8.5 inches wide and 18 inches tall. While it lacks a sliding track, it does feature a highly stable 360-degree swivel. The finish is a premium powder coat that resists chipping, and the hardware included is vastly superior to the standard wood screws found in cheaper kits.
 

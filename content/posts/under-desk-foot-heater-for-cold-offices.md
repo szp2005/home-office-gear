@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The most effective and safest under desk foot heater for cold offices is a low-wattage heated footrest or a compact flat-panel radiant heater. These models consume under 200 watts, preventing office circuit overloads, while delivering targeted warmth directly to your feet without noisy fans or exposed heating elements.
 
-Working in a chronically cold office is more than just uncomfortable; it represents a measurable drain on workplace productivity and cognitive focus. When ambient temperatures drop below a comfortable threshold, the human body naturally restricts blood flow to the extremities to preserve core heat. This physiological response leaves your feet bearing the brunt of the chill, leading to distraction, stiffness, and a pervasive sense of discomfort that extra sweaters cannot resolve.
+Working in a chronically cold office is more than just uncomfortable; it represents a measurable drain on workplace [productivity](/posts/how-to-choose-a-home-office-desk-size/) and cognitive focus. When ambient temperatures drop below a comfortable threshold, the human body naturally restricts blood flow to the extremities to preserve core heat. This physiological response leaves your feet bearing the brunt of the chill, leading to distraction, stiffness, and a pervasive sense of discomfort that extra sweaters cannot resolve.
 
 For decades, the default solution was the traditional ceramic space heater. However, as modern offices enforce stricter safety protocols and energy regulations, these high-wattage, fan-driven appliances are increasingly banned by facilities management. They trip circuit breakers, create fire hazards, and generate background noise that disrupts meetings. 
 
@@ -39,7 +39,7 @@ Most standard space heaters rely on internal fans to distribute heat. The consta
 To solve the problems associated with traditional space heaters, manufacturers have developed localized, low-wattage alternatives engineered specifically for under-desk use. These devices generally fall into three distinct categories, each utilizing conduction or radiant heating rather than forced convection.
 
 ### Ergonomic Heated Footrests
-Heated footrests are dual-purpose devices that address both thermal comfort and workstation ergonomics. Structurally, they resemble standard adjustable footrests, featuring a sloped platform that elevates the feet to reduce pressure on the lower back and promote better circulation. 
+Heated footrests are dual-purpose devices that address both thermal comfort and workstation [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/). Structurally, they resemble standard adjustable footrests, featuring a sloped platform that elevates the feet to reduce pressure on the lower back and promote better circulation. 
 
 The heating element is integrated directly into the platform surface. Because the heat is transferred via direct physical contact (conduction) through your shoes or socks, these units are incredibly efficient, typically drawing only 30 to 100 watts. Many models feature adjustable surface temperatures ranging from 100°F to 140°F (38°C to 60°C). This is the optimal category for professionals who spend eight or more hours seated at a conventional desk.
 
@@ -51,7 +51,7 @@ These panels are usually magnetic or come with adhesive mounting brackets, allow
 ### Heated Floor Mats
 Constructed from heavy-duty, fire-resistant rubber or PVC, heated floor mats are essentially industrial-grade heating pads designed to be stepped on. The internal wiring generates consistent, low-level heat across the entire surface area. 
 
-Drawing between 40 and 90 watts, heated mats are entirely silent and impervious to spilled liquids. They are particularly effective in environments with uninsulated concrete or tile floors, such as warehouse offices, reception desks, or basement home offices. However, because they lie flat, they do not offer the ergonomic posture benefits of an angled footrest.
+Drawing between 40 and 90 watts, heated mats are entirely silent and impervious to spilled liquids. They are particularly effective in environments with uninsulated concrete or tile floors, such as warehouse offices, reception desks, or basement home offices. However, because they lie flat, they do not offer the ergonomic [posture](/posts/home-office-posture-checklist/) benefits of an angled footrest.
 
 ## Key Features to Look For
 

@@ -37,9 +37,9 @@ Despite the anatomical drawbacks, standard keyboards remain the dominant input d
 
 The primary advantage of the standard keyboard is zero friction. There is no learning curve. Whether you are using a $10 membrane keyboard or a premium $200 custom mechanical board, the staggered layout of the keys remains identical. You can sit down at any desk in the world and immediately type at your maximum speed. 
 
-Furthermore, standard keyboards are inherently more portable. A single, flat piece of hardware is easy to slide into a backpack, making it the default choice for hybrid workers who transition between the home office and corporate desk. 
+Furthermore, standard keyboards are inherently more portable. A single, flat piece of hardware is easy to slide into a backpack, making it the default choice for hybrid workers who transition between the [home office](/posts/how-to-improve-home-office-acoustics/) and corporate desk. 
 
-However, the hidden cost of this convenience is physical wear and tear. For users who type extensively, the standard keyboard acts as a low-level stressor on the upper body. What you save in upfront cost and learning time, you risk paying for later in physical therapy or lost productivity due to chronic pain.
+However, the hidden cost of this convenience is physical wear and tear. For users who type extensively, the standard keyboard acts as a low-level stressor on the upper body. What you save in upfront cost and learning time, you risk paying for later in physical therapy or lost [productivity](/posts/how-to-choose-a-home-office-desk-size/) due to chronic pain.
 
 ## Split Ergonomic Keyboards: The Modern Standard for Health
 
@@ -49,7 +49,7 @@ In 2026, the split keyboard market has matured significantly. We now see widespr
 
 Another defining feature of modern split keyboards is the thumb cluster. On a standard keyboard, your strongest digit—the thumb—is relegated to a single massive spacebar. Split keyboards typically feature 3 to 6 dedicated thumb keys on each half, allowing you to offload high-frequency actions like Enter, Backspace, Shift, and Layer toggling to your thumbs, rather than forcing your weaker pinky fingers to stretch.
 
-The main drawback of the split ergonomic keyboard is the steep learning curve. Transitioning from a row-staggered unified board to a columnar-staggered split board requires retraining decades of muscle memory. Most users experience a 50% drop in typing speed during the first week, followed by a gradual recovery over two to four weeks. 
+The main drawback of the split ergonomic keyboard is the steep learning curve. Transitioning from a row-staggered unified board to a columnar-staggered split board requires retraining decades of muscle memory. Most users experience a 50% drop in [typing speed](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) during the first week, followed by a gradual recovery over two to four weeks. 
 
 ## Top Split Ergonomic Keyboards in 2026
 

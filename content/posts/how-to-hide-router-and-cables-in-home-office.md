@@ -30,7 +30,7 @@ Before we start building enclosures or strapping things under desks, we must und
 Never, under any circumstances, place your router inside a metal box, a solid metal filing cabinet, or behind heavy metallic objects (like a large mirror or a PC tower). Metal is the ultimate enemy of Wi-Fi; it reflects and absorbs radio waves, effectively creating a dead zone. Wood, plastic, glass, and fabric are generally safe materials for hiding routers.
 
 ### 2. [Respect the Heat](https://www.amazon.com/s?k=Respect%20the%20Heat&tag=gear.toolrouteai-20)
-Routers are essentially small computers without active cooling fans. They generate a significant amount of heat, especially when streaming 4K video or handling large file downloads. If you place a router in a tightly sealed box or a stuffed drawer, it will inevitably overheat. This leads to thermal throttling (slowing down your internet), random reboots, and a drastically shortened lifespan for the device. Any hiding spot must have adequate passive ventilation.
+Routers are essentially small computers without active cooling fans. They generate a significant amount of heat, especially when [streaming](/posts/how-to-set-up-green-screen-background/) 4K video or handling large file downloads. If you place a router in a tightly sealed box or a stuffed drawer, it will inevitably overheat. This leads to thermal throttling (slowing down your internet), random reboots, and a drastically shortened lifespan for the device. Any hiding spot must have adequate passive ventilation.
 
 ### 3. [Elevation is Key](https://www.amazon.com/s?k=Elevation%20is%20Key&tag=gear.toolrouteai-20)
 Wi-Fi signals propagate outward and downward. If you hide your router on the floor or behind a low bookshelf, the signal has to punch through dense furniture and human bodies before it reaches your laptop. The ideal placement for a router is at least waist-high, preferably higher. 
@@ -73,7 +73,7 @@ If you want the router completely out of sight and off your shelves, mounting it
 *Pro Tip: Ensure the router's ventilation grilles are not blocked by the desk surface. If the grilles are on top, leave a small air gap between the router and the desk.*
 
 ### Strategy 4: The Magazine File Hack
-For a modern, minimalist desk setup, an opaque, open-top magazine file holder is an incredibly cheap and effective camouflage.
+For a modern, minimalist [desk setup](/posts/how-to-choose-a-home-office-desk-size/), an opaque, open-top magazine file holder is an incredibly cheap and effective camouflage.
 
 **How to do it:**
 1. Buy an opaque plastic or wooden magazine file (IKEA has excellent, cheap options).
@@ -170,6 +170,6 @@ Avoid copying a complex system before you understand the problem you are solving
 ## Related Reading
 
 - [The Best Document Scanner for Home Office in 2026: An Expert Guide](/posts/best-document-scanner-for-home-office/)
-- [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)
+- [The Ultimate Home Office Posture Checklist: Expert [Ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) for Remote Workers](/posts/home-office-posture-checklist/)
 - [Why Dual Monitor Arms Matter for Home Office Setup](/posts/best-monitor-arm-for-dual-monitors-home-office/)
 - [The Best Label Maker for Home Office Organization: A Complete Guide](/posts/best-label-maker-for-home-office-organization/)

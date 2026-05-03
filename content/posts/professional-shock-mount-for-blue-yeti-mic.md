@@ -42,11 +42,11 @@ The Radius III is Blue's official, first-party shock mount designed explicitly f
 
 **Key Features:**
 *   **Custom Design:** Precision-machined to match the exact aesthetic and threading of the Yeti series.
-*   **Streamlined Profile:** Unlike the bulky Radius II, the Radius III is lighter and less obtrusive on camera, making it ideal for Twitch streamers and video podcasters.
+*   **Streamlined Profile:** Unlike the bulky Radius II, the Radius III is lighter and less obtrusive on camera, making it ideal for Twitch streamers and [video](/posts/best-desk-lamp-for-video-calls/) podcasters.
 *   **Vintage Suspension:** Utilizes a classic multi-point elastic suspension system that isolates the mic from ambient vibration with high efficiency.
 *   **Standard Threading:** Fits any standard microphone boom arm with a standard thread.
 
-The primary advantage of the Radius III is guaranteed compatibility. You will never have to worry about cross-threading or weight-load failures. The isolation is superb, entirely deadening the heavy thuds of mechanical keyboards and desk impacts. 
+The primary advantage of the Radius III is guaranteed compatibility. You will never have to worry about cross-threading or weight-load failures. The isolation is superb, entirely deadening the heavy thuds of [mechanical keyboards](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) and desk impacts. 
 
 ### 2. [Knox Gear Shock Mount for Blue Yeti](https://www.amazon.com/s?k=Knox%20Gear%20Shock%20Mount%20for%20Blue%20Yeti&tag=gear.toolrouteai-20)
 For those looking for professional-grade isolation without the premium brand markup, the Knox Gear shock mount is the most robust third-party alternative available. 
@@ -63,7 +63,7 @@ The Knox Gear mount is a workhorse. While it may not possess the sleek, custom-m
 Auphonix was one of the first companies to tackle the Blue Yeti mounting problem, and their Pro model remains a reliable, lightweight alternative.
 
 **Key Features:**
-*   **Aluminum Frame:** Significantly lighter than steel alternatives, which reduces the overall strain on budget-friendly boom arms.
+*   **Aluminum Frame:** Significantly lighter than steel alternatives, which reduces the overall strain on budget-friendly [boom arms](/posts/internal-spring-boom-arm-reviews-2026/).
 *   **Compact Footprint:** Designed to take up as little visual space as possible, keeping your face clear for camera work.
 *   **Included Adapter:** Comes with a precisely machined adapter specifically tested for the Yeti's notoriously difficult mounting hole.
 

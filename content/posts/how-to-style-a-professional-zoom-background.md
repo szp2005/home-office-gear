@@ -21,7 +21,7 @@ This guide breaks down the exact steps to transform any room into a studio-grade
 
 ## Step 1: Establish Depth and Positioning
 
-The most common mistake in home office setup is positioning the desk flush against a wall, forcing the webcam to capture a flat, uninspiring surface directly behind the subject. This creates a claustrophobic visual affectionately known in broadcasting as the "mugshot effect."
+The most common mistake in [home office](/posts/how-to-choose-a-home-office-desk-size/) setup is positioning the desk flush against a wall, forcing the webcam to capture a flat, uninspiring surface directly behind the subject. This creates a claustrophobic visual affectionately known in broadcasting as the "mugshot effect."
 
 ### Avoid the Flat Wall Setup
 Whenever square footage allows, pull your desk into the center of the room so that you are facing the wall, leaving the open room behind you. Alternatively, position your desk at a 45-degree angle to the corners of the room. You want a minimum of 36 to 60 inches of space between the back of your chair and the nearest background element. 
@@ -43,7 +43,7 @@ Invest in an LED key light with adjustable color temperature. Set the temperatur
 ### Illuminating the Background
 A common oversight is lighting the subject but ignoring the background, resulting in a bright face floating in a dark void. To anchor yourself in the space, introduce background lighting. 
 
-Use a low-wattage accent light, such as an LED strip behind a monitor, a small desk lamp on a background credenza, or a floor can-light pointed up at a corner (uplighting). This separates you from the back wall and adds a warm, dimensional glow to the room. Ensure background lights are shielded from the camera lens to avoid lens flare and are significantly dimmer than your key light.
+Use a low-wattage accent light, such as an LED strip behind a [monitor](/posts/best-portable-monitor-for-work-from-home/), a small desk lamp on a background credenza, or a floor can-light pointed up at a corner (uplighting). This separates you from the back wall and adds a warm, dimensional glow to the room. Ensure background lights are shielded from the camera lens to avoid lens flare and are significantly dimmer than your key light.
 
 ## Step 3: Curate Your Decor Elements
 
@@ -81,7 +81,7 @@ You can construct a beautiful background, but if your camera is capturing it fro
 ### The Imperative of Eye-Level Alignment
 Your webcam must be exactly at eye level. If the camera is too low (the classic laptop-on-a-desk angle), it points upward, capturing the ceiling, the ceiling fan, and your nostrils. This angle makes you look looming and dominant, while distorting the room's geometry. If the camera is too high, it captures the floor and makes you look diminutive. 
 
-Use a laptop stand, monitor arm, or even a stack of sturdy books to elevate the camera lens until it aligns perfectly with your gaze.
+Use a [laptop stand](/posts/laptop-stand-vs-monitor-arm-home-office/), monitor arm, or even a stack of sturdy books to elevate the camera lens until it aligns perfectly with your gaze.
 
 ### Managing Headroom and Framing
 Follow the broadcast rule of thirds. Your eyes should sit along the top third line of the frame. There should be a small gap—about two to three inches of visual space—between the top of your head and the top of the video frame. 

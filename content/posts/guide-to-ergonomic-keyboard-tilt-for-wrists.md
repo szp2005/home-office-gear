@@ -15,7 +15,7 @@ type: "informational"
 
 Most office workers spend over 2,000 hours a year typing, yet few analyze the exact geometric relationship between their hands and their hardware. For decades, standard keyboards have been manufactured with small retractable feet on the back edge. We intuitively flip them up, assuming that angling the keys toward us makes the legends easier to read and the keys easier to strike. However, from a biomechanical perspective, this convention is actively harmful. 
 
-Addressing wrist pain, numbness, and repetitive strain injuries (RSI) requires a fundamental misunderstanding of desk ergonomics. It is not just about buying an expensive chair or standing at your desk; it is about the micro-adjustments at the point of contact between human and machine. Understanding the physics of keyboard tilt is the most critical intervention you can make for your upper extremity health.
+Addressing wrist pain, numbness, and repetitive strain injuries (RSI) requires a fundamental misunderstanding of desk [ergonomics](/posts/how-to-choose-a-home-office-desk-size/). It is not just about buying an expensive chair or standing at your desk; it is about the micro-adjustments at the point of contact between human and machine. Understanding the physics of keyboard tilt is the most critical intervention you can make for your upper extremity health.
 
 This comprehensive guide to ergonomic keyboard tilt for wrists will break down the anatomical realities of typing, compare different tilt angles, and provide practical, dimensionally accurate steps to configure a workstation that supports long-term physical sustainability.
 
@@ -67,7 +67,7 @@ Place your hands flat on your desk, palms down. You will likely feel a slight te
 
 "Tenting" is the ergonomic solution to pronation. It involves elevating the inner edges of a split keyboard (the sides where the index fingers rest) so the two halves form a tent shape. This allows the hands to rest in a more vertical, handshake-like posture. 
 
-Combining negative tilt with tenting creates a truly neutral, three-dimensional workspace. Tenting angles typically range from 5 degrees for mild relief to up to 90 degrees for severe RSI recovery. A tenting angle of 10 to 15 degrees is widely considered the sweet spot for combining comfort with typing speed.
+Combining negative tilt with tenting creates a truly neutral, three-dimensional workspace. Tenting angles typically range from 5 degrees for mild relief to up to 90 degrees for severe RSI recovery. A tenting angle of 10 to 15 degrees is widely considered the sweet spot for combining comfort with [typing speed](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/).
 
 ## How to Set Up the Optimal Keyboard Tilt for Your Wrists
 
@@ -118,7 +118,7 @@ If an under-desk tray or a premium split keyboard is out of your budget, dedicat
 
 After adjusting your keyboard to a negative tilt and neutral posture, do not expect instantaneous relief if you have been dealing with chronic pain. Tendons and nerve tissues require time to heal from prolonged inflammation. 
 
-However, you should notice an immediate reduction in typing fatigue. Over a two-week adjustment period, monitor for the following indicators of success:
+However, you should notice an immediate reduction in typing fatigue. Over a two-week adjustment period, [monitor](/posts/best-portable-monitor-for-work-from-home/) for the following indicators of success:
 - A reduction in the "burning" sensation in the forearms at the end of the workday.
 - Decreased morning stiffness in the fingers.
 - The elimination of tingling in the thumb, index, and middle fingers (the path of the median nerve).

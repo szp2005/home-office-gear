@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# Ortho-Linear Keyboards for Typing Speed: A Complete Guide to Ergonomic Efficiency
+# Ortho-Linear Keyboards for Typing Speed: A Complete Guide to [Ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) Efficiency
 
 > **Quick Answer:** The primary benefits of ortho-linear keyboards for typing speed stem from their strict grid layout. By aligning keys in straight columns, they eliminate awkward diagonal finger stretches required by standard staggered keyboards, resulting in shorter travel distances, improved muscle memory, fewer typos, and ultimately higher words-per-minute (WPM) ceilings.
 
@@ -25,7 +25,7 @@ If you type for hours a day, you are likely looking for ways to maximize efficie
 
 To understand why ortho-linear keyboards offer an advantage, we first have to examine the flaws of the traditional staggered layout. When you place your hands on the home row (ASDF and JKL;), your fingers naturally rest in a straight line. However, to reach the top or bottom rows on a staggered board, your fingers must travel diagonally. 
 
-For example, reaching the 'C' key with your left middle finger requires a downward and rightward motion. Reaching the 'Y' key requires the right index finger to stretch aggressively up and to the left. These asymmetric micro-movements force the wrists into unnatural angles, a posture known as ulnar deviation. 
+For example, reaching the 'C' key with your left middle finger requires a downward and rightward motion. Reaching the 'Y' key requires the right index finger to stretch aggressively up and to the left. These asymmetric micro-movements force the wrists into unnatural angles, a [posture](/posts/home-office-posture-checklist/) known as ulnar deviation. 
 
 Over a full workday, calculating tens of thousands of keystrokes, these inefficient diagonal stretches accumulate. They cause micro-delays in stroke execution and increase the likelihood of striking adjacent keys, resulting in typos that derail your typing rhythm and lower your overall words-per-minute (WPM).
 
@@ -98,7 +98,7 @@ If you are convinced by the benefits of ortho-linear keyboards for typing speed 
 ### Choosing Your First Board
 
 *   **40% vs. 50% Layouts:** A 40% board (like the Planck, exactly 4 rows by 12 columns) relies heavily on layers for numbers. If you type numbers constantly, a 50% board (like the Preonic, 5 rows by 12 columns) includes a dedicated number row, making the transition slightly easier.
-*   **Split vs. Unibody:** If ergonomics are your primary concern alongside speed, consider a split ortho-linear (or columnar-staggered) board like the Lily58 or Corne. These allow you to angle the halves to perfectly match your shoulder width, eliminating wrist pronation entirely.
+*   **Split vs. Unibody:** If [ergonomics](/posts/how-to-choose-a-home-office-desk-size/) are your primary concern alongside speed, consider a split ortho-linear (or columnar-staggered) board like the Lily58 or Corne. These allow you to angle the halves to perfectly match your shoulder width, eliminating wrist pronation entirely.
 *   **Hot-Swappable Sockets:** Ensure your first board is hot-swappable. Because ortho layouts change how you strike the keys, your preference for switch weight might change. You may find that lighter linear switches (like 35g or 45g actuation force) are suddenly preferable to heavy tactiles when your fingers are only moving vertically.
 
 ### Layer Configuration (QMK/VIA)

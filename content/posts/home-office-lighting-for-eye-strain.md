@@ -79,7 +79,7 @@ Color temperature is measured in Kelvin (K) and dictates whether a light looks "
 
 *   **2700K - 3000K (Warm White):** Looks like an old incandescent bulb. Cozy, relaxing, and great for the evening, but can make you feel sleepy and isn't ideal for focus during the day.
 *   **3500K - 4000K (Neutral/Cool White):** **The Sweet Spot for Eye Strain.** This range provides crisp, clear visibility that closely mimics morning sunlight. It enhances contrast for reading without the harsh, sterile feeling of higher Kelvin bulbs.
-*   **5000K - 6500K (Daylight):** Very blue and intense. While some claim this boosts productivity, prolonged exposure can cause severe eye fatigue and disrupt sleep patterns if used late in the day. 
+*   **5000K - 6500K (Daylight):** Very blue and intense. While some claim this boosts [productivity](/posts/how-to-choose-a-home-office-desk-size/), prolonged exposure can cause severe eye fatigue and disrupt sleep patterns if used late in the day. 
 
 *   **Actionable Advice:** Opt for smart bulbs or lamps that offer adjustable color temperatures. You can run them at an energetic 4000K during the morning and dial them back to a warmer 3000K as the afternoon fades into evening, helping your eyes transition naturally.
 
@@ -97,7 +97,7 @@ Ready to fix your setup? Follow this checklist to overhaul your home office ligh
 ### Step 1: Optimize Natural Light and Monitor Placement
 1.  Move your desk so that the primary window is to your left or right side (perpendicular to your gaze).
 2.  Install sheer curtains or blinds to diffuse harsh, direct sunlight during peak hours. You want the light, not the laser beam.
-3.  Ensure your monitor is set up so that no light fixtures or windows reflect directly off the glass when you are sitting in your normal working posture.
+3.  Ensure your monitor is set up so that no light fixtures or windows reflect directly off the glass when you are sitting in your normal working [posture](/posts/home-office-posture-checklist/).
 
 ### Step 2: Establish the Ambient Base
 1.  Ensure the room has a baseline level of illumination. If overhead lights are too harsh, turn them off.
@@ -114,7 +114,7 @@ Ready to fix your setup? Follow this checklist to overhaul your home office ligh
 3.  Ensure your task lighting is set to a neutral color temperature (around 4000K) and a high CRI (90+).
 
 ### Step 5: Master the 20-20-20 Rule
-Even with perfect lighting, staring at a fixed distance for hours will strain the ciliary muscles in your eyes. Combine your new lighting setup with the golden rule of ergonomics: **Every 20 minutes, look at an object 20 feet away, for at least 20 seconds.** This gives the focusing mechanism in your eyes a necessary break.
+Even with perfect lighting, staring at a fixed distance for hours will strain the ciliary muscles in your eyes. Combine your new lighting setup with the golden rule of [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/): **Every 20 minutes, look at an object 20 feet away, for at least 20 seconds.** This gives the focusing mechanism in your eyes a necessary break.
 
 ---
 

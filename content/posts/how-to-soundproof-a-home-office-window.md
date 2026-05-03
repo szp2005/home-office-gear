@@ -13,9 +13,9 @@ type: "informational"
 
 > **Quick Answer:** The most effective way to soundproof a home office window is by adding a custom acrylic window insert, which can reduce noise by up to 70%. For a budget-friendly approach, start by sealing gaps with acoustic caulk and weatherstripping, then install heavy, multi-layered acoustic curtains to absorb echoing and dampen street noise.
 
-Working from home offers flexibility, but it also introduces challenges that traditional offices handle for us—namely, noise control. Whether it is the roar of traffic, the hum of a neighbor's lawnmower, or the chatter from a nearby sidewalk, external sounds can shatter your concentration and ruin the professional audio quality of your video calls. Windows are notoriously the weakest link in any room's acoustic defense. Even a well-insulated wall is easily compromised by a single pane of standard glass or microscopic gaps in the window frame.
+Working from home offers flexibility, but it also introduces challenges that traditional offices handle for us—namely, noise control. Whether it is the roar of traffic, the hum of a neighbor's lawnmower, or the chatter from a nearby sidewalk, external sounds can shatter your concentration and ruin the professional audio quality of your [video](/posts/best-desk-lamp-for-video-calls/) calls. Windows are notoriously the weakest link in any room's acoustic defense. Even a well-insulated wall is easily compromised by a single pane of standard glass or microscopic gaps in the window frame.
 
-Learning how to soundproof a home office window is less about building a recording studio and more about strategically adding mass, sealing air leaks, and creating dead air space. Sound travels through the air, meaning anywhere a draft can enter, noise can follow. Additionally, sound waves vibrate through solid materials like glass. To create a quiet workspace, you need to address both airborne noise and structural vibrations.
+Learning how to soundproof a home office window is less about building a recording studio and more about strategically adding mass, sealing air leaks, and creating dead air space. Sound travels through the air, meaning anywhere a draft can enter, noise can follow. Additionally, sound waves vibrate through solid materials like glass. To create a quiet [workspace](/posts/home-office-desk-depth-guide/), you need to address both airborne noise and structural vibrations.
 
 This guide breaks down exactly how to evaluate your current window, seal the most common acoustic leaks, and choose the right soundproofing solutions based on your budget and the specific type of noise disrupting your workday.
 
@@ -133,7 +133,7 @@ Additionally, inspect any air vents or HVAC ducts in the office. Sound travels e
 
 ## Conclusion
 
-Creating a quiet home office is a cumulative process. While a complete window replacement offers the most dramatic results, it is rarely the necessary starting point. By systematically addressing air leaks with acoustic caulk and weatherstripping, and then adding mass through heavy curtains or custom acrylic inserts, you can significantly reduce external distractions. Start with the most budget-friendly, least invasive steps—sealing the gaps—and work your way up to larger investments like inserts only if the noise continues to disrupt your workflow. A quieter office directly translates to better focus, clearer communication, and higher productivity.
+Creating a quiet home office is a cumulative process. While a complete window replacement offers the most dramatic results, it is rarely the necessary starting point. By systematically addressing air leaks with acoustic caulk and weatherstripping, and then adding mass through heavy curtains or custom acrylic inserts, you can significantly reduce external distractions. Start with the most budget-friendly, least invasive steps—sealing the gaps—and work your way up to larger investments like inserts only if the noise continues to disrupt your workflow. A quieter office directly translates to better focus, clearer communication, and higher [productivity](/posts/how-to-choose-a-home-office-desk-size/).
 
 ## Frequently Asked Questions
 

@@ -15,7 +15,7 @@ tags: ["ergonomic", "chair", "small", "home"]
 
 **TL;DR**
 - Most ergonomic chairs are designed for corporate cubicles — their wide bases and bulky frames fail in rooms under 120 sq ft; filter by footprint first, features second.
-- The $300–$600 mid-range bracket hits the sweet spot for compact ergonomics; budget chairs skimp on adjustability, luxury chairs prioritize presence over compactness.
+- The $300–$600 mid-range bracket hits the sweet spot for compact [ergonomics](/posts/how-to-choose-a-home-office-desk-size/); budget chairs skimp on adjustability, luxury chairs prioritize presence over compactness.
 - Mesh backs, narrower bases (under 26"), and removable armrests cut visual weight dramatically in tight spaces without sacrificing the lumbar support you actually need.
 
 ---
@@ -52,7 +52,7 @@ Once you've confirmed a chair fits your floor plan, you evaluate ergonomics. Her
 
 **Armrest design is critical when your desk clearance is limited.** Many compact desks and floating wall-mount desks have a clearance height of 26–27 inches. Standard armrests sit at 27–28 inches when lowered to minimum, meaning they physically can't slide under the desk. Removable armrests solve this completely — [armrest-compatible compact chairs](URL_PLACEHOLDER_2) often include hex-key removal and reinstallation. 4D armrests (adjustable in height, width, depth, and pivot) are ideal but add cost; removable arms are the practical small-space default.
 
-**Seat depth adjustability prevents the posture problems that creep up after month three.** A fixed-depth seat pan at 17 inches will force shorter users (under 5'6") into a position where they either jam their knees against the front edge or slide forward and lose back contact. Adjustable seat depth — typically a 2–3 inch range controlled by a lever — costs extra but pays off in sustained comfort. Without it, your lower back starts compensating, and you end up with the same problems you bought an ergonomic chair to avoid.
+**Seat depth adjustability prevents the [posture](/posts/home-office-posture-checklist/) problems that creep up after month three.** A fixed-depth seat pan at 17 inches will force shorter users (under 5'6") into a position where they either jam their knees against the front edge or slide forward and lose back contact. Adjustable seat depth — typically a 2–3 inch range controlled by a lever — costs extra but pays off in sustained comfort. Without it, your lower back starts compensating, and you end up with the same problems you bought an ergonomic chair to avoid.
 
 **Tilt and recline range without requiring wall clearance.** Standard tilt mechanisms push the chair backward as you recline — meaning you need 12–18 inches of clearance behind you that most small spaces can't spare. Synchronized tilt (where the seat and back move together) keeps your position more contained. Forward-tilt options are worth having for desk-intensive work and don't require rear clearance at all. Check product specifications for recline depth rather than relying on vague "multi-position" claims.
 
@@ -66,7 +66,7 @@ Once you've confirmed a chair fits your floor plan, you evaluate ergonomics. Her
 | [Hbada Ergonomic Task Chair](URL_PLACEHOLDER_4) | 24.4" | 38" | $150–$190 | Flip-up | Fixed curve | Budget, tight corners |
 | [Branch Ergonomic Chair](URL_PLACEHOLDER_5) | 26" | 40" | $329–$499 | 4D, removable | Adjustable | Mid-range sweet spot |
 | [Secretlab Titan Evo (Small)](URL_PLACEHOLDER_6) | 26.5" | 52" | $429–$549 | 4D magnetic | Integrated + pillow | Gaming/hybrid setup |
-| [Autonomous ErgoChair Pro](URL_PLACEHOLDER_7) | 25.2" | 42" | $369–$499 | 4D | Fully adjustable | Full-time remote work |
+| [Autonomous ErgoChair Pro](URL_PLACEHOLDER_7) | 25.2" | 42" | $369–$499 | 4D | Fully adjustable | Full-time [remote work](/posts/how-to-improve-home-office-acoustics/) |
 
 **Best overall for compact ergonomics: Flexispot BS9 Plus.** The 25.6-inch base is genuinely narrow without feeling unstable. Lumbar height adjusts across a 3.5-inch range, and the mesh back weighs and looks lighter than upholstery alternatives. Seat depth adjusts 2 inches. It's not the most premium finish, but for a sub-$350 chair in a small room, the ergonomic coverage is solid.
 

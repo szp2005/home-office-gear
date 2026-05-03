@@ -35,7 +35,7 @@ Here is our comprehensive breakdown of the best ultra-thin mechanical keyboards 
 
 ### 1. [NuPhy Air75 V2](https://www.amazon.com/s?k=NuPhy%20Air75%20V2&tag=gear.toolrouteai-20)
 
-**Best for:** General productivity and compact desk setups
+**Best for:** General [productivity](/posts/how-to-choose-a-home-office-desk-size/) and compact desk setups
 **Price:** $119-$129
 **Rating:** 4.8/5
 
@@ -90,7 +90,7 @@ Keychron has long dominated the entry-level mechanical keyboard market, and the 
 **Price:** $159-$169
 **Rating:** 4.4/5
 
-The Lofree Flow takes a different approach to the ultra-thin category by focusing entirely on the typing acoustic and physical sensation. It is one of the very few low-profile keyboards to incorporate a gasket mount design and all-POM (Polyoxymethylene) switches. This combination results in a deeply satisfying, muted "thock" sound and a buttery smooth keystroke that completely avoids the hollow, scratchy feel common in cheaper low-profile boards. The chassis is constructed entirely of aluminum, providing a rigid, premium feel. At 316mm wide, it easily fits alongside a laptop on a small café table or tight home office desk.
+The Lofree Flow takes a different approach to the ultra-thin category by focusing entirely on the typing acoustic and physical sensation. It is one of the very few low-profile keyboards to incorporate a gasket mount design and all-POM (Polyoxymethylene) switches. This combination results in a deeply satisfying, muted "thock" sound and a buttery smooth keystroke that completely avoids the hollow, scratchy feel common in cheaper low-profile boards. The chassis is constructed entirely of aluminum, providing a rigid, premium feel. At 316mm wide, it easily fits alongside a laptop on a small café table or tight [home office](/posts/how-to-improve-home-office-acoustics/) desk.
 
 **Pros:**
 - Best-in-class typing sound and feel for a low-profile board
@@ -151,7 +151,7 @@ If you game or require zero-latency inputs, look for a keyboard with a 2.4GHz US
 
 Maximizing a small desk setup requires careful curation of your peripherals. A bulky, high-profile keyboard not only consumes critical surface area but also disrupts the visual flow of a minimalist space. Upgrading to an ultra-thin mechanical keyboard solves these issues instantly.
 
-For most users, the **NuPhy Air75 V2** strikes the perfect balance. Its footprint is small enough to fit on narrow apartment desks, its low profile eliminates the need for an ergonomic wrist rest, and its typing experience rivals keyboards twice its size. If you are operating on a strict budget, the **Keychron K3 Pro** delivers the core benefits of the low-profile experience while offering deep software customization. By choosing the right layout and switch type, you can dramatically improve both the aesthetics and the ergonomics of your compact workspace.
+For most users, the **NuPhy Air75 V2** strikes the perfect balance. Its footprint is small enough to fit on narrow apartment desks, its low profile eliminates the need for an ergonomic wrist rest, and its typing experience rivals keyboards twice its size. If you are operating on a strict budget, the **Keychron K3 Pro** delivers the core benefits of the low-profile experience while offering deep software customization. By choosing the right layout and switch type, you can dramatically improve both the aesthetics and the [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) of your compact workspace.
 
 ## Frequently Asked Questions
 

@@ -65,7 +65,7 @@ If a lamp only offers warm and cool modes with nothing in between, the warm mode
 
 ### Lumens and Brightness
 
-For a standard desk setup, **400–800 lumens** pointed toward your face is sufficient. More matters less than *where* those lumens land. A 500-lumen lamp at 45 degrees, 60–80 cm from your face, beats a 1200-lumen lamp mounted directly overhead.
+For a standard [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/), **400–800 lumens** pointed toward your face is sufficient. More matters less than *where* those lumens land. A 500-lumen lamp at 45 degrees, 60–80 cm from your face, beats a 1200-lumen lamp mounted directly overhead.
 
 Look for **adjustable dimming** — at least 5 brightness steps, ideally stepless. Room ambient light changes throughout the day, and you'll need to match your lamp to it to avoid washed-out or too-dark footage.
 
@@ -161,7 +161,7 @@ For people who need to position light precisely — especially if their desk set
 
 **Under $30 — Occasional Use:** The TaoTronics option covers the basics. You get the right color temperature mode and flicker-free operation. If you're on calls twice a week, this is entirely sufficient.
 
-**$30–100 — Daily Remote Work:** This is where the real value lives. The WILIT-T and BenQ both sit in this range. For five-days-a-week use, the BenQ's CRI 95 and asymmetric optics justify the $70–90 spend — that's roughly $0.20 per working day over a year.
+**$30–100 — Daily [Remote Work](/posts/how-to-improve-home-office-acoustics/):** This is where the real value lives. The WILIT-T and BenQ both sit in this range. For five-days-a-week use, the BenQ's CRI 95 and asymmetric optics justify the $70–90 spend — that's roughly $0.20 per working day over a year.
 
 **$100+ — Premium and Power Users:** The Philips Hue Go at the top of this range makes sense only if you're already in a smart home ecosystem. Standalone, the BenQ outperforms it for video call use at lower cost.
 
@@ -223,7 +223,7 @@ Overhead room lighting often casts downward shadows, creating dark areas under y
 
 ### Can a regular desk lamp replace a dedicated ring light for video meetings?
 
-Yes, a good desk lamp with adjustable brightness and color temperature can often serve the same purpose as a ring light. By bouncing the desk lamp's light off a nearby wall or angling it correctly, you can achieve soft, flattering illumination. It also looks much more natural in a home office setup than a bulky ring light.
+Yes, a good desk lamp with adjustable brightness and color temperature can often serve the same purpose as a ring light. By bouncing the desk lamp's light off a nearby wall or angling it correctly, you can achieve soft, flattering illumination. It also looks much more natural in a [home office](/posts/how-to-choose-a-home-office-desk-size/) setup than a bulky ring light.
 
 ### What color temperature is best for video conferencing?
 

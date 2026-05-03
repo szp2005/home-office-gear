@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The effect of room humidity on office productivity is substantial. Ideal indoor humidity levels for cognitive function and physical comfort range between 40% and 60%. Environments outside this zone cause physical discomfort—such as dry eyes and respiratory irritation in low humidity, or lethargy and thermal stress in high humidity—directly reducing focus, typing speed, and overall cognitive output.
 
-While temperature often dominates thermostat debates in professional environments, relative humidity (RH) remains the silent variable dictating daily comfort. Most professionals invest heavily in ergonomic chairs, mechanical keyboards, and low-glare monitors, yet completely ignore the moisture content of the air they breathe for eight hours a day.
+While temperature often dominates thermostat debates in professional environments, relative humidity (RH) remains the silent variable dictating daily comfort. Most professionals invest heavily in ergonomic chairs, [mechanical keyboards](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/), and low-glare [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/), yet completely ignore the moisture content of the air they breathe for eight hours a day.
 
 Research into indoor environmental quality (IEQ) reveals that the effect of room humidity on office productivity is measurable and significant. Humidity levels govern everything from how our eyes tolerate extended screen time to how effectively our immune systems fight off seasonal viruses. When workspace humidity deviates from the optimal biological range, the body redirects energy from executive cognitive functions toward physiological regulation and stress management. 
 
@@ -34,7 +34,7 @@ Furthermore, relative humidity directly impacts the transmission of airborne par
 Low humidity (below 30%) is incredibly common during the winter months when central heating systems strip moisture from indoor air. Working in a deeply arid environment introduces immediate friction to knowledge work.
 
 ### Eye Strain and Screen Fatigue
-The most immediate casualty of low humidity in an office is visual stamina. When staring at a monitor, the human blink rate drops from an average of 15-20 blinks per minute to just 4-7 blinks per minute. In an environment with optimal humidity, the tear film on the eye can withstand this reduced blink rate. 
+The most immediate casualty of low humidity in an office is visual stamina. When staring at a [monitor](/posts/best-portable-monitor-for-work-from-home/), the human blink rate drops from an average of 15-20 blinks per minute to just 4-7 blinks per minute. In an environment with optimal humidity, the tear film on the eye can withstand this reduced blink rate. 
 
 However, in an office with sub-30% relative humidity, the tear film evaporates up to 40% faster. This leads to corneal friction, inflammation, blurred vision, and headaches. Workers subconsciously respond to dry eyes by leaning closer to the monitor or taking frequent breaks, breaking their state of flow and drastically lowering output. 
 

@@ -19,7 +19,7 @@ If you have transitioned to a low profile keyboard in hopes of alleviating wrist
 
 The primary culprit behind typing-related repetitive strain injuries (RSIs) is wrist extension: the upward bending of the wrist where the back of the hand moves toward the top of the forearm. When typing for hours with your wrists bent upward, the tendons passing through the carpal tunnel are compressed, friction increases, and micro-tears develop in the soft tissue.
 
-Low profile keyboards fundamentally alter the physical relationship between your hands, the desk, and the keys. When set up correctly, they offer an excellent pathway to neutral wrist alignment. However, achieving this requires a specific approach to desk ergonomics that differs significantly from traditional, high-profile mechanical keyboards. 
+Low profile keyboards fundamentally alter the physical relationship between your hands, the desk, and the keys. When set up correctly, they offer an excellent pathway to neutral wrist alignment. However, achieving this requires a specific approach to desk [ergonomics](/posts/how-to-choose-a-home-office-desk-size/) that differs significantly from traditional, high-profile [mechanical keyboards](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/). 
 
 ## The Biomechanics of Wrist Extension
 
@@ -93,7 +93,7 @@ Positive tilt refers to raising the back edge of the keyboard so the keys slope 
 
 Negative tilt slopes the keyboard away from you, meaning the front edge (closest to your body) is higher than the back edge. This physically forces the wrist into a neutral or slightly flexed position.
 
-While difficult to achieve with standard keyboards, low profile keyboards are excellent candidates for negative tilt setups. Because the baseline height is already low, adding a small lift to the front edge doesn't push the overall typing height out of ergonomic range. You can achieve a negative tilt by using an articulating keyboard tray that locks into a negative angle, or by placing small adhesive rubber bumpers under the front edge of your low profile keyboard.
+While difficult to achieve with standard keyboards, low profile keyboards are excellent candidates for negative tilt setups. Because the baseline height is already low, adding a small lift to the front edge doesn't push the overall typing height out of ergonomic range. You can achieve a negative tilt by using an articulating [keyboard tray](/posts/best-keyboard-tray-for-home-office-desk/) that locks into a negative angle, or by placing small adhesive rubber bumpers under the front edge of your low profile keyboard.
 
 ## Practical Setup Protocol for Low Profile Boards
 

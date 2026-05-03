@@ -15,11 +15,11 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** To clean mechanical keyboard switches safely, unplug the keyboard and remove keycaps. For hot-swappable boards, extract the switches, open the housings, and clean individual stems and springs with a dry microfiber cloth and isopropyl alcohol. For soldered boards, use compressed air to blow out debris, then apply a tiny amount of high-percentage isopropyl alcohol around the stem while repeatedly pressing it to dissolve internal grime. Never use water or soak the switches.
 
-Mechanical keyboards are investments, often customized down to the specific actuation force and sound profile. Over time, dust, pet hair, skin oils, and the occasional spilled beverage find their way past the keycaps and into the switch housings. This accumulation leads to sticky keys, double-typing (chatter), or switches that feel sluggish and scratchy. 
+[Mechanical keyboards](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) are investments, often customized down to the specific actuation force and sound profile. Over time, dust, pet hair, skin oils, and the occasional spilled beverage find their way past the keycaps and into the switch housings. This accumulation leads to sticky keys, double-typing (chatter), or switches that feel sluggish and scratchy. 
 
 Knowing how to clean mechanical keyboard switches safely is essential for preserving the lifespan of your board. Improper cleaning methods—like soaking components in water or using harsh household chemical cleaners—can corrode metal leaf contacts, short out the printed circuit board (PCB), or permanently ruin the factory lubrication inside the switch. 
 
-Whether you are dealing with a hot-swappable custom build or a pre-built board with soldered switches, maintaining your hardware does not have to be intimidating. This guide breaks down the exact methods to safely remove debris, dissolve sticky residue, and restore that crisp, factory-fresh typing feel without risking electronic damage.
+Whether you are dealing with a hot-swappable custom build or a pre-built board with soldered switches, maintaining your [hardware](/posts/best-usb-c-hub-for-desk-setup/) does not have to be intimidating. This guide breaks down the exact methods to safely remove debris, dissolve sticky residue, and restore that crisp, factory-fresh typing feel without risking electronic damage.
 
 ## Identifying Your Keyboard Type: Hot-Swappable vs. Soldered
 
@@ -37,7 +37,7 @@ Using the right tools prevents accidental damage to the delicate plastic housing
 
 *   **Keycap Puller:** A wire keycap puller is preferred over plastic ring pullers, which can scratch the keycaps.
 *   **Switch Puller:** (For hot-swappable boards only) A metal tong-like tool to grip the top and bottom housing latches.
-*   **Switch Opener:** A small tool designed to safely unclip Cherry MX style or Kailh style switch housings.
+*   **Switch Opener:** A [small](/posts/standing-desk-setup-for-small-apartment/) tool designed to safely unclip Cherry MX style or Kailh style switch housings.
 *   **Isopropyl Alcohol (90% or higher):** Essential for dissolving oils and sugary spills. Lower percentages contain too much water, risking corrosion.
 *   **Compressed Air:** A can of electronics-safe compressed air or an electric duster.
 *   **Microfiber Cloth & Cotton Swabs:** For wiping away grime without leaving lint behind.

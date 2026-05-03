@@ -10,7 +10,7 @@ type: "informational"
 
 > **Quick Answer:** Set Up a Productive Home Office on a Budget matters because it gives remote workers and home office buyers a practical way to solve the problem behind the search. Learn how to build a professional, ergonomic, and high-performance home office without breaking the bank. Expert tips on furniture, tech, and DIY hacks.
 
-The transition to remote work has shifted from a temporary necessity to a permanent lifestyle for millions. However, as many professionals quickly discover, working from a kitchen stool or a couch is a recipe for chronic back pain and plummeting productivity. The challenge? Professional-grade office setups can easily run into the thousands of dollars.
+The transition to [remote work](/posts/how-to-improve-home-office-acoustics/) has shifted from a temporary necessity to a permanent lifestyle for millions. However, as many professionals quickly discover, working from a kitchen stool or a couch is a recipe for chronic back pain and plummeting [productivity](/posts/how-to-choose-a-home-office-desk-size/). The challenge? Professional-grade office setups can easily run into the thousands of dollars.
 
 The good news is that a high-performance workspace doesn’t require a Silicon Valley budget. By focusing on "essentialism"—investing in what impacts your health and output while hacking the rest—you can build a world-class home office for a fraction of the retail cost. 
 
@@ -22,7 +22,7 @@ This guide provides a comprehensive roadmap for setting up a home office on a bu
 
 Before spending a single dollar, you must adopt a strategic mindset. Most people waste money on "office decor" before they have a functional workspace. To stay on budget, we prioritize the "Big Three" factors that directly impact your physical health and professional performance:
 
-1.  **Ergonomics (The Chair & Desk):** Protecting your spine and joints.
+1.  **[Ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) (The Chair & Desk):** Protecting your spine and joints.
 2.  **Lighting (Visibility & Mood):** Reducing eye strain and looking professional on video.
 3.  **Connectivity (The Tech):** Ensuring your output isn't throttled by bad hardware.
 

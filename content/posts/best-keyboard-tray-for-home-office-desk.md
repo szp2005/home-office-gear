@@ -36,7 +36,7 @@ Specialized for standing stations or very small niches.
 ## Top 3 Recommendations
 
 ### 1. [3M Adjustable Keyboard Tray (AKT150LE)](https://www.amazon.com/s?k=3M%20Adjustable%20Keyboard%20Tray%20%28AKT150LE%29&tag=gear.toolrouteai-20)
-This is the "gold standard" for ergonomics. It features a gel wrist rest and a highly adjustable track. The mouse platform is independent, meaning you can keep it level even if the keyboard is tilted.
+This is the "gold standard" for [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/). It features a gel wrist rest and a highly adjustable track. The mouse platform is independent, meaning you can keep it level even if the keyboard is tilted.
 
 ### 2. [Fellowes Office Suites Underdesk Keyboard Drawer](https://www.amazon.com/s?k=Fellowes%20Office%20Suites%20Underdesk%20Keyboard%20Drawer&tag=gear.toolrouteai-20)
 A budget-friendly option for those who just need a simple sliding drawer. It features three height adjustments to help you find your comfort zone.
@@ -57,7 +57,7 @@ Investing in a **3M Adjustable Tray** is a long-term investment in your health. 
 
 ### Are keyboard trays still necessary for modern home office setups?
 
-Yes, keyboard trays remain highly beneficial for maintaining proper ergonomic posture, especially if your desk height isn't perfectly suited to your seated position. They allow you to position your keyboard and mouse at elbow height, reducing strain on your wrists and shoulders during long work hours.
+Yes, keyboard trays remain highly beneficial for maintaining proper ergonomic [posture](/posts/home-office-posture-checklist/), especially if your desk height isn't perfectly suited to your seated position. They allow you to position your keyboard and mouse at elbow height, reducing strain on your wrists and shoulders during long work hours.
 
 ### Will a keyboard tray fit my specific home office desk?
 
@@ -69,7 +69,7 @@ Clamp-on keyboard trays use C-clamps to attach to the edge of your desk without 
 
 ### Can a keyboard tray really save desk space?
 
-Absolutely. By moving your keyboard and mouse below the desk surface, you instantly free up valuable real estate for monitors, paperwork, or other home office accessories. This helps create a cleaner, less cluttered workspace which can significantly improve your daily focus and productivity.
+Absolutely. By moving your keyboard and mouse below the desk surface, you instantly free up valuable real estate for monitors, paperwork, or other home office accessories. This helps create a cleaner, less cluttered workspace which can significantly improve your daily focus and [productivity](/posts/how-to-improve-home-office-acoustics/).
 
 ## Related Reading
 

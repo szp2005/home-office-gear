@@ -45,7 +45,7 @@ A tangled desk isn't just ugly. It creates real, measurable problems.
 
 **Troubleshooting speed.** When your monitor goes dark or a USB device disconnects, can you trace that cable in under ten seconds? Most people cannot, because cables from three different devices share the same unorganized bundle. Proper grouping by function cuts that diagnostic time drastically.
 
-**Mental load.** Clutter on a desk is unfinished business your brain processes in the background. Eliminating it is one of the cheapest productivity upgrades available.
+**Mental load.** Clutter on a desk is unfinished business your brain processes in the background. Eliminating it is one of the cheapest [productivity](/posts/how-to-choose-a-home-office-desk-size/) upgrades available.
 
 ---
 
@@ -89,7 +89,7 @@ Do this once properly and maintenance takes five minutes per quarter.
 
 **Glass desk.** Adhesive is your only option — no drilling. Use heavy-duty adhesive clips designed for smooth surfaces. Keep cable bundles thin to minimize visual impact from the front. A [transparent cable sleeve](URL_PLACEHOLDER_8) specifically helps on glass surfaces.
 
-**Standing desk (sit-stand).** You need a retractable or looped cable management approach. Cables must accommodate the full height travel range. Use a cable carrier chain (also called a cable drag chain) or a long cable sleeve with a coiled loop at the desk base. [A spiral cable wrap for standing desks](URL_PLACEHOLDER_9) handles the movement without tangling.
+**[Standing desk](/posts/compact-standing-desk-converter-review/) (sit-stand).** You need a retractable or looped cable management approach. Cables must accommodate the full height travel range. Use a cable carrier chain (also called a cable drag chain) or a long cable sleeve with a coiled loop at the desk base. [A spiral cable wrap for standing desks](URL_PLACEHOLDER_9) handles the movement without tangling.
 
 **Monitor arm with cable management.** A quality monitor arm has an internal cable channel. Feed the display cable and any USB cables through the arm's hollow channel. [A monitor arm with integrated cable management](URL_PLACEHOLDER_10) eliminates the most visible cable run on the entire desk — the one going to your monitor.
 
@@ -202,7 +202,7 @@ Cable clutter creates visual noise that can significantly increase stress and re
 
 ### Can messy cables cause safety hazards?
 
-Yes, tangled cords trailing across the floor or hanging from desks present a serious tripping hazard for you and others. Additionally, tightly bundled or damaged wires can overheat and potentially spark, creating a hidden fire risk in your home office.
+Yes, tangled cords trailing across the floor or hanging from desks present a serious tripping hazard for you and others. Additionally, tightly bundled or damaged wires can overheat and potentially spark, creating a hidden fire risk in your [home office](/posts/how-to-improve-home-office-acoustics/).
 
 ### Does poor cable management affect device performance?
 

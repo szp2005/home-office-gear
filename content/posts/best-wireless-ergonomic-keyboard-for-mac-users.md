@@ -115,7 +115,7 @@ Curved keyboards (like the Logitech K860) feature a unibody frame where the keys
 
 ### Tenting and Negative Tilt
 A flat keyboard forces your forearms to twist inward (pronation). Tenting refers to elevating the inner edges of a split keyboard so your hands rest at a slight angle, similar to holding a handshake. This relieves forearm tension. 
-Negative tilt addresses wrist extension. Instead of propping the back of the keyboard up (which is terrible for your wrists), negative tilt props the *front* edge of the keyboard up. This creates a downward slope away from you, allowing your wrists to remain perfectly straight while typing, a critical feature for anyone using a standing desk or a lowered keyboard tray.
+Negative tilt addresses wrist extension. Instead of propping the back of the keyboard up (which is terrible for your wrists), negative tilt props the *front* edge of the keyboard up. This creates a downward slope away from you, allowing your wrists to remain perfectly straight while typing, a critical feature for anyone using a standing desk or a lowered [keyboard tray](/posts/best-keyboard-tray-for-home-office-desk/).
 
 ### Connectivity and Drivers
 Macs, particularly M-series Apple Silicon models, can sometimes be particular about Bluetooth connections. Ensure the keyboard supports Bluetooth Low Energy (BLE) 5.0 or higher for a stable connection. Alternatively, keyboards that include a 2.4GHz USB-C receiver (like modern Keychron models) provide zero-latency connections that wake your Mac instantly from sleep without waiting for a Bluetooth handshake. Avoid keyboards that require complex, proprietary companion software that isn't optimized for the latest version of macOS.
@@ -126,7 +126,7 @@ Mac users are incredibly accustomed to membrane scissor-switch keyboards, thanks
 
 Membrane ergonomic keyboards generally offer a quieter, lower-profile typing experience. They require less finger travel and are often lighter and more portable. If you work in a quiet office environment or prefer the laptop-like typing feel, premium membrane options are an excellent choice.
 
-Mechanical ergonomic keyboards use individual physical switches beneath every key. They offer far greater tactile feedback, letting you know exactly when a keypress registers without having to bottom out the key. This can actually reduce finger fatigue once you learn to type with a lighter touch. Furthermore, mechanical keyboards allow for switch customization—you can swap out switches for heavier, lighter, clicky, or silent variations until you find the exact resistance that comforts your hands.
+Mechanical ergonomic keyboards use individual physical switches beneath every key. They offer far greater tactile feedback, letting you know exactly when a keypress registers without having to bottom out the key. This can actually reduce finger fatigue once you learn to type with a lighter touch. Furthermore, [mechanical keyboards](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) allow for switch customization—you can swap out switches for heavier, lighter, clicky, or silent variations until you find the exact resistance that comforts your hands.
 
 ## Practical Advice: Setting Up Your Ergonomic Workspace
 
@@ -138,7 +138,7 @@ Pair your ergonomic keyboard with an appropriate pointing device. Mac users freq
 
 ## Final Thoughts
 
-Transitioning away from Apple's native Magic Keyboard to an ergonomic alternative is a profound investment in your long-term physical health and daily productivity. Whether you opt for the approachable curve of the Logitech Ergo K860, the mechanical precision of the Keychron Q8 Max, or the uncompromising split architecture of the Kinesis Advantage360 Professional, the key is consistency. Give your muscle memory time to adapt to the new layout, optimize your desk height, and enjoy the relief that comes from working with hardware designed around the human body, rather than the other way around.
+Transitioning away from Apple's native Magic Keyboard to an ergonomic alternative is a profound investment in your long-term physical health and daily [productivity](/posts/how-to-choose-a-home-office-desk-size/). Whether you opt for the approachable curve of the Logitech Ergo K860, the mechanical precision of the Keychron Q8 Max, or the uncompromising split architecture of the Kinesis Advantage360 Professional, the key is consistency. Give your muscle memory time to adapt to the new layout, optimize your desk height, and enjoy the relief that comes from working with hardware designed around the human body, rather than the other way around.
 
 ## Frequently Asked Questions
 

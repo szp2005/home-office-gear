@@ -84,7 +84,7 @@ While DeskView is technically a digitally manipulated angle, the 1/2-inch sensor
 **Pros:**
 - True 4K resolution with a large 1/2-inch sensor
 - Gimbal-based AI tracking keeps you perfectly framed
-- DeskView mode simulates top-down shots from a standard monitor mount
+- DeskView mode simulates top-down shots from a standard [monitor](/posts/best-portable-monitor-for-work-from-home/) mount
 
 **Cons:**
 - DeskView perspective correction can slightly warp tall objects
@@ -101,7 +101,7 @@ The Elgato Facecam Pro was the first webcam to offer 4K resolution at an uncompr
 Because it integrates seamlessly into the Elgato ecosystem, you can control focus, exposure, and zoom directly from a Stream Deck. At under a pound, it easily mounts to any standard friction arm or overhead rig without causing the stability issues associated with mirrorless cameras.
 
 **Pros:**
-- Butter-smooth 4K/60fps video capture
+- Butter-smooth 4K/60fps [video](/posts/best-desk-lamp-for-video-calls/) capture
 - Excellent manual focus controls via the Camera Hub software
 - Lightweight chassis perfect for overhead boom arms
 
@@ -143,7 +143,7 @@ Overhead rigs create a cable management nightmare. Power cords and HDMI cables d
 
 ## Perfecting Top-Down Lighting
 
-Lighting an overhead shot requires careful planning to avoid casting dark shadows from your hands onto the subject. A single key light positioned behind your monitors is insufficient for top-down work.
+Lighting an overhead shot requires careful planning to avoid casting dark shadows from your hands onto the subject. A single key light positioned behind your [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/) is insufficient for top-down work.
 
 You need multi-directional lighting to wash out shadows. The best approach is a dual-light setup positioned on either side of your desk, pointing inward at a 45-degree angle. Flat LED panels, such as the Elgato Key Light Air or Logitech Litra Glow, provide soft, diffused lighting that minimizes glare on reflective surfaces like tablet screens or glossy packaging.
 

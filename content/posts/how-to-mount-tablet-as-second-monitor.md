@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Adding a secondary screen to your workstation provides a dedicated space for reference materials, communication apps, or media controls. Many professionals already own an iPad, Galaxy Tab, or Surface device that sits unused during standard working hours. Repurposing these devices as a secondary display maximizes the return on your hardware investment and keeps your primary monitor clear of clutter. 
 
-The primary challenge of this setup is achieving a permanent, seamless integration. Propping a tablet against a coffee mug or relying on flimsy folio cases results in poor ergonomics and unstable connections. A proper implementation requires specific mounting hardware to elevate the tablet to eye level and the right software configuration to ensure a lag-free extension of your desktop. 
+The primary challenge of this setup is achieving a permanent, seamless integration. Propping a tablet against a coffee mug or relying on flimsy folio cases results in poor [ergonomics](/posts/how-to-choose-a-home-office-desk-size/) and unstable connections. A proper implementation requires specific mounting hardware to elevate the tablet to eye level and the right software configuration to ensure a lag-free extension of your desktop. 
 
 This guide details the exact hardware combinations, software requirements, and spatial configurations needed to securely mount a tablet as a second monitor.
 
@@ -33,7 +33,7 @@ For mixed environments—such as a Windows PC paired with an iPad, or a Mac pair
 
 **Duet Display** is the industry standard for cross-platform extension. Developed by former Apple engineers, it offers hardware acceleration to maintain 60 frames per second at retina resolutions. It operates via a direct USB connection or wireless network. While it requires a subscription for advanced features like stylus pressure sensitivity, the base tier provides a highly stable extended desktop.
 
-**Spacedesk** is a robust, free alternative for Windows users. It turns any device with a modern web browser or the Spacedesk app (Android/iOS) into a secondary display over a local area network (LAN). Because it relies on network protocols rather than direct video output over USB, Spacedesk performs best when the host PC is hardwired via Ethernet and the tablet connects over a 5GHz Wi-Fi band.
+**Spacedesk** is a robust, free alternative for Windows users. It turns any device with a modern web browser or the Spacedesk app (Android/iOS) into a secondary display over a local area network (LAN). Because it relies on network protocols rather than direct [video](/posts/best-desk-lamp-for-video-calls/) output over USB, Spacedesk performs best when the host PC is hardwired via Ethernet and the tablet connects over a 5GHz Wi-Fi band.
 
 ### Android-Specific Solutions
 For Windows users with Android tablets, **SuperDisplay** is highly recommended. It transforms an Android device into a high-performance USB display for Windows 10 and 11. SuperDisplay supports 120Hz refresh rates (critical for devices like the Galaxy Tab S-series) and translates Windows Ink protocols, making it an excellent choice for users who need pressure-sensitive stylus input on a Windows machine.
@@ -55,7 +55,7 @@ The primary advantage of a magnetic mount is the instantaneous detachment; you c
 ### VESA Mount Adapters
 For a truly integrated multi-monitor setup, VESA adapters are the professional standard. A VESA adapter is a bracket that grips your tablet and features standard 75x75mm or 100x100mm mounting holes on the back. 
 
-By using a VESA adapter, you can mount the tablet onto a standard dual-monitor arm alongside your primary display. This keeps all screens suspended on the same hardware, providing a unified look and allowing you to align the bezels perfectly. This approach requires dedicated monitor mounting hardware but offers the highest level of stability.
+By using a VESA adapter, you can mount the tablet onto a standard dual-[monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) alongside your primary display. This keeps all screens suspended on the same hardware, providing a unified look and allowing you to align the bezels perfectly. This approach requires dedicated monitor mounting hardware but offers the highest level of stability.
 
 ### Gooseneck Mounts vs. Rigid Arms
 Gooseneck mounts feature a flexible, bendable stalk rather than mechanical joints. While they are inexpensive and highly maneuverable, they are generally not recommended for use as a second monitor mount. Goosenecks are prone to severe screen wobble when typing heavily on a desk or when tapping the tablet screen. For a permanent workstation, rigid mechanical arms or VESA mounts are strictly superior.

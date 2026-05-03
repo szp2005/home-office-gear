@@ -79,7 +79,7 @@ Beyond its automated scheduling, the Go Desk Lamp features a built-in battery, a
 
 BenQ designed this lamp specifically for the modern digital workspace. Its distinct, curved "smile" head design projects a massive 35-inch footprint of light, ensuring that your entire desk surface is illuminated evenly. This wide cast prevents the high-contrast shadows that cause eye fatigue when glancing between a bright monitor and a dark desk surface. Furthermore, the specialized light guide technology ensures zero screen glare, a critical feature for software engineers and designers.
 
-While it lacks the Wi-Fi connectivity and ecosystem integrations of Philips or Dyson, the BenQ lamp excels in localized smart features. It utilizes a built-in ambient light sensor to detect the brightness of your room and automatically adjusts its output to maintain an optimal contrast ratio. You can manually tune the color temperature from warm to cool via a tactile dial. It straddles the line between a purely manual lamp and a smart device, focusing heavily on optical ergonomics.
+While it lacks the Wi-Fi connectivity and ecosystem integrations of Philips or Dyson, the BenQ lamp excels in localized smart features. It utilizes a built-in ambient light sensor to detect the brightness of your room and automatically adjusts its output to maintain an optimal contrast ratio. You can manually tune the color temperature from warm to cool via a tactile dial. It straddles the line between a purely manual lamp and a smart device, focusing heavily on optical [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/).
 
 **Pros:**
 - Ultra-wide 35-inch illumination footprint perfect for multi-monitor setups
@@ -96,7 +96,7 @@ While it lacks the Wi-Fi connectivity and ecosystem integrations of Philips or D
 **Price:** $69-$89
 **Rating:** 4.3/5
 
-For those looking to optimize their workspace lighting without a significant financial investment, the Govee Glide Smart Desk Lamp offers an impressive suite of features. Unlike many budget options, it includes built-in Wi-Fi and Bluetooth, allowing for direct integration with the Govee Home app without the need for an external hub. Through the app, you can create custom schedules that shift the color temperature from cool white in the morning to warm amber at night, effectively replicating the functionality of much more expensive circadian lamps.
+For those looking to optimize their [workspace lighting](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/) without a significant financial investment, the Govee Glide Smart Desk Lamp offers an impressive suite of features. Unlike many budget options, it includes built-in Wi-Fi and Bluetooth, allowing for direct integration with the Govee Home app without the need for an external hub. Through the app, you can create custom schedules that shift the color temperature from cool white in the morning to warm amber at night, effectively replicating the functionality of much more expensive circadian lamps.
 
 The lamp also features full RGBic capabilities, allowing you to use it as a vibrant accent light during off-hours or gaming sessions. While the light quality (CRI) and maximum brightness do not rival the premium options from Dyson or BenQ, the Govee Glide provides the fundamental biological benefits of automated color shifting at a fraction of the cost.
 
@@ -117,7 +117,7 @@ When evaluating a smart circadian desk lamp for productivity, look past the mark
 Lumens measure total light output, while lux measures the intensity of light hitting a specific surface. For detailed desk work, you need a lamp capable of delivering at least 500 lux to your keyboard area. If the light is too dim, your pupils dilate excessively, causing eye strain and reducing reading speed. Look for lamps with adjustable brightness that can peak above 800 lumens.
 
 **Color Rendering Index (CRI)**
-CRI measures how accurately a light source reveals the true colors of objects compared to natural sunlight, scored on a scale from 0 to 100. A low CRI light makes everything look washed out or slightly green/pink, which subtly fatigues the visual cortex. For a home office, demand a CRI of 90 or higher. Premium lamps will often feature a CRI of 95+.
+CRI measures how accurately a light source reveals the true colors of objects compared to natural sunlight, scored on a scale from 0 to 100. A low CRI light makes everything look washed out or slightly green/pink, which subtly fatigues the visual cortex. For a [home office](/posts/how-to-choose-a-home-office-desk-size/), demand a CRI of 90 or higher. Premium lamps will often feature a CRI of 95+.
 
 **Automation vs. Manual Control**
 A true smart circadian lamp handles the color transitions automatically based on the clock or your geographic location. If you have to manually turn a dial to change the color temperature every few hours, it is an adjustable lamp, not a smart circadian one. Friction is the enemy of consistency; automated scheduling ensures you actually receive the biological benefits without having to remember to adjust the settings.

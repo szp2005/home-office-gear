@@ -71,7 +71,7 @@ Skip the generic "desk height 44 inches" advice. Here's how to calculate yours p
 
 **Standing desk height:** Stand in your socks (you won't always wear shoes at home). Bend your elbows to 90 degrees, hands relaxed. Measure from the floor to the bottom of your forearms. That number is your desk surface height. For most adults, it falls between 38–44 inches. If you're 5'10", expect roughly 42–43 inches.
 
-**Monitor height:** Your screen should sit so the top edge is at or slightly below eye level. If you're using a laptop, a stand plus an external keyboard is not optional — it's ergonomically necessary. A monitor arm like this [VESA monitor arm](URL_PLACEHOLDER_8) lets you position a screen independently of the desk surface, saving 4–6 inches of depth you'd otherwise need for a monitor stand.
+**Monitor height:** Your screen should sit so the top edge is at or slightly below eye level. If you're using a laptop, a stand plus an external keyboard is not optional — it's ergonomically necessary. A [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) like this [VESA monitor arm](URL_PLACEHOLDER_8) lets you position a screen independently of the desk surface, saving 4–6 inches of depth you'd otherwise need for a monitor stand.
 
 **Desk depth assessment:** Measure your apartment space, then subtract 18 inches for standing clearance in front of the desk. A 24-inch deep desk needs a total footprint of 42 inches from wall to your standing position. In a bedroom, check that opening closet doors or navigating around the bed isn't compromised.
 
@@ -111,7 +111,7 @@ Secondhand electric desks from Facebook Marketplace average $150–$200 in most 
 
 **Wireless keyboard and mouse:** The [Logitech MX Keys Mini plus MX Anywhere 3](URL_PLACEHOLDER_10) eliminates two cables from your desktop entirely. In a space-constrained setup, that simplification is worth the $100–$130 combined cost.
 
-**Footrest:** If you alternate between sitting and standing and your chair doesn't reach optimal height, a footrest fills the gap. Optional but useful for heights under 5'5".
+**[Footrest](/posts/best-footrest-for-under-desk-ergonomics/):** If you alternate between sitting and standing and your chair doesn't reach optimal height, a footrest fills the gap. Optional but useful for heights under 5'5".
 
 ---
 
@@ -225,5 +225,5 @@ Yes, many walking pads are designed to be slim and easily slide under standard o
 
 - [What Makes an Office Chair Work in Small Spaces](/posts/best-ergonomic-chair-for-small-home-office/)
 - [Compact Standing Desk Converter Review 2026: Transform Your Small Workspace](/posts/compact-standing-desk-converter-review/)
-- [The Best Portable Monitor for Work From Home: Boost Productivity Anywhere](/posts/best-portable-monitor-for-work-from-home/)
+- [The Best Portable Monitor for Work From Home: Boost [Productivity](/posts/how-to-choose-a-home-office-desk-size/) Anywhere](/posts/best-portable-monitor-for-work-from-home/)
 - [Best Budget Ergonomic Chairs for Remote Work in 2026: Comfort Under $300](/posts/best-budget-ergonomic-chair-for-remote-work/)

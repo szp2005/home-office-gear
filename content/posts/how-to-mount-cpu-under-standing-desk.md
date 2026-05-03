@@ -15,7 +15,7 @@ type: "informational"
 
 When you upgrade to a standing desk, the position of your computer tower suddenly becomes a logistical challenge. Leaving the PC on the floor requires excessively long cables that drag and pull when the desk is raised to a standing height. Conversely, placing a mid-tower or full-tower case directly on the desktop consumes valuable surface area and introduces cable clutter into your immediate field of view. 
 
-The most efficient solution is mounting the CPU directly underneath the desktop surface. This arrangement allows the computer to move up and down synchronously with your monitors and peripherals, completely eliminating cable tension issues. It also keeps your tower off the floor, significantly reducing dust accumulation inside the power supply and case fans, while reclaiming your desktop space for actual work.
+The most efficient solution is mounting the CPU directly underneath the desktop surface. This arrangement allows the computer to move up and down synchronously with your [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/) and peripherals, completely eliminating cable tension issues. It also keeps your tower off the floor, significantly reducing dust accumulation inside the power supply and case fans, while reclaiming your desktop space for actual work.
 
 Mounting a heavy metal box to the underside of a moving desk requires careful planning, the right hardware, and an understanding of your desk's structural limits. This guide covers the entire process, from selecting the correct bracket type to executing a safe, secure installation.
 
@@ -107,7 +107,7 @@ With the PC attached to the moving surface, your cable management strategy must 
 
 * **The Single Power Umbilical:** Route all peripheral cables (monitors, speakers, USB hubs) along the underside of the desk and plug them into the PC. Then, mount a surge protector to the underside of the desk. Plug the PC and monitors into this surge protector. Now, only one thick power cable needs to travel from the desk down to the wall outlet.
 * **Cable Spines:** For the single power cord dropping to the floor, use a flexible cable spine. These plastic, articulated vertebrae attach to the desk and the floor, keeping the cable organized and preventing it from catching on the desk legs during movement.
-* **Slack Loops:** When routing cables from monitors on monitor arms down to the mounted PC, leave a small loop of slack near the monitor arm joints. This ensures the cables won't be violently yanked if you adjust the monitor position.
+* **Slack Loops:** When routing cables from monitors on [monitor](/posts/best-portable-monitor-for-work-from-home/) arms down to the mounted PC, leave a small loop of slack near the [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) joints. This ensures the cables won't be violently yanked if you adjust the monitor position.
 
 ## Practical Advice: Hardware Specifications and Tradeoffs
 

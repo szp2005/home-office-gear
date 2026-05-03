@@ -17,9 +17,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Standard desk accessories rarely accommodate the nuanced requirements of a specialized workspace. You might have an ultra-wide monitor, a heavy dual-screen array on monitor arms, or specific audio interfaces that need to slide perfectly underneath your displays. Off-the-shelf solutions force you to compromise—they are often too short, awkwardly deep, or made from inferior particle board wrapped in cheap veneers that bow under the weight of premium hardware.
 
-When you decide to order custom sized wood desk shelf riser units, you take complete control over your desk’s ergonomics, aesthetic flow, and spatial efficiency. A perfectly measured riser elevates your screens to the exact millimeter required for proper posture while creating dedicated architectural zones for your keyboards, trackpads, and docks.
+When you decide to order custom sized wood desk shelf riser units, you take complete control over your desk’s [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/), aesthetic flow, and spatial efficiency. A perfectly measured riser elevates your screens to the exact millimeter required for proper [posture](/posts/home-office-posture-checklist/) while creating dedicated architectural zones for your keyboards, trackpads, and docks.
 
-This guide details the exact specifications, wood species characteristics, and structural requirements you must evaluate before commissioning a custom piece for your home office.
+This guide details the exact specifications, wood species characteristics, and structural requirements you must evaluate before commissioning a custom piece for your [home office](/posts/how-to-choose-a-home-office-desk-size/).
 
 ## Why Exact Dimensions Dictate Workspace Ergonomics
 

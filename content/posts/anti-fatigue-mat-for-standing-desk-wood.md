@@ -13,9 +13,9 @@ type: "informational"
 
 > **Quick Answer:** The ideal anti fatigue mat for a standing desk on wood floors must feature a high-density polyurethane foam core and a non-staining, non-slip bottom layer. Avoid cheap PVC and rubber mats, as they can cause chemical discoloration (plasticizer migration) on hardwood finishes. For aesthetics, many premium ergonomic mats now offer realistic faux-wood top textures to seamlessly blend with your hardwood or laminate flooring.
 
-Transitioning to a standing desk is an excellent step toward better posture and reduced sedentary time. However, standing on bare hardwood floors for extended periods introduces new physical challenges, primarily lower back strain, knee compression, and foot fatigue. An anti-fatigue mat is essential for absorbing impact and promoting micro-movements, but finding the right anti fatigue mat for a standing desk on wood floors requires navigating a specific set of constraints.
+Transitioning to a standing desk is an excellent step toward better [posture](/posts/home-office-posture-checklist/) and reduced sedentary time. However, standing on bare hardwood floors for extended periods introduces new physical challenges, primarily lower back strain, knee compression, and foot fatigue. An anti-fatigue mat is essential for absorbing impact and promoting micro-movements, but finding the right anti fatigue mat for a standing desk on wood floors requires navigating a specific set of constraints.
 
-Wood floors—whether solid oak, engineered hardwood, or high-end laminate—are susceptible to chemical staining, physical scratching, and moisture trapping. Many generic standing desk mats utilize bottom materials that aggressively grip the floor but slowly degrade the polyurethane or oil finish of the wood underneath. Additionally, aesthetics play a significant role; a bulky, industrial black rubber mat can disrupt the warm, natural design of a home office featuring hardwood. 
+Wood floors—whether solid oak, engineered hardwood, or high-end laminate—are susceptible to chemical staining, physical scratching, and moisture trapping. Many generic standing desk mats utilize bottom materials that aggressively grip the floor but slowly degrade the polyurethane or oil finish of the wood underneath. Additionally, aesthetics play a significant role; a bulky, industrial black rubber mat can disrupt the warm, natural design of a [home office](/posts/how-to-choose-a-home-office-desk-size/) featuring hardwood. 
 
 This guide breaks down exactly what materials are safe for wood finishes, how to choose between flat and topographic ergonomic designs, and whether wood-grain patterned mats deliver on both looks and performance.
 
@@ -71,7 +71,7 @@ Tripping is a primary concern with any floor mat. Ensure the mat features edges 
 
 ### Optimal Dimensions
 
-Size matters when setting up an ergonomic workstation. A mat that is too small restricts your natural stance width. For a standard single-monitor or dual-monitor standing desk setup, the minimum recommended dimensions are 20 inches deep by 30 inches wide. If your desk requires you to take a step left or right to access filing cabinets or secondary equipment, look for an elongated mat measuring 20 inches deep by 36 to 48 inches wide.
+Size matters when setting up an ergonomic workstation. A mat that is too small restricts your natural stance width. For a standard single-monitor or dual-monitor standing [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/), the minimum recommended dimensions are 20 inches deep by 30 inches wide. If your desk requires you to take a step left or right to access filing cabinets or secondary equipment, look for an elongated mat measuring 20 inches deep by 36 to 48 inches wide.
 
 ### Puncture Resistance
 

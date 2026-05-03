@@ -40,7 +40,7 @@ The structural engineering matches the software sophistication. The dual-motor l
 
 **Cons:**
 - Requires a mandatory two-week behavioral calibration period
-- Premium pricing places it outside typical home office budgets
+- Premium pricing places it outside typical [home office](/posts/how-to-improve-home-office-acoustics/) budgets
 
 ### 2. [Autonomous OmniDesk AI](https://www.amazon.com/s?k=Autonomous%20OmniDesk%20AI&tag=gear.toolrouteai-20)
 
@@ -143,9 +143,9 @@ The under-desk cable management system is an engineering marvel, completely hidi
 **Price:** $999-$1,299
 **Rating:** 4.4/5
 
-Vari engineered the SmartDesk Pro for immediate deployment. It goes from box to fully functional AI workstation in under ten minutes without specialized tools. The onboard logic controller focuses strictly on workflow efficiency, utilizing acoustic sensors to detect typing cadence and environmental noise. If the desk detects a drop in typing speed indicating energy slumps, it initiates a standing phase to increase user alertness.
+Vari engineered the SmartDesk Pro for immediate deployment. It goes from box to fully functional AI workstation in under ten minutes without specialized tools. The onboard logic controller focuses strictly on workflow efficiency, utilizing acoustic sensors to detect typing cadence and environmental noise. If the desk detects a drop in [typing speed](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) indicating energy slumps, it initiates a standing phase to increase user alertness.
 
-The commercial-grade laminate is highly resistant to chemical cleaners, and the chamfered edges prevent forearm restriction during intense typing sessions. While the AI logic is less biologically focused than the ErgoSmart or Steelcase models, its productivity-based triggers are highly effective for data-entry and coding professionals.
+The commercial-grade laminate is highly resistant to chemical cleaners, and the chamfered edges prevent forearm restriction during intense typing sessions. While the AI logic is less biologically focused than the ErgoSmart or Steelcase models, its [productivity](/posts/how-to-choose-a-home-office-desk-size/)-based triggers are highly effective for data-entry and coding professionals.
 
 **Pros:**
 - Tool-free assembly process can be completed by one person in 10 minutes

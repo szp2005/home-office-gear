@@ -53,7 +53,7 @@ What sets the Link 2 apart is its gesture control system and specialized modes. 
 
 Logitech's MX Brio takes the opposite approach to the Insta360. Instead of physical motors, it relies on a massive Sony STARVIS sensor and proprietary AI algorithms to perform digital cropping and panning. The result is a rock-solid, stationary piece of hardware that delivers exceptional image clarity and natural color reproduction right out of the box. 
 
-The MX Brio's "RightSight" auto-framing technology is subtler than gimbal-based competitors. It responds smoothly to shifts in posture or chair movement without the sudden, jarring camera jerks sometimes associated with aggressive tracking algorithms. The aluminum enclosure feels premium, and the integrated privacy shutter is a physical dial that closes over the lens, providing absolute security. The Show Mode function allows you to physically tilt the camera downward to share sketches or documents on your desk.
+The MX Brio's "RightSight" auto-framing technology is subtler than gimbal-based competitors. It responds smoothly to shifts in [posture](/posts/home-office-posture-checklist/) or chair movement without the sudden, jarring camera jerks sometimes associated with aggressive tracking algorithms. The aluminum enclosure feels premium, and the integrated privacy shutter is a physical dial that closes over the lens, providing absolute security. The Show Mode function allows you to physically tilt the camera downward to share sketches or documents on your desk.
 
 **Pros:**
 - Exceptional build quality with solid aluminum chassis
@@ -95,7 +95,7 @@ The voice control integration allows you to say "Track Me" or "Zoom in closer" w
 
 The Poly Studio P15 is a hybrid device, bridging the gap between a personal webcam and a conference room soundbar. While it features a 4K image sensor with robust digital auto-framing, its true standout feature is the audio array. The integrated speaker is loud and clear, while the multi-microphone array utilizes Poly's Acoustic Fence technology to entirely block out background noise outside a specific physical cone.
 
-The camera's tracking is designed for larger spaces, seamlessly adjusting the frame to accommodate multiple people entering the shot, or zooming in tight when only one person is speaking. It is bulky and designed to sit atop a dedicated monitor rather than a laptop, but for professionals who demand conference-room-grade audio alongside AI framing, it is an efficient all-in-one solution.
+The camera's tracking is designed for larger spaces, seamlessly adjusting the frame to accommodate multiple people entering the shot, or zooming in tight when only one person is speaking. It is bulky and designed to sit atop a dedicated [monitor](/posts/best-portable-monitor-for-work-from-home/) rather than a laptop, but for professionals who demand conference-room-grade audio alongside AI framing, it is an efficient all-in-one solution.
 
 **Pros:**
 - Incredible audio input and output quality
@@ -143,7 +143,7 @@ Fixed-lens cameras (like the Logitech MX Brio) have no moving parts. They captur
 
 ### Sensor Size and Lighting
 
-A 4K resolution specification means very little if the physical sensor is too small to capture adequate light. When evaluating these cameras, pay attention to the sensor dimensions. A 1/1.5-inch or 1/2-inch sensor will dramatically outperform a standard 1/4-inch sensor, especially in a home office lit only by overhead room lights or a desk lamp.
+A 4K resolution specification means very little if the physical sensor is too small to capture adequate light. When evaluating these cameras, pay attention to the sensor dimensions. A 1/1.5-inch or 1/2-inch sensor will dramatically outperform a standard 1/4-inch sensor, especially in a [home office](/posts/how-to-choose-a-home-office-desk-size/) lit only by overhead room lights or a desk lamp.
 
 Larger sensors naturally produce a shallower depth of field, giving you a hardware-level blurred background that looks far more professional than the artificial software blur applied by Teams or Zoom.
 
