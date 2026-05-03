@@ -1,4 +1,5 @@
 ---
+image: "/og/magnetic-cable-clips-for-standing-desk-frames.webp"
 title: "Best Magnetic Cable Clips for Standing Desk Frames (2026 Guide)"
 description: "Discover the best magnetic cable clips for standing desk frames to eliminate wire clutter. Compare top-rated management solutions for a clean workspace."
 pubDate: "2026-05-03"

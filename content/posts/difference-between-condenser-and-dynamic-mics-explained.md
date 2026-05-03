@@ -1,4 +1,5 @@
 ---
+image: "/og/difference-between-condenser-and-dynamic-mics-explained.webp"
 title: "Difference Between Condenser and Dynamic Mics Explained (2026 Guide)"
 description: "Understand the core difference between condenser and dynamic mics explained in this comprehensive guide. Learn which microphone type is best for your studio."
 pubDate: "2026-05-03"

@@ -1,4 +1,5 @@
 ---
+image: "/og/weighted-desk-mic-stand-with-boom-arm.webp"
 title: "Best Weighted Desk Mic Stand With Boom Arm for Podcasts in 2026"
 description: "Upgrade your audio setup with the best weighted desk mic stand with boom arm. Discover top models offering stability, reach, and clean desk cable management."
 pubDate: "2026-05-03"

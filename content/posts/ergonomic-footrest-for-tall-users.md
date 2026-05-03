@@ -1,4 +1,5 @@
 ---
+image: "/og/ergonomic-footrest-for-tall-users.webp"
 title: "Best Ergonomic Footrest for Tall Users in 2026"
 description: "Discover the best ergonomic footrest for tall users. We review top models with adjustable height, low profiles, and tilt to improve your workspace posture."
 pubDate: "2026-05-02"

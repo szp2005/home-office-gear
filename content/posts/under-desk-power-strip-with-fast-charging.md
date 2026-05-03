@@ -1,4 +1,5 @@
 ---
+image: "/og/under-desk-power-strip-with-fast-charging.webp"
 title: "Best Under Desk Power Strip With Fast Charging in 2026"
 description: "Find the best under desk power strip with fast charging to eliminate cable clutter. Compare clamp-on and under-mount options with high-wattage USB-C PD."
 pubDate: "2026-05-02"

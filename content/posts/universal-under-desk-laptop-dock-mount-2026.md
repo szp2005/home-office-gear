@@ -1,4 +1,5 @@
 ---
+image: "/og/universal-under-desk-laptop-dock-mount-2026.webp"
 title: "Best Universal Under Desk Laptop Dock Mounts in 2026"
 description: "Maximize your workspace with the best universal under desk laptop dock mounts of 2026. Compare top picks for MacBooks, Windows laptops, and heavy workstations."
 pubDate: "2026-05-03"

@@ -1,4 +1,5 @@
 ---
+image: "/og/modular-workspace-setup-for-small-apartments.webp"
 title: "Modular Workspace Setup for Small Apartments: Complete Guide"
 description: "Discover how a modular workspace setup for small apartments maximizes productivity without sacrificing living space. Expert tips on layout, desks, and storage."
 pubDate: "2026-05-01"

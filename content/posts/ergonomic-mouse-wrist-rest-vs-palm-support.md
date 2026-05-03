@@ -1,4 +1,5 @@
 ---
+image: "/og/ergonomic-mouse-wrist-rest-vs-palm-support.webp"
 title: "Ergonomic Mouse Wrist Rest vs Palm Support: Top 2026 Picks"
 description: "Compare ergonomic mouse wrist rest vs palm support options to stop desk pain. Discover top picks, expert advice, and the exact setups for maximum comfort."
 pubDate: "2026-05-03"

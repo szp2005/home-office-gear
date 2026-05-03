@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-use-a-balance-ball-chair.webp"
 title: "How to Use a Balance Ball Chair: 7-Step Posture Guide"
 description: "Learn exactly how to use a balance ball chair correctly. Improve your posture, engage core muscles, and prevent back pain with our comprehensive ergonomic guide."
 pubDate: "2026-05-02"

@@ -1,4 +1,5 @@
 ---
+image: "/og/proper-ring-light-placement-for-glasses-wearers.webp"
 title: "Proper Ring Light Placement for Glasses Wearers: 5-Step Guide"
 description: "Struggling with glare? Learn proper ring light placement for glasses wearers to eliminate reflections and achieve professional video lighting every time."
 pubDate: "2026-05-03"

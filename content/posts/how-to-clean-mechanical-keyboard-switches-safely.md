@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-clean-mechanical-keyboard-switches-safely.webp"
 title: "How to Clean Mechanical Keyboard Switches Safely: 6-Step Guide"
 description: "Learn how to clean mechanical keyboard switches safely without damaging the PCB or internal contacts. Step-by-step guide for hot-swappable and soldered boards."
 pubDate: "2026-05-03"

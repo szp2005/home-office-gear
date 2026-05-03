@@ -1,4 +1,5 @@
 ---
+image: "/og/monitor-riser-with-integrated-wireless-charging-station.webp"
 title: "Best Monitor Riser With Integrated Wireless Charging Station"
 description: "Discover the top monitor risers with integrated wireless charging stations to reduce desk clutter, improve ergonomics, and keep your devices powered."
 pubDate: "2026-05-02"

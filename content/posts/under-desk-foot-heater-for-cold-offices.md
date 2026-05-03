@@ -1,4 +1,5 @@
 ---
+image: "/og/under-desk-foot-heater-for-cold-offices.webp"
 title: "Best Under Desk Foot Heater for Cold Offices in 2026"
 description: "Discover the best under desk foot heater for cold offices. Compare energy-efficient, safe, and silent models to stay warm and productive at work."
 pubDate: "2026-05-03"

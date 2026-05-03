@@ -1,4 +1,5 @@
 ---
+image: "/og/programmable-keypad-for-stream-deck-alternatives-2026.webp"
 title: "Best Programmable Keypad for Stream Deck Alternatives in 2026"
 description: "Discover the top programmable keypads and Stream Deck alternatives in 2026. Compare macro pads, touchscreens, and budget choices for your setup."
 pubDate: "2026-05-02"

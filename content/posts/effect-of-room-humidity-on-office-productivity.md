@@ -1,4 +1,5 @@
 ---
+image: "/og/effect-of-room-humidity-on-office-productivity.webp"
 title: "Effect of Room Humidity on Office Productivity: 2026 Guide"
 description: "Discover the surprising effect of room humidity on office productivity. Learn the optimal humidity range to boost focus, reduce illness, and improve work."
 pubDate: "2026-05-03"

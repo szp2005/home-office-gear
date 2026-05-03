@@ -1,4 +1,5 @@
 ---
+image: "/og/best-under-desk-drawer-for-cable-management.webp"
 title: "7 Best Under Desk Drawers for Cable Management (2026 Review)"
 description: "Organize your workspace and hide messy wires with the best under desk drawers for cable management. We review top picks for sturdiness, size, and routing."
 pubDate: "2026-05-02"

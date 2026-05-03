@@ -1,4 +1,5 @@
 ---
+image: "/og/triple-monitor-mount-for-home-office-setup.webp"
 title: "Best Triple Monitor Mounts for Home Office Setups in 2026"
 description: "Upgrade your productivity with the best triple monitor mount for home office setups. Compare top desk stands, arm styles, and ergonomic configurations."
 pubDate: "2026-05-02"

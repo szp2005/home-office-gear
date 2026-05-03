@@ -1,4 +1,5 @@
 ---
+image: "/og/preventing-wrist-extension-with-low-profile-keyboards.webp"
 title: "How to Prevent Wrist Extension With Low Profile Keyboards"
 description: "Discover effective strategies for preventing wrist extension with low profile keyboards. Learn ergonomic setups to eliminate pain and type comfortably all day."
 pubDate: "2026-05-03"

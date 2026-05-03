@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-reduce-glare-from-office-windows.webp"
 title: "How to Reduce Glare From Office Windows: 7 Effective Solutions"
 description: "Learn how to reduce glare from office windows with practical solutions like solar films, smart blinds, and monitor repositioning for better productivity."
 pubDate: "2026-05-02"

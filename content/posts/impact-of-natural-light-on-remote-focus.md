@@ -1,4 +1,5 @@
 ---
+image: "/og/impact-of-natural-light-on-remote-focus.webp"
 title: "Impact of Natural Light on Remote Focus: Complete Guide"
 description: "Master the impact of natural light on remote focus. Optimize your home office lighting setup to reduce eye strain, eliminate brain fog, and boost productivity."
 pubDate: "2026-05-02"

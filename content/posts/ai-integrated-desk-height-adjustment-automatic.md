@@ -1,4 +1,5 @@
 ---
+image: "/og/ai-integrated-desk-height-adjustment-automatic.webp"
 title: "Best AI-Integrated Desk: Height Adjustment Automatic Systems 2026"
 description: "Compare the top standing desks featuring AI-integrated desk height adjustment automatic capabilities. Improve posture and productivity with smart ergonomics."
 pubDate: "2026-05-02"

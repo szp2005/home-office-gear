@@ -1,4 +1,5 @@
 ---
+image: "/og/benefits-of-lumbar-support-for-spinal-health.webp"
 title: "Benefits of Lumbar Support for Spinal Health Complete Guide"
 description: "Discover the essential benefits of lumbar support for spinal health. Learn how proper lower back alignment prevents chronic pain and improves sitting posture."
 pubDate: "2026-05-02"

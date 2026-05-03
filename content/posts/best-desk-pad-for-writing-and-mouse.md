@@ -1,4 +1,5 @@
 ---
+image: "/og/best-desk-pad-for-writing-and-mouse.webp"
 title: "Best Desk Pad for Writing and Mouse Use in 2026"
 description: "Discover the best desk pad for writing and mouse tracking. Compare top linoleum, leather, and synthetic mats for a smooth, highly productive workspace setup."
 pubDate: "2026-05-02"

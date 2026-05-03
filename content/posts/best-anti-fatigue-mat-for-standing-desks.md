@@ -1,4 +1,5 @@
 ---
+image: "/og/best-anti-fatigue-mat-for-standing-desks.webp"
 title: "7 Best Anti Fatigue Mats for Standing Desks in 2026"
 description: "Discover the best anti fatigue mats for standing desks. We review top picks for comfort, durability, and budget to keep you pain-free while working."
 pubDate: "2026-05-03"

@@ -1,4 +1,5 @@
 ---
+image: "/og/vertical-mouse-for-carpal-tunnel-2026.webp"
 title: "Best Vertical Mouse for Carpal Tunnel in 2026: Ergonomic Picks"
 description: "Looking for the best vertical mouse for carpal tunnel in 2026? Discover top ergonomic mice to reduce wrist pain, improve posture, and boost productivity."
 pubDate: "2026-05-02"

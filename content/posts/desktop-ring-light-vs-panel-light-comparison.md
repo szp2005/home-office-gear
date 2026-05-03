@@ -1,4 +1,5 @@
 ---
+image: "/og/desktop-ring-light-vs-panel-light-comparison.webp"
 title: "Desktop Ring Light vs Panel Light Comparison: Which Is Best for You?"
 description: "Confused about desktop lighting? Read our desktop ring light vs panel light comparison to find the best setup for video calls, streaming, and content creation."
 pubDate: "2026-05-03"

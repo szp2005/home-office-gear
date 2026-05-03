@@ -1,4 +1,5 @@
 ---
+image: "/og/best-air-purifier-for-small-office-spaces.webp"
 title: "Best Air Purifiers for Small Office Spaces in 2026"
 description: "Discover the best air purifier for small office spaces. We review top HEPA models to eliminate dust, odors, and VOCs to keep your workspace healthy."
 pubDate: "2026-05-02"

@@ -1,4 +1,5 @@
 ---
+image: "/og/guide-to-under-desk-foot-hammock-benefits.webp"
 title: "Guide to Under Desk Foot Hammock Benefits: Ergonomic Relief"
 description: "Discover the complete guide to under desk foot hammock benefits. Learn how foot elevation improves circulation, reduces lower back pain, and boosts work focus."
 pubDate: "2026-05-03"

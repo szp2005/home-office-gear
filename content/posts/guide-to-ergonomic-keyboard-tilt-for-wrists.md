@@ -1,4 +1,5 @@
 ---
+image: "/og/guide-to-ergonomic-keyboard-tilt-for-wrists.webp"
 title: "Guide to Ergonomic Keyboard Tilt for Wrists: Setup Rules"
 description: "Master your workspace with this complete guide to ergonomic keyboard tilt for wrists. Discover the exact angles to reduce pain, prevent RSI, and improve."
 pubDate: "2026-05-02"

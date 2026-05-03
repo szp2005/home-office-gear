@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-style-a-professional-zoom-background.webp"
 title: "How to Style a Professional Zoom Background: 7-Step Guide"
 description: "Learn how to style a professional Zoom background that builds trust and authority. Discover lighting tips, background setups, and decor strategies for video calls."
 pubDate: "2026-05-02"

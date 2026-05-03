@@ -1,4 +1,5 @@
 ---
+image: "/og/magnetic-cable-management-sleeves-for-desk-legs.webp"
 title: "Best Magnetic Cable Management Sleeves for Desk Legs in 2026"
 description: "Discover the top magnetic cable management sleeves for metal desk legs to hide wires instantly. Compare sizes, magnetic strength, and ease of installation."
 pubDate: "2026-05-02"

@@ -1,4 +1,5 @@
 ---
+image: "/og/heavy-duty-office-chair-for-long-hours.webp"
 title: "Best Heavy Duty Office Chair for Long Hours (2026 Guide)"
 description: "Find the best heavy duty office chair for long hours. Compare weight capacities, ergonomic support, and durability specs to eliminate back pain for good."
 pubDate: "2026-05-02"

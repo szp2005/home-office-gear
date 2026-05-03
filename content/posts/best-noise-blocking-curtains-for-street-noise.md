@@ -1,4 +1,5 @@
 ---
+image: "/og/best-noise-blocking-curtains-for-street-noise.webp"
 title: "Best Noise Blocking Curtains for Street Noise in 2026"
 description: "Discover the best noise blocking curtains for street noise. We compare top heavyweight soundproof drapes to help you block out traffic and sleep peacefully."
 pubDate: "2026-05-02"

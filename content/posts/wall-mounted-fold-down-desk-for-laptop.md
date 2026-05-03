@@ -1,4 +1,5 @@
 ---
+image: "/og/wall-mounted-fold-down-desk-for-laptop.webp"
 title: "Best Wall Mounted Fold Down Desk for Laptop in 2026: Top Space-Saving Picks"
 description: "Discover the best wall mounted fold down desk for laptop setups. Compare top floating desks for small spaces, with buying tips for home office and bedroom."
 pubDate: "2026-05-02"

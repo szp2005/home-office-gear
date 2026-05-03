@@ -1,4 +1,5 @@
 ---
+image: "/og/buy-adjustable-under-desk-storage-shelf-2026.webp"
 title: "Best Adjustable Under Desk Storage Shelf to Buy in 2026"
 description: "Looking to buy an adjustable under desk storage shelf in 2026? Discover the top ergonomic models, weight capacities, and installation tips for your home office."
 pubDate: "2026-05-03"

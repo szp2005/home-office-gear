@@ -1,4 +1,5 @@
 ---
+image: "/og/mesh-vs-leather-office-chair-for-durability.webp"
 title: "Mesh vs Leather Office Chair for Durability: Which Is Better?"
 description: "Wondering about mesh vs leather office chair for durability? We compare the lifespan, wear-and-tear resistance, and maintenance of both to help you decide."
 pubDate: "2026-05-02"

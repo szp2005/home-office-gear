@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-soundproof-a-home-office-window.webp"
 title: "How to Soundproof a Home Office Window: 7-Step Guide"
 description: "Learn how to soundproof a home office window effectively. Discover practical DIY methods and professional solutions to block outside noise and boost productivity."
 pubDate: "2026-05-02"

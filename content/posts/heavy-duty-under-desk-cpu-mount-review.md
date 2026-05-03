@@ -1,4 +1,5 @@
 ---
+image: "/og/heavy-duty-under-desk-cpu-mount-review.webp"
 title: "Best Heavy Duty Under Desk CPU Mounts in 2026: A Full Review"
 description: "Need to clear up desk space? Discover our top picks in this heavy duty under desk CPU mount review. We compare stability, weight limits, and ease of installation."
 pubDate: "2026-05-03"

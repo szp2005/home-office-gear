@@ -1,4 +1,5 @@
 ---
+image: "/og/sustainable-home-office-furniture-2026.webp"
 title: "Sustainable Home Office Furniture 2026: Complete Eco-Friendly Guide"
 description: "Discover the best sustainable home office furniture in 2026. Learn how to choose eco-friendly desks and chairs that boost productivity and protect the planet."
 pubDate: "2026-05-01"

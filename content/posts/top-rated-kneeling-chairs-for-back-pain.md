@@ -1,4 +1,5 @@
 ---
+image: "/og/top-rated-kneeling-chairs-for-back-pain.webp"
 title: "7 Top Rated Kneeling Chairs for Back Pain in 2026"
 description: "Looking for real relief? Compare the top rated kneeling chairs for back pain. We review ergonomic models, posture benefits, and find your perfect desk setup."
 pubDate: "2026-05-02"

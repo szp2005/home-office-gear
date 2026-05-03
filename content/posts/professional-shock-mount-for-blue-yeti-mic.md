@@ -1,4 +1,5 @@
 ---
+image: "/og/professional-shock-mount-for-blue-yeti-mic.webp"
 title: "Best Professional Shock Mount for Blue Yeti Mic in 2026"
 description: "Discover the top professional shock mount for your Blue Yeti mic. Eliminate desk vibrations, improve audio clarity, and upgrade your studio recording setup."
 pubDate: "2026-05-03"

@@ -1,4 +1,5 @@
 ---
+image: "/og/best-trackball-mouse-for-wrist-pain-2026.webp"
 title: "Best Trackball Mouse for Wrist Pain in 2026: Top Ergonomic Picks"
 description: "Discover the best trackball mouse for wrist pain in 2026. Compare top ergonomic models designed to reduce RSI, alleviate strain, and improve daily comfort."
 pubDate: "2026-05-02"

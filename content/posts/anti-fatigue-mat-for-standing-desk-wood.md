@@ -1,4 +1,5 @@
 ---
+image: "/og/anti-fatigue-mat-for-standing-desk-wood.webp"
 title: "Best Anti Fatigue Mat for Standing Desk on Wood Floors in 2026"
 description: "Protect your hardwood and your joints. Discover the best anti fatigue mat for a standing desk on wood floors, including wood-grain finishes and non-slip bases."
 pubDate: "2026-05-02"

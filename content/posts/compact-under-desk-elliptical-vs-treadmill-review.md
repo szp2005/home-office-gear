@@ -1,4 +1,5 @@
 ---
+image: "/og/compact-under-desk-elliptical-vs-treadmill-review.webp"
 title: "Compact Under Desk Elliptical vs Treadmill Review for 2026"
 description: "Read our comprehensive compact under desk elliptical vs treadmill review. Compare pros, cons, calories burned, and top picks to elevate your workspace."
 pubDate: "2026-05-03"

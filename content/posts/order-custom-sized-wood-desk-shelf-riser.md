@@ -1,4 +1,5 @@
 ---
+image: "/og/order-custom-sized-wood-desk-shelf-riser.webp"
 title: "Order Custom Sized Wood Desk Shelf Riser: Complete Buyer Guide"
 description: "Ready to order custom sized wood desk shelf riser upgrades? Learn how to measure, choose wood types, and select the perfect dimensions for your workspace."
 pubDate: "2026-05-03"

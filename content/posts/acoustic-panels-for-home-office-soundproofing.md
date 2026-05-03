@@ -1,4 +1,5 @@
 ---
+image: "/og/acoustic-panels-for-home-office-soundproofing.webp"
 title: "Best Acoustic Panels for Home Office Soundproofing in 2026"
 description: "Discover the best acoustic panels for home office soundproofing. Reduce echo, block background noise, and upgrade your workspace with our top picks."
 pubDate: "2026-05-02"

@@ -1,4 +1,5 @@
 ---
+image: "/og/benefits-of-ortho-linear-keyboards-for-typing-speed.webp"
 title: "Ortho-Linear Keyboards for Typing Speed: A Complete Guide to Ergonomic Efficiency"
 description: "Discover the true benefits of ortho-linear keyboards for typing speed. Learn how grid layouts reduce finger travel, prevent fatigue, and boost your WPM."
 pubDate: "2026-05-03"

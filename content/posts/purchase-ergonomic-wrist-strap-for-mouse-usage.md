@@ -1,4 +1,5 @@
 ---
+image: "/og/purchase-ergonomic-wrist-strap-for-mouse-usage.webp"
 title: "Purchase Ergonomic Wrist Strap for Mouse Usage: 2026 Guide"
 description: "Looking to purchase ergonomic wrist strap for mouse usage? Discover the top-rated models, key features to look for, and how they prevent RSI pain."
 pubDate: "2026-05-03"

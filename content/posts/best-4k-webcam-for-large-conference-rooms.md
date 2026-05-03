@@ -1,4 +1,5 @@
 ---
+image: "/og/best-4k-webcam-for-large-conference-rooms.webp"
 title: "Best 4K Webcam for Large Conference Rooms in 2026"
 description: "Looking for the best 4k webcam for large conference rooms? We review the top PTZ and AI video bars to help your team run flawless meetings in 2026."
 pubDate: "2026-05-02"

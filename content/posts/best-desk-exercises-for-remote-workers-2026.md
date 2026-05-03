@@ -1,4 +1,5 @@
 ---
+image: "/og/best-desk-exercises-for-remote-workers-2026.webp"
 title: "Best Desk Exercises for Remote Workers in 2026: Gear Review"
 description: "Discover the best desk exercises for remote workers in 2026. We review top under-desk equipment and no-gear routines to boost your home office fitness."
 pubDate: "2026-05-02"

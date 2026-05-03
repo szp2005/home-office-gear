@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-mount-tablet-as-second-monitor.webp"
 title: "How to Mount Tablet as Second Monitor: 5-Step Setup Guide"
 description: "Learn how to mount your tablet as a second monitor to boost productivity. Discover the best mounting hardware, software apps, and ergonomic setups."
 pubDate: "2026-05-03"

@@ -1,4 +1,5 @@
 ---
+image: "/og/why-use-a-desk-pad-with-felt.webp"
 title: "Why Use a Desk Pad With Felt? Complete Workspace Comfort Guide"
 description: "Discover exactly why use a desk pad with felt for your home office. Learn about acoustic benefits, ergonomic warmth, desk protection, and choosing the right pad."
 pubDate: "2026-05-03"

@@ -1,4 +1,5 @@
 ---
+image: "/og/heavy-duty-vibration-isolation-mic-mount.webp"
 title: "Best Heavy-Duty Vibration Isolation Mic Mounts in 2026"
 description: "Discover the top heavy-duty vibration isolation mic mounts to eliminate desk rumble and handling noise. We review the best shock mounts for heavy microphones."
 pubDate: "2026-05-01"

@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-mount-cpu-under-standing-desk.webp"
 title: "How to Mount CPU Under Standing Desk: 5-Step Guide"
 description: "Learn how to safely mount a CPU under your standing desk. Our complete guide covers bracket selection, weight limits, and step-by-step installation instructions."
 pubDate: "2026-05-02"

@@ -1,4 +1,5 @@
 ---
+image: "/og/best-under-desk-cable-tray-for-wide-desks.webp"
 title: "Best Under Desk Cable Tray for Wide Desks in 2026"
 description: "Discover the best under desk cable tray for wide desks to organize massive wire setups. Compare top picks for heavy duty loads and easy installation."
 pubDate: "2026-05-02"

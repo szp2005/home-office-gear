@@ -1,4 +1,5 @@
 ---
+image: "/og/ideal-screen-height-for-preventing-neck-strain.webp"
 title: "The Ideal Screen Height for Preventing Neck Strain: Complete Guide"
 description: "Discover the ideal screen height for preventing neck strain. Learn ergonomic monitor placement, precise desk setup dimensions, and posture adjustments."
 pubDate: "2026-05-02"

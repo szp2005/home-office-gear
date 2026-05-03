@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-calibrate-monitor-for-creative-work.webp"
 title: "How to Calibrate Monitor for Creative Work: Complete 5-Step Guide"
 description: "Learn exactly how to calibrate monitor for creative work. This complete guide covers colorimeters, target settings, and achieving perfect color accuracy."
 pubDate: "2026-05-02"

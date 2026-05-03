@@ -1,4 +1,5 @@
 ---
+image: "/og/best-monitor-riser-for-heavy-glass-desks.webp"
 title: "5 Best Monitor Risers for Heavy Glass Desks (2026 Review)"
 description: "Protect your fragile workspace. Discover the best monitor riser for heavy glass desks with our top picks focusing on weight distribution and scratch prevention."
 pubDate: "2026-05-03"

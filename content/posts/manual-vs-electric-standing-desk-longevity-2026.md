@@ -1,4 +1,5 @@
 ---
+image: "/og/manual-vs-electric-standing-desk-longevity-2026.webp"
 title: "Manual vs Electric Standing Desk Longevity 2026: Which Lasts?"
 description: "Compare manual vs electric standing desk longevity in 2026 to make the best workspace investment. Discover which frame type offers maximum durability and ROI."
 pubDate: "2026-05-02"

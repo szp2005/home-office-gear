@@ -1,4 +1,5 @@
 ---
+image: "/og/best-wireless-ergonomic-keyboard-for-mac-users.webp"
 title: "Best Wireless Ergonomic Keyboard for Mac Users in 2026"
 description: "Discover the best wireless ergonomic keyboard for Mac users. Compare top split, curved, and mechanical options to eliminate wrist pain and boost typing comfort."
 pubDate: "2026-05-03"

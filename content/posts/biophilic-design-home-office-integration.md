@@ -1,4 +1,5 @@
 ---
+image: "/og/biophilic-design-home-office-integration.webp"
 title: "Biophilic Design Home Office Integration: A Complete 2026 Guide"
 description: "Master Biophilic Design home office integration to reduce daily stress and boost productivity. Learn actionable strategies for lighting, plants, and airflow."
 pubDate: "2026-05-02"

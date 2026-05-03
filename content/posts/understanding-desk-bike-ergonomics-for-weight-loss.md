@@ -1,4 +1,5 @@
 ---
+image: "/og/understanding-desk-bike-ergonomics-for-weight-loss.webp"
 title: "Understanding Desk Bike Ergonomics for Weight Loss: Complete Guide"
 description: "Master understanding desk bike ergonomics for weight loss to maximize calorie burn, prevent knee strain, and build a sustainable active workstation routine."
 pubDate: "2026-05-03"

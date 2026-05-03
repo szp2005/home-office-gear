@@ -1,4 +1,5 @@
 ---
+image: "/og/pros-and-cons-of-saddle-chairs-ergonomics.webp"
 title: "Pros and Cons of Saddle Chairs Ergonomics: Complete Guide"
 description: "Discover the pros and cons of saddle chairs ergonomics. Learn how equestrian-style seating impacts posture, core strength, and back pain relief."
 pubDate: "2026-05-02"

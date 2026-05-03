@@ -1,4 +1,5 @@
 ---
+image: "/og/quiet-luxury-office-decor-ideas.webp"
 title: "Quiet Luxury Office Decor Ideas: Complete Guide to Premium Workspaces"
 description: "Discover quiet luxury office decor ideas that blend premium materials, neutral palettes, and intentional design to create a refined, highly productive workspace."
 pubDate: "2026-05-01"

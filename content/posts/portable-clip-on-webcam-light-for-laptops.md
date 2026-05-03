@@ -1,4 +1,5 @@
 ---
+image: "/og/portable-clip-on-webcam-light-for-laptops.webp"
 title: "Best Portable Clip On Webcam Light for Laptops in 2026"
 description: "Upgrade your video calls with the best portable clip on webcam light for laptops. We review top picks for remote workers, streamers, and business travelers."
 pubDate: "2026-05-03"

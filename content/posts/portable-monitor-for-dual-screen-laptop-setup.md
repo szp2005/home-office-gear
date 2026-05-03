@@ -1,4 +1,5 @@
 ---
+image: "/og/portable-monitor-for-dual-screen-laptop-setup.webp"
 title: "Best Portable Monitor for Dual Screen Laptop Setup in 2026"
 description: "Looking for the best portable monitor for dual screen laptop setup? Compare top lightweight, high-res displays to boost your remote work productivity anywhere."
 pubDate: "2026-05-02"

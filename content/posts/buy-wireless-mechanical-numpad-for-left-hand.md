@@ -1,4 +1,5 @@
 ---
+image: "/og/buy-wireless-mechanical-numpad-for-left-hand.webp"
 title: "How to Buy Wireless Mechanical Numpad for Left Hand Setup"
 description: "Looking to buy wireless mechanical numpad for left hand use? Discover the top models, switch options, and ergonomic setups to boost your productivity today."
 pubDate: "2026-05-03"
