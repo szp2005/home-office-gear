@@ -23,7 +23,7 @@ This guide details the exact specifications, wood species characteristics, and s
 
 ## Why Exact Dimensions Dictate Workspace Ergonomics
 
-The primary function of a desk shelf is ergonomic correction. Most factory-issued monitor stands position the screen too low, forcing you to crane your neck downward. Over a standard eight-hour workday, this forward-head posture places severe mechanical stress on your cervical spine. 
+The primary function of a desk shelf is ergonomic correction. Most factory-issued monitor stands position the screen too low, forcing you to crane your neck downward. Over a standard eight-hour workday, this forward-head posture places severe mechanical stress on your cervical spine.
 
 Ergonomic guidelines dictate that the top third of your monitor screen should sit precisely at eye level when you are seated with your feet flat on the floor and your arms resting at a 90-degree angle. Because human torsos, desk heights, and chair cylinders vary wildly, a standardized 4-inch riser will not work for everyone. 
 
@@ -35,7 +35,7 @@ Providing a woodworker or manufacturer with arbitrary numbers will result in a f
 
 ### Calculating the Ideal Width
 
-Your shelf width should bridge the gap between aesthetic balance and functional necessity. 
+Your shelf width should bridge the gap between aesthetic balance and functional necessity.
 *   **The Edge-to-Edge Approach:** For smaller desks (under 42 inches), ordering a shelf that matches the exact width of your desk maximizes surface area. 
 *   **The Inset Approach:** For medium to large desks (48 to 72 inches), the most visually pleasing measurement leaves 2 to 4 inches of clearance on either side. If your desk is 60 inches wide, a 54-inch custom riser provides ample room for dual monitors while leaving space on the desk perimeter for a desk lamp or headphone stand.
 
@@ -48,7 +48,7 @@ Depth is the most critical functional measurement. If the shelf is too shallow, 
 
 ### Finding Your Ergonomic Height
 
-To determine the custom height of your riser, measure the distance from your desk surface to your eye level. Next, measure the distance from the base of your monitor to the top third of the screen. Subtract the monitor height from your eye-level height. The resulting number is the exact clearance you need. 
+To determine the custom height of your riser, measure the distance from your desk surface to your eye level. Next, measure the distance from the base of your monitor to the top third of the screen. Subtract the monitor height from your eye-level height. The resulting number is the exact clearance you need.
 
 You must also consider what you plan to store underneath. 
 *   **Low Clearance (2.5 to 3 inches):** Perfect for slipping a mechanical keyboard (like a Keychron or Wooting) and a mouse out of sight. 
@@ -76,7 +76,7 @@ Cherry wood begins as a light pinkish-brown but dramatically darkens and deepens
 
 ## Weight Capacity and Leg Support Options
 
-The physical physics of a desk shelf cannot be ignored. A 49-inch ultrawide monitor can weigh over 30 pounds, and professional studio monitor speakers add another 15 to 20 pounds each. 
+The physical physics of a desk shelf cannot be ignored. A 49-inch ultrawide monitor can weigh over 30 pounds, and professional studio monitor speakers add another 15 to 20 pounds each.
 
 ### Wood Thickness and Sag Prevention
 
@@ -139,3 +139,9 @@ Shelves finished with hardwax oils (like Rubio Monocoat) may require a light rea
 
 ### Will a custom desk shelf scratch my current desktop?
 It will not scratch your desk as long as the base of the riser legs is properly padded. Always verify that your builder includes high-quality natural cork or dense wool felt pads on the bottom of the shelf legs before placing it on your desk.
+
+---
+
+## Related Reading
+
+- [Wireless Mechanical Numpad: Left Hand Setup Buyer's Guide](/posts/buy-wireless-mechanical-numpad-for-left-hand/)

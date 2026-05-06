@@ -79,7 +79,7 @@ To make an informed purchasing decision, it is essential to compare these two te
 
 ### Sensitivity and Background Noise
 
-Sensitivity refers to how efficiently a microphone converts acoustic energy into electric voltage. Condenser microphones have very high sensitivity ratings (often around -30 dBV/Pa to -40 dBV/Pa). This means they require very little acoustic energy to produce a strong signal, making them perfect for quiet sound sources or distant miking. 
+Sensitivity refers to how efficiently a microphone converts acoustic energy into electric voltage. Condenser microphones have very high sensitivity ratings (often around -30 dBV/Pa to -40 dBV/Pa). This means they require very little acoustic energy to produce a strong signal, making them perfect for quiet sound sources or distant miking.
 
 Dynamic microphones have low sensitivity (typically around -50 dBV/Pa to -60 dBV/Pa). Because they require significantly more air pressure to generate a signal, they inherently ignore distant or quiet sounds. This acoustic characteristic is why dynamic mics are strictly preferred for podcasters working out of bedrooms or offices without soundproofed walls.
 
@@ -91,7 +91,7 @@ Dynamic microphones typically experience a rapid drop-off in high frequencies, o
 
 ### Proximity Effect Management
 
-Both dynamic and condenser microphones featuring directional polar patterns (like Cardioid) exhibit the proximity effect: an artificial boost in low-frequency bass response when the sound source moves very close to the capsule. 
+Both dynamic and condenser microphones featuring directional polar patterns (like Cardioid) exhibit the proximity effect: an artificial boost in low-frequency bass response when the sound source moves very close to the capsule.
 
 Dynamic microphones are often explicitly designed to leverage this effect. Broadcast dynamics like the Electro-Voice RE20 or Shure SM7B utilize the proximity effect to give voices that deep, resonant, "Voice of God" authority. Condenser microphones also exhibit this effect, but because their baseline frequency response is already so wide and detailed, getting too close to a condenser can result in an overwhelmingly muddy or boomy recording that requires aggressive equalization to fix.
 

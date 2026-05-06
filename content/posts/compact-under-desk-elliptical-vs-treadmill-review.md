@@ -26,12 +26,12 @@ This compact under desk elliptical vs treadmill review breaks down the mechanica
 Both devices aim to increase non-exercise activity thermogenesis (NEAT)—the energy expended for everything we do that is not sleeping, eating, or sports-like exercise. However, they achieve this through entirely different mechanical pathways.
 
 ### The Physiology of Seated Pedaling
-Under-desk ellipticals operate on a closed-kinetic-chain principle. Your feet remain in constant contact with the pedals, eliminating impact forces on the ankles, knees, and hips. This makes them highly accessible for users recovering from injuries or those dealing with osteoarthritis. 
+Under-desk ellipticals operate on a closed-kinetic-chain principle. Your feet remain in constant contact with the pedals, eliminating impact forces on the ankles, knees, and hips. This makes them highly accessible for users recovering from injuries or those dealing with osteoarthritis.
 
 Because you are seated, your heart rate elevates only marginally above your resting baseline—typically entering Zone 1 (50-60% of maximum heart rate). The primary physiological benefit is enhanced lower-body circulation. Pumping the calves and thighs helps push venous blood back to the heart, mitigating the swelling and blood pooling often experienced after eight hours in a chair. Caloric expenditure is modest, generally ranging from 100 to 150 calories per hour depending on resistance levels.
 
 ### The Biomechanics of Desk Walking
-Walking on a treadmill engages the entire body. It requires balance, core activation, and the continuous firing of the glutes and hamstrings. Because you must support your full body weight, the cardiovascular demand is higher. Even at a modest pace of 1.5 miles per hour, heart rates frequently reach the upper end of Zone 1 or the lower end of Zone 2. 
+Walking on a treadmill engages the entire body. It requires balance, core activation, and the continuous firing of the glutes and hamstrings. Because you must support your full body weight, the cardiovascular demand is higher. Even at a modest pace of 1.5 miles per hour, heart rates frequently reach the upper end of Zone 1 or the lower end of Zone 2.
 
 The calorie burn is substantially higher—averaging 150 to 250 calories per hour for most adults. More importantly, walking alters your skeletal alignment. It opens up the hip flexors, which chronically tighten during sitting, and forces the spine into a more neutral, stacked position. The trade-off is mechanical impact. While walking is low-impact compared to running, thousands of steps on a rigid belt can cause foot or knee fatigue, particularly if done in non-supportive footwear.
 
@@ -39,7 +39,7 @@ The calorie burn is substantially higher—averaging 150 to 250 calories per hou
 
 Under-desk ellipticals are defined by their low profile and quiet operation. When evaluating these machines, the key metrics are the height of the pedal apex (to ensure knee clearance under standard desks), resistance mechanics (magnetic is vastly superior to friction), and overall stability.
 
-### 1. [Cubii Go](https://www.amazon.com/s?k=Cubii%20Go&tag=gear.toolrouteai-20)
+### 1. Cubii Go
 
 **Best for:** Shared workspaces and portability
 **Price:** $250-$300
@@ -56,7 +56,7 @@ The Cubii Go is widely recognized as one of the smoothest, quietest seated ellip
 - Lower caloric expenditure compared to standing movement
 - Premium price point for a seated pedaler
 
-### 2. [DeskCycle 2](https://www.amazon.com/s?k=DeskCycle%202&tag=gear.toolrouteai-20)
+### 2. DeskCycle 2
 
 **Best for:** Intense resistance and taller users
 **Price:** $190-$220
@@ -77,7 +77,7 @@ While technically a compact pedal exerciser rather than a true elliptical, the D
 
 Also known as walking pads, these treadmills omit the handrails and bulky consoles of traditional gym treadmills. They are designed strictly for walking, usually maxing out at 3 to 4 miles per hour. Key considerations include the motor's continuous duty horsepower (CHP), deck length, and noise output.
 
-### 1. [WalkingPad C2 Mini Foldable Treadmill](https://www.amazon.com/s?k=WalkingPad%20C2%20Mini%20Foldable%20Treadmill&tag=gear.toolrouteai-20)
+### 1. WalkingPad C2 Mini Foldable Treadmill
 
 **Best for:** Small apartments and tight storage
 **Price:** $400-$450
@@ -94,7 +94,7 @@ The WalkingPad C2 solves the biggest problem with home office treadmills: footpr
 - The hinge mechanism can be felt slightly underfoot
 - Belt is relatively narrow, requiring focused walking
 
-### 2. [UREVO 2 in 1 Under Desk Treadmill](https://www.amazon.com/s?k=UREVO%202%20in%201%20Under%20Desk%20Treadmill&tag=gear.toolrouteai-20)
+### 2. UREVO 2 in 1 Under Desk Treadmill
 
 **Best for:** Budget-conscious buyers wanting durability
 **Price:** $250-$300
@@ -113,7 +113,7 @@ The UREVO 2 in 1 is a sturdy, reliable workhorse that delivers core walking pad 
 
 ## Workflow Integration and Practical Trade-offs
 
-Choosing the right device requires analyzing how you actually execute your daily tasks. Cognitive load and fine motor skills are heavily impacted by physical movement. 
+Choosing the right device requires analyzing how you actually execute your daily tasks. Cognitive load and fine motor skills are heavily impacted by physical movement.
 
 When you are seated and using an under-desk elliptical, your upper body remains entirely stationary. The pedaling motion is isolated to the lower extremities. This isolation is crucial for tasks requiring precise mouse movements—such as graphic design, video editing, or working extensively within dense spreadsheets. You can pedal at a moderate resistance while typing complex code or writing reports without any noticeable degradation in your output speed or accuracy. The elliptical demands almost zero cognitive bandwidth once the motion becomes habitual.
 

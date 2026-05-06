@@ -23,7 +23,7 @@ Understanding the structural differences between mesh and leather is critical to
 
 ## Understanding Material Lifespans in Office Chairs
 
-Durability in office seating is not a single metric; it is a combination of abrasion resistance, structural retention, and material degradation. When evaluating how long an office chair will last, you must consider the core properties of the material covering it. 
+Durability in office seating is not a single metric; it is a combination of abrasion resistance, structural retention, and material degradation. When evaluating how long an office chair will last, you must consider the core properties of the material covering it.
 
 Leather relies on its inherent natural strength and the underlying high-density foam for support. Its durability is surface-level, meaning the material itself must resist punctures, stretching, and chemical breakdown from sweat and skin oils. Mesh, on the other hand, operates as a suspension system. Its durability is structural. A mesh chair's lifespan is determined by the tensile strength of its woven fibers and their ability to repeatedly snap back to their original tautness without permanently stretching out of shape.
 
@@ -55,7 +55,7 @@ To determine which material will survive your specific environment, look at how 
 
 ## Top Durable Leather Office Chairs
 
-### 1. [Steelcase Leap (Leather Edition)](https://www.amazon.com/s?k=Steelcase%20Leap%20%28Leather%20Edition%29&tag=gear.toolrouteai-20)
+### 1. Steelcase Leap (Leather Edition)
 
 **Best for:** Premium ergonomic support and lifetime longevity
 **Price:** $1,400-$1,800
@@ -72,7 +72,7 @@ The leather version of the Steelcase Leap combines one of the industry's most ro
 - Significant upfront investment
 - Can trap heat during extended summer use in unconditioned rooms
 
-### 2. [X-Chair X4 Executive Leather Chair](https://www.amazon.com/s?k=X-Chair%20X4%20Executive%20Leather%20Chair&tag=gear.toolrouteai-20)
+### 2. X-Chair X4 Executive Leather Chair
 
 **Best for:** Executives seeking modern aesthetics and dynamic support
 **Price:** $1,100-$1,400
@@ -91,7 +91,7 @@ The X4 offers genuine leather construction paired with a dynamic variable lumbar
 
 ## Top Durable Mesh Office Chairs
 
-### 3. [Herman Miller Aeron](https://www.amazon.com/s?k=Herman%20Miller%20Aeron&tag=gear.toolrouteai-20)
+### 3. Herman Miller Aeron
 
 **Best for:** Ultimate breathability and suspension resilience
 **Price:** $1,200-$1,400
@@ -108,7 +108,7 @@ The Aeron uses a proprietary 8Z Pellicle elastomeric mesh that sets the standard
 - Hard plastic rim around the seat can restrict circulation if you sit cross-legged
 - Limited color options compared to traditional fabric chairs
 
-### 4. [Secretlab NeueChair](https://www.amazon.com/s?k=Secretlab%20NeueChair&tag=gear.toolrouteai-20)
+### 4. Secretlab NeueChair
 
 **Best for:** Heavy-duty aluminum frame on a mid-tier budget
 **Price:** $600-$700
@@ -135,7 +135,7 @@ For mesh chairs, the enemy is particulate matter and localized pressure. Dust, d
 
 ## Conclusion
 
-When deciding between a mesh vs leather office chair for durability, your budget dictates the victor. 
+When deciding between a mesh vs leather office chair for durability, your budget dictates the victor.
 
 If you are spending under $500, a mesh chair is the superior choice for durability. At this price point, any "leather" chair you find will almost certainly be made of bonded or PU leather, which is guaranteed to peel and flake within a few years, leaving you with an unsightly mess. A budget mesh chair might lose some tension over time, but it will not disintegrate in your office.
 

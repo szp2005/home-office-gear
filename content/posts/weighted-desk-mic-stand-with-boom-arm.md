@@ -43,7 +43,7 @@ The diameter of the base dictates the tipping point. A standard desk base diamet
 
 ### Boom Arm Reach and Telescoping Adjustability
 
-The boom arm is the horizontal extension that positions the microphone. Desk-based boom arms typically range from 16 inches to 30 inches (40 cm to 76 cm) in length. 
+The boom arm is the horizontal extension that positions the microphone. Desk-based boom arms typically range from 16 inches to 30 inches (40 cm to 76 cm) in length.
 
 Fixed-length booms are simple but limit placement options. Telescoping booms, which feature an inner shaft that slides out to extend the reach, offer the highest degree of precision. Look for models with a heavy-duty locking clutch mechanism at the pivot point. The clutch must grip firmly enough to hold a 2-pound microphone at a 45-degree angle without slowly drooping over the course of a two-hour recording session. Standard T-bar knobs provide adequate torque, but oversized ergonomic handles or interlocking gear teeth at the pivot joint guarantee the boom will not slip.
 
@@ -57,11 +57,11 @@ Microphone clips and shock mounts utilize specific thread sizing. The industry s
 
 ## Top Weighted Desk Mic Stands With Boom Arms
 
-Finding a stand designed explicitly for desktop use requires looking closely at low-profile models often categorized as kick drum or guitar amp stands. These short stands utilize the exact physics required for a heavy-duty [desk setup](/posts/how-to-choose-a-home-office-desk-size/).
+Finding a stand designed explicitly for desktop use requires looking closely at low-profile models often categorized as kick drum or guitar amp stands. These short stands utilize the exact physics required for a heavy-duty desk setup(/posts/how-to-choose-a-home-office-desk-size/).
 
 ### Gator Frameworks Short Weighted Base Stand
 
-The Gator Frameworks short mic stand represents the benchmark for desktop boom applications. It features an exceptionally heavy 6-inch cast-iron base, weighing approximately 5.5 lbs. The bottom is lined with a non-slip rubber gasket that minimizes desk vibration transfer. 
+The Gator Frameworks short mic stand represents the benchmark for desktop boom applications. It features an exceptionally heavy 6-inch cast-iron base, weighing approximately 5.5 lbs. The bottom is lined with a non-slip rubber gasket that minimizes desk vibration transfer.
 
 The vertical shaft adjusts from 10 inches to 15 inches, providing enough clearance to reach over monitors, while the 16-inch single-section boom arm provides enough reach to clear a keyboard. It uses standard 5/8" threading and includes cable management clips. Because the boom is relatively short, it handles heavy microphones like the Rode PodMic exceptionally well without requiring a rear counterweight.
 
@@ -79,13 +79,13 @@ The vertical height ranges from 8 to 14 inches, and the boom arm extends up to 2
 
 ### Hercules MS540B Low Profile Stand
 
-Hercules stands are easily recognizable by their distinct yellow accenting and robust build quality. The MS540B is unique due to its Quik-N-EZ Boom Retainer, which allows for instant attachment and removal of the boom arm from the vertical shaft without screwing threads. 
+Hercules stands are easily recognizable by their distinct yellow accenting and robust build quality. The MS540B is unique due to its Quik-N-EZ Boom Retainer, which allows for instant attachment and removal of the boom arm from the vertical shaft without screwing threads.
 
 It features a heavy H-base, which functions similarly to a U-base but offers four distinct contact points with the desk. The boom extends up to 31.5 inches, the longest in this tier. To balance this extreme reach, the base is heavily weighted, but you must still exercise caution and keep the primary weight vector aligned with the longest leg of the H-base to prevent tipping.
 
 ## Optimizing Desk Space and Placement Strategy
 
-Integrating a weighted boom stand into a desk environment requires strategic placement to maximize [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) and audio quality. 
+Integrating a weighted boom stand into a desk environment requires strategic placement to maximize ergonomics(/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) and audio quality.
 
 The optimal position for a weighted base is behind your primary monitor or slightly off to the side, at the 10 o'clock or 2 o'clock position relative to your sitting angle. By placing the heavy base near the rear edge of the desk, you free up the space directly in front of you for typing, writing, or operating a stream deck. 
 
@@ -121,3 +121,9 @@ A C-clamp arm saves desk surface space and offers greater articulating reach, bu
 
 ### Do I need a counterweight on my boom arm?
 If your boom arm extends further than 15 inches horizontally and you are using a microphone heavier than 1 lb, a counterweight on the rear of the boom is highly recommended. It balances the leverage, reduces strain on the pivot clutch, and prevents the stand from tipping forward.
+
+---
+
+## Related Reading
+
+- [Proper Ring Light Placement for Glasses Wearers: 5-Step Guide](/posts/proper-ring-light-placement-for-glasses-wearers/)

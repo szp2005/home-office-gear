@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-set-up-green-screen-background.webp"
-title: "How to Set Up Green Screen Background: 7-Step Guide for Flawless Chroma Key"
+title: "Green Screen Setup: 7 Steps for Flawless Chroma Key"
 description: "Learn how to set up a green screen background in 7 steps. Master lighting, wrinkle removal, and camera settings for a professional, flawless chroma key result."
 pubDate: "2026-05-03"
 author: "Sarah Miller"

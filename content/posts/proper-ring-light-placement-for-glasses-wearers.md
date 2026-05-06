@@ -66,7 +66,7 @@ Translating angles into physical desk setups can be difficult. Here are concrete
 
 ## Managing Dual Monitors and Ambient Light
 
-Often, glasses wearers successfully reposition their ring light, only to find that large rectangular glares are still dominating their lenses. In modern home offices, your monitor is actually a massive, flat LED light source. 
+Often, glasses wearers successfully reposition their ring light, only to find that large rectangular glares are still dominating their lenses. In modern home offices, your monitor is actually a massive, flat LED light source.
 
 If you are using dual 27-inch monitors, you have two giant light panels sitting directly on the zero-degree axis in front of you. To mitigate monitor glare, apply the exact same physics you used for the ring light. You cannot move the monitors 45 degrees away, but you can adjust their tilt. Physically tilt your monitors downward by just 3 to 5 degrees. Because you are looking slightly down at them, the light from the screen will reflect off your glasses and bounce upward toward the ceiling, missing the camera. 
 
@@ -84,7 +84,7 @@ If you require perfectly flat, even lighting, abandon the ring light altogether 
 
 ## Equipment Limitations and Lens Coatings
 
-It is important to note that the type of glasses you wear heavily influences how difficult this process will be. 
+It is important to note that the type of glasses you wear heavily influences how difficult this process will be.
 
 Lenses with high-quality Anti-Reflective (AR) coatings are dramatically easier to light. AR coatings are designed to allow more light to pass through the lens rather than bouncing off the surface. If you do not have an AR coating, your lenses act much closer to actual mirrors, requiring extreme angles (sometimes pushing the light 60 degrees laterally) to clear the glare. 
 

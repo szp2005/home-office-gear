@@ -23,7 +23,7 @@ While the standard advice is to purchase a footrest, most off-the-shelf models a
 
 ## The Biomechanics of Sitting for Tall Frames
 
-To understand what makes a footrest effective for longer legs, we must examine the specific stress points tall users encounter. 
+To understand what makes a footrest effective for longer legs, we must examine the specific stress points tall users encounter.
 
 When your femur (thigh bone) is longer than average, the depth of standard chair seat pans is often insufficient. This leaves a significant portion of your thigh unsupported. To compensate, tall workers tend to push their feet forward, extending their legs under the desk. If the floor is flat, the ankle must maintain a sharp, fatiguing angle to keep the sole of the foot grounded. Over an eight-hour workday, this static tension translates into calf stiffness, lower back pain, and a tendency to slouch forward to relieve the strain.
 
@@ -33,7 +33,7 @@ An ergonomic footrest acts as a bridge. By providing an angled surface, it allow
 
 Finding the right equipment requires navigating dimensions carefully. The following models have been selected specifically for their ability to support larger shoe sizes, heavier leg weights, and their low vertical footprints.
 
-### 1. [Humanscale FM300B Foot Machine](https://www.amazon.com/s?k=Humanscale%20FM300B%20Foot%20Machine&tag=gear.toolrouteai-20)
+### 1. Humanscale FM300B Foot Machine
 
 **Best for:** Dynamic movement and larger foot sizes
 **Price:** $130-$150
@@ -50,7 +50,7 @@ The Humanscale FM300B stands out for tall individuals primarily due to its fluid
 - Premium price point requires a larger investment
 - Considerably heavier than plastic alternatives, making it hard to kick out of the way
 
-### 2. [Kensington SmartFit SoleMate Plus](https://www.amazon.com/s?k=Kensington%20SmartFit%20SoleMate%20Plus&tag=gear.toolrouteai-20)
+### 2. Kensington SmartFit SoleMate Plus
 
 **Best for:** Highly customizable height and tilt angles
 **Price:** $55-$75
@@ -67,7 +67,7 @@ The Kensington SmartFit SoleMate Plus utilizes a proprietary color-coded system 
 - All-plastic build can feel less premium than metal or wood models
 - Foot pedal adjustment mechanism can be stiff and tricky to engage initially
 
-### 3. [Mount-It! Ergonomic Footrest with Massage Rollers](https://www.amazon.com/s?k=Mount-It%21%20Ergonomic%20Footrest%20with%20Massage%20Rollers&tag=gear.toolrouteai-20)
+### 3. Mount-It! Ergonomic Footrest with Massage Rollers
 
 **Best for:** Budget-conscious buyers needing free-floating angle adjustments
 **Price:** $25-$35
@@ -84,7 +84,7 @@ If you need functional workspace [ergonomics](/posts/how-to-choose-a-home-office
 - Lacks a locking mechanism if you prefer a static foot angle
 - Lightweight plastic base can slide on hard hardwood floors
 
-### 4. [ErgoFoam Adjustable Desk Foot Rest](https://www.amazon.com/s?k=ErgoFoam%20Adjustable%20Desk%20Foot%20Rest&tag=gear.toolrouteai-20)
+### 4. ErgoFoam Adjustable Desk Foot Rest
 
 **Best for:** Users who prefer soft support and work without shoes
 **Price:** $35-$45
@@ -106,7 +106,7 @@ The ErgoFoam footrest takes a fundamentally different approach by utilizing high
 When evaluating any ergonomic accessory as a tall user, standard marketing claims matter far less than exact dimensions. Before purchasing, take a tape measure to your current setup and evaluate potential footrests against these specific criteria.
 
 ### Minimum Height Profile
-The single most common mistake tall users make is buying a footrest that is too thick. If your fixed desk is 29 inches high, raising your feet by 5 inches means your knees will likely collide with your [keyboard tray](/posts/best-keyboard-tray-for-home-office-desk/) or desk drawers. Look for a footrest with a starting height of 3 inches or less. The goal is angle modification, not elevation. 
+The single most common mistake tall users make is buying a footrest that is too thick. If your fixed desk is 29 inches high, raising your feet by 5 inches means your knees will likely collide with your keyboard tray(/posts/best-keyboard-tray-for-home-office-desk/) or desk drawers. Look for a footrest with a starting height of 3 inches or less. The goal is angle modification, not elevation.
 
 ### Generous Surface Area
 Taller individuals generally have larger feet and naturally assume a wider stance for stability. A footrest that is too narrow forces you to hold your knees together, creating tension in the hips. Seek out platforms that are at least 16 inches wide and 11 inches deep. This ensures your entire foot is supported and you have the freedom to shift your stance laterally throughout the day.

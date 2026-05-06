@@ -34,7 +34,7 @@ Furthermore, relative humidity directly impacts the transmission of airborne par
 Low humidity (below 30%) is incredibly common during the winter months when central heating systems strip moisture from indoor air. Working in a deeply arid environment introduces immediate friction to knowledge work.
 
 ### Eye Strain and Screen Fatigue
-The most immediate casualty of low humidity in an office is visual stamina. When staring at a [monitor](/posts/best-portable-monitor-for-work-from-home/), the human blink rate drops from an average of 15-20 blinks per minute to just 4-7 blinks per minute. In an environment with optimal humidity, the tear film on the eye can withstand this reduced blink rate. 
+The most immediate casualty of low humidity in an office is visual stamina. When staring at a monitor(/posts/best-portable-monitor-for-work-from-home/), the human blink rate drops from an average of 15-20 blinks per minute to just 4-7 blinks per minute. In an environment with optimal humidity, the tear film on the eye can withstand this reduced blink rate.
 
 However, in an office with sub-30% relative humidity, the tear film evaporates up to 40% faster. This leads to corneal friction, inflammation, blurred vision, and headaches. Workers subconsciously respond to dry eyes by leaning closer to the monitor or taking frequent breaks, breaking their state of flow and drastically lowering output. 
 
@@ -119,3 +119,9 @@ Desktop humidifiers are highly effective for creating a localized microclimate a
 
 ### Does office humidity affect electronic equipment?
 Yes. Extremely low humidity (below 25%) increases the risk of electrostatic discharge, which can short-circuit motherboards and hard drives. Conversely, chronic high humidity (above 65%) can lead to microscopic condensation on internal cooling components, potentially causing corrosion over time.
+
+---
+
+## Related Reading
+
+- [Tablet as Second Monitor: 5-Step Setup & Mounting Guide](/posts/how-to-mount-tablet-as-second-monitor/)

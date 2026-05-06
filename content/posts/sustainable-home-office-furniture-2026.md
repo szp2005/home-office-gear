@@ -9,6 +9,8 @@ slug: "sustainable-home-office-furniture-2026"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Sustainable Home Office Furniture 2026: Complete Eco-Friendly Guide
 
 > **Quick Answer:** The shift toward sustainable home office furniture in 2026 prioritizes circular design, recycled materials (like ocean-bound plastics and reclaimed wood), and modularity to reduce waste. To build an eco-friendly workspace, focus on certified sustainable materials (FSC, GREENGUARD) and products designed for longevity and repairability rather than fast furniture.

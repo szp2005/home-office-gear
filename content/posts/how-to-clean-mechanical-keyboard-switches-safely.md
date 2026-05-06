@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-clean-mechanical-keyboard-switches-safely.webp"
-title: "How to Clean Mechanical Keyboard Switches Safely: 6-Step Guide"
+title: "Mechanical Keyboard Switch Cleaning: Safe 6-Step Guide"
 description: "Learn how to clean mechanical keyboard switches safely without damaging the PCB or internal contacts. Step-by-step guide for hot-swappable and soldered boards."
 pubDate: "2026-05-03"
 author: "Sarah Miller"
@@ -26,7 +26,7 @@ Whether you are dealing with a hot-swappable custom build or a pre-built board w
 Before gathering your cleaning supplies, you must determine how your keyboard is constructed. The cleaning method drastically differs depending on whether your switches are soldered to the PCB or socketed.
 
 ### Hot-Swappable Keyboards
-Hot-swappable keyboards feature special sockets (like Kailh or Gateron sockets) on the PCB. This allows you to pull the switches out using a specialized tool without desoldering anything. If you have a hot-swappable board, you can perform a deep, comprehensive clean by opening the individual switch housings. 
+Hot-swappable keyboards feature special sockets (like Kailh or Gateron sockets) on the PCB. This allows you to pull the switches out using a specialized tool without desoldering anything. If you have a hot-swappable board, you can perform a deep, comprehensive clean by opening the individual switch housings.
 
 ### Soldered Keyboards
 Most mainstream gaming keyboards (such as those from Corsair, Razer, or standard Logitech mechanicals) have switches permanently soldered to the circuit board. You cannot remove these switches without a soldering iron. For these boards, you will have to rely on topical cleaning methods and compressed air to dislodge debris from the top housing without fully disassembling the switch mechanism.

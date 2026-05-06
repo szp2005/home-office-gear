@@ -32,7 +32,7 @@ Color temperature is measured in Kelvin (K). A good light should offer a range f
 Direct LED bulbs create harsh shadows and cause eye strain during long meetings. The best lights feature built-in frosted diffusers or softboxes. Diffusion scatters the light, creating a softer, more flattering glow that fills in facial contours evenly.
 
 ### Mounting Mechanism
-Since laptops have remarkably thin bezels, the mount is critical. A poorly designed clip can crack a delicate LCD screen or cover the webcam lens. Look for mounts with rubberized pads to protect your hardware. Some models use a [monitor](/posts/best-portable-monitor-for-work-from-home/) mount that rests on the bezel, while others use lightweight spring clips or magnetic attachments.
+Since laptops have remarkably thin bezels, the mount is critical. A poorly designed clip can crack a delicate LCD screen or cover the webcam lens. Look for mounts with rubberized pads to protect your hardware. Some models use a monitor(/posts/best-portable-monitor-for-work-from-home/) mount that rests on the bezel, while others use lightweight spring clips or magnetic attachments.
 
 ### Battery Life vs. USB Power
 If you are highly mobile, a light with an internal battery is essential. Look for at least 90 minutes of continuous runtime at 50% brightness. For permanent desk setups, USB-powered lights that plug directly into your laptop are preferable, as they eliminate the anxiety of a battery dying mid-presentation.
@@ -41,7 +41,7 @@ If you are highly mobile, a light with an internal battery is essential. Look fo
 
 Here is our curated list of the best portable clip-on webcam lights for laptops available this year, evaluated for professionals and creators.
 
-### 1. [Lume Cube Panel Mini](https://www.amazon.com/s?k=Lume%20Cube%20Panel%20Mini&tag=gear.toolrouteai-20)
+### 1. Lume Cube Panel Mini
 
 **Best for:** Remote professionals and frequent travelers
 **Price:** $59-$69
@@ -58,7 +58,7 @@ The Lume Cube Panel Mini is widely considered the gold standard for portable lap
 - Premium price point for its size
 - Suction mount requires a flat, smooth surface on the back of the laptop
 
-### 2. [Logitech Litra Glow](https://www.amazon.com/s?k=Logitech%20Litra%20Glow&tag=gear.toolrouteai-20)
+### 2. Logitech Litra Glow
 
 **Best for:** Home office setups and desktop replacement laptops
 **Price:** $55-$65
@@ -75,7 +75,7 @@ While slightly larger than the Lume Cube, the Logitech Litra Glow excels in prov
 - Requires a constant USB connection (no internal battery)
 - Slightly bulkier than other travel-focused options
 
-### 3. [NexiGo Clip-on Ring Light](https://www.amazon.com/s?k=NexiGo%20Clip-on%20Ring%20Light&tag=gear.toolrouteai-20)
+### 3. NexiGo Clip-on Ring Light
 
 **Best for:** Budget-conscious buyers and casual video callers
 **Price:** $15-$25
@@ -93,7 +93,7 @@ If you need a quick, inexpensive fix for poorly lit zoom calls, the NexiGo Clip-
 - Plastic build quality feels somewhat fragile
 - Inline remote can be cumbersome on a cluttered desk
 
-### 4. [Ulanzi VL49 RGB](https://www.amazon.com/s?k=Ulanzi%20VL49%20RGB&tag=gear.toolrouteai-20)
+### 4. Ulanzi VL49 RGB
 
 **Best for:** Creative streamers and content creators
 **Price:** $25-$35
@@ -110,7 +110,7 @@ For those who want to add a splash of color to their background or need a highly
 - Often sold without a laptop clip included
 - Boxy design isn't as sleek as other options
 
-### 5. [Razer Ring Light (12-inch)](https://www.amazon.com/s?k=Razer%20Ring%20Light%20%2812-inch%29&tag=gear.toolrouteai-20)
+### 5. Razer Ring Light (12-inch)
 
 **Best for:** Dedicated streaming setups and large laptops
 **Price:** $70-$85

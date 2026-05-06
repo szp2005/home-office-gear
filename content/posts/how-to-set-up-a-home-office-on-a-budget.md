@@ -1,12 +1,14 @@
 ---
 image: "/og/how-to-set-up-a-home-office-on-a-budget.webp"
-title: "How to Set Up a Productive Home Office on a Budget: The Ultimate Guide"
+title: "Budget Home Office Setup: Ultimate Productivity Guide"
 pubDate: 2026-04-29
 description: "Learn how to build a professional, ergonomic, and high-performance home office without breaking the bank. Expert tips on furniture, tech, and DIY hacks."
 author: "Sarah Miller"
 tags: ["Remote Work", "Home Office", "Budgeting", "Productivity", "Ergonomics"]
 type: "informational"
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
 > **Quick Answer:** Set Up a Productive Home Office on a Budget matters because it gives remote workers and home office buyers a practical way to solve the problem behind the search. Learn how to build a professional, ergonomic, and high-performance home office without breaking the bank. Expert tips on furniture, tech, and DIY hacks.
 
@@ -54,7 +56,7 @@ One of the most famous budget office hacks is the "Slab Desk." Buy a solid-core 
 Check Facebook Marketplace or Craigslist for "dining tables." Many mid-century dining tables make excellent, deep office desks. Avoid "computer desks" from the early 2000s; they are often too small and designed for bulky CRT monitors.
 
 ### Standing Desk on a Budget
-You don’t need a $600 motorized frame. 
+You don’t need a $600 motorized frame.
 *   **Desktop Converters:** Look for manual "risers" that sit on top of your existing desk.
 *   **Fixed Height:** If you know your ideal standing height, you can build a fixed-height standing desk using IKEA Lack tables or shelf brackets for under $40.
 
@@ -78,7 +80,7 @@ For video calls, use the three-point lighting principle:
 You don’t need the latest MacBook Pro to be productive, but you do need reliability.
 
 ### The Second Monitor Advantage
-Studies show that a second monitor can increase productivity by up to 42%. You don’t need a 4K display. A refurbished 24-inch 1080p monitor can be found for $60–$80. 
+Studies show that a second monitor can increase productivity by up to 42%. You don’t need a 4K display. A refurbished 24-inch 1080p monitor can be found for $60–$80.
 *   **Alignment:** Use a stack of sturdy books to raise the monitor so the top third of the screen is at eye level. This is a free ergonomic fix.
 
 ### Peripherals

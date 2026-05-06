@@ -31,13 +31,13 @@ Electric desks replace human effort with localized power. In a single-motor syst
 
 ## The Case for Manual Standing Desk Durability
 
-The strongest argument for the manual standing desk is its simplicity. Without a power supply unit, control box, keypad, or electric motors, a manual desk eliminates the four most common points of failure found in height-adjustable workstations. 
+The strongest argument for the manual standing desk is its simplicity. Without a power supply unit, control box, keypad, or electric motors, a manual desk eliminates the four most common points of failure found in height-adjustable workstations.
 
 In terms of pure longevity, a high-quality manual desk acts much like traditional static furniture. Assuming the frame is constructed from thick-gauge steel and the internal gearing is properly lubricated at the factory, a manual desk can easily last 15 to 20 years. They are immune to power surges, firmware glitches, and the eventual obsolescence of electronic replacement parts. If a manual desk fails, the issue is almost always a stripped hex rod or a broken crank handle—both of which are cheap and easy to replace without specialized knowledge.
 
 Furthermore, manual desks handle stationary loads exceptionally well. Because the gears physically lock into place when the crank stops turning, there is zero risk of the "creeping drop" sometimes experienced by aging electric motors that slowly lose their holding torque over time.
 
-### 1. [VIVO Manual Crank Height Adjustable Desk Frame](https://www.amazon.com/s?k=VIVO%20Manual%20Crank%20Height%20Adjustable%20Desk%20Frame&tag=gear.toolrouteai-20)
+### 1. VIVO Manual Crank Height Adjustable Desk Frame
 
 **Best for:** Budget-conscious buyers prioritizing mechanical reliability
 **Price:** $150-$220
@@ -55,7 +55,7 @@ The VIVO manual frame is an industry staple for those who want to avoid the pote
 - Crank handle can occasionally get in the way of armrests
 - Lower overall weight capacity compared to commercial electric frames
 
-### 2. [StandDesk Pro Manual Crank Series](https://www.amazon.com/s?k=StandDesk%20Pro%20Manual%20Crank%20Series&tag=gear.toolrouteai-20)
+### 2. StandDesk Pro Manual Crank Series
 
 **Best for:** Heavy-duty setups requiring analog dependability
 **Price:** $350-$450
@@ -80,7 +80,7 @@ The longevity of an electric desk is heavily dependent on its tier. Sub-$300 sin
 
 When evaluating electric desk longevity, the warranty is the most reliable indicator of component quality. Top-tier manufacturers now confidently offer 10 to 15-year warranties that cover the frame, motors, and all electronics. This parity in warranty length suggests that modern, high-end electric desks are engineered to match the functional lifespan of manual desks, provided they are not abused.
 
-### 3. [Uplift V2 Commercial Standing Desk](https://www.amazon.com/s?k=Uplift%20V2%20Commercial%20Standing%20Desk&tag=gear.toolrouteai-20)
+### 3. Uplift V2 Commercial Standing Desk
 
 **Best for:** Professionals requiring maximum stability and warranty coverage
 **Price:** $650-$900
@@ -97,7 +97,7 @@ The Uplift V2 Commercial remains a benchmark for electric desk longevity. Featur
 - High initial investment cost
 - Complex assembly process due to heavy components
 
-### 4. [Fully Jarvis Dual Motor Frame (2026 Edition)](https://www.amazon.com/s?k=Fully%20Jarvis%20Dual%20Motor%20Frame%20%282026%20Edition%29&tag=gear.toolrouteai-20)
+### 4. Fully Jarvis Dual Motor Frame (2026 Edition)
 
 **Best for:** Home office users seeking a balance of price and premium electronics
 **Price:** $450-$600

@@ -9,6 +9,8 @@ slug: "quiet-luxury-office-decor-ideas"
 type: "informational"
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Quiet Luxury Office Decor Ideas: Complete Guide to Premium Workspaces
 
 > **Quick Answer:** Quiet luxury office decor focuses on premium, tactile materials, neutral color palettes, and intentional minimalism rather than flashy logos or overt branding. To achieve this look, invest in solid wood or stone desks, layer ambient and task lighting, utilize negative space, and select ergonomic seating upholstered in high-grade aniline leather or textured wool.

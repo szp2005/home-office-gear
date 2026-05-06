@@ -1,6 +1,6 @@
 ---
 image: "/og/preventing-wrist-extension-with-low-profile-keyboards.webp"
-title: "How to Prevent Wrist Extension With Low Profile Keyboards"
+title: "Low Profile Keyboards: Wrist Extension Prevention Guide"
 description: "Discover effective strategies for preventing wrist extension with low profile keyboards. Learn ergonomic setups to eliminate pain and type comfortably all day."
 pubDate: "2026-05-03"
 author: "Sarah Miller"
@@ -23,7 +23,7 @@ Low profile keyboards fundamentally alter the physical relationship between your
 
 ## The Biomechanics of Wrist Extension
 
-To understand how to eliminate wrist extension, we first have to look at the mechanics of the hand and forearm during computer use. The human wrist is designed for a wide range of motion, but it is not designed to hold static, extreme angles under repetitive load. 
+To understand how to eliminate wrist extension, we first have to look at the mechanics of the hand and forearm during computer use. The human wrist is designed for a wide range of motion, but it is not designed to hold static, extreme angles under repetitive load.
 
 ### What Defines Neutral Posture?
 
@@ -45,11 +45,11 @@ Because low profile boards sit closer to the desk, users often assume they can r
 
 ## Optimal Desk Height and Chair Adjustments
 
-The foundation of preventing wrist extension with low profile keyboards is establishing the correct relationship between your elbows, the desk surface, and the keyboard itself. 
+The foundation of preventing wrist extension with low profile keyboards is establishing the correct relationship between your elbows, the desk surface, and the keyboard itself.
 
 ### Finding Your True Elbow Height
 
-Most standard office desks are fixed at a height of 29 to 30 inches (73 to 76 cm). For anyone under 6 feet (183 cm) tall, a 30-inch desk is generally too high for ergonomic typing. 
+Most standard office desks are fixed at a height of 29 to 30 inches (73 to 76 cm). For anyone under 6 feet (183 cm) tall, a 30-inch desk is generally too high for ergonomic typing.
 
 To find your optimal typing height:
 1. Sit in your chair with your feet flat on the floor.
@@ -61,7 +61,7 @@ For many individuals, this measurement is between 24 and 27 inches. If your desk
 
 ### Adjusting the Environment
 
-If you have an adjustable standing desk, lower it to match your exact elbow height. If you are using a fixed-height desk, you must raise your chair until your elbows are slightly above the desk surface, and then use a footrest to support your feet and maintain a 90-degree angle at your knees. 
+If you have an adjustable standing desk, lower it to match your exact elbow height. If you are using a fixed-height desk, you must raise your chair until your elbows are slightly above the desk surface, and then use a footrest to support your feet and maintain a 90-degree angle at your knees.
 
 When your forearms are parallel to the floor (or sloping slightly downward) and the low profile keyboard is resting on the desk, your hands can float over the keys in a perfectly neutral, flat alignment.
 
@@ -75,7 +75,7 @@ Using a traditional, thick wrist rest with a low profile keyboard is counterprod
 
 ### Mastering the Hover Technique
 
-"Hover typing" involves keeping your wrists and palms entirely off the desk surface while typing. Your arms are supported by your chair's armrests (if they adjust perfectly to desk height) or simply by the muscles of your upper back and shoulders. 
+"Hover typing" involves keeping your wrists and palms entirely off the desk surface while typing. Your arms are supported by your chair's armrests (if they adjust perfectly to desk height) or simply by the muscles of your upper back and shoulders.
 
 Because a low profile keyboard requires less vertical clearance, hover typing feels much more natural than it does with tall, traditional keyboards. Your hands glide horizontally over the keys rather than arcing vertically. This technique completely eliminates wrist extension because the wrist is never used as a pivot point.
 
@@ -134,3 +134,9 @@ Transitioning to hover typing usually takes one to two weeks of conscious effort
 
 ### What is the ideal desk height for a low profile keyboard?
 The ideal desk height is entirely dependent on your body. The desk surface should sit just below your seated elbow height. For a person of average height, this often falls between 25 and 28 inches from the floor, which is significantly lower than the standard 30-inch office desk.
+
+---
+
+## Related Reading
+
+- [Ergonomic Mouse Wrist Rest vs Palm Support: Top 2026 Picks](/posts/ergonomic-mouse-wrist-rest-vs-palm-support/)

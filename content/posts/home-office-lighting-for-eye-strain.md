@@ -11,6 +11,8 @@ type: "informational"
 tags: ["home", "office", "lighting", "eye"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # The Ultimate Guide to Home Office Lighting for Eye Strain
 
 > **Quick Answer:** The Ultimate Guide to Home Office Lighting for Eye Strain matters because it gives remote workers and home office buyers a practical way to solve the problem behind the search. Discover the best home office lighting strategies to reduce eye strain, improve focus, and create an ergonomic workspace. Learn about color temperature, layering light, and avoiding screen glare.
@@ -128,7 +130,7 @@ Lighting isn't just about the physical bulbs in the room; your monitor is essent
 
 ## Conclusion
 
-Suffering from eye strain, headaches, and visual fatigue should not be an accepted consequence of working from home. By moving away from the single, harsh overhead light and the isolated glowing monitor, and instead adopting a layered approach utilizing natural light, bias lighting behind your screen, and proper task lighting, you can radically transform your workspace. 
+Suffering from eye strain, headaches, and visual fatigue should not be an accepted consequence of working from home. By moving away from the single, harsh overhead light and the isolated glowing monitor, and instead adopting a layered approach utilizing natural light, bias lighting behind your screen, and proper task lighting, you can radically transform your workspace.
 
 Investing the time and a little bit of budget into home office lighting for eye strain is an investment in your daily comfort, long-term vision health, and ultimate productivity. Remember: balance the brightness, avoid the glare, and give your eyes a comfortable environment to do their best work.
 

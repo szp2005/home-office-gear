@@ -136,7 +136,7 @@ Your choice between a wrist rest and a palm glider should be dictated by your sp
 
 ## Final Verdict
 
-The debate between an ergonomic mouse wrist rest vs palm support ultimately comes down to static elevation versus dynamic movement. 
+The debate between an ergonomic mouse wrist rest vs palm support ultimately comes down to static elevation versus dynamic movement.
 
 For the average office worker utilizing a standard mouse, a firm, low-profile stationary option like the **Kensington ErgoSoft** provides excellent, immediate relief from desk-edge pressure and severe wrist extension. It is cost-effective, easy to integrate, and requires no relearning of your workflow.
 
@@ -158,3 +158,9 @@ Gel is generally superior for office environments because it provides consistent
 
 ### Why does my wrist hurt even with a padded rest?
 You are likely resting the soft center of your wrist joint directly onto the peak of the pad, which compresses the median nerve against the carpal bones. Shift the pad further back so your forearm rests on the cushion, leaving your wrist suspended, or move it slightly forward to support the meaty base of your palm.
+
+---
+
+## Related Reading
+
+- [Low Profile Keyboards: Wrist Extension Prevention Guide](/posts/preventing-wrist-extension-with-low-profile-keyboards/)

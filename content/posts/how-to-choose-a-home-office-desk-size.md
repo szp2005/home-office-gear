@@ -1,12 +1,14 @@
 ---
 image: "/og/how-to-choose-a-home-office-desk-size.webp"
-title: "How to Choose a Home Office Desk Size: The Definitive Guide for Productivity and Comfort"
+title: "Home Office Desk Size: Best Dimensions for Productivity"
 description: "Struggling to find the right desk dimensions? Discover exactly how to choose a home office desk size that perfectly balances your workspace, equipment."
 pubDate: "2026-04-30"
 author: "Sarah Miller"
 tags: ["home office", "desk setup", "ergonomics", "productivity"]
 type: "informational"
 ---
+
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
 > **Quick Answer:** Choose a [Home Office](/posts/home-office-posture-checklist/) Desk Size matters because it gives remote workers and home office buyers a practical way to solve the problem behind the search. Struggling to find the right desk dimensions? Discover exactly how to choose a home office desk size that perfectly balances your workspace, equipment needs, and ergonomic health.
 

@@ -41,7 +41,7 @@ Ignoring desk depth can lead to chronic neck pain, carpal tunnel syndrome, and a
 
 While custom desks can be built to any specification, the commercial furniture market typically operates within three primary depth categories. Understanding these tiers will help you identify which baseline suits your professional needs.
 
-### 1. [The Shallow Desk: 20 to 24 Inches (50 - 60 cm)](https://www.amazon.com/s?k=The%20Shallow%20Desk%3A%2020%20to%2024%20Inches%20%2850%20-%2060%20cm%29&tag=gear.toolrouteai-20)
+### 1. The Shallow Desk: 20 to 24 Inches (50 - 60 cm)
 Often marketed as "writing desks," "laptop desks," or "console tables," desks in this depth range are designed for minimalism and space-saving. 
 
 **Best Suited For:**
@@ -52,7 +52,7 @@ Often marketed as "writing desks," "laptop desks," or "console tables," desks in
 **The Drawbacks:**
 If you attempt to place a standard 27-inch monitor on a 24-inch desk with its stock stand, the screen will likely sit less than 18 inches from your face. This violates almost all ergonomic guidelines, leading to severe eye strain and neck craning. Furthermore, there is rarely enough room to comfortably place a keyboard while allowing your forearms to rest on the desk.
 
-### 2. [The Standard Desk: 28 to 30 Inches (71 - 76 cm)](https://www.amazon.com/s?k=The%20Standard%20Desk%3A%2028%20to%2030%20Inches%20%2871%20-%2076%20cm%29&tag=gear.toolrouteai-20)
+### 2. The Standard Desk: 28 to 30 Inches (71 - 76 cm)
 This is the gold standard for office environments worldwide. If you purchase a standard corporate cubicle desk or a high-quality standing desk from a reputable manufacturer, it will likely fall into the 30-inch depth category.
 
 **Best Suited For:**
@@ -63,7 +63,7 @@ This is the gold standard for office environments worldwide. If you purchase a s
 **The Drawbacks:**
 For extreme power users utilizing massive ultrawide monitors (49-inch+) or multiple large displays (32-inch+), 30 inches might still feel slightly constricting, especially if the monitors have deep, aggressive stands.
 
-### 3. [The Deep Desk: 36 Inches and Beyond (90+ cm)](https://www.amazon.com/s?k=The%20Deep%20Desk%3A%2036%20Inches%20and%20Beyond%20%2890%2B%20cm%29&tag=gear.toolrouteai-20)
+### 3. The Deep Desk: 36 Inches and Beyond (90+ cm)
 These are expansive workstations, often seen in executive offices, drafting tables, or specialized creative studios. Sometimes referred to as "executive desks."
 
 **Best Suited For:**
@@ -80,7 +80,7 @@ Deep desks consume a massive amount of room space. Additionally, items pushed to
 
 Your perfect desk depth is not a universal number; it is a highly personalized metric derived from the specific tools you use and your physical stature. Consider the following variables when making your decision.
 
-### 1. [Monitor Size and Quantity](https://www.amazon.com/s?k=Monitor%20Size%20and%20Quantity&tag=gear.toolrouteai-20)
+### 1. Monitor Size and Quantity
 This is arguably the most critical deciding factor. The larger your monitor, the further away it needs to be for you to view it comfortably without panning your neck. 
 
 *   **24-inch to 27-inch monitors:** A 30-inch desk depth is ideal.
@@ -89,17 +89,17 @@ This is arguably the most critical deciding factor. The larger your monitor, the
 
 Furthermore, stock monitor stands are notoriously deep. A standard gaming or professional monitor stand can consume up to 10 to 12 inches of desk depth just for the base.
 
-### 2. [Ergonomic Viewing Distance](https://www.amazon.com/s?k=Ergonomic%20Viewing%20Distance&tag=gear.toolrouteai-20)
+### 2. Ergonomic Viewing Distance
 Ergonomists generally recommend that your monitor should be positioned roughly an arm's length away from your face (approximately 20 to 30 inches, or 50 to 75 cm). 
 
 If you are using a 30-inch deep desk, you sit slightly away from the edge, your keyboard takes up 6 inches, and your monitor stand takes up 10 inches at the back. This naturally positions the screen exactly in the 20-25 inch sweet spot. If your desk is only 24 inches deep, the screen will be forced dangerously close to your eyes, leading to blurred vision and headaches.
 
-### 3. [Peripheral Layout and Arm Support](https://www.amazon.com/s?k=Peripheral%20Layout%20and%20Arm%20Support&tag=gear.toolrouteai-20)
+### 3. Peripheral Layout and Arm Support
 How do you type and use your mouse? 
 *   **Edge Typists:** If you keep your keyboard right at the edge of the desk and rely on the armrests of your chair for support, you can survive on a shallower desk.
 *   **Planted Forearms:** Many typists prefer to push their keyboard 6 to 8 inches into the desk, allowing their forearms to rest entirely on the desk surface. This reduces shoulder strain significantly. If you fall into this category, a minimum of 30 inches of depth is absolutely mandatory.
 
-### 4. [The "In-Between" Tools](https://www.amazon.com/s?k=The%20%22In-Between%22%20Tools&tag=gear.toolrouteai-20)
+### 4. The "In-Between" Tools
 Do you take physical notes? Do you eat lunch at your desk? Do you need a dedicated space for a graphics tablet directly in front of your keyboard? The space between your keyboard and the base of your monitor is prime real estate. A 24-inch desk offers zero "in-between" space. A 30-inch desk offers a comfortable channel for a notebook. A 36-inch desk offers a vast plain for massive drawing tablets or architectural plans.
 
 ---
@@ -160,7 +160,7 @@ That final number is your personalized, mathematically proven ideal desk depth.
 
 ## Conclusion
 
-The depth of your home office desk is not merely an aesthetic choice or a simple matter of fitting furniture into a room; it is a foundational element of your daily ergonomic health and workflow efficiency. 
+The depth of your home office desk is not merely an aesthetic choice or a simple matter of fitting furniture into a room; it is a foundational element of your daily ergonomic health and workflow efficiency.
 
 While the **30-inch depth** remains the safest and most versatile recommendation for the vast majority of professionals, understanding your specific needs—from the size of your monitors to your typing [posture](/posts/home-office-posture-checklist/)—will guide you toward the perfect setup. Remember that a shallow desk can be rescued by monitor arms, and a deep desk requires diligent organization to keep essential tools within reach.
 

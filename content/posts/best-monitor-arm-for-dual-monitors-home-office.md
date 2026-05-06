@@ -53,7 +53,7 @@ Wall mounts look clean and free the most desk space, but they require drilling i
 
 **The hidden financial case:** A quality dual arm costs $150–300. A standing desk conversion kit costs $200–500. Over a five-year home office lifespan, the ergonomic investment is modest. Compare that to a single urgent-care visit or a month of chiropractic appointments. The desk real estate recovered also has intangible value — a less cluttered workspace measurably reduces cognitive load in controlled productivity studies.
 
-Cable management is another underrated benefit. Premium arms route cables through internal channels or along the arm spine, eliminating the rat's nest that builds behind dual-stand setups. A tidy [cable management set](URL_PLACEHOLDER_1) costs under $15 and completes the look.
+Cable management is another underrated benefit. Premium arms route cables through internal channels or along the arm spine, eliminating the rat's nest that builds behind dual-stand setups. A tidy cable management set costs under $15 and completes the look.
 
 ---
 
@@ -63,7 +63,7 @@ Cable management is another underrated benefit. Premium arms route cables throug
 
 VESA (Video Electronics Standards Association) mount patterns are the grid of four threaded holes on the back of your monitor. The two dominant patterns are **75×75 mm** (common on smaller and budget monitors) and **100×100 mm** (standard on 24–32-inch displays). A few monitors use non-standard patterns — ultrawide panels sometimes ship with proprietary mounts.
 
-**How to check:** Remove the stand. Look at the back panel. Measure the distance between the four screw holes horizontally and vertically. If you see "VESA 100×100" in the spec sheet, you're set. If the spec sheet says "non-VESA," you'll need a [VESA adapter kit](URL_PLACEHOLDER_2) before any arm will work.
+**How to check:** Remove the stand. Look at the back panel. Measure the distance between the four screw holes horizontally and vertically. If you see "VESA 100×100" in the spec sheet, you're set. If the spec sheet says "non-VESA," you'll need a VESA adapter kit before any arm will work.
 
 ### Weight Capacity Per Monitor
 
@@ -92,19 +92,19 @@ Most dual arms mount both screens to a single pole clamped to the desk. This is 
 
 ### Premium Tier ($250–400)
 
-**[Ergotron LX Dual Side-by-Side](URL_PLACEHOLDER_3)** is the industry benchmark. It uses Ergotron's Constant Force technology — a proprietary spring system that holds position without tightening screws over time. Each arm supports up to 20 lbs, handles monitors up to 32 inches, and the cable routing through the arm spine is clean enough for broadcast-quality desk setups. Desk clamp is solid on surfaces up to 3.1 inches thick. Warranty is 10 years. If you're running two 27-inch 4K panels daily, this is the arm to own.
+**Ergotron LX Dual Side-by-Side** is the industry benchmark. It uses Ergotron's Constant Force technology — a proprietary spring system that holds position without tightening screws over time. Each arm supports up to 20 lbs, handles monitors up to 32 inches, and the cable routing through the arm spine is clean enough for broadcast-quality desk setups. Desk clamp is solid on surfaces up to 3.1 inches thick. Warranty is 10 years. If you're running two 27-inch 4K panels daily, this is the arm to own.
 
-The **[Herman Miller Ollin](URL_PLACEHOLDER_4)** enters this tier at the top. It's designed for extended daily use, particularly on height-adjustable desks. If you already own Herman Miller or Knoll furniture, the aesthetic integration is seamless. Expect to pay a premium for the brand and the finish quality.
+The **Herman Miller Ollin** enters this tier at the top. It's designed for extended daily use, particularly on height-adjustable desks. If you already own Herman Miller or Knoll furniture, the aesthetic integration is seamless. Expect to pay a premium for the brand and the finish quality.
 
 ### Mid-Range Tier ($120–200)
 
-**[HUANUO Dual Monitor Arm](URL_PLACEHOLDER_5)** is the most-recommended arm in this price band across Reddit's r/homeoffice and r/battlestations communities. Gas-spring mechanism, 17.6 lbs per arm, VESA 75×75 and 100×100 compatible, fits desks up to 3.94 inches thick. The C-clamp and grommet mounting options are both included. Build quality is noticeably better than the price suggests — the arm joints hold position reliably after calibration. Weak point: the cable clips are basic and the included screws feel generic.
+**HUANUO Dual Monitor Arm** is the most-recommended arm in this price band across Reddit's r/homeoffice and r/battlestations communities. Gas-spring mechanism, 17.6 lbs per arm, VESA 75×75 and 100×100 compatible, fits desks up to 3.94 inches thick. The C-clamp and grommet mounting options are both included. Build quality is noticeably better than the price suggests — the arm joints hold position reliably after calibration. Weak point: the cable clips are basic and the included screws feel generic.
 
 ### Budget Tier ($60–120)
 
-**[Monoprice Dual Monitor Gas Spring Arm](URL_PLACEHOLDER_6)** punches above its weight class. Gas-spring articulation at this price is unusual. Each arm holds up to 19.8 lbs and handles monitors up to 27 inches. It lacks the refined damping of Ergotron, and the plastic cable clips are forgettable, but for a home office running two 24-inch 1080p monitors, it's genuinely adequate.
+**Monoprice Dual Monitor Gas Spring Arm** punches above its weight class. Gas-spring articulation at this price is unusual. Each arm holds up to 19.8 lbs and handles monitors up to 27 inches. It lacks the refined damping of Ergotron, and the plastic cable clips are forgettable, but for a home office running two 24-inch 1080p monitors, it's genuinely adequate.
 
-**[AmazonBasics Dual Monitor Arm](URL_PLACEHOLDER_7)** covers entry-level needs. Weight capacity is lower (14.3 lbs per arm), and the adjustment tension loosens faster than competitors under daily use. Acceptable for light monitors and infrequent adjustment.
+**AmazonBasics Dual Monitor Arm** covers entry-level needs. Weight capacity is lower (14.3 lbs per arm), and the adjustment tension loosens faster than competitors under daily use. Acceptable for light monitors and infrequent adjustment.
 
 ### Quick Comparison Table
 
@@ -120,13 +120,13 @@ The **[Herman Miller Ollin](URL_PLACEHOLDER_4)** enters this tier at the top. It
 
 ## Installation and Compatibility Check {#installation-and-compatibility}
 
-**Step 1 — Verify VESA before ordering.** Check your monitor's user manual or manufacturer spec page. Search "[monitor model] + VESA" if the manual isn't handy. If it's non-standard, order a [VESA adapter kit](URL_PLACEHOLDER_2) simultaneously.
+**Step 1 — Verify VESA before ordering.** Check your monitor's user manual or manufacturer spec page. Search "[monitor model] + VESA" if the manual isn't handy. If it's non-standard, order a VESA adapter kit simultaneously.
 
 **Step 2 — Measure your desk.** Desk clamps grip surfaces ranging from 0.4 to 3.9 inches thick depending on the arm. Measure your desk edge thickness. If your desk uses a beveled or curved edge, ensure the clamp jaw can seat flat. Grommet mount is more secure for permanent setups — requires a 0.8–1.4-inch diameter hole.
 
 **Step 3 — Weigh your monitors.** Find the weight on the spec sheet (without stand). Compare to the arm's per-arm capacity. Add 10–15% safety margin. A 12 lb monitor on a 14 lb-rated arm will work, but barely, and tension adjustments will be frequent.
 
-**Step 4 — Mount and calibrate.** Attach VESA plate to monitor first. Then attach arm to desk. Connect monitor to arm last. Adjust spring tension (usually a hex key on the pivot joint) until the monitor holds any position you place it without drifting. Route cables through arm channels or secure with [cable management clips](URL_PLACEHOLDER_1).
+**Step 4 — Mount and calibrate.** Attach VESA plate to monitor first. Then attach arm to desk. Connect monitor to arm last. Adjust spring tension (usually a hex key on the pivot joint) until the monitor holds any position you place it without drifting. Route cables through arm channels or secure with cable management clips.
 
 **Desk surface warning:** Thin laminate desks (common IKEA LINNMON tops) can crack under clamp pressure. Use a grommet mount or add a wide backing plate behind the clamp to distribute force.
 
@@ -143,7 +143,7 @@ The **[Herman Miller Ollin](URL_PLACEHOLDER_4)** enters this tier at the top. It
 **Common mistakes:**
 - Placing monitors at equal height when one is clearly secondary (causes constant neck rotation)
 - Not adjusting tilt — even a perfectly-positioned arm with 5° backward tilt eliminates glare and reduces eye strain
-- Forgetting to re-adjust after switching between sitting and standing on a [height-adjustable desk](URL_PLACEHOLDER_8)
+- Forgetting to re-adjust after switching between sitting and standing on a height-adjustable desk
 
 **Standing desk pairing:** If you use a sit-stand desk, a dual monitor arm is almost mandatory. Adjusting monitor height when desk height changes takes 3 seconds with an arm. Repositioning two stands is a hassle that makes most people stop adjusting altogether.
 
@@ -165,11 +165,11 @@ A recurring thread type on r/homeoffice involves users who bought a $50 no-name 
 
 The best monitor arm for dual monitors in a home office depends on one honest assessment: what do your monitors actually weigh, and how often will you adjust position?
 
-For most professionals running two 27-inch panels and adjusting daily, the **[Ergotron LX Dual](URL_PLACEHOLDER_3)** is the correct answer. It's not cheap, but it's the one arm you'll still be using when everything else has been replaced. The 10-year warranty is not marketing copy — Ergotron actually honors it.
+For most professionals running two 27-inch panels and adjusting daily, the **Ergotron LX Dual** is the correct answer. It's not cheap, but it's the one arm you'll still be using when everything else has been replaced. The 10-year warranty is not marketing copy — Ergotron actually honors it.
 
-If budget is a constraint, the **[HUANUO Dual](URL_PLACEHOLDER_5)** handles 90% of what the Ergotron does at roughly half the price. It's the pragmatic choice for a home office running two standard 27-inch or smaller monitors.
+If budget is a constraint, the **HUANUO Dual** handles 90% of what the Ergotron does at roughly half the price. It's the pragmatic choice for a home office running two standard 27-inch or smaller monitors.
 
-Don't forget to confirm VESA compatibility before ordering anything — a [VESA adapter kit](URL_PLACEHOLDER_2) solves most non-standard mounting problems cheaply. And pair your new arm with a basic [cable management set](URL_PLACEHOLDER_1) to finish the setup properly.
+Don't forget to confirm VESA compatibility before ordering anything — a VESA adapter kit solves most non-standard mounting problems cheaply. And pair your new arm with a basic cable management set to finish the setup properly.
 
 Your desk space, posture, and neck will notice the difference within the first week.
 

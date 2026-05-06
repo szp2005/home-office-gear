@@ -35,9 +35,9 @@ Hardware bokeh requires zero computational guesswork. The light naturally falls 
 
 ## Core Components of a DSLR Webcam Setup
 
-Building this setup requires moving away from plug-and-play USB webcams and assembling a system composed of four critical components. 
+Building this setup requires moving away from plug-and-play USB webcams and assembling a system composed of four critical components.
 
-### 1. [The Camera Body (Mirrorless vs. DSLR)](https://www.amazon.com/s?k=The%20Camera%20Body%20%28Mirrorless%20vs.%20DSLR%29&tag=gear.toolrouteai-20)
+### 1. The Camera Body (Mirrorless vs. DSLR)
 
 While this is widely known as a "DSLR webcam setup," modern implementations almost exclusively use mirrorless cameras. Traditional DSLRs feature a physical mirror mechanism that can overheat when continuously processing live video for hours. Mirrorless cameras run cooler, are significantly more compact, and boast superior continuous autofocus systems.
 
@@ -47,7 +47,7 @@ When selecting a body, sensor size is paramount. You have two primary options:
 
 For 95% of desk setups, an APS-C mirrorless camera is the optimal choice. It provides more than enough sensor area to achieve intense bokeh without the bulk and expense of full frame. Look for a camera that offers "Clean HDMI out"—the ability to send a video signal without overlaying battery indicators and focus boxes on the screen.
 
-### 2. [The Lens (The Source of the Bokeh)](https://www.amazon.com/s?k=The%20Lens%20%28The%20Source%20of%20the%20Bokeh%29&tag=gear.toolrouteai-20)
+### 2. The Lens (The Source of the Bokeh)
 
 The camera body processes the image, but the lens dictates the depth of field. To achieve optical bokeh, you need a "fast" lens—one with a wide maximum aperture, denoted by a low f-stop number. 
 
@@ -59,7 +59,7 @@ For a [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/), you are t
 
 The Sigma 16mm f/1.4 DC DN is widely considered the gold standard lens for APS-C webcam setups across Sony, Canon, and Fuji mounts.
 
-### 3. [The Capture Card (The Bridge)](https://www.amazon.com/s?k=The%20Capture%20Card%20%28The%20Bridge%29&tag=gear.toolrouteai-20)
+### 3. The Capture Card (The Bridge)
 
 Your computer cannot naturally interpret raw HDMI video data from a high-end camera. A capture card acts as the bridge, taking the uncompressed HDMI signal from the camera and translating it into a UVC (USB Video Class) format that your computer recognizes as a standard webcam.
 
@@ -67,7 +67,7 @@ While some camera manufacturers offer direct USB webcam utilities (like Sony Ima
 
 A dedicated hardware capture card, such as the Elgato Cam Link 4K or the AVerMedia Live Gamer Portable 2 Plus, takes the processing burden entirely off your CPU. You plug an HDMI cable into the camera, run it to the capture card, and plug the capture card into a USB 3.0 port on your computer.
 
-### 4. [Continuous Power (Dummy Battery)](https://www.amazon.com/s?k=Continuous%20Power%20%28Dummy%20Battery%29&tag=gear.toolrouteai-20)
+### 4. Continuous Power (Dummy Battery)
 
 Standard camera batteries will only last 60 to 90 minutes when streaming live video. You cannot rely on swapping batteries during a crucial meeting or a four-hour Twitch stream. 
 
@@ -114,7 +114,7 @@ When the camera focuses on an object 2 feet away at an f/1.4 aperture, the depth
 
 ### Aperture Values Explained
 
-The aperture controls the iris of the lens. The f-stop number is a fraction. Therefore, a smaller number means a larger opening. 
+The aperture controls the iris of the lens. The f-stop number is a fraction. Therefore, a smaller number means a larger opening.
 
 *   **f/1.4:** Massive opening. Razor-thin depth of field. Maximum bokeh. Extreme low-light capability. Warning: depth of field may be so thin that your nose is in focus but your ears are blurry.
 *   **f/2.8:** Moderate opening. Excellent subject separation while keeping your entire head in sharp focus.

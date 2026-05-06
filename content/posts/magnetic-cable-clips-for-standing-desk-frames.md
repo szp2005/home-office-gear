@@ -74,7 +74,7 @@ The steel crossbars connecting the desk legs under the desktop are prime real es
 The material holding the cable is just as important as the magnet holding the desk. Different materials offer different levels of durability and aesthetics.
 
 ### ABS Plastic Housings
-Rigid ABS plastic is the most common material. It is inexpensive and durable, often paired with a spring-loaded hinge. While functional, plastic clips can be bulky and aesthetically unappealing on a sleek, minimalist [desk setup](/posts/how-to-choose-a-home-office-desk-size/), and the hinges can wear out over years of use.
+Rigid ABS plastic is the most common material. It is inexpensive and durable, often paired with a spring-loaded hinge. While functional, plastic clips can be bulky and aesthetically unappealing on a sleek, minimalist desk setup(/posts/how-to-choose-a-home-office-desk-size/), and the hinges can wear out over years of use.
 
 ### Flexible Silicone
 High-grade silicone clips offer a low-profile, matte aesthetic that blends seamlessly with dark desk frames. Because the entire body is flexible, you can squeeze larger cables into the channel without breaking a hinge. They are also entirely non-abrasive, making them the safest option for expensive desk frames.

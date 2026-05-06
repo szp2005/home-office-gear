@@ -35,7 +35,7 @@ Not all under-desk storage solutions are created equal, and price is not always 
 
 ### Weight Capacity and Material Construction
 
-The material composition dictates both the long-term durability and the structural rigidity of the shelf. Stamped cold-rolled steel and high-grade aluminum are the current industry standards for premium models. You should strictly avoid thin ABS plastics or lightweight acrylics if you plan to store anything heavier than a few pens and a lightweight notepad. 
+The material composition dictates both the long-term durability and the structural rigidity of the shelf. Stamped cold-rolled steel and high-grade aluminum are the current industry standards for premium models. You should strictly avoid thin ABS plastics or lightweight acrylics if you plan to store anything heavier than a few pens and a lightweight notepad.
 
 A high-quality steel shelf should offer a certified weight capacity between 15 to 25 pounds (6.8 to 11.3 kg). This is more than sufficient for a heavy 16-inch workstation laptop, a heavy aluminum mechanical keyboard, and a dense lithium power bank. Ensure that the manufacturer explicitly states the weight limit in their specifications; units lacking this basic specification often bend, warp, or sag under the weight of modern electronics after just a few months of use.
 
@@ -57,15 +57,15 @@ The installation method you choose depends entirely on your desk's core material
 
 When you are ready to buy an adjustable under desk storage shelf, you will generally be choosing between three primary design configurations, each tailored to drastically different storage requirements.
 
-### 1. [The Ergonomic Swing-Out Tray](https://www.amazon.com/s?k=The%20Ergonomic%20Swing-Out%20Tray&tag=gear.toolrouteai-20)
+### 1. The Ergonomic Swing-Out Tray
 
 Best for users whose primary goal is discretely storing a single laptop, a tablet, or daily stationery items. These units feature a single, flat tray attached to a strong corner pivot point. They are highly discreet, usually featuring a very thin, minimalist profile. The primary advantage here is the speed of access; a quick flick of the wrist brings your devices out from under the desk, and another flick hides them away. Look for models with built-in silicone padding to protect your devices from scratches and integrated cable management slots at the rear of the tray so you can seamlessly charge devices while they remain securely stowed.
 
-### 2. [The Heavy-Duty Clamp-On Shelf](https://www.amazon.com/s?k=The%20Heavy-Duty%20Clamp-On%20Shelf&tag=gear.toolrouteai-20)
+### 2. The Heavy-Duty Clamp-On Shelf
 
 Designed specifically for audio professionals, heavy peripheral users, or those managing massive Thunderbolt docking stations. These shelves resemble a miniature rack-mount system suspended beneath the desk edge. They ruthlessly prioritize structural rigidity and airflow over sleekness, almost always utilizing a thick C-clamp system to handle weights routinely exceeding 20 pounds. They often feature an open-front, cage-like design rather than a traditional pull-out drawer, allowing for constant maximum airflow and the easy routing of thick-gauge braided cables.
 
-### 3. [The Multi-Tier Modular Unit](https://www.amazon.com/s?k=The%20Multi-Tier%20Modular%20Unit&tag=gear.toolrouteai-20)
+### 3. The Multi-Tier Modular Unit
 
 For power users who demand maximum storage volume without utilizing a standalone filing cabinet, modular units offer stacked, customizable shelving. These almost exclusively screw into the underside of the desk and provide two or three distinct vertical layers. While they offer the absolute most space per square inch, they require incredibly careful placement to avoid interfering with your legs. They are best installed off to the far left or far right side of a significantly wider desk (60 inches or more) where your knees rarely venture during a typical workday.
 

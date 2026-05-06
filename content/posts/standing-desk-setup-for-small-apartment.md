@@ -53,11 +53,11 @@ Multi-functional use is the final practical win. A standing desk surface at coun
 
 **Fixed-height standing desks** are the cheapest entry point — often $80–$150. They're set at one height and don't move. The problem: if you miscalculate your ergonomic height, you're stuck. These work if you live alone and never need to share the desk.
 
-**Electric adjustable desks** use a motor to raise and lower the surface. The [Flexispot E7](URL_PLACEHOLDER_1) is the most-recommended budget electric desk at around $400–$500, but watch for sales that push it under $350. These suit apartments because one person can operate them silently and quickly. The tradeoff is weight — most electric desks weigh 70–90 lbs, so placement is essentially permanent.
+**Electric adjustable desks** use a motor to raise and lower the surface. The Flexispot E7 is the most-recommended budget electric desk at around $400–$500, but watch for sales that push it under $350. These suit apartments because one person can operate them silently and quickly. The tradeoff is weight — most electric desks weigh 70–90 lbs, so placement is essentially permanent.
 
-**Manual crank desks** split the difference. The [Fully Jarvis Bamboo Standing Desk](URL_PLACEHOLDER_3) offers a manual crank version starting around $345. You won't adjust it as often as an electric model, but the mechanism is reliable and doesn't need a power connection. Good for renters who move frequently.
+**Manual crank desks** split the difference. The Fully Jarvis Bamboo Standing Desk offers a manual crank version starting around $345. You won't adjust it as often as an electric model, but the mechanism is reliable and doesn't need a power connection. Good for renters who move frequently.
 
-**Desktop converters** sit on top of an existing desk and raise your monitor and keyboard to standing height. The [Mount-It! Adjustable Standing Desk Converter](URL_PLACEHOLDER_5) runs $100–$150 and requires zero assembly beyond unboxing. If your current desk is in decent shape, this is the fastest, cheapest upgrade. Limitation: they reduce your usable desk surface and can look cluttered in small spaces.
+**Desktop converters** sit on top of an existing desk and raise your monitor and keyboard to standing height. The Mount-It! Adjustable Standing Desk Converter runs $100–$150 and requires zero assembly beyond unboxing. If your current desk is in decent shape, this is the fastest, cheapest upgrade. Limitation: they reduce your usable desk surface and can look cluttered in small spaces.
 
 **Wall-mounted desks** fold flat when not in use — a genuine space-saver for rooms under 300 sq ft. They max out at about 24 inches deep and 40 inches wide, which limits multi-monitor setups. Height is fixed at installation, so nail your measurements before mounting.
 
@@ -71,7 +71,7 @@ Skip the generic "desk height 44 inches" advice. Here's how to calculate yours p
 
 **Standing desk height:** Stand in your socks (you won't always wear shoes at home). Bend your elbows to 90 degrees, hands relaxed. Measure from the floor to the bottom of your forearms. That number is your desk surface height. For most adults, it falls between 38–44 inches. If you're 5'10", expect roughly 42–43 inches.
 
-**Monitor height:** Your screen should sit so the top edge is at or slightly below eye level. If you're using a laptop, a stand plus an external keyboard is not optional — it's ergonomically necessary. A [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) like this [VESA monitor arm](URL_PLACEHOLDER_8) lets you position a screen independently of the desk surface, saving 4–6 inches of depth you'd otherwise need for a monitor stand.
+**Monitor height:** Your screen should sit so the top edge is at or slightly below eye level. If you're using a laptop, a stand plus an external keyboard is not optional — it's ergonomically necessary. A [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) like this VESA monitor arm lets you position a screen independently of the desk surface, saving 4–6 inches of depth you'd otherwise need for a monitor stand.
 
 **Desk depth assessment:** Measure your apartment space, then subtract 18 inches for standing clearance in front of the desk. A 24-inch deep desk needs a total footprint of 42 inches from wall to your standing position. In a bedroom, check that opening closet doors or navigating around the bed isn't compromised.
 
@@ -93,9 +93,9 @@ Skip the generic "desk height 44 inches" advice. Here's how to calculate yours p
 
 The DIY route using an IKEA LINNMON tabletop ($25–$35) combined with adjustable-height legs cut to your measurement runs under $120 all-in. It's not pretty, but it's fully custom to your height and space. You can buy aftermarket legs specifically designed for standing-height tables on Amazon for $40–$60.
 
-The [Varidesk Pro Plus 36](URL_PLACEHOLDER_6) sits at the top of the converter category — around $275–$300 — and is genuinely solid. The spring-lift mechanism requires no tools and zero installation, which matters for renters. It handles two monitors plus a laptop without wobble.
+The Varidesk Pro Plus 36 sits at the top of the converter category — around $275–$300 — and is genuinely solid. The spring-lift mechanism requires no tools and zero installation, which matters for renters. It handles two monitors plus a laptop without wobble.
 
-For a complete adjustable desk under $400, the [Autonomous SmartDesk Mini](URL_PLACEHOLDER_2) targets small spaces specifically with a 43-inch wide surface — narrow enough for tight rooms, wide enough for a monitor and peripherals.
+For a complete adjustable desk under $400, the Autonomous SmartDesk Mini targets small spaces specifically with a 43-inch wide surface — narrow enough for tight rooms, wide enough for a monitor and peripherals.
 
 Secondhand electric desks from Facebook Marketplace average $150–$200 in most metro areas. The risk is motor wear, but most motors last well beyond 10 years. Ask for a video of it cycling up and down before committing.
 
@@ -103,13 +103,13 @@ Secondhand electric desks from Facebook Marketplace average $150–$200 in most 
 
 ## Essential Accessories for Apartment Standing Desks {#accessories}
 
-**Anti-fatigue mat:** Non-negotiable on hardwood or tile floors. Standing on hard surfaces for 90+ minutes causes foot and lower back fatigue that will make you abandon the whole setup. A quality [anti-fatigue mat](URL_PLACEHOLDER_7) costs $40–$80 and lasts years. Get one that's 24 x 36 inches — wide enough to shift weight, narrow enough not to dominate the room.
+**Anti-fatigue mat:** Non-negotiable on hardwood or tile floors. Standing on hard surfaces for 90+ minutes causes foot and lower back fatigue that will make you abandon the whole setup. A quality anti-fatigue mat costs $40–$80 and lasts years. Get one that's 24 x 36 inches — wide enough to shift weight, narrow enough not to dominate the room.
 
-**Monitor arm:** Frees up 6–8 inches of desk depth by removing the monitor stand. The [VESA monitor arm](URL_PLACEHOLDER_8) clamps to the back edge of the desk. For apartments, a single-arm model is more appropriate than a double-arm — less visual bulk.
+**Monitor arm:** Frees up 6–8 inches of desk depth by removing the monitor stand. The VESA monitor arm clamps to the back edge of the desk. For apartments, a single-arm model is more appropriate than a double-arm — less visual bulk.
 
-**Cable management:** In a small apartment, cable mess looks significantly worse than in a larger room because there's nowhere to hide it. A basic [cable management kit](URL_PLACEHOLDER_9) with cable raceways, velcro ties, and a cable tray under the desk surface costs $15–$25 and solves 90% of the problem. Stick the raceway along the wall baseboard from the outlet to the desk leg — it disappears visually.
+**Cable management:** In a small apartment, cable mess looks significantly worse than in a larger room because there's nowhere to hide it. A basic cable management kit with cable raceways, velcro ties, and a cable tray under the desk surface costs $15–$25 and solves 90% of the problem. Stick the raceway along the wall baseboard from the outlet to the desk leg — it disappears visually.
 
-**Wireless keyboard and mouse:** The [Logitech MX Keys Mini plus MX Anywhere 3](URL_PLACEHOLDER_10) eliminates two cables from your desktop entirely. In a space-constrained setup, that simplification is worth the $100–$130 combined cost.
+**Wireless keyboard and mouse:** The Logitech MX Keys Mini plus MX Anywhere 3 eliminates two cables from your desktop entirely. In a space-constrained setup, that simplification is worth the $100–$130 combined cost.
 
 **[Footrest](/posts/best-footrest-for-under-desk-ergonomics/):** If you alternate between sitting and standing and your chair doesn't reach optimal height, a footrest fills the gap. Optional but useful for heights under 5'5".
 
@@ -160,12 +160,12 @@ Common troubleshooting: desk wobbles at standing height (tighten all hardware, c
 
 | Desk | Price | Width | Adjustable | Weight Cap | Best For |
 |---|---|---|---|---|---|
-| [Flexispot E7](URL_PLACEHOLDER_1) | ~$400 | 48–80 in | Electric | 355 lbs | Power users, shared desks |
-| [Autonomous SmartDesk Mini](URL_PLACEHOLDER_2) | ~$350 | 43 in | Electric | 265 lbs | Studio apartments |
-| [Fully Jarvis Bamboo](URL_PLACEHOLDER_3) | ~$345+ | 48–72 in | Manual/Electric | 350 lbs | Eco-conscious, frequent movers |
-| [Uplift V2](URL_PLACEHOLDER_4) | ~$600+ | 42–80 in | Electric | 355 lbs | Premium build, long-term use |
-| [Varidesk Pro Plus 36](URL_PLACEHOLDER_6) | ~$275 | 36 in | Manual (converter) | 35 lbs | Renters keeping existing furniture |
-| [Mount-It! Converter](URL_PLACEHOLDER_5) | ~$120 | 35 in | Manual (converter) | 33 lbs | Tightest budget, fastest setup |
+| Flexispot E7 | ~$400 | 48–80 in | Electric | 355 lbs | Power users, shared desks |
+| Autonomous SmartDesk Mini | ~$350 | 43 in | Electric | 265 lbs | Studio apartments |
+| Fully Jarvis Bamboo | ~$345+ | 48–72 in | Manual/Electric | 350 lbs | Eco-conscious, frequent movers |
+| Uplift V2 | ~$600+ | 42–80 in | Electric | 355 lbs | Premium build, long-term use |
+| Varidesk Pro Plus 36 | ~$275 | 36 in | Manual (converter) | 35 lbs | Renters keeping existing furniture |
+| Mount-It! Converter | ~$120 | 35 in | Manual (converter) | 33 lbs | Tightest budget, fastest setup |
 
 ---
 
@@ -173,7 +173,7 @@ Common troubleshooting: desk wobbles at standing height (tighten all hardware, c
 
 A standing desk setup in a small apartment is less about buying the right product and more about measuring correctly, understanding your floor plan constraints, and matching the desk type to your actual situation.
 
-If you're renting and move frequently: go converter or manual crank. If you're in a stable apartment and work from home daily: invest in an electric adjustable model — the [Flexispot E7](URL_PLACEHOLDER_1) or [Autonomous SmartDesk Mini](URL_PLACEHOLDER_2) depending on your width constraints. If the budget is tight and flexibility doesn't matter: build fixed-height with IKEA parts and spend the savings on a good anti-fatigue mat and monitor arm.
+If you're renting and move frequently: go converter or manual crank. If you're in a stable apartment and work from home daily: invest in an electric adjustable model — the Flexispot E7 or Autonomous SmartDesk Mini depending on your width constraints. If the budget is tight and flexibility doesn't matter: build fixed-height with IKEA parts and spend the savings on a good anti-fatigue mat and monitor arm.
 
 The accessory stack (mat, monitor arm, cable management, wireless peripherals) matters as much as the desk itself in a small space. Budget $100–$150 for those after the desk purchase.
 
@@ -203,7 +203,7 @@ A: Use a cable tray mounted under the desk surface for horizontal runs, velcro t
 
 ### Q: What's the cheapest legitimate standing desk setup that's still ergonomically sound?
 
-A: IKEA LINNMON tabletop ($25) + standing-height legs cut to your measurement ($50–$60) + a desktop monitor stand ($20) + anti-fatigue mat ($40) = approximately $135–$145 total. It's fixed height, so nail your measurement first. Add a [desktop converter](URL_PLACEHOLDER_5) ($120) to an existing table if you want adjustability without full replacement.
+A: IKEA LINNMON tabletop ($25) + standing-height legs cut to your measurement ($50–$60) + a desktop monitor stand ($20) + anti-fatigue mat ($40) = approximately $135–$145 total. It's fixed height, so nail your measurement first. Add a desktop converter ($120) to an existing table if you want adjustability without full replacement.
 
 ### Will a standing desk fit in my studio apartment?
 

@@ -40,7 +40,7 @@ Walk into any furniture showroom and you'll notice that every showcase ergonomic
 
 **Low-back and mid-back designs suit small rooms better than high-back alternatives.** This isn't about lumbar support quality — it's about visual and physical mass. A high-back chair with headrest stands 48–52 inches tall. In a room with 8-foot ceilings, shelving, or floating wall units, that profile crowds the space psychologically and physically. Mid-back designs typically top out at 40–43 inches and deliver comparable lumbar support for anyone under 6'2". The visual breathing room alone reduces how cramped a small office feels.
 
-**Caster quality matters for small spaces in a way it doesn't in open-plan offices.** On carpet, any caster will do. On hardwood or LVP flooring (standard in most apartments), cheap plastic casters scrape, catch, and resist the micro-movements you make dozens of times per work session. Rubber or polyurethane casters roll silently, grip without marking, and let you reposition easily in tight quarters. [Aftermarket PU casters](URL_PLACEHOLDER_1) are a cheap upgrade if you're keeping a chair with subpar wheels — typically $15–$25 and straightforward to swap.
+**Caster quality matters for small spaces in a way it doesn't in open-plan offices.** On carpet, any caster will do. On hardwood or LVP flooring (standard in most apartments), cheap plastic casters scrape, catch, and resist the micro-movements you make dozens of times per work session. Rubber or polyurethane casters roll silently, grip without marking, and let you reposition easily in tight quarters. Aftermarket PU casters are a cheap upgrade if you're keeping a chair with subpar wheels — typically $15–$25 and straightforward to swap.
 
 ---
 
@@ -50,7 +50,7 @@ Once you've confirmed a chair fits your floor plan, you evaluate ergonomics. Her
 
 **Lumbar support: built-in vs. adjustable vs. pillow-based.** Built-in lumbar curves (fixed) are fine if you're between 5'4" and 5'10" and the chair is sized correctly. Adjustable lumbar — the kind that moves up and down or inflates — is worth paying for if you're outside that range or share the chair with a partner. Pillow-based lumbar adds depth to your seating footprint (pushing you 2–3 inches forward in the chair), which can be awkward in chairs already sized at the compact end. For small spaces, integrated lumbar wins on form factor.
 
-**Armrest design is critical when your desk clearance is limited.** Many compact desks and floating wall-mount desks have a clearance height of 26–27 inches. Standard armrests sit at 27–28 inches when lowered to minimum, meaning they physically can't slide under the desk. Removable armrests solve this completely — [armrest-compatible compact chairs](URL_PLACEHOLDER_2) often include hex-key removal and reinstallation. 4D armrests (adjustable in height, width, depth, and pivot) are ideal but add cost; removable arms are the practical small-space default.
+**Armrest design is critical when your desk clearance is limited.** Many compact desks and floating wall-mount desks have a clearance height of 26–27 inches. Standard armrests sit at 27–28 inches when lowered to minimum, meaning they physically can't slide under the desk. Removable armrests solve this completely — armrest-compatible compact chairs often include hex-key removal and reinstallation. 4D armrests (adjustable in height, width, depth, and pivot) are ideal but add cost; removable arms are the practical small-space default.
 
 **Seat depth adjustability prevents the [posture](/posts/home-office-posture-checklist/) problems that creep up after month three.** A fixed-depth seat pan at 17 inches will force shorter users (under 5'6") into a position where they either jam their knees against the front edge or slide forward and lose back contact. Adjustable seat depth — typically a 2–3 inch range controlled by a lever — costs extra but pays off in sustained comfort. Without it, your lower back starts compensating, and you end up with the same problems you bought an ergonomic chair to avoid.
 
@@ -62,29 +62,29 @@ Once you've confirmed a chair fits your floor plan, you evaluate ergonomics. Her
 
 | Chair | Base Width | Back Height | Price Range | Armrests | Lumbar Type | Best For |
 |---|---|---|---|---|---|---|
-| [Flexispot BS9 Plus](URL_PLACEHOLDER_3) | 25.6" | 41" (mid-back) | $280–$340 | 4D, removable | Adjustable built-in | Best overall compact |
-| [Hbada Ergonomic Task Chair](URL_PLACEHOLDER_4) | 24.4" | 38" | $150–$190 | Flip-up | Fixed curve | Budget, tight corners |
-| [Branch Ergonomic Chair](URL_PLACEHOLDER_5) | 26" | 40" | $329–$499 | 4D, removable | Adjustable | Mid-range sweet spot |
-| [Secretlab Titan Evo (Small)](URL_PLACEHOLDER_6) | 26.5" | 52" | $429–$549 | 4D magnetic | Integrated + pillow | Gaming/hybrid setup |
-| [Autonomous ErgoChair Pro](URL_PLACEHOLDER_7) | 25.2" | 42" | $369–$499 | 4D | Fully adjustable | Full-time [remote work](/posts/how-to-improve-home-office-acoustics/) |
+| Flexispot BS9 Plus | 25.6" | 41" (mid-back) | $280–$340 | 4D, removable | Adjustable built-in | Best overall compact |
+| Hbada Ergonomic Task Chair | 24.4" | 38" | $150–$190 | Flip-up | Fixed curve | Budget, tight corners |
+| Branch Ergonomic Chair | 26" | 40" | $329–$499 | 4D, removable | Adjustable | Mid-range sweet spot |
+| Secretlab Titan Evo (Small) | 26.5" | 52" | $429–$549 | 4D magnetic | Integrated + pillow | Gaming/hybrid setup |
+| Autonomous ErgoChair Pro | 25.2" | 42" | $369–$499 | 4D | Fully adjustable | Full-time [remote work](/posts/how-to-improve-home-office-acoustics/) |
 
 **Best overall for compact ergonomics: Flexispot BS9 Plus.** The 25.6-inch base is genuinely narrow without feeling unstable. Lumbar height adjusts across a 3.5-inch range, and the mesh back weighs and looks lighter than upholstery alternatives. Seat depth adjusts 2 inches. It's not the most premium finish, but for a sub-$350 chair in a small room, the ergonomic coverage is solid.
 
 **Best budget pick: Hbada Ergonomic Task Chair.** At 24.4 inches, this has the narrowest base on this list. Flip-up armrests clear under virtually any desk. The lumbar curve is fixed, which limits who it fits well (best for users 5'5"–5'9"), but for under $200 with a genuine footprint advantage, it earns its place on this list. Expect a 3–4 year functional lifespan under daily use.
 
-**Best mid-range: Branch Ergonomic Chair.** Branch operates direct-to-consumer which explains the value relative to the build quality. The adjustability range is wide, customer service has a real 30-day return window, and the aesthetics trend toward minimal — important when your office chair is also in your living space sightlines. [Check current pricing](URL_PLACEHOLDER_5).
+**Best mid-range: Branch Ergonomic Chair.** Branch operates direct-to-consumer which explains the value relative to the build quality. The adjustability range is wide, customer service has a real 30-day return window, and the aesthetics trend toward minimal — important when your office chair is also in your living space sightlines. Check current pricing.
 
 ---
 
 ## Measurement Guide for Your Space {#measurement-guide}
 
-Before purchasing anything, spend 10 minutes with a [tape measure](URL_PLACEHOLDER_8) taking these four measurements:
+Before purchasing anything, spend 10 minutes with a tape measure taking these four measurements:
 
 1. **Available floor zone (width × depth):** Mark out the space between your desk and the nearest obstacle. You need at minimum 24 inches of width and 30 inches of depth for the chair plus basic movement.
 
 2. **Recline clearance:** Measure from the back of your desk to the wall or shelf behind you. Under 36 inches means a full-recline chair will hit your wall. At 36–42 inches, synchronized tilt is fine. Over 42 inches, you have freedom to choose any mechanism.
 
-3. **Desk clearance height:** Measure from the floor to the underside of your desk surface. If it's under 27 inches, you need removable or flip-up armrests — non-negotiable. Consider pairing with a [monitor arm](URL_PLACEHOLDER_9) to raise your screen and allow the chair to tuck in fully.
+3. **Desk clearance height:** Measure from the floor to the underside of your desk surface. If it's under 27 inches, you need removable or flip-up armrests — non-negotiable. Consider pairing with a monitor arm to raise your screen and allow the chair to tuck in fully.
 
 4. **Visual ceiling:** Where are your shelves, lighting, or upper cabinets? If they start below 54 inches from the floor, a high-back chair will read as claustrophobic. Mid-back is the practical ceiling.
 
@@ -94,7 +94,7 @@ One underused technique: before ordering, cut a piece of cardboard to the chair'
 
 ## Budget Breakdown and Value Assessment {#budget}
 
-**Under $200:** Chairs in this range use thinner foam (which compresses within 12–18 months), narrower adjustment ranges, and lighter-duty gas cylinders. For 4–6 hours of daily use, they're adequate. Expect to replace or supplement with a [lumbar cushion](URL_PLACEHOLDER_10) within two years. Not a waste if you're in a temporary situation or working part-time from home.
+**Under $200:** Chairs in this range use thinner foam (which compresses within 12–18 months), narrower adjustment ranges, and lighter-duty gas cylinders. For 4–6 hours of daily use, they're adequate. Expect to replace or supplement with a lumbar cushion within two years. Not a waste if you're in a temporary situation or working part-time from home.
 
 **$200–$500:** This is the correct bracket for most remote workers in small spaces. You get real adjustability (seat depth, lumbar height, 4D arms), mesh materials that last 5–7 years without sagging, and base quality that handles 8-hour days. The chairs listed above all live in this range. Don't let marketing push you above it without concrete reasons.
 
@@ -122,11 +122,11 @@ Across forums like r/HomeOffice, r/malelivingspace, and product review aggregate
 
 The best ergonomic chair for a small home office isn't the one with the most features or the highest price point — it's the one that fits your floor plan without compromise, supports your body for 6–8 hours, and doesn't visually consume the room you also live in. Base width under 26 inches, mid-back profile, removable or flip-up armrests, and adjustable lumbar cover 90% of what actually matters in a compact setup.
 
-The $300–$500 range gives you everything you need. The [Branch Ergonomic Chair](URL_PLACEHOLDER_5) and [Flexispot BS9 Plus](URL_PLACEHOLDER_3) are the two picks I'd put in front of most people shopping this category — the Branch for those prioritizing adjustability and return-policy confidence, the Flexispot for those who want the narrowest footprint at the lowest price with adequate ergonomic coverage.
+The $300–$500 range gives you everything you need. The Branch Ergonomic Chair and Flexispot BS9 Plus are the two picks I'd put in front of most people shopping this category — the Branch for those prioritizing adjustability and return-policy confidence, the Flexispot for those who want the narrowest footprint at the lowest price with adequate ergonomic coverage.
 
-Measure your space before you order. Test the chair within its return window. Invest in [PU casters](URL_PLACEHOLDER_1) if your floors are hardwood. That's the complete playbook.
+Measure your space before you order. Test the chair within its return window. Invest in PU casters if your floors are hardwood. That's the complete playbook.
 
-**Ready to shop?** Start with the [Branch Ergonomic Chair](URL_PLACEHOLDER_5) if you're in the $329–$499 range, or the [Hbada Task Chair](URL_PLACEHOLDER_4) if you need to stay under $200. Both ship with real return windows — use them.
+**Ready to shop?** Start with the Branch Ergonomic Chair if you're in the $329–$499 range, or the Hbada Task Chair if you need to stay under $200. Both ship with real return windows — use them.
 
 ---
 
@@ -148,11 +148,11 @@ Mesh is better for small spaces on two counts: it runs cooler (important when yo
 
 ### Q: Are gaming chairs worth considering for ergonomic small office use?
 
-Generally no, with exceptions. Most gaming chairs have bases in the 27–30 inch range and high backs designed for aesthetic impact rather than ergonomic precision. The [Secretlab Titan Evo in size Small](URL_PLACEHOLDER_6) is a legitimate exception with genuine lumbar adjustability and a reasonable base width. Standard gaming chairs from budget brands are shaped poorly for sustained seated work regardless of size.
+Generally no, with exceptions. Most gaming chairs have bases in the 27–30 inch range and high backs designed for aesthetic impact rather than ergonomic precision. The Secretlab Titan Evo in size Small is a legitimate exception with genuine lumbar adjustability and a reasonable base width. Standard gaming chairs from budget brands are shaped poorly for sustained seated work regardless of size.
 
 ### Q: What upgrades make an existing chair work better in a small space?
 
-Three specific upgrades cover most situations: [polyurethane replacement casters](URL_PLACEHOLDER_1) for quiet movement on hard floors ($15–$25), a [standalone lumbar support pillow](URL_PLACEHOLDER_10) if your chair's built-in support is insufficient ($25–$60), and a [monitor arm](URL_PLACEHOLDER_9) to raise your screen and let the chair sit closer to the desk without armrest conflict ($40–$120). These three changes can extend the functional life of a marginal chair by 2–3 years.
+Three specific upgrades cover most situations: polyurethane replacement casters for quiet movement on hard floors ($15–$25), a standalone lumbar support pillow if your chair's built-in support is insufficient ($25–$60), and a monitor arm to raise your screen and let the chair sit closer to the desk without armrest conflict ($40–$120). These three changes can extend the functional life of a marginal chair by 2–3 years.
 
 ### What is the most important feature to look for in a small office chair?
 

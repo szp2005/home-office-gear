@@ -23,7 +23,7 @@ If you type for hours a day, you are likely looking for ways to maximize efficie
 
 ## The Problem with Standard Staggered Keyboards
 
-To understand why ortho-linear keyboards offer an advantage, we first have to examine the flaws of the traditional staggered layout. When you place your hands on the home row (ASDF and JKL;), your fingers naturally rest in a straight line. However, to reach the top or bottom rows on a staggered board, your fingers must travel diagonally. 
+To understand why ortho-linear keyboards offer an advantage, we first have to examine the flaws of the traditional staggered layout. When you place your hands on the home row (ASDF and JKL;), your fingers naturally rest in a straight line. However, to reach the top or bottom rows on a staggered board, your fingers must travel diagonally.
 
 For example, reaching the 'C' key with your left middle finger requires a downward and rightward motion. Reaching the 'Y' key requires the right index finger to stretch aggressively up and to the left. These asymmetric micro-movements force the wrists into unnatural angles, a [posture](/posts/home-office-posture-checklist/) known as ulnar deviation. 
 
@@ -31,7 +31,7 @@ Over a full workday, calculating tens of thousands of keystrokes, these ineffici
 
 ## How Grid Layouts Fundamentally Change Keystrokes
 
-An ortho-linear layout (from the Greek "ortho," meaning straight or right) aligns keys in straight columns and straight rows. When your fingers rest on the home row of an ortho-linear board, moving to the top or bottom row requires only a simple, vertical extension or flexion of the finger joints. 
+An ortho-linear layout (from the Greek "ortho," meaning straight or right) aligns keys in straight columns and straight rows. When your fingers rest on the home row of an ortho-linear board, moving to the top or bottom row requires only a simple, vertical extension or flexion of the finger joints.
 
 ### Symmetrical Finger Travel
 
@@ -47,19 +47,19 @@ Typing speed is not just about how fast your fingers can move; it is about effic
 
 ### Accelerated Muscle Memory Development
 
-Muscle memory relies on consistent spatial relationships. Because an ortho-linear layout uses a strict grid, the brain maps the keyboard much faster once the initial unlearning phase is complete. Every key has a precise, predictable Cartesian coordinate relative to the home row. 
+Muscle memory relies on consistent spatial relationships. Because an ortho-linear layout uses a strict grid, the brain maps the keyboard much faster once the initial unlearning phase is complete. Every key has a precise, predictable Cartesian coordinate relative to the home row.
 
 When typing 'T' on a standard board, the index finger stretches up and slightly to the right. When typing 'Y', the opposite index finger stretches up and slightly to the left. These are two different vectors to learn. On an ortho-linear board, the vector for reaching the top row is always exactly 90 degrees vertical. This reduction in the variables your brain has to process leads to faster, more automatic keystroke execution.
 
 ### Significant Reduction in Typos
 
-A major factor in a high WPM is the absence of mistakes. Correcting a typo via the backspace key costs time, breaking your flow and effectively halving your typing speed for that particular word. Ortho-linear keyboards drastically reduce adjacent-key errors. 
+A major factor in a high WPM is the absence of mistakes. Correcting a typo via the backspace key costs time, breaking your flow and effectively halving your typing speed for that particular word. Ortho-linear keyboards drastically reduce adjacent-key errors.
 
 Because the columns are straight, fingers are less likely to "drift" into neighboring key zones during vertical movements. Typists frequently report a noticeable drop in error rates, particularly on bottom-row keys like 'Z', 'X', 'C', 'V', 'B', and 'N', which are notoriously awkward on staggered boards. Higher accuracy naturally translates to a higher sustained typing speed.
 
 ### Optimized Use of Thumb Clusters
 
-Many popular ortho-linear keyboards (such as the Planck or the Preonic) utilize a minimalist 40% or 50% form factor. To compensate for the lack of dedicated number or function rows, they rely heavily on thumb clusters and layers. 
+Many popular ortho-linear keyboards (such as the Planck or the Preonic) utilize a minimalist 40% or 50% form factor. To compensate for the lack of dedicated number or function rows, they rely heavily on thumb clusters and layers.
 
 On a traditional keyboard, the thumbs are severely underutilized, responsible only for mashing a massive spacebar. Ortho-linear designs often split the spacebar and introduce modifier keys (Shift, Ctrl, Alt) or layer-toggle keys directly under the thumbs. By offloading these high-frequency modifiers to your strongest digits, your weaker pinky fingers are relieved of the stressful stretches that often slow down fast typing and cause fatigue. Accessing numbers and symbols becomes a fluid chorded motion rather than a hand-displacing leap.
 
@@ -107,7 +107,7 @@ The secret weapon of the ortho-linear keyboard is programmability. Almost all of
 
 ## Conclusion
 
-The standard staggered keyboard is a relic of mechanical engineering, not ergonomic design. The benefits of ortho-linear keyboards for typing speed are rooted in basic geometry: straight lines are shorter and easier to navigate than diagonal ones. By adopting a strict grid layout, you reduce finger travel distance, standardize the spatial map your brain has to memorize, and drastically reduce the awkward stretches that lead to fatigue and typos. 
+The standard staggered keyboard is a relic of mechanical engineering, not ergonomic design. The benefits of ortho-linear keyboards for typing speed are rooted in basic geometry: straight lines are shorter and easier to navigate than diagonal ones. By adopting a strict grid layout, you reduce finger travel distance, standardize the spatial map your brain has to memorize, and drastically reduce the awkward stretches that lead to fatigue and typos.
 
 While the learning curve requires patience and deliberate practice, the long-term payoff is a more comfortable, highly efficient typing experience. If you are a professional who relies on keyboard efficiency, retraining your hands for a grid layout is one of the most effective hardware upgrades you can make to raise your typing speed ceiling.
 
@@ -127,3 +127,9 @@ For a proficient touch-typist, it generally takes 2 to 4 weeks of consistent dai
 
 ### Can I still type on a normal keyboard after switching to ortho-linear?
 Yes, most people retain the ability to type on standard staggered keyboards (like a laptop keyboard) even after switching. The brain generally treats them as two distinct physical instruments, though you may experience a few minutes of clumsiness when switching back and forth.
+
+---
+
+## Related Reading
+
+- [Mechanical Keyboard Switch Cleaning: Safe 6-Step Guide](/posts/how-to-clean-mechanical-keyboard-switches-safely/)
