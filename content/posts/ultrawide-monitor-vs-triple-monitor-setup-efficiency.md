@@ -29,7 +29,7 @@ Ultrawide monitors, typically arriving in 21:9 or 32:9 aspect ratios, provide a 
 The primary advantage of an ultrawide is the absence of physical bezels. When reading long documents, viewing complex spreadsheets that require extensive horizontal scrolling, or editing video timelines, a single continuous screen prevents visual interruption. This seamlessness reduces the cognitive load of shifting your focus across physical gaps.
 
 ### Streamlined Desk Aesthetics
-A single monitor requires only one power cable and one display cable. It mounts cleanly onto a single heavy-duty [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/), freeing up desk space below. For minimalists or those working in constrained home offices, an ultrawide reduces visual clutter and simplifies [cable management](/posts/mic-stand-with-hidden-cable-management/) significantly.
+A single monitor requires only one power cable and one display cable. It mounts cleanly onto a single heavy-duty [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/), freeing up desk space below. For minimalists or those working in constrained home offices, an ultrawide reduces visual [clutter](/posts/how-to-reduce-cable-clutter-on-desk/) and simplifies [cable management](/posts/mic-stand-with-hidden-cable-management/) significantly.
 
 ### Software-Driven Window Management
 Using an ultrawide efficiently requires relying on window management software. Utilities like Microsoft PowerToys (FancyZones) or macOS window snapping tools are essential. You dictate the grid, allowing for asymmetrical layouts—like one large central window for primary work and two narrow side columns for communication and reference materials.
@@ -45,7 +45,7 @@ Using an ultrawide efficiently requires relying on window management software. U
 The Samsung Odyssey OLED G9 is a dominant force in the 32:9 super-ultrawide category. Its 1800R curve perfectly wraps around your field of vision, ensuring edge-to-edge visibility without color distortion. The OLED panel provides perfect blacks and infinite contrast, making it exceptional for both color-grading professional work and after-hours gaming. The screen real estate perfectly mimics dual 27-inch 1440p monitors, providing an expansive canvas without a central bezel.
 
 **Pros:**
-- Incredible OLED contrast and color accuracy
+- Incredible OLED contrast and [color accuracy](/posts/how-to-calibrate-monitor-for-creative-work/)
 - Massive 32:9 aspect ratio eliminates the need for dual screens
 - Aggressive curve reduces eye strain on edges
 

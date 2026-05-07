@@ -19,7 +19,7 @@ Traditional [office](/posts/best-label-maker-for-home-office-organization/) chai
 
 Rather than forcing your body into a right-angle position, saddle chairs position you halfway between sitting and [standing](/posts/standing-desk-setup-for-small-apartment/). This shifts the biomechanics of your [posture](/posts/best-footrest-for-under-desk-ergonomics/), placing entirely different demands on your spine, pelvis, and musculature. For many, this shift provides profound relief from chronic desk-related pain; for others, it introduces a new set of physical challenges.
 
-Understanding the pros and cons of saddle chairs ergonomics requires looking beyond the unusual design to the physiological changes they induce. By evaluating how the body responds to this equestrian-style seating, you can determine whether a saddle chair is the right ergonomic intervention for your [workspace](/posts/home-office-desk-depth-guide/).
+Understanding the pros and cons of saddle chairs ergonomics requires looking beyond the unusual design to the physiological changes they induce. By evaluating how the body responds to this equestrian-style seating, you can determine whether a saddle chair is the right [ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) intervention for your [workspace](/posts/home-office-desk-depth-guide/).
 
 ## The Science Behind Saddle Chair Ergonomics
 
@@ -122,7 +122,7 @@ If you decide that the ergonomic pros outweigh the cons, proper implementation i
 
 The pros and cons of saddle chairs ergonomics present a clear trade-off: you exchange the passive, relaxed comfort of a traditional chair for a physically demanding but structurally superior active sitting posture.
 
-For individuals suffering from lower back pain, disc compression, or poor circulation, the 135-degree hip angle and enforced spinal alignment of a saddle chair can be transformative. The ability to naturally engage the core and maintain the lumbar curve without relying on plastic backrests represents a significant step forward in workspace wellness.
+For individuals suffering from lower back pain, disc compression, or poor circulation, the 135-degree hip angle and enforced spinal alignment of a saddle chair can be transformative. The ability to naturally engage the core and maintain the lumbar curve without relying on plastic backrests represents a significant step forward in workspace [wellness](/posts/biophilic-design-home-office-integration/).
 
 However, the steep adaptation period, the requirement of an adjustable height desk, and the potential for localized pressure points mean saddle chairs are not a casual purchase. They require a commitment to improving one's physical conditioning. When utilized correctly—particularly as a rotational seating option paired with a standing desk—a split-seat saddle chair is one of the most powerful ergonomic tools available for the modern remote worker.
 

@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Understanding Desk Bike Ergonomics for Weight Loss: Complete Guide
 
-> **Quick Answer:** Understanding desk bike ergonomics for weight loss requires setting your seat height so there is a 25 to 30-degree bend in your knee at the bottom of the pedal stroke. Proper alignment prevents patellofemoral pain, allows for sustained periods of low-intensity steady-state (LISS) cardio, and ensures your upper body remains stable for typing while your lower body efficiently burns calories.
+> **Quick Answer:** Understanding desk bike ergonomics for weight loss requires setting your seat height so there is a 25 to 30-degree bend in your knee at the bottom of the pedal stroke. Proper alignment prevents patellofemoral pain, allows for sustained periods of low-intensity steady-state (LISS) cardio, and ensures your upper body remains stable for [typing](/posts/what-is-the-ideal-desk-height-for-typing/) while your lower body efficiently burns calories.
 
 Transitioning from a traditional sedentary desk to an active workstation is a fundamental shift in how you structure your work day. Many professionals invest in under-desk bikes or full desk bike setups expecting immediate cardiovascular benefits, only to abandon them weeks later due to lower [back pain](/posts/benefits-of-lumbar-support-for-spinal-health/), knee discomfort, or sheer fatigue. The missing component in these failed transitions is almost always proper physical alignment. 
 
@@ -62,7 +62,7 @@ Your desk should be set so that your elbows rest at a 90 to 100-degree angle whe
 
 Most under-desk bikes feature flat pedals with basic straps. Position the ball of your foot directly over the pedal axle. Pedaling with your arches reduces the involvement of your calf muscles and places unnatural torque on the plantar fascia. Keep the pedal straps tight enough to prevent your foot from slipping forward, but loose enough that you aren't cutting off circulation.
 
-Focus on applying downward pressure evenly, and try to maintain a flat foot throughout the rotation. "Pointing your toes" at the bottom of the stroke reduces the power output from your larger leg muscles and limits your calorie burn.
+[Focus](/posts/noise-canceling-headphones-for-home-office/) on applying downward pressure evenly, and try to maintain a flat foot throughout the rotation. "Pointing your toes" at the bottom of the stroke reduces the power output from your larger leg muscles and limits your calorie burn.
 
 ## Balancing Resistance vs. Cadence for Fat Oxidation
 

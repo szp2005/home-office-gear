@@ -52,7 +52,7 @@ Consider the diameter of the cables you need to manage before purchasing.
 Clips generally come in single-channel, dual-channel, or open-loop designs. Single-channel clips with a secure snap closure are ideal for routing an individual thick power cable down a leg. Open-loop or adjustable strap designs with a magnetic base are better for bundling multiple medium cables together.
 
 ### Quick-Release Mechanisms
-The primary advantage of magnetic cable management is flexibility. If you frequently swap [keyboards](/posts/split-ergonomic-keyboard-vs-standard-2026/), mice, or add new hardware, you want a clip that opens easily without needing to be pried off the desk frame. Magnetic clasps or flexible silicone latches are vastly superior to rigid plastic snap-fits, which can be difficult to open and often snap under pressure.
+The primary advantage of magnetic cable management is flexibility. If you frequently swap [keyboards](/posts/split-ergonomic-keyboard-vs-standard-2026/), mice, or add new [hardware](/posts/best-usb-c-hub-for-desk-setup/), you want a clip that opens easily without needing to be pried off the desk frame. Magnetic clasps or flexible silicone latches are vastly superior to rigid plastic snap-fits, which can be difficult to open and often snap under pressure.
 
 ## Placement Strategy for Standing Desks
 

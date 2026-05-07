@@ -39,7 +39,7 @@ Borrowing the concept from Murphy beds, these desks integrate into a taller shel
 Not all floating desks are engineered to the same standards. When selecting a unit specifically for laptop use, prioritize these structural and design elements.
 
 ### Weight Capacity and Stability
-A laptop weighs between 2.5 and 5 pounds. The pressure you apply while typing adds another 10 to 15 pounds of downward force. A fold-down desk must safely support at least 30 pounds to prevent sagging or catastrophic failure. High-quality bracket desks support up to 50 pounds, while heavily reinforced box styles can support 80 to 100 pounds. Never rely solely on drywall anchors for a desk; at least one side must be secured to a wooden or metal wall stud.
+A laptop weighs between 2.5 and 5 pounds. The pressure you apply while [typing](/posts/what-is-the-ideal-desk-height-for-typing/) adds another 10 to 15 pounds of downward force. A fold-down desk must safely support at least 30 pounds to prevent sagging or catastrophic failure. High-quality bracket desks support up to 50 pounds, while heavily reinforced box styles can support 80 to 100 pounds. Never rely solely on drywall anchors for a desk; at least one side must be secured to a wooden or metal wall stud.
 
 ### Surface Dimensions
 For a comfortable laptop setup, the minimum recommended surface area is 24 inches wide by 16 inches deep. A 16-inch depth allows for the laptop screen to be pushed back far enough to rest your wrists comfortably on the edge. If you use an external mouse or a secondary [portable](/posts/best-portable-monitor-for-work-from-home/)(/posts/best-portable-monitor-for-work-from-home/) monitor, look for widths of 30 inches or more.
@@ -76,7 +76,7 @@ When outfitting a small space, consider how the desk interacts with the rest of 
 
 If placing the desk in a high-traffic hallway, prioritize an ultra-slim bracket design with rounded corners to prevent snagging clothes or causing injury when closed. In a bedroom, a box-style desk with internal storage is highly recommended. Being able to fold the desk up and hide the laptop at night creates a psychological boundary between your workspace and your sleeping area, which is vital for remote workers.
 
-Be mindful of lighting. A wall-mounted desk fixed flat against a wall often puts your back to the room's central light fixture, causing you to cast a shadow directly onto your keyboard. Installing an under-cabinet LED strip above the desk, or selecting a desk with enough depth to accommodate a small battery-powered desk lamp, resolves this issue.
+Be mindful of [lighting](/posts/home-office-lighting-for-eye-strain/). A wall-mounted desk fixed flat against a wall often puts your back to the room's central light fixture, causing you to cast a shadow directly onto your keyboard. Installing an under-cabinet LED strip above the desk, or selecting a desk with enough depth to accommodate a small battery-powered desk lamp, resolves this issue.
 
 For those utilizing a heavy gaming laptop or leaning heavily on the desk while drafting, avoid piano-hinge designs without secondary support legs. Opt instead for models that feature a fold-out wooden leg that rests on the baseboard or floor, converting the floating desk into a structurally supported table when deployed.
 

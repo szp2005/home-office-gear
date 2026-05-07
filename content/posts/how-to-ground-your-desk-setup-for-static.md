@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Static electricity is more than just a brief, uncomfortable shock when you touch your metal keyboard chassis or desk legs. For workstation enthusiasts, PC builders, and remote workers handling sensitive electronics, electrostatic discharge (ESD) is a silent hardware killer. A single shock from your fingertip transfers thousands of volts to delicate circuitry, potentially degrading microprocessors, corrupting data, or outright destroying a motherboard over time. 
 
-If you frequently experience static shocks at your workstation, your setup is acting as a capacitor. The combination of synthetic carpet, dry air, rolling office chairs, and ungrounded surfaces creates a perfect storm for triboelectric charging. Resolving this issue requires a systematic approach to discharging electrical potential safely before it reaches your equipment, alongside basic power protection such as a [home office surge protector](/posts/best-surge-protector-for-home-office-setup/).
+If you frequently experience static shocks at your workstation, your setup is acting as a capacitor. The combination of synthetic carpet, dry air, rolling [office](/posts/best-label-maker-for-home-office-organization/) chairs, and ungrounded surfaces creates a perfect storm for triboelectric charging. Resolving this issue requires a systematic approach to discharging electrical potential safely before it reaches your equipment, alongside basic power protection such as a [home office surge protector](/posts/best-surge-protector-for-home-office-setup/).
 
 This guide outlines exactly how to ground your desk setup for static, detailing the hardware required, the specific steps to route stray voltage safely to earth ground, and the environmental controls necessary to prevent static buildup entirely.
 
@@ -58,7 +58,7 @@ An anti-static mat is useless if it is not connected to a grounded sink. The ele
 Before connecting anything to your home's electrical system, plug a standard AC receptacle tester into the wall outlet nearest your desk. You want to see the specific sequence of lights that indicates "Correct Wiring." If the tester shows "Open Ground," "Reverse Polarity," or any other fault, do not use this outlet for grounding. You must call an electrician to repair the circuit, as you currently have no safe path to earth ground.
 
 ### Attach the Grounding Cord
-Snap the female end of the grounding cord onto the 10mm male stud on your ESD mat. Route the cord neatly along the back edge of your desk, ensuring it is not pulled tight or pinched in the hinges of a standing desk mechanism.
+Snap the female end of the grounding cord onto the 10mm male stud on your ESD mat. Route the cord neatly along the back edge of your desk, ensuring it is not pulled tight or pinched in the hinges of a [standing desk](/posts/compact-standing-desk-converter-review/) mechanism.
 
 ### Connect to the Grounding Plug
 Plug your dedicated ESD grounding plug into the tested wall outlet. This plug only utilizes the round, bottom earth prong. Connect the ring terminal or banana plug from your mat's grounding cord into the receptacle on the grounding plug. Your desk surface is now safely tethered to your home's earth ground.
@@ -70,7 +70,7 @@ While a grounding mat protects the top of your desk, the room's environment dict
 ### Regulate Relative Humidity
 Static electricity thrives in dry air. During the winter, indoor heating systems strip moisture from the air, often dropping relative humidity below 20%. In these conditions, static charges generate rapidly and linger on surfaces for hours. 
 
-Introduce a humidifier to your office and monitor the air with a basic hygrometer. Aim to maintain the room's relative humidity between 40% and 60%. At 40% humidity, a thin, microscopic layer of moisture naturally coats surfaces in the room. Water is conductive, so this microscopic moisture layer allows static charges to dissipate harmlessly into the atmosphere before they can build up to shocking levels.
+Introduce a humidifier to your office and [monitor](/posts/best-portable-monitor-for-work-from-home/) the air with a basic hygrometer. Aim to maintain the room's relative humidity between 40% and 60%. At 40% humidity, a thin, microscopic layer of moisture naturally coats surfaces in the room. Water is conductive, so this microscopic moisture layer allows static charges to dissipate harmlessly into the atmosphere before they can build up to shocking levels.
 
 ### Address the Flooring
 If your desk chair rolls on a synthetic carpet, you are generating thousands of volts of potential energy every time you shift your weight. To mitigate this:

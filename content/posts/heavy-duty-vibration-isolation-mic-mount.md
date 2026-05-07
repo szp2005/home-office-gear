@@ -69,7 +69,7 @@ The Aston Swift rethinks the heavy-duty vibration isolation mic mount with a bri
 **Price:** $39-$45
 **Rating:** 4.6/5
 
-Built explicitly for heavy broadcast microphones like the Rode Podcaster, Procaster, and similar dynamic models, the Rode PSM1 is an absolute tank. Broadcast microphones are notoriously heavy and front-weighted, often overpowering standard shock mounts and leading to immediate sagging. This heavy-duty vibration isolation mic mount uses a high-tension elastic suspension cross-woven within a thick metal chassis. It excels at neutralizing the low-frequency rumble transmitted through desk-clamped boom arms when typing, adjusting monitors, or moving a mouse during live stream broadcasts.
+Built explicitly for heavy broadcast microphones like the Rode Podcaster, Procaster, and similar dynamic models, the Rode PSM1 is an absolute tank. Broadcast microphones are notoriously heavy and front-weighted, often overpowering standard shock mounts and leading to immediate sagging. This heavy-duty vibration isolation mic mount uses a high-tension elastic suspension cross-woven within a thick metal chassis. It excels at neutralizing the low-frequency rumble transmitted through desk-clamped boom arms when [typing](/posts/what-is-the-ideal-desk-height-for-typing/), adjusting monitors, or moving a mouse during live stream broadcasts.
 
 **Pros:**
 - Extremely durable metal chassis withstands daily abuse in broadcast environments
@@ -125,7 +125,7 @@ The single most critical factor is the weight capacity. Check your microphone's 
 While the inner suspension holds the microphone, the outer ring must attach to your boom arm or mic stand. The industry standards are 5/8-inch (common in the US) and 3/8-inch (common in Europe). Ensure the shock mount you purchase either matches your stand natively or includes a durable, machined brass thread adapter. Heavy microphones exert significant torque on the mounting point; cheap plastic thread adapters will strip under the weight of a heavy-duty setup, causing the microphone to abruptly drop during a session.
 
 ### Elastic Bands vs. Thermoplastic Suspensions
-For decades, fabric-woven elastic bands were the standard for shock mounts. While effective, they degrade over time due to humidity, temperature fluctuations, and continuous tension. If you choose an elastic-based heavy-duty vibration isolation mic mount, expect to purchase replacement bands every two to three years. Modern alternatives, like Rycote's Hytrel thermoplastic Lyres or Aston's polymer structures, offer a distinct advantage. These materials retain their molecular shape indefinitely, meaning they will never stretch, snap, or require maintenance, making them a vastly superior long-term investment.
+For decades, fabric-woven elastic bands were the standard for shock mounts. While effective, they degrade over time due to humidity, temperature fluctuations, and continuous tension. If you choose an elastic-based heavy-duty vibration isolation mic mount, expect to purchase replacement bands every two to three years. Modern alternatives, like Rycote's Hytrel thermoplastic Lyres or Aston's polymer structures, offer a distinct advantage. These materials retain their molecular shape indefinitely, meaning they will never stretch, snap, or require [maintenance](/posts/how-to-clean-mechanical-keyboard-switches-safely/), making them a vastly superior long-term investment.
 
 ## Conclusion
 

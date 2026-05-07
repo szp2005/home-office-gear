@@ -39,7 +39,7 @@ tags: ["reduce", "cable", "clutter", "desk"]
 
 A tangled desk isn't just ugly. It creates real, measurable problems.
 
-**Professionalism and focus.** Studies on [workspace](/posts/home-office-desk-depth-guide/) environment consistently link visual disorder to reduced concentration. If you're on video calls, a spaghetti bowl of cables behind your [monitor](/posts/best-portable-monitor-for-work-from-home/) signals disorganization to whoever is watching. It's a small thing that registers immediately.
+**Professionalism and [focus](/posts/noise-canceling-headphones-for-home-office/).** Studies on [workspace](/posts/home-office-desk-depth-guide/) environment consistently link visual disorder to reduced concentration. If you're on video calls, a spaghetti bowl of cables behind your [monitor](/posts/best-portable-monitor-for-work-from-home/) signals disorganization to whoever is watching. It's a small thing that registers immediately.
 
 **Safety.** Cables draped across the floor are a tripping hazard. Cables pinched under desk legs develop frayed insulation over time, which is a genuine fire risk. Power bricks stacked on top of each other trap heat. None of this is theoretical — it happens in real offices every year.
 
@@ -89,7 +89,7 @@ Do this once properly and maintenance takes five minutes per quarter.
 
 **Glass desk.** Adhesive is your only option — no drilling. Use heavy-duty adhesive clips designed for smooth surfaces. Keep cable bundles thin to minimize visual impact from the front. A transparent cable sleeve specifically helps on glass surfaces.
 
-**[Standing desk](/posts/compact-standing-desk-converter-review/) (sit-stand).** You need a retractable or looped cable management approach. Cables must accommodate the full height travel range. Use a cable carrier chain (also called a cable drag chain) or a long cable sleeve with a coiled loop at the desk base. A spiral cable wrap for standing desks handles the movement without tangling.
+**[Standing desk](/posts/compact-standing-desk-converter-review/) (sit-stand).** You need a retractable or looped cable management approach. Cables must accommodate the full height travel range. Use a cable carrier chain (also called a cable drag chain) or a long cable sleeve with a coiled loop at the desk base. A spiral cable wrap for [standing desks](/posts/ai-integrated-desk-height-adjustment-automatic/) handles the movement without tangling.
 
 **[Monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) with cable management.** A quality monitor arm has an internal cable channel. Feed the display cable and any USB cables through the arm's hollow channel. A monitor arm with integrated cable management eliminates the most visible cable run on the entire desk — the one going to your monitor.
 
@@ -105,7 +105,7 @@ These cost almost nothing.
 
 **Paper towel or toilet roll tubes.** Cut lengthwise, wrap around a bundle, secure with a rubber band. Works for the section behind the desk that nobody sees. Replace every few months.
 
-**PVC conduit.** Available at any hardware store for under $5 per foot, split with a utility knife, and snapped around cables against the wall. Paint it to match the wall color. This is the most permanent and durable DIY solution for under-$10 cable routing.
+**PVC conduit.** Available at any [hardware](/posts/best-usb-c-hub-for-desk-setup/) store for under $5 per foot, split with a utility knife, and snapped around cables against the wall. Paint it to match the wall color. This is the most permanent and durable DIY solution for under-$10 cable routing.
 
 **Velcro zip-through cable wrap from a sewing store.** The same material sold as branded "cable wrap" in tech stores costs half as much per foot at a fabric store. Cut to length, wrap, done.
 

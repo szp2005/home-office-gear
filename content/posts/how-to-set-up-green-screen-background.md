@@ -61,7 +61,7 @@ Implement a standard three-point lighting setup for yourself:
 2. **Fill Light:** A less intense light on the opposite side to soften the shadows created by the key light.
 3. **Hair Light (Backlight):** This is the secret weapon for a flawless chroma key. Place a small, focused light behind you and out of frame, pointing at the back of your head and shoulders. This backlight creates a crisp, bright rim around your outline, physically separating you from the background and neutralizing any accidental green light reflecting onto your hair.
 
-Ensure the color temperature of all your lights matches. If your background lights are set to daylight (5600K) and your key light is tungsten (3200K), your camera's white balance will struggle, heavily impacting the color accuracy of the green screen.
+Ensure the color temperature of all your lights matches. If your background lights are set to daylight (5600K) and your key light is tungsten (3200K), your camera's white balance will struggle, heavily impacting the [color accuracy](/posts/how-to-calibrate-monitor-for-creative-work/) of the green screen.
 
 ## Step 5: Camera Settings for Chroma Keying
 

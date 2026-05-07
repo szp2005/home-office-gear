@@ -81,7 +81,7 @@ If you plan to wear shoes while standing—particularly heels or shoes with aggr
 
 ## How to Protect Your Hardwood Floors While Using a Mat
 
-Even with a perfectly engineered, wood-safe anti-fatigue mat, proper maintenance is required to keep your hardwood floors in pristine condition.
+Even with a perfectly engineered, wood-safe anti-fatigue mat, proper [maintenance](/posts/how-to-clean-mechanical-keyboard-switches-safely/) is required to keep your hardwood floors in pristine condition.
 
 ### Implement a Routine Cleaning Schedule
 

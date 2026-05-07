@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** To mount your tablet as a second monitor, you need a reliable screen-extension app (like Sidecar, Spacedesk, or Duet Display) and a sturdy physical mount (such as a clamp arm, magnetic stand, or VESA adapter). Position the tablet adjacent to your primary display at eye level, connect via USB-C for the lowest latency, and adjust your OS display settings to align the screens physically.
 
-Adding a secondary screen to your workstation provides a dedicated space for reference materials, communication apps, or media controls. Many professionals already own an iPad, Galaxy Tab, or Surface device that sits unused during standard working hours. Repurposing these devices as a secondary display maximizes the return on your [hardware](/posts/best-usb-c-hub-for-desk-setup/) investment and keeps your primary monitor clear of clutter. 
+Adding a secondary screen to your workstation provides a dedicated space for reference materials, communication apps, or media controls. Many professionals already own an iPad, Galaxy Tab, or Surface device that sits unused during standard working hours. Repurposing these devices as a secondary display maximizes the return on your [hardware](/posts/best-usb-c-hub-for-desk-setup/) investment and keeps your primary monitor clear of [clutter](/posts/how-to-reduce-cable-clutter-on-desk/). 
 
 The primary challenge of this setup is achieving a permanent, seamless integration. Propping a tablet against a coffee mug or relying on flimsy folio cases results in poor [ergonomics](/posts/how-to-choose-a-home-office-desk-size/) and unstable connections. A proper implementation requires specific mounting hardware to elevate the tablet to eye level and the right software configuration to ensure a lag-free extension of your desktop. 
 
@@ -58,7 +58,7 @@ For a truly integrated multi-monitor setup, VESA adapters are the professional s
 By using a VESA adapter, you can mount the tablet onto a standard dual-[monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) alongside your primary display. This keeps all screens suspended on the same hardware, providing a unified look and allowing you to align the bezels perfectly. This approach requires dedicated monitor mounting hardware but offers the highest level of stability.
 
 ### Gooseneck Mounts vs. Rigid Arms
-Gooseneck mounts feature a flexible, bendable stalk rather than mechanical joints. While they are inexpensive and highly maneuverable, they are generally not recommended for use as a second monitor mount. Goosenecks are prone to severe screen wobble when typing heavily on a desk or when tapping the tablet screen. For a permanent workstation, rigid mechanical arms or VESA mounts are strictly superior.
+Gooseneck mounts feature a flexible, bendable stalk rather than mechanical joints. While they are inexpensive and highly maneuverable, they are generally not recommended for use as a second monitor mount. Goosenecks are prone to severe screen wobble when [typing](/posts/what-is-the-ideal-desk-height-for-typing/) heavily on a desk or when tapping the tablet screen. For a permanent workstation, rigid mechanical arms or VESA mounts are strictly superior.
 
 ## 3. Ergonomic Positioning for a Second Screen
 

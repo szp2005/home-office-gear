@@ -19,7 +19,7 @@ Working in a chronically cold office is more than just uncomfortable; it represe
 
 For decades, the default solution was the traditional ceramic space heater. However, as modern offices enforce stricter safety protocols and energy regulations, these high-wattage, fan-driven appliances are increasingly banned by facilities management. They trip circuit breakers, create fire hazards, and generate background noise that disrupts meetings. 
 
-The modern approach to workspace temperature control relies on personal microclimates. By utilizing an under desk foot heater specifically designed for cold offices, you can safely elevate your local temperature without running afoul of building regulations. This guide examines the mechanics, safety standards, and ergonomic benefits of dedicated foot heaters, providing you with the exact specifications needed to make an informed, compliant purchase.
+The modern approach to [workspace](/posts/home-office-desk-depth-guide/) temperature control relies on personal microclimates. By utilizing an under desk foot heater specifically designed for cold offices, you can safely elevate your local temperature without running afoul of building regulations. This guide examines the mechanics, safety standards, and ergonomic benefits of dedicated foot heaters, providing you with the exact specifications needed to make an informed, compliant purchase.
 
 ## Why Traditional Space Heaters Fail in Office Environments
 
@@ -46,7 +46,7 @@ The heating element is integrated directly into the platform surface. Because th
 ### Flat-Panel Radiant Heaters
 Flat-panel heaters are slim, rigid boards that utilize radiant heat technology. Unlike convective heaters that warm the air, radiant panels emit infrared waves that directly warm the objects and people in their path.
 
-These panels are usually magnetic or come with adhesive mounting brackets, allowing them to be attached directly to the modesty panel or the underside of the desk surface. Alternatively, they can be deployed on the floor using attachable feet. Operating between 100 and 200 watts, they provide a gentle, silent envelope of warmth for your legs and feet. Because they do not rely on physical contact, they are ideal for users who frequently shift their seating position or use standing desks.
+These panels are usually magnetic or come with adhesive mounting brackets, allowing them to be attached directly to the modesty panel or the underside of the desk surface. Alternatively, they can be deployed on the floor using attachable feet. Operating between 100 and 200 watts, they provide a gentle, silent envelope of warmth for your legs and feet. Because they do not rely on physical contact, they are ideal for users who frequently shift their seating position or use [standing desks](/posts/ai-integrated-desk-height-adjustment-automatic/).
 
 ### Heated Floor Mats
 Constructed from heavy-duty, fire-resistant rubber or PVC, heated floor mats are essentially industrial-grade heating pads designed to be stepped on. The internal wiring generates consistent, low-level heat across the entire surface area.
@@ -89,7 +89,7 @@ The effectiveness of your foot heater is heavily dependent on precise placement.
 
 **Floor Material Considerations:** If you are deploying a heated floor mat over a plush carpet, ensure the manufacturer explicitly approves it for soft surfaces. Some lower-quality mats can trap heat beneath them, potentially scorching synthetic carpet fibers over time. If in doubt, place a thin, rigid chair mat between the carpet and the heating device.
 
-**Cable Management:** The power cord for your foot heater should be routed securely along the desk leg or modesty panel. Never run the power cord across open floor space or underneath the caster wheels of your office chair. Repeatedly rolling over a power cord will eventually sever the internal copper shielding, creating a severe fire hazard. 
+**[Cable Management](/posts/mic-stand-with-hidden-cable-management/):** The power cord for your foot heater should be routed securely along the desk leg or modesty panel. Never run the power cord across open floor space or underneath the caster wheels of your office chair. Repeatedly rolling over a power cord will eventually sever the internal copper shielding, creating a severe fire hazard. 
 
 ## Conclusion
 

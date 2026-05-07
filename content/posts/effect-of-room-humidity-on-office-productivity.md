@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Effect of Room Humidity on Office Productivity: 2026 Guide
 
-> **Quick Answer:** The effect of room humidity on office productivity is substantial. Ideal indoor humidity levels for cognitive function and physical comfort range between 40% and 60%. Environments outside this zone cause physical discomfort—such as dry eyes and respiratory irritation in low humidity, or lethargy and thermal stress in high humidity—directly reducing [focus](/posts/noise-canceling-headphones-for-home-office/), typing speed, and overall cognitive output.
+> **Quick Answer:** The effect of room humidity on office productivity is substantial. Ideal indoor humidity levels for cognitive function and physical comfort range between 40% and 60%. Environments outside this zone cause physical discomfort—such as dry eyes and respiratory irritation in low humidity, or lethargy and thermal stress in high humidity—directly reducing [focus](/posts/noise-canceling-headphones-for-home-office/), [typing](/posts/what-is-the-ideal-desk-height-for-typing/) speed, and overall cognitive output.
 
 While temperature often dominates thermostat debates in professional environments, relative humidity (RH) remains the silent variable dictating daily comfort. Most professionals invest heavily in [ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) chairs, [mechanical keyboards](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/), and low-glare [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/), yet completely ignore the moisture content of the air they breathe for eight hours a day.
 

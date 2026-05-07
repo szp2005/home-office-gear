@@ -44,7 +44,7 @@ The NuPhy Air75 V2 represents the current gold standard for ultra-thin mechanica
 **Pros:**
 - Exceptionally thin profile eliminates the need for a wrist rest
 - Vibrant, flat spherical keycaps are both stylish and comfortable
-- Tri-mode connectivity (Bluetooth, 2.4GHz, wired) reduces desk cable clutter
+- Tri-mode connectivity (Bluetooth, 2.4GHz, wired) reduces desk cable [clutter](/posts/how-to-reduce-cable-clutter-on-desk/)
 
 **Cons:**
 - Unique keycap colorways may not suit conservative office environments
@@ -73,7 +73,7 @@ Logitech's MX Mechanical Mini is engineered for the modern professional working 
 **Price:** $89-$99
 **Rating:** 4.5/5
 
-Keychron has long dominated the entry-level mechanical keyboard market, and the K3 Pro translates their successful formula into a slim, 75% chassis. Measuring just 22mm thick, it easily accommodates small desks while offering premium features typically reserved for more expensive boards. The most significant advantage of the "Pro" version is its full QMK/VIA support. This allows you to remap any key, create complex macros, and adjust layers directly through a web browser—ideal for productivity power users who want to streamline their workflow without adding physical macro pads to their desk.
+Keychron has long dominated the entry-level mechanical keyboard market, and the K3 Pro translates their successful formula into a slim, 75% chassis. Measuring just 22mm thick, it easily accommodates small desks while offering premium features typically reserved for more expensive boards. The most significant advantage of the "Pro" version is its full QMK/VIA support. This allows you to remap any key, create complex macros, and adjust layers directly through a web browser—ideal for productivity power users who want to streamline their workflow without adding physical [macro pads](/posts/programmable-keypad-for-stream-deck-alternatives-2026/) to their desk.
 
 **Pros:**
 - Outstanding value for the feature set provided
@@ -107,7 +107,7 @@ The Lofree Flow takes a different approach to the ultra-thin category by focusin
 **Price:** $279-$299
 **Rating:** 4.2/5
 
-The Corsair K100 AIR Wireless pushes the physical limits of mechanical keyboard design. Measuring an astonishing 11mm at its thinnest point, it looks and feels like a piece of high-end sci-fi hardware. To achieve this, Corsair partnered with Cherry to use their Ultra Low Profile tactile switches, which operate with a scissor-like mechanism beneath the keycap. The typing feel is unique—very tactile, crisp, and similar to a premium laptop keyboard but with genuine mechanical feedback. While it is a full-sized keyboard (including a numpad), its razor-thin depth means it occupies very little vertical space, though the width may be a stretch for the narrowest of desks.
+The Corsair K100 AIR Wireless pushes the physical limits of mechanical keyboard design. Measuring an astonishing 11mm at its thinnest point, it looks and feels like a piece of high-end sci-fi [hardware](/posts/best-usb-c-hub-for-desk-setup/). To achieve this, Corsair partnered with Cherry to use their Ultra Low Profile tactile switches, which operate with a scissor-like mechanism beneath the keycap. The typing feel is unique—very tactile, crisp, and similar to a premium laptop keyboard but with genuine mechanical feedback. While it is a full-sized keyboard (including a numpad), its razor-thin depth means it occupies very little vertical space, though the width may be a stretch for the narrowest of desks.
 
 **Pros:**
 - Unbelievably thin design creates a striking aesthetic

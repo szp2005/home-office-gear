@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # How to Prevent Wrist Extension With Low Profile Keyboards
 
-> **Quick Answer:** Preventing wrist extension with low profile keyboards requires lowering your desk height to match your seated elbow height, using a negative tilt angle (sloping away from you), and practicing "hover typing" rather than planting your palms. Because these keyboards sit closer to the desk surface, traditional wrist rests often introduce upward angles that actually cause the extension you are trying to avoid.
+> **Quick Answer:** Preventing wrist extension with low profile keyboards requires lowering your desk height to match your seated elbow height, using a negative tilt angle (sloping away from you), and practicing "hover [typing](/posts/what-is-the-ideal-desk-height-for-typing/)" rather than planting your palms. Because these keyboards sit closer to the desk surface, traditional wrist rests often introduce upward angles that actually cause the extension you are trying to avoid.
 
 If you have transitioned to a low profile keyboard in hopes of alleviating wrist pain, you might be surprised to find your discomfort persisting—or even changing in nature. While these sleek peripherals are marketed as inherently [ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) due to their reduced height, simply placing one on a standard desk does not automatically resolve biomechanical strain. 
 
@@ -116,7 +116,7 @@ Often overlooked, a monitor placed too low will cause you to hunch forward, whic
 
 ## Conclusion
 
-Transitioning to a low profile keyboard is a smart step toward better desktop ergonomics, but the hardware alone cannot cure wrist pain. Preventing wrist extension with low profile keyboards requires a holistic approach to your workstation geometry. By aligning your desk height with your elbows, eliminating positive keyboard tilt, and learning to let your hands float horizontally across the lower keycaps, you can achieve the elusive neutral wrist posture and type comfortably, safely, and efficiently for years to come.
+Transitioning to a low profile keyboard is a smart step toward better desktop ergonomics, but the [hardware](/posts/best-usb-c-hub-for-desk-setup/) alone cannot cure wrist pain. Preventing wrist extension with low profile keyboards requires a holistic approach to your workstation geometry. By aligning your desk height with your elbows, eliminating positive keyboard tilt, and learning to let your hands float horizontally across the lower keycaps, you can achieve the elusive neutral wrist posture and type comfortably, safely, and efficiently for years to come.
 
 ## Frequently Asked Questions
 
@@ -130,7 +130,7 @@ Generally, no. Traditional wrist rests are too thick for low profile keyboards a
 No. Raising the back of your keyboard using the flip-out feet forces your wrists to bend upward (extend) to reach the upper rows of keys. For ergonomic typing and RSI prevention, keyboards should be completely flat or set to a negative tilt (sloping away from you).
 
 ### How long does it take to get used to hover typing?
-Transitioning to hover typing usually takes one to two weeks of conscious effort. Because low profile keyboards require less vertical travel, the adjustment period is typically shorter than with tall mechanical keyboards. Focus on keeping your forearms parallel to the floor and moving your entire arm to reach keys rather than stretching your fingers.
+Transitioning to hover typing usually takes one to two weeks of conscious effort. Because low profile keyboards require less vertical travel, the adjustment period is typically shorter than with tall mechanical keyboards. [Focus](/posts/noise-canceling-headphones-for-home-office/) on keeping your forearms parallel to the floor and moving your entire arm to reach keys rather than stretching your fingers.
 
 ### What is the ideal desk height for a low profile keyboard?
 The ideal desk height is entirely dependent on your body. The desk surface should sit just below your seated elbow height. For a person of average height, this often falls between 25 and 28 inches from the floor, which is significantly lower than the standard 30-inch office desk.

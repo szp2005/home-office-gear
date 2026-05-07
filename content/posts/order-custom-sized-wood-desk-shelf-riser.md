@@ -13,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Order Custom Sized Wood Desk Shelf Riser: Complete Buyer Guide
 
-> **Quick Answer:** When you order a custom sized wood desk shelf riser, measure your desk width minus 2 to 4 inches for aesthetics, ensure a minimum depth of 9 inches for [monitor](/posts/best-portable-monitor-for-work-from-home/) bases, and select a height between 3.5 to 5 inches to achieve optimal ergonomic eye level. Solid hardwoods like walnut, oak, and maple offer the best durability to support heavy dual-monitor setups without sagging.
+> **Quick Answer:** When you order a custom sized wood desk shelf riser, measure your desk width minus 2 to 4 inches for aesthetics, ensure a minimum depth of 9 inches for [monitor](/posts/best-portable-monitor-for-work-from-home/) bases, and select a height between 3.5 to 5 inches to achieve optimal [ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) eye level. Solid hardwoods like walnut, oak, and maple offer the best durability to support heavy dual-monitor setups without sagging.
 
-Standard [desk accessories](/posts/mic-stand-with-hidden-cable-management/) rarely accommodate the nuanced requirements of a specialized [workspace](/posts/home-office-desk-depth-guide/). You might have an ultra-wide monitor, a heavy dual-screen array on monitor arms, or specific audio interfaces that need to slide perfectly underneath your displays. Off-the-shelf solutions force you to compromise—they are often too short, awkwardly deep, or made from inferior particle board wrapped in cheap veneers that bow under the weight of premium hardware.
+Standard [desk accessories](/posts/mic-stand-with-hidden-cable-management/) rarely accommodate the nuanced requirements of a specialized [workspace](/posts/home-office-desk-depth-guide/). You might have an ultra-wide monitor, a heavy dual-screen array on monitor arms, or specific audio interfaces that need to slide perfectly underneath your displays. Off-the-shelf solutions force you to compromise—they are often too short, awkwardly deep, or made from inferior particle board wrapped in cheap veneers that bow under the weight of premium [hardware](/posts/best-usb-c-hub-for-desk-setup/).
 
 When you decide to order custom sized wood desk shelf riser units, you take complete control over your desk’s [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/), aesthetic flow, and spatial efficiency. A perfectly measured riser elevates your screens to the exact millimeter required for proper [posture](/posts/home-office-posture-checklist/) while creating dedicated architectural zones for your keyboards, trackpads, and docks.
 
@@ -60,7 +60,7 @@ The material you choose impacts weight capacity, longevity, and how well the pie
 
 ### American Black Walnut
 
-Walnut is the premium standard for high-end workspace accessories. It features a rich, dark brown color with sweeping, complex grain patterns that occasionally show hints of purple or red. Walnut is highly durable, resists warping when properly kiln-dried, and pairs exceptionally well with matte black desk frames, space gray tech accessories, and dark leather desk pads. It is an expensive species, but its aesthetic density anchors a room perfectly.
+Walnut is the premium standard for high-end workspace accessories. It features a rich, dark brown color with sweeping, complex grain patterns that occasionally show hints of purple or red. Walnut is highly durable, resists warping when properly kiln-dried, and pairs exceptionally well with matte black desk frames, space gray [tech accessories](/posts/best-surge-protector-for-home-office-setup/), and dark leather desk pads. It is an expensive species, but its aesthetic density anchors a room perfectly.
 
 ### White Oak
 

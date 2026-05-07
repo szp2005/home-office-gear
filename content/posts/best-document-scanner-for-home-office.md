@@ -130,7 +130,7 @@ Automation reduces the friction of digitization, making you more likely to keep 
 When mail or paperwork arrives at your home office, do not put it in a "to sort later" pile. Touch it once. Open it, decide if it needs to be kept, scan it immediately using your optimized profiles, and then shred or recycle the physical copy. Maintaining a zero-paper desk requires discipline, and your scanner is the tool that makes that discipline possible.
 
 ### Regular Maintenance
-Scanners rely on rollers and glass sensors. Over time, paper dust and ink residue will accumulate. If you notice vertical streaks on your scanned PDFs or experience frequent paper jams, it is time for maintenance. Buy a scanner cleaning kit (which usually includes special wipes and roller cleaner fluid) and clean the internal pathways every few thousand pages.
+Scanners rely on rollers and glass sensors. Over time, paper dust and ink residue will accumulate. If you notice vertical streaks on your scanned PDFs or experience frequent paper jams, it is time for maintenance. Buy a scanner [cleaning](/posts/how-to-clean-mechanical-keyboard-switches-safely/) kit (which usually includes special wipes and roller cleaner fluid) and clean the internal pathways every few thousand pages.
 
 ## Conclusion
 

@@ -138,7 +138,7 @@ A 20-inch desk depth is workable if you're using a monitor arm. Standard depths 
 5. **Place the anti-fatigue mat** centered in your standing position — not tucked under the desk, but where your feet will actually be.
 6. **Start with a 30/30 rule:** 30 minutes sitting, 30 minutes standing. Increase standing intervals weekly. Most people plateau around 60% sitting, 40% standing after 4–6 weeks.
 
-Common troubleshooting: desk wobbles at standing height (tighten all hardware, check floor leveling feet), monitor glare when standing (adjust monitor arm tilt 5–10 degrees back), lower back pain after standing (check that elbow angle is correct — most people initially set desks too low).
+Common troubleshooting: desk wobbles at standing height (tighten all hardware, check floor leveling feet), monitor glare when standing (adjust monitor arm tilt 5–10 degrees back), lower [back pain](/posts/benefits-of-lumbar-support-for-spinal-health/) after standing (check that elbow angle is correct — most people initially set desks too low).
 
 ---
 
@@ -146,7 +146,7 @@ Common troubleshooting: desk wobbles at standing height (tighten all hardware, c
 
 **Studio apartments:** Put the desk in a corner adjacent to the kitchen area or near a window wall. This separates work and sleep zones visually without physical barriers. A small rug under the desk zone reinforces the boundary.
 
-**One-bedroom apartments:** The living room typically has better light and outlet access than a bedroom. If bedroom placement is necessary, face the desk away from the bed — looking at your unmade bed while working destroys focus.
+**One-bedroom apartments:** The living room typically has better light and outlet access than a bedroom. If bedroom placement is necessary, face the desk away from the bed — looking at your unmade bed while working destroys [focus](/posts/noise-canceling-headphones-for-home-office/).
 
 **Shared living spaces:** If roommates are present, use a compact corner desk to minimize occupied floor area and noise imposition. A monitor privacy filter prevents visual distraction for others.
 

@@ -16,7 +16,7 @@ tags: ["monitor", "arm", "dual", "monitors"]
 ---
 
 **TL;DR**
-- Dual monitor arms reclaim 40–50% of desk surface compared to stands, and most pay for themselves in [productivity](/posts/how-to-choose-a-home-office-desk-size/) and [posture](/posts/home-office-posture-checklist/) improvements within months.
+- [Dual monitor](/posts/how-to-mount-tablet-as-second-monitor/) arms reclaim 40–50% of desk surface compared to stands, and most pay for themselves in [productivity](/posts/how-to-choose-a-home-office-desk-size/) and [posture](/posts/home-office-posture-checklist/) improvements within months.
 - Verify VESA compatibility (75×75 mm or 100×100 mm) and per-monitor weight capacity *before* you buy — these two specs eliminate 80% of buyer regret.
 - The Ergotron LX Dual is the clearest overall pick; HUANUO wins mid-range on value; Monoprice delivers if you're under $100.
 
@@ -49,7 +49,7 @@ If you're running two monitors on standard stands, roughly one-third of your des
 
 Wall mounts look clean and free the most desk space, but they require drilling into drywall or studs, can't move between rooms easily, and are useless if you rent. A desk-clamp dual arm hits the sweet spot for most home office professionals: no permanent installation, repositionable, and fully adjustable daily.
 
-**Ergonomic payoff is real.** The American Optometric Association recommends monitor placement at arm's length (20–28 inches), top of screen at or slightly below eye level. Most factory stands don't reach that height without a riser underneath. A gas-spring arm gets you there in about 10 seconds. Sustained incorrect posture — monitor too low, neck bent forward — contributes to cervical strain that compounds over a 40-hour work week. That's not abstract; it's the reason physical therapists frequently recommend sit-stand desks and adjustable monitor mounts together.
+**Ergonomic payoff is real.** The American Optometric Association recommends monitor placement at arm's length (20–28 inches), top of screen at or slightly below eye level. Most factory stands don't reach that height without a riser underneath. A gas-spring arm gets you there in about 10 seconds. Sustained incorrect posture — monitor too low, neck bent forward — contributes to cervical strain that compounds over a 40-hour work week. That's not abstract; it's the reason physical therapists frequently recommend sit-stand desks and adjustable [monitor mounts](/posts/triple-monitor-mount-for-home-office-setup/) together.
 
 **The hidden financial case:** A quality dual arm costs $150–300. A [standing desk](/posts/compact-standing-desk-converter-review/) conversion kit costs $200–500. Over a five-year home office lifespan, the ergonomic investment is modest. Compare that to a single urgent-care visit or a month of chiropractic appointments. The desk real estate recovered also has intangible value — a less cluttered [workspace](/posts/home-office-desk-depth-guide/) measurably reduces cognitive load in controlled productivity studies.
 

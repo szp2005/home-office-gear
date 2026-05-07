@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Quiet Luxury Office Decor Ideas: Complete Guide to Premium Workspaces
 
-> **Quick Answer:** Quiet luxury office decor focuses on premium, tactile materials, neutral color palettes, and intentional [minimalism](/posts/minimalist-home-office-setup-checklist/) rather than flashy logos or overt branding. To achieve this look, invest in solid wood or stone desks, layer ambient and task lighting, utilize negative space, and select ergonomic seating upholstered in high-grade aniline leather or textured wool.
+> **Quick Answer:** Quiet luxury office decor focuses on premium, tactile materials, neutral color palettes, and intentional [minimalism](/posts/minimalist-home-office-setup-checklist/) rather than flashy logos or overt branding. To achieve this look, invest in solid wood or stone desks, layer ambient and task lighting, utilize negative space, and select [ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) seating upholstered in high-grade aniline leather or textured wool.
 
 The modern [workspace](/posts/home-office-desk-depth-guide/) has evolved far beyond the clinical cubicle and the chaotic, gadget-heavy [home office](/posts/how-to-choose-a-home-office-desk-size/). As professionals spend more hours executing high-level strategic work, the environment in which they operate must foster focus, calm, and authority. The quiet luxury aesthetic answers this demand by stripping away the superfluous and elevating the essential. It relies on the inherent quality of materials and the precision of craftsmanship to make a statement, rather than relying on loud colors or recognizable brand insignias.
 
@@ -49,7 +49,7 @@ Avoid visible cable clutter at all costs. The desk must feature integrated, hidd
 
 ### Ergonomic Chairs Disguised as Lounge Seating
 
-[Ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) cannot be sacrificed, but traditional mesh office chairs often disrupt the quiet luxury aesthetic with their hyper-industrial, plastic components. The solution lies in high-end executive chairs that conceal their ergonomic features within refined silhouettes. Look for chairs fully upholstered in premium leather or dense wool blends. Brands like Knoll and Herman Miller offer executive lines that provide lumbar support, tilt mechanics, and height adjustment without looking like a piece of gym equipment. The frame should be polished or brushed aluminum rather than molded plastic, ensuring the chair feels substantial and timeless.
+[Ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) cannot be sacrificed, but traditional mesh [office chairs](/posts/mesh-vs-leather-office-chair-for-durability/) often disrupt the quiet luxury aesthetic with their hyper-industrial, plastic components. The solution lies in high-end executive chairs that conceal their ergonomic features within refined silhouettes. Look for chairs fully upholstered in premium leather or dense wool blends. Brands like Knoll and Herman Miller offer executive lines that provide lumbar support, tilt mechanics, and height adjustment without looking like a piece of gym equipment. The frame should be polished or brushed aluminum rather than molded plastic, ensuring the chair feels substantial and timeless.
 
 ## Lighting Strategies for a Refined Atmosphere
 
@@ -87,7 +87,7 @@ While gallery walls can be charming in other parts of the home, they often look 
 
 ### Desk Accessories as Functional Sculpture
 
-Every item on the desk should be beautiful enough to stand on its own. Ditch the plastic pen cup and wire mesh in-boxes. Upgrade to a heavy, machined metal pen, a solid marble tray for organizing keys and tech accessories, and a leather desk pad that defines the primary work zone. Bookends carved from solid travertine or petrified wood add weight and history to shelving units. Even everyday items, like a water carafe, should be considered; a delicate, ribbed glass carafe with a matching tumbler elevates the simple act of staying hydrated.
+Every item on the desk should be beautiful enough to stand on its own. Ditch the plastic pen cup and wire mesh in-boxes. Upgrade to a heavy, machined metal pen, a solid marble tray for organizing keys and [tech accessories](/posts/best-surge-protector-for-home-office-setup/), and a leather desk pad that defines the primary work zone. Bookends carved from solid travertine or petrified wood add weight and history to shelving units. Even everyday items, like a water carafe, should be considered; a delicate, ribbed glass carafe with a matching tumbler elevates the simple act of staying hydrated.
 
 ## Practical Advice: Sourcing and Spatial Planning
 

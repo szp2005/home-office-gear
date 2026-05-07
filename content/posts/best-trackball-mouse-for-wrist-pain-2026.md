@@ -115,7 +115,7 @@ It features a 40mm ball and a tactile scroll ring that operates smoothly. The sy
 **Price:** $45-$60
 **Rating:** 4.6/5
 
-The ProtoArc EM01 has surged in popularity as a highly capable, modern alternative in the mid-range market. It closely mimics the thumb-ball architecture of the Logitech MX Ergo but builds the 20-degree tilt directly into a rigid chassis. This fixed ergonomic angle is mathematically proven to reduce the muscular tension required to keep the forearm flat, automatically shifting the user into a healthier posture.
+The ProtoArc EM01 has surged in popularity as a highly capable, modern alternative in the mid-range market. It closely mimics the thumb-ball architecture of the Logitech MX Ergo but builds the 20-degree tilt directly into a rigid chassis. This fixed ergonomic angle is mathematically proven to [reduce](/posts/how-to-reduce-cable-clutter-on-desk/) the muscular tension required to keep the forearm flat, automatically shifting the user into a healthier posture.
 
 Where the EM01 excels is in its modern connectivity. It features robust tri-mode connection capabilities, allowing users to toggle between a 2.4GHz USB receiver and two distinct Bluetooth channels with the press of a button. For users managing a desktop, a laptop, and a tablet on the same desk, this eliminates the need for multiple mice, thereby streamlining the ergonomic [workspace](/posts/home-office-desk-depth-guide/). The tracking is surprisingly precise for the price point, and the switches are exceptionally quiet, reducing the harsh auditory feedback common in busy office environments.
 
@@ -126,7 +126,7 @@ Where the EM01 excels is in its modern connectivity. It features robust tri-mode
 
 **Cons:**
 - Rigid plastic construction feels slightly hollow compared to heavier premium alternatives
-- Built-in battery degrades noticeably faster if the RGB lighting ring is left active
+- Built-in battery degrades noticeably faster if the [RGB lighting](/posts/rgb-ambient-backlighting-for-office-aesthetic/) ring is left active
 
 ## Thumb vs. Finger Trackballs: Which Is Better for Wrist Pain?
 

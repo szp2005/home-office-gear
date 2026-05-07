@@ -69,7 +69,7 @@ Clamp-on keyboard trays use C-clamps to attach to the edge of your desk without 
 
 ### Can a keyboard tray really save desk space?
 
-Absolutely. By moving your keyboard and mouse below the desk surface, you instantly free up valuable real estate for [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/), paperwork, or other home office accessories. This helps create a cleaner, less cluttered workspace which can significantly improve your daily focus and [productivity](/posts/how-to-improve-home-office-acoustics/).
+Absolutely. By moving your keyboard and mouse below the desk surface, you instantly free up valuable real estate for [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/), paperwork, or other [home office accessories](/posts/best-under-desk-drawer-for-cable-management/). This helps create a cleaner, less cluttered workspace which can significantly improve your daily [focus](/posts/noise-canceling-headphones-for-home-office/) and [productivity](/posts/how-to-improve-home-office-acoustics/).
 
 ## Related Reading
 

@@ -62,7 +62,7 @@ The "openness factor" measures the tightness of the weave, dictating exactly how
 *   **1% Openness:** The best choice for east- or west-facing windows that receive brutal, direct sunlight at eye level during morning or afternoon hours. 
 
 ### Automation and Tracking
-If your budget allows, motorized solar shades integrated with smart home systems (via Zigbee or Z-Wave motors like Somfy or Lutron) eliminate manual adjustments. These can be programmed to automatically lower during the specific hours when the sun hits that side of the building, ensuring you never have to interrupt your workflow to deal with sudden glare.
+If your budget allows, motorized solar shades integrated with [smart home](/posts/smart-circadian-desk-lamp-for-productivity/) systems (via Zigbee or Z-Wave motors like Somfy or Lutron) eliminate manual adjustments. These can be programmed to automatically lower during the specific hours when the sun hits that side of the building, ensuring you never have to interrupt your workflow to deal with sudden glare.
 
 ## 4. Utilize Exterior Shading Interventions
 
@@ -83,7 +83,7 @@ Glossy displays (common on many modern laptops and premium monitors) offer high 
 
 ### Third-Party Anti-Glare Filters
 For existing glossy monitors, aftermarket anti-glare filters (often utilizing microscopic louver technology) can be applied directly to the screen.
-*   **Privacy Filters:** Many 3M privacy filters double as excellent anti-glare screens. They restrict the viewing angle, meaning light coming from a side window simply bounces off the filter rather than illuminating the display panel.
+*   **[Privacy](/posts/webcams-with-physical-privacy-shutter-2026/) Filters:** Many 3M privacy filters double as excellent anti-glare screens. They restrict the viewing angle, meaning light coming from a side window simply bounces off the filter rather than illuminating the display panel.
 *   **Brightness Requirements:** Be aware that applying a matte filter reduces the monitor's perceived brightness by 10% to 15%. To compensate, your monitor should ideally have a peak brightness rating of at least 350 to 400 nits.
 
 ## 6. Optimize Interior Ambient Lighting

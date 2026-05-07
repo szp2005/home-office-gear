@@ -93,7 +93,7 @@ The foundation of any good [cable management](/posts/mic-stand-with-hidden-cable
 
 **J-Channel Raceways:** These are plastic tracks shaped like a "J" that adhere to the back edge or underside of your desk. They are fantastic for routing a few thick cables horizontally across the length of the desk.
 
-**Wire Basket Trays:** These are the gold standard. A metal wire basket screwed into the underside of the desk towards the rear provides massive capacity. You can lay heavy power bricks, surge protectors, and bundles of slack cable directly into the basket. Everything is kept tight against the desktop and out of sight.
+**Wire Basket Trays:** These are the gold standard. A metal wire basket screwed into the underside of the desk towards the rear provides massive capacity. You can lay heavy power bricks, [surge protectors](/posts/best-surge-protector-for-home-office-setup/), and bundles of slack cable directly into the basket. Everything is kept tight against the desktop and out of sight.
 
 ### Step 2: Hiding the Power Strip
 Do not leave your power strip on the floor. It collects dust, gets kicked, and looks terrible. 
@@ -144,7 +144,7 @@ These are hard plastic channels with an adhesive backing that stick to your wall
 
 ## Conclusion
 
-A home office should be a place of focus and inspiration, not a daily reminder of technological clutter. By respecting the physical requirements of your networking gear—ensuring adequate airflow and avoiding signal-blocking materials—you can successfully hide your router in plain sight using baskets, hollowed books, or strategic under-desk mounting.
+A home office should be a place of [focus](/posts/noise-canceling-headphones-for-home-office/) and inspiration, not a daily reminder of technological clutter. By respecting the physical requirements of your networking gear—ensuring adequate airflow and avoiding signal-blocking materials—you can successfully hide your router in plain sight using baskets, hollowed books, or strategic under-desk mounting.
 
 When combined with a ruthless approach to cable management—utilizing under-desk trays, Velcro ties, and routing sleeves—you can transform your workspace from a tangled IT nightmare into a serene, minimalist haven. It requires an afternoon of planning and minor labor, but the resulting mental clarity and upgraded aesthetic are well worth the effort.
 ```

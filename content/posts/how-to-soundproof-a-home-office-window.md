@@ -19,7 +19,7 @@ Working from home offers flexibility, but it also introduces challenges that tra
 
 Learning how to soundproof a home office window is less about building a recording studio and more about strategically adding mass, sealing air leaks, and creating dead air space. Sound travels through the air, meaning anywhere a draft can enter, noise can follow. Additionally, sound waves vibrate through solid materials like glass. To create a quiet [workspace](/posts/home-office-desk-depth-guide/), you need to address both airborne noise and structural vibrations.
 
-This guide breaks down exactly how to evaluate your current window, seal the most common acoustic leaks, and choose the right soundproofing solutions based on your budget and the specific type of noise disrupting your workday.
+This guide breaks down exactly how to evaluate your current window, seal the most common acoustic leaks, and choose the right [soundproofing](/posts/best-noise-blocking-curtains-for-street-noise/) solutions based on your budget and the specific type of noise disrupting your workday.
 
 ## Assessing the Noise Type and Window Condition
 

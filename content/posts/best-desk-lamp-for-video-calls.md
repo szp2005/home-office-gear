@@ -171,7 +171,7 @@ One practical note: a cheap lamp with poor CRI 80 won't ruin your calls, but the
 
 ## Additional Factors: Noise, Energy Use & Warranty {#additional}
 
-**Noise:** LED desk lamps are silent. No fan, no transformer hum. If you're picking up electrical buzz on your microphone during calls, the issue is almost certainly your audio interface or USB power supply, not the lamp itself.
+**Noise:** LED desk lamps are silent. No fan, no transformer hum. If you're picking up electrical buzz on your microphone during calls, the issue is almost certainly your [audio](/posts/best-studio-monitors-for-clear-video-conferencing/) interface or USB power supply, not the lamp itself.
 
 **Energy use:** A typical LED desk lamp draws 8–14W. At average US electricity rates, running a 12W lamp 8 hours daily costs roughly $4–5 per year. Energy efficiency is not a meaningful differentiator in this category.
 
@@ -231,7 +231,7 @@ For the most natural look on camera, aim for a color temperature between 3500K a
 
 ### Does the brightness level of my desk lamp affect my webcam's video quality?
 
-Absolutely, webcams struggle in low-light conditions and compensate by artificially boosting the signal, which causes grainy, low-quality video. An adequately bright desk lamp gives the camera sensor enough light to work efficiently. This results in a sharper, higher-resolution image with much better color accuracy.
+Absolutely, webcams struggle in low-light conditions and compensate by artificially boosting the signal, which causes grainy, low-quality video. An adequately bright desk lamp gives the camera sensor enough light to work efficiently. This results in a sharper, higher-resolution image with much better [color accuracy](/posts/how-to-calibrate-monitor-for-creative-work/).
 
 ## Related Reading
 

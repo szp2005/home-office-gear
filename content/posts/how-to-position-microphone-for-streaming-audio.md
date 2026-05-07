@@ -31,7 +31,7 @@ Before moving a single piece of equipment, you must identify two hardware specif
 
 Front-address microphones require you to speak directly into the top or end of the cylinder. Common examples include the Shure SM7B, Electro-Voice RE20, and Rode PodMic. If you speak into the side of a front-address microphone, the sound will be thin, distant, and heavily muffled.
 
-Side-address microphones require you to speak into the flat side of the chassis. The Blue Yeti, Elgato Wave:3, and Audio-Technica AT2020 are side-address models. A frequent error among new streamers is pointing the top tip of a side-address microphone toward their mouth, which pushes their voice almost entirely off-axis and degrades the signal.
+Side-address microphones require you to speak into the flat side of the chassis. The [Blue Yeti](/posts/professional-shock-mount-for-blue-yeti-mic/), Elgato Wave:3, and Audio-Technica AT2020 are side-address models. A frequent error among new streamers is pointing the top tip of a side-address microphone toward their mouth, which pushes their voice almost entirely off-axis and degrades the signal.
 
 ### Polar Patterns and the "Null Point"
 
@@ -45,7 +45,7 @@ Knowing exactly where your microphone is "deaf" is the foundation of proper posi
 
 ## Step 2: Establish the Optimal Distance
 
-The distance between your mouth and the microphone capsule dictates your gain staging. Following the inverse square law of acoustics, every time you double the distance from the sound source, the sound pressure level drops by 6 decibels (dB). Consequently, moving the microphone further away forces you to increase the digital or analog gain, which simultaneously amplifies keyboard clicks, PC fan whine, and room echo.
+The distance between your mouth and the microphone capsule dictates your gain staging. Following the inverse square law of [acoustics](/posts/how-to-improve-home-office-acoustics/), every time you double the distance from the sound source, the sound pressure level drops by 6 decibels (dB). Consequently, moving the microphone further away forces you to increase the digital or analog gain, which simultaneously amplifies keyboard clicks, PC fan whine, and room echo.
 
 ### Guidelines for Dynamic Microphones
 
@@ -96,7 +96,7 @@ When setting up your boom arm:
 
 ### Low-Profile vs. Traditional Arms
 
-Traditional broadcast arms articulate from a high angle, coming down over your [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/). These are effective but can visually clutter your stream framing. 
+Traditional broadcast arms articulate from a high angle, coming down over your [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/). These are effective but can visually [clutter](/posts/how-to-reduce-cable-clutter-on-desk/) your stream framing. 
 
 Low-profile [boom arms](/posts/internal-spring-boom-arm-reviews-2026/) shoot under your monitors and rise up horizontally. These are highly recommended for streamers using side-address condenser microphones or lightweight dynamic microphones, as they keep the hardware out of the camera's line of sight while easily reaching the required 6-to-10 inch distance.
 

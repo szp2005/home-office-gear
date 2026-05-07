@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # 7 Best Under Desk Drawers for Cable Management (2026 Review)
 
-> **Quick Answer:** The best under desk drawer for cable management is the **Vivo Extra Large Under Desk Drawer**, which offers a massive 22-inch width and an open-back design perfectly suited for routing peripheral cables and charging cords. For a specialized hardware setup, the **Penn Elcom Security Drawer** features dedicated rear grommet holes specifically designed for locking away laptops while keeping them plugged into external [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/) and power hubs.
+> **Quick Answer:** The best under desk drawer for cable management is the **Vivo Extra Large Under Desk Drawer**, which offers a massive 22-inch width and an open-back design perfectly suited for routing peripheral cables and charging cords. For a specialized [hardware](/posts/best-usb-c-hub-for-desk-setup/) [setup](/posts/standing-desk-setup-for-small-apartment/), the **Penn Elcom Security Drawer** features dedicated rear grommet holes specifically designed for locking away laptops while keeping them plugged into external [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/) and power hubs.
 
 A cluttered desk is a [productivity](/posts/how-to-choose-a-home-office-desk-size/) killer, but adding storage often introduces a new problem: cord management. Whether you are charging a smartphone, keeping a tablet topped up, or hiding a docking station out of sight, standard desk drawers frequently pinch wires or force you to run cables awkwardly out of the front tray. 
 
@@ -96,7 +96,7 @@ The drawer pulls out on precision ball-bearing slides, offering a surprisingly p
 - Low-profile form factor remains entirely hidden from view when closed
 
 **Cons:**
-- Limited internal volume; cannot hold full-sized keyboards or larger laptops
+- Limited internal volume; cannot hold full-sized [keyboards](/posts/split-ergonomic-keyboard-vs-standard-2026/) or larger laptops
 - Only available in a single color option (black)
 
 ### 5. Best Budget: Mount-It! Under Desk Pull Out Drawer
