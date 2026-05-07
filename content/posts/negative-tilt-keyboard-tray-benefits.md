@@ -105,5 +105,5 @@ In the short term, you may experience a slight drop in typing speed as you adjus
 
 - [Guide to Ergonomic Keyboard Tilt for Wrists: Setup Rules](/posts/guide-to-ergonomic-keyboard-tilt-for-wrists/)
 
-- [Asymmetric [Monitor](/posts/best-portable-monitor-for-work-from-home/) Light Bar vs Desk Lamp: Which Is Better for Your Setup?](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)
+- [Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)
 - [Best 360 Swivel Slide-out Keyboard Tray in 2026](/posts/best-360-swivel-slide-out-keyboard-tray/)

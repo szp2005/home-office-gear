@@ -157,5 +157,5 @@ Aggressive curves (like 1000R) can cause slight geometric distortion, making str
 
 - [Best Monitor Arm for Dual Monitors in 2026 (Home Office)](/posts/best-monitor-arm-for-dual-monitors-home-office/)
 
-- [The Ultimate Guide to the Best Chair Mat for Hardwood Floors in Your [Home Office](/posts/how-to-improve-home-office-acoustics/)](/posts/best-chair-mat-for-hardwood-floors-home-office/)
+- [The Ultimate Guide to the Best Chair Mat for Hardwood Floors in Your Home Office](/posts/best-chair-mat-for-hardwood-floors-home-office/)
 - [Best Vertical Mouse for Carpal Tunnel in 2026: Ergonomic Picks](/posts/vertical-mouse-for-carpal-tunnel-2026/)

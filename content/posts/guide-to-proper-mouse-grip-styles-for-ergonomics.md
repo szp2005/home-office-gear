@@ -1,4 +1,5 @@
 ---
+image: "/og/guide-to-proper-mouse-grip-styles-for-ergonomics.webp"
 title: "Guide to Proper Mouse Grip Styles for Ergonomics: Stop Pain"
 description: "Discover the ultimate guide to proper mouse grip styles for ergonomics. Learn how palm, claw, and fingertip grips impact wrist health and find your ideal fit."
 pubDate: "2026-05-07"
@@ -18,7 +19,7 @@ Repetitive strain injuries (RSIs), carpal tunnel syndrome, and chronic wrist fat
 
 Ignoring how your hand naturally rests on your peripheral devices forces your body into awkward micro-postures. Over thousands of clicks and dragging motions each week, these micro-postures compound into macro-injuries. Adjusting your grip style is a free, immediate intervention that can halt the progression of wrist pain and improve your overall desk stamina.
 
-This guide breaks down the biomechanics of the three core mouse grip styles, analyzing how each interacts with your musculoskeletal system. By understanding the mechanical differences, you can consciously select a grip and a corresponding mouse shape that minimizes strain and supports long-term ergonomic health.
+This guide breaks down the biomechanics of the three core mouse grip styles, analyzing how each interacts with your musculoskeletal system. By understanding the mechanical differences, you can consciously select a grip and a corresponding [ergonomic mouse shape](/posts/best-ergonomic-mouse-for-carpal-tunnel/) that minimizes strain and supports long-term ergonomic health.
 
 ## Understanding the Big Three Mouse Grips
 

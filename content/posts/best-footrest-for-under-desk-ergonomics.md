@@ -70,7 +70,7 @@ Yes, using a footrest can significantly alleviate lower back pain caused by impr
 
 ## Related Reading
 
-- [The Ultimate Guide to the Best Under Desk Treadmill for Your [Home Office](/posts/home-office-posture-checklist/)](/posts/best-under-desk-treadmill-for-home-office/)
+- [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
 - [Best Budget Ergonomic Chairs for Remote Work in 2026: Comfort Under $300](/posts/best-budget-ergonomic-chair-for-remote-work/)
-- [How to Choose a Home Office Desk Size: The Definitive Guide for [Productivity](/posts/how-to-improve-home-office-acoustics/) and Comfort](/posts/how-to-choose-a-home-office-desk-size/)
-- [The Ultimate Guide to the Best USB-C Hub for Your [Desk Setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)](/posts/best-usb-c-hub-for-desk-setup/)
+- [How to Choose a Home Office Desk Size: The Definitive Guide for Productivity and Comfort](/posts/how-to-choose-a-home-office-desk-size/)
+- [The Ultimate Guide to the Best USB-C Hub for Your Desk Setup](/posts/best-usb-c-hub-for-desk-setup/)

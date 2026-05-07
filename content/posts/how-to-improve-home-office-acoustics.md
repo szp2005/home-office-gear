@@ -184,6 +184,6 @@ Avoid copying a complex system before you understand the problem you are solving
 - [How to Soundproof a Home Office Window: 7-Step Guide](/posts/how-to-soundproof-a-home-office-window/)
 
 - [The Ultimate Guide to Home Office Essentials for Remote Workers in 2026](/posts/home-office-essentials-for-remote-workers/)
-- [The Ultimate Home Office Posture Checklist: Expert [Ergonomics](/posts/how-to-choose-a-home-office-desk-size/) for Remote Workers](/posts/home-office-posture-checklist/)
+- [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
 - [The Ultimate Guide to Home Office Lighting for Eye Strain](/posts/home-office-lighting-for-eye-strain/)

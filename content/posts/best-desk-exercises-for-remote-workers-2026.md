@@ -177,5 +177,5 @@ Standing is generally better than sitting statically, but standing completely st
 
 ## Related Reading
 
-- [The Ultimate Home Office Posture Checklist: Expert [Ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) for Remote Workers](/posts/home-office-posture-checklist/)
+- [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)
 - [How to Improve Home Office Acoustics: The Ultimate Guide for Remote Professionals](/posts/how-to-improve-home-office-acoustics/)

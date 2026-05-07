@@ -68,6 +68,6 @@ Avoid copying a complex system before you understand the problem you are solving
 ## Related Reading
 
 - [Why Standing Desks Work in Small Apartments](/posts/standing-desk-setup-for-small-apartment/)
-- [The Ultimate Guide to the Best USB-C Hub for Your [Desk Setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)](/posts/best-usb-c-hub-for-desk-setup/)
-- [The Ultimate Guide: Best Pegboard Accessories for [Desk Organization](/posts/best-under-desk-drawer-for-cable-management/)](/posts/best-pegboard-accessories-for-desk-organization/)
+- [The Ultimate Guide to the Best USB-C Hub for Your Desk Setup](/posts/best-usb-c-hub-for-desk-setup/)
+- [The Ultimate Guide: Best Pegboard Accessories for Desk Organization](/posts/best-pegboard-accessories-for-desk-organization/)
 - [Why Desk Lamp Quality Matters for Video Calls](/posts/best-desk-lamp-for-video-calls/)

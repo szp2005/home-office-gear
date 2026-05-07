@@ -139,5 +139,5 @@ Matte anti-glare filters scatter light to prevent mirror-like reflections, which
 
 ## Related Reading
 
-- [Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your [Setup](/posts/standing-desk-setup-for-small-apartment/)?](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)
+- [Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)
 - [Best Acoustic Panels for Home Office Soundproofing in 2026](/posts/acoustic-panels-for-home-office-soundproofing/)

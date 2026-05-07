@@ -161,5 +161,5 @@ Tube-style arms excel at cable hiding because the mechanical springs are housed 
 
 - [How to Mount CPU Under Standing Desk: 5-Step Guide](/posts/how-to-mount-cpu-under-standing-desk/)
 
-- [Best Low-light Sensor Pro Webcams in 2026: Clear Video in Any [Lighting](/posts/home-office-lighting-for-eye-strain/)](/posts/best-low-light-sensor-pro-webcams/)
+- [Best Low-light Sensor Pro Webcams in 2026: Clear Video in Any Lighting](/posts/best-low-light-sensor-pro-webcams/)
 - [The Best Surge Protector for Home Office Setup: Protect Your Tech](/posts/best-surge-protector-for-home-office-setup/)

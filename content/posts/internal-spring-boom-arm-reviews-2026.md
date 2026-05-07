@@ -197,4 +197,4 @@ Wobble usually originates at the base. Ensure the C-clamp is tightened flush aga
 ## Related Reading
 
 - [Best 360 Swivel Desk Clamp Mic Stands in 2026](/posts/360-swivel-desk-clamp-mic-stand/)
-- [The Best Portable Monitor for Work From Home: Boost [Productivity](/posts/how-to-choose-a-home-office-desk-size/) Anywhere](/posts/best-portable-monitor-for-work-from-home/)
+- [The Best Portable Monitor for Work From Home: Boost Productivity Anywhere](/posts/best-portable-monitor-for-work-from-home/)

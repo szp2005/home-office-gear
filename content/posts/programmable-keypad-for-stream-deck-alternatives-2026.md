@@ -112,4 +112,4 @@ Rotary dials (or encoders) are designed for continuous variable adjustments. Ins
 - [Best Multi-Angle Streaming Cams for Top-Down Shots (2026)](/posts/multi-angle-streaming-cam-top-down-shots/)
 
 - [Best Acoustic Panels for Home Office Soundproofing in 2026](/posts/acoustic-panels-for-home-office-soundproofing/)
-- [Asymmetric [Monitor](/posts/best-portable-monitor-for-work-from-home/) Light Bar vs Desk Lamp: Which Is Better for Your Setup?](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)
+- [Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)

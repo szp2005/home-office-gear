@@ -191,7 +191,7 @@ Yes, pegboards are excellent for cable management when paired with the right acc
 
 ## Related Reading
 
-- [The Ultimate Guide to the Best USB-C Hub for Your [Desk Setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)](/posts/best-usb-c-hub-for-desk-setup/)
+- [The Ultimate Guide to the Best USB-C Hub for Your Desk Setup](/posts/best-usb-c-hub-for-desk-setup/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
 - [How to Organize a Desk Drawer for Productivity: The Ultimate Expert Guide](/posts/how-to-organize-a-desk-drawer-for-productivity/)
 - [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)

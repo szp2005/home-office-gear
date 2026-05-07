@@ -1,5 +1,6 @@
 ---
-title: "How to Ground Your Desk Setup for Static: 5-Step Guide"
+image: "/og/how-to-ground-your-desk-setup-for-static.webp"
+title: "Ground Your Desk Setup for Static: 5-Step ESD Guide"
 description: "Learn how to ground your desk setup for static electricity. Discover the precise equipment and steps needed to protect expensive PC components from ESD."
 pubDate: "2026-05-07"
 author: "Sarah Miller"
@@ -10,13 +11,13 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Ground Your Desk Setup for Static: 5-Step Guide
+# Ground Your Desk Setup for Static: 5-Step ESD Guide
 
 > **Quick Answer:** To ground your desk setup for static, install an anti-static (ESD) desk mat with a surface resistance between 10^6 and 10^9 ohms. Connect the mat's grounding wire to the earth ground pin of a verified electrical outlet. Maintain room humidity above 40%, and always wear an anti-static wrist strap tethered to the same ground point when handling exposed hardware components.
 
 Static electricity is more than just a brief, uncomfortable shock when you touch your metal keyboard chassis or desk legs. For workstation enthusiasts, PC builders, and remote workers handling sensitive electronics, electrostatic discharge (ESD) is a silent hardware killer. A single shock from your fingertip transfers thousands of volts to delicate circuitry, potentially degrading microprocessors, corrupting data, or outright destroying a motherboard over time. 
 
-If you frequently experience static shocks at your workstation, your setup is acting as a capacitor. The combination of synthetic carpet, dry air, rolling office chairs, and ungrounded surfaces creates a perfect storm for triboelectric charging. Resolving this issue requires a systematic approach to discharging electrical potential safely before it reaches your equipment.
+If you frequently experience static shocks at your workstation, your setup is acting as a capacitor. The combination of synthetic carpet, dry air, rolling office chairs, and ungrounded surfaces creates a perfect storm for triboelectric charging. Resolving this issue requires a systematic approach to discharging electrical potential safely before it reaches your equipment, alongside basic power protection such as a [home office surge protector](/posts/best-surge-protector-for-home-office-setup/).
 
 This guide outlines exactly how to ground your desk setup for static, detailing the hardware required, the specific steps to route stray voltage safely to earth ground, and the environmental controls necessary to prevent static buildup entirely.
 

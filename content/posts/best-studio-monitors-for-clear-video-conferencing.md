@@ -156,5 +156,5 @@ Yes, significantly. Gaming speakers are tuned to emphasize explosions and deep b
 
 - [Best Softbox Key Light for Video Conferencing in 2026](/posts/softbox-key-light-for-video-conferencing/)
 
-- [The Ultimate Guide to the Best USB-C Hub for Your [Desk Setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)](/posts/best-usb-c-hub-for-desk-setup/)
+- [The Ultimate Guide to the Best USB-C Hub for Your Desk Setup](/posts/best-usb-c-hub-for-desk-setup/)
 - [How to Style a Professional Zoom Background: 7-Step Guide](/posts/how-to-style-a-professional-zoom-background/)

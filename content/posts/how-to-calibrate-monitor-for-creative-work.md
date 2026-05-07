@@ -134,5 +134,5 @@ D65 (6500K) is the standard for most digital workflows, web design, video editin
 
 ## Related Reading
 
-- [[Standing Desk](/posts/compact-standing-desk-converter-review/) Setup for [Small Apartments](/posts/modular-workspace-setup-for-small-apartments/): Compact [Ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) Guide](/posts/standing-desk-setup-for-small-apartment/)
-- [The Ultimate Guide to the Best Under Desk Treadmill for Your [Home Office](/posts/how-to-choose-a-home-office-desk-size/)](/posts/best-under-desk-treadmill-for-home-office/)
+- [Standing Desk Setup for Small Apartments: Compact Ergonomic Guide](/posts/standing-desk-setup-for-small-apartment/)
+- [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)

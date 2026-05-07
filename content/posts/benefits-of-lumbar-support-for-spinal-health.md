@@ -107,5 +107,5 @@ Neither is inherently better; they act differently. Mesh provides dynamic, hammo
 
 ## Related Reading
 
-- [The Ultimate [Home Office](/posts/how-to-choose-a-home-office-desk-size/) Posture Checklist: Expert [Ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) for Remote Workers](/posts/home-office-posture-checklist/)
+- [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)
 - [The Ideal Screen Height for Preventing Neck Strain: Complete Guide](/posts/ideal-screen-height-for-preventing-neck-strain/)

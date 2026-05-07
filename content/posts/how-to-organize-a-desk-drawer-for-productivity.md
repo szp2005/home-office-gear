@@ -137,7 +137,7 @@ Avoid copying a complex system before you understand the problem you are solving
 
 ## Related Reading
 
-- [The Ultimate Guide to the Best USB-C Hub for Your [Desk Setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)](/posts/best-usb-c-hub-for-desk-setup/)
-- [The Ultimate Guide: Best Pegboard Accessories for [Desk Organization](/posts/how-to-hide-router-and-cables-in-home-office/)](/posts/best-pegboard-accessories-for-desk-organization/)
+- [The Ultimate Guide to the Best USB-C Hub for Your Desk Setup](/posts/best-usb-c-hub-for-desk-setup/)
+- [The Ultimate Guide: Best Pegboard Accessories for Desk Organization](/posts/best-pegboard-accessories-for-desk-organization/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
 - [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)

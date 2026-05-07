@@ -237,5 +237,5 @@ Absolutely, webcams struggle in low-light conditions and compensate by artificia
 
 - [Why Cable Clutter Matters](/posts/how-to-reduce-cable-clutter-on-desk/)
 - [The Ultimate Guide to the Best USB-C Hub for Your Desk Setup](/posts/best-usb-c-hub-for-desk-setup/)
-- [The Ultimate Guide: Best Pegboard Accessories for [Desk Organization](/posts/best-under-desk-drawer-for-cable-management/)](/posts/best-pegboard-accessories-for-desk-organization/)
+- [The Ultimate Guide: Best Pegboard Accessories for Desk Organization](/posts/best-pegboard-accessories-for-desk-organization/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)

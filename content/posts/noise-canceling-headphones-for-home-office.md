@@ -61,6 +61,6 @@ Avoid copying a complex system before you understand the problem you are solving
 ## Related Reading
 
 - [The Ultimate Guide to Home Office Essentials for Remote Workers in 2026](/posts/home-office-essentials-for-remote-workers/)
-- [The Ultimate Home Office Posture Checklist: Expert [Ergonomics](/posts/how-to-choose-a-home-office-desk-size/) for Remote Workers](/posts/home-office-posture-checklist/)
+- [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)
 - [The Best Document Scanner for Home Office in 2026: An Expert Guide](/posts/best-document-scanner-for-home-office/)
 - [Why Dual Monitor Arms Matter for Home Office Setup](/posts/best-monitor-arm-for-dual-monitors-home-office/)
