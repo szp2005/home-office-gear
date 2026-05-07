@@ -232,3 +232,9 @@ AI集成升降桌自动高度调节系统代表了这一演变的最终阶段。
 
 - [不对称显示器挂灯与台灯：哪个更适合您的设置？](zh-cn/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)
 - [2026年最佳360度旋转推拉式键盘托盘](/zh-cn/posts/best-360-swivel-slide-out-keyboard-tray/)
+
+---
+
+## Related Reading
+
+- [Best Ergonomic Drafting Chair for Standing Desks in 2026](/posts/best-ergonomic-drafting-chair-for-standing-desks/)

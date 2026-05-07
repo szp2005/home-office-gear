@@ -1,4 +1,5 @@
 ---
+image: "/og/custom-ergonomic-wrist-rest-for-mechanical-keyboard.webp"
 title: "Custom Ergonomic Wrist Rest for Mechanical Keyboard: 2026 Guide"
 description: "Looking for a custom ergonomic wrist rest for mechanical keyboard setups? Discover the best materials, angles, and custom sizes to eliminate wrist pain."
 pubDate: "2026-05-07"
@@ -89,3 +90,9 @@ While you can use a straight rest, it is highly unergonomic. Alice and split lay
 
 ### Should my palms or my wrists touch the rest?
 Your palms—specifically the fleshy base of your hands—should rest on the support. The actual wrist joint, where the hand meets the forearm, should not bear weight, as this compresses the median nerve.
+
+---
+
+## Related Reading
+
+- [Best Ergonomic Gel Wrist Pad for Typing 2026: Complete Guide](/posts/ergonomic-gel-wrist-pad-for-typing-2026/)

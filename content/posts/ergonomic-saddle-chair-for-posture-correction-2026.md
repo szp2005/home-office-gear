@@ -1,4 +1,5 @@
 ---
+image: "/og/ergonomic-saddle-chair-for-posture-correction-2026.webp"
 title: "Best Ergonomic Saddle Chair for Posture Correction 2026"
 description: "Discover the best ergonomic saddle chair for posture correction 2026 to relieve back pain, engage core muscles, and improve spinal alignment during work."
 pubDate: "2026-05-07"
