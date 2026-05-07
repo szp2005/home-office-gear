@@ -139,3 +139,5 @@ Silent linear switches are objectively the quietest because they lack any intern
 ## Related Reading
 
 - [Best Anti Fatigue Mat for Standing Desk on Wood Floors in 2026](/posts/anti-fatigue-mat-for-standing-desk-wood/)
+
+- [Best Anti Fatigue Mat for Standing Desk on Wood Floors in 2026](/posts/anti-fatigue-mat-for-standing-desk-wood/)

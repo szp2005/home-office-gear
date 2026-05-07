@@ -223,6 +223,8 @@ USB-C 扩展坞适用于任何支持 USB-C 供电 (Power Delivery) 和 DisplayPo
 
 ## Related Reading
 
+- [Best Desk Lamp for Video Calls: Bias Lighting & Color Temperature Guide](/posts/best-desk-lamp-for-video-calls/)
+
 - [Standing Desk Setup for Small Apartments: Compact Ergonomic Guide](/posts/standing-desk-setup-for-small-apartment/)
 
 - [Best Desk Lamp for Video Calls: Bias Lighting & Color Temperature Guide](/posts/best-desk-lamp-for-video-calls/)
