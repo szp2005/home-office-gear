@@ -19,6 +19,8 @@ Poor ergonomics and desk clutter are the two most common culprits behind home of
 
 By lifting your display to the correct eye level, these stands enforce better posture. By utilizing the previously wasted vertical space directly beneath your screen, they provide discrete compartments for your daily essentials. Finding the right model, however, requires balancing weight capacity, aesthetic appeal, and drawer dimensions. We have tested and analyzed the top rated monitor risers with storage drawers available this year to help you optimize your workspace.
 
+If you need more adjustability than a fixed riser provides, compare this category with a [laptop stand vs monitor arm home office setup](/posts/laptop-stand-vs-monitor-arm-home-office/) before locking in your screen height strategy.
+
 ## The Ergonomic and Organizational Case for Drawer Risers
 
 While standard monitor arms are excellent for adjustability, they do nothing to address desk clutter. A high-quality monitor riser acts as a foundational piece of desk furniture. 

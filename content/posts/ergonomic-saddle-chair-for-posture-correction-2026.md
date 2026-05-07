@@ -21,6 +21,8 @@ An ergonomic saddle chair for posture correction is no longer a niche medical pr
 
 This guide breaks down the structural mechanics of saddle sitting, the specific features that define the top models this year, and how to successfully transition your body to this active sitting posture without abandoning your workflow.
 
+If you want a gentler active-sitting transition before buying a saddle seat, compare this approach with an [active sitting stool for desk posture](/posts/benefits-of-using-an-active-sitting-stool/) to match movement level, seat height, and core engagement.
+
 ## The Biomechanics of Saddle Sitting
 
 To understand why a saddle chair works, you must first understand the structural failures of standard seating.
