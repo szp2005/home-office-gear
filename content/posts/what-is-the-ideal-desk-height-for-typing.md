@@ -1,6 +1,6 @@
 ---
 image: "/og/what-is-the-ideal-desk-height-for-typing.webp"
-title: "What Is the Ideal Desk Height for Typing? Ergonomic Guide"
+title: "Ideal Desk Height for Typing: Ergonomic Setup Guide"
 description: "Discover exactly what is the ideal desk height for typing to eliminate wrist pain and improve posture. Find your perfect ergonomic setup with our complete guide."
 pubDate: "2026-05-07"
 author: "Sarah Miller"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# What Is the Ideal Desk Height for Typing? Ergonomic Guide
+# Ideal Desk Height for Typing: Ergonomic Setup Guide
 
 > **Quick Answer:** The ideal desk height for typing is typically between 24 and 28 inches (61 to 71 cm) for the average person seated. When typing, your elbows should be bent at a 90 to 100-degree angle, and your wrists should remain straight and floating, parallel to the floor, without resting heavily on the desk surface.
 

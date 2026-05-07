@@ -1,6 +1,6 @@
 ---
 image: "/og/how-to-position-microphone-for-streaming-audio.webp"
-title: "How to Position Microphone for Streaming Audio: 5-Step Guide"
+title: "Streaming Microphone Placement: 5-Step Audio Guide"
 description: "Learn exactly how to position microphone for streaming audio to eliminate keyboard noise, reduce echo, and achieve professional broadcast sound quality."
 pubDate: "2026-05-07"
 author: "Sarah Miller"
@@ -11,7 +11,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-# How to Position Microphone for Streaming Audio: 5-Step Guide
+# Streaming Microphone Placement: 5-Step Audio Guide
 
 > **Quick Answer:** To properly position your microphone for streaming audio, place a dynamic microphone 2 to 4 inches from your mouth, or a condenser microphone 6 to 10 inches away. Angle the microphone 45 degrees off-axis, pointing toward the corner of your mouth to prevent harsh plosives. Mount the microphone on a suspended boom arm to isolate it from desk vibrations, and position your mechanical keyboard entirely within the microphone's rear null point to reject typing noise.
 
