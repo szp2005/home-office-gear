@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Top-down shots have become an absolute necessity for modern [content creation](/posts/desktop-ring-light-vs-panel-light-comparison/). Whether you are illustrating digital art, repairing electronics, building custom keyboards, unboxing tech, or painting tabletop miniatures, a standard face-camera simply cannot capture the intricacies of your desk space. Viewers want to see the details of your work exactly as you see them, which requires an overhead perspective.
 
-Transitioning from a standard face angle to a top-down shot used to require expensive, heavy cinema rigging. Today, multi-angle streaming cameras and specialized mounts have democratized this process. To elevate your production value, you need a camera system that seamlessly shifts between angles, maintains razor-sharp autofocus on close-up objects, and doesn't clutter your workspace.
+Transitioning from a standard face angle to a top-down shot used to require expensive, heavy cinema rigging. Today, multi-angle streaming cameras and specialized mounts have democratized this process. To elevate your production value, you need a camera system that seamlessly shifts between angles, maintains razor-sharp autofocus on close-up objects, and doesn't clutter your [workspace](/posts/home-office-desk-depth-guide/).
 
 In this guide, we review the top cameras and integrated systems that excel at capturing overhead perspectives. We evaluate auto-focus speed, depth of field, mounting compatibility, and software integration to help you build a professional multi-angle streaming environment.
 
@@ -79,7 +79,7 @@ Sony's real-time autofocus and Product Showcase feature make it uniquely suited 
 
 The Insta360 Link is a premium 4K webcam mounted on a 3-axis gimbal, similar to drone cameras. This allows it to physically pan, tilt, and zoom to track your movements. For top-down shots, the Link offers a unique "DeskView" mode. When activated, the camera physical tilts downward and applies an algorithmic perspective correction to flatten the image, giving the illusion of a directly overhead camera without requiring an actual overhead mount.
 
-While DeskView is technically a digitally manipulated angle, the 1/2-inch sensor ensures the image remains crisp. This is the perfect solution for creators who cannot mount a heavy boom arm over their workspace but still need to showcase documents, tablets, or small crafts on their desk during a stream.
+While DeskView is technically a digitally manipulated angle, the 1/2-inch sensor ensures the image remains crisp. This is the perfect solution for creators who cannot mount a heavy boom arm over their workspace but still need to showcase documents, tablets, or [small](/posts/best-ergonomic-chair-for-small-home-office/) crafts on their desk during a stream.
 
 **Pros:**
 - True 4K resolution with a large 1/2-inch sensor
@@ -163,7 +163,7 @@ Map these scene transitions to a macro pad or a Stream Deck. This allows you to 
 For mirrorless cameras, a focal length between 16mm and 24mm (on an APS-C sensor) is ideal for overhead shots. This provides a wide enough field of view to capture your entire desk mat without forcing you to mount the camera uncomfortably high toward the ceiling. 
 
 ### How do I stop my overhead camera from shaking?
-Camera shake is caused by desk vibrations transferring through the mount. To stop this, either detach the camera from the desk entirely by using a floor-standing C-stand, or reinforce your desk to prevent wobble. Keeping the horizontal arm extension as short as possible will also reduce the leverage that causes bouncing.
+Camera shake is caused by desk vibrations transferring through the mount. To stop this, either detach the camera from the desk entirely by using a floor-[standing](/posts/standing-desk-setup-for-small-apartment/) C-stand, or reinforce your desk to prevent wobble. Keeping the horizontal arm extension as short as possible will also reduce the leverage that causes bouncing.
 
 ### Can I use my smartphone as a multi-angle streaming cam?
 Yes. Modern smartphones have excellent cameras. By using software like Camo by Reincubate or Elgato EpocCam, you can mount your iPhone or Android device on an overhead arm and transmit the video feed to OBS wirelessly or via USB. It is a highly cost-effective way to achieve a top-down angle.

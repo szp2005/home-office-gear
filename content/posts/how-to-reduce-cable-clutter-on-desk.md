@@ -39,7 +39,7 @@ tags: ["reduce", "cable", "clutter", "desk"]
 
 A tangled desk isn't just ugly. It creates real, measurable problems.
 
-**Professionalism and focus.** Studies on workspace environment consistently link visual disorder to reduced concentration. If you're on video calls, a spaghetti bowl of cables behind your [monitor](/posts/best-portable-monitor-for-work-from-home/) signals disorganization to whoever is watching. It's a small thing that registers immediately.
+**Professionalism and focus.** Studies on [workspace](/posts/home-office-desk-depth-guide/) environment consistently link visual disorder to reduced concentration. If you're on video calls, a spaghetti bowl of cables behind your [monitor](/posts/best-portable-monitor-for-work-from-home/) signals disorganization to whoever is watching. It's a small thing that registers immediately.
 
 **Safety.** Cables draped across the floor are a tripping hazard. Cables pinched under desk legs develop frayed insulation over time, which is a genuine fire risk. Power bricks stacked on top of each other trap heat. None of this is theoretical — it happens in real offices every year.
 
@@ -73,7 +73,7 @@ Do this once properly and maintenance takes five minutes per quarter.
 
 **Step 2 — Group by function, not location.** This is the key differentiator from most guides. Create three groups: (1) power cables — laptop charger, monitor power, USB-C power delivery; (2) data cables — HDMI, DisplayPort, USB peripherals, Ethernet; (3) audio/misc — headphone cables, webcam USB, desk lamp cords. When you need to troubleshoot a display issue, you go straight to the data bundle. You don't dig through power cables.
 
-**Step 3 — Label before you route.** Put a number on both ends of each cable before installation. Use adhesive cable labels or a label maker. This step takes 10 minutes and saves hours over the life of the setup.
+**Step 3 — Label before you route.** Put a number on both ends of each cable before installation. Use adhesive cable labels or a label [maker](/posts/best-label-maker-for-home-office-organization/). This step takes 10 minutes and saves hours over the life of the setup.
 
 **Step 4 — Plan routes on paper or sketch them.** Decide where each bundle travels before sticking anything. Power cables go one way, data another. They should never share a sleeve — electrical interference is a real issue for audio and some USB devices.
 
@@ -135,7 +135,7 @@ The best cable is no cable. Eliminate before you organize.
 
 **USB docking stations.** If your laptop normally connects to a monitor, keyboard, mouse, Ethernet, and external drive separately, a USB-C docking station replaces all of those connections with a single cable between the dock and the laptop. You gain one cable going to the laptop but lose five. The math is obvious.
 
-**When wireless isn't the answer.** Gaming mice under 1ms polling rate still require wired. Ethernet is more reliable than Wi-Fi for video conferencing. External SSDs transfer faster over USB. Don't cut cables that actually matter for performance.
+**When wireless isn't the answer.** Gaming mice under 1ms polling rate still require wired. Ethernet is more reliable than Wi-Fi for [video conferencing](/posts/desktop-ring-light-vs-panel-light-comparison/). External SSDs transfer faster over USB. Don't cut cables that actually matter for performance.
 
 ---
 

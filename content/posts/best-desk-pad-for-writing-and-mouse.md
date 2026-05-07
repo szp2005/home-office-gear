@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Creating a hybrid workspace that caters equally to digital input and analogue thought processing is one of the most common challenges in modern desk setups. While a standard gaming mat might provide excellent glide for a wireless mouse, its spongy, open-cell rubber construction will instantly swallow the tip of a ballpoint pen, ruining your handwriting and potentially puncturing your document. Conversely, a rigid glass or hard plastic writing surface offers a flawless canvas for fountain pens but can cause optical mouse sensors to skip, while generating harsh, unpleasant scraping noises during rapid mouse movements.
 
-The ideal solution lies in finding the precise intersection of firmness, friction, and texture. A high-quality, dual-purpose desk pad must provide a stable, unyielding foundation that supports a single sheet of paper without tearing, while simultaneously offering the micro-texture required for accurate mouse tracking and the ergonomic warmth needed for long typing sessions. 
+The ideal solution lies in finding the precise intersection of firmness, friction, and texture. A high-quality, dual-purpose desk pad must provide a stable, unyielding foundation that supports a single sheet of paper without tearing, while simultaneously offering the micro-texture required for accurate mouse tracking and the [ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) warmth needed for long typing sessions. 
 
 In this comprehensive guide, we will evaluate the top desk mats available in 2026, analyzing their material composition, structural rigidity, and overall utility for professionals who seamlessly transition between drafting physical notes and executing complex digital tasks.
 
@@ -62,7 +62,7 @@ Available in multiple sizes, the medium (26" x 11.5") and large (38" x 11.5") di
 **Price:** $80-$100
 **Rating:** 4.7/5
 
-The Orbitkey Desk Mat is a masterclass in functional workspace design. At its core, it is a dual-layer pad crafted from premium vegan leather (polyurethane). The top surface is smooth, water-resistant, and surprisingly firm. Writing on a single sheet of paper over this surface yields excellent results; the synthetic leather has enough structural integrity to support fine-tipped pens without yielding. The friction coefficient is highly tuned, providing a smooth glide for PTFE mouse skates while maintaining enough control for precise cursor targeting.
+The Orbitkey Desk Mat is a masterclass in functional [workspace design](/posts/modular-workspace-setup-for-small-apartments/). At its core, it is a dual-layer pad crafted from premium vegan leather (polyurethane). The top surface is smooth, water-resistant, and surprisingly firm. Writing on a single sheet of paper over this surface yields excellent results; the synthetic leather has enough structural integrity to support fine-tipped pens without yielding. The friction coefficient is highly tuned, providing a smooth glide for PTFE mouse skates while maintaining enough control for precise cursor targeting.
 
 What truly separates the Orbitkey is its structural ingenuity. The top layer lifts up to reveal a hidden document hideaway. You can slide loose reference papers, sticky notes, or ongoing project briefs underneath the top surface, keeping your desk visually clean while maintaining instant access to your notes. 
 
@@ -100,7 +100,7 @@ Mouse tracking is reliable and consistent. The surface has a subtle faux-grain t
 **Cons:**
 - Fountain pens with very sharp nibs may experience slight drag
 - Lacks a high-friction rubber base, which may cause sliding on heavily polished glass
-- Faux-grain texture looks slightly synthetic under bright lighting
+- Faux-grain texture looks slightly synthetic under bright [lighting](/posts/home-office-lighting-for-eye-strain/)
 
 ### 4. Harber London Leather Desk Mat
 

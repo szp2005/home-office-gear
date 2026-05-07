@@ -50,7 +50,7 @@ The structural engineering matches the software sophistication. The dual-motor l
 
 Autonomous brings algorithmic [ergonomics](/posts/home-office-posture-checklist/) to the mainstream market with the OmniDesk AI. While bypassing the complex thermal imaging of costlier models, it leverages capacitive desk-edge pressure sensors paired with a robust desktop application to determine when a user has been sedentary for too long. The AI-integrated desk height adjustment automatic system features a unique feedback mechanism: it gently pulses the desktop via the motors five seconds prior to shifting, preventing the transition from disrupting deep focus or startling the user.
 
-The desk rests on a highly stable three-stage T-frame, specifically engineered to eliminate the lateral wobble common in cheaper alternatives. It supports up to 300 pounds, making it an excellent platform for heavy ultrawide monitors and massive desktop workstation chassis.
+The desk rests on a highly stable three-stage T-frame, specifically engineered to eliminate the lateral wobble common in cheaper alternatives. It supports up to 300 pounds, making it an excellent platform for heavy ultrawide [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/) and massive desktop workstation chassis.
 
 **Pros:**
 - Subtle motor vibration alerts prevent startle responses before automated movement
@@ -69,7 +69,7 @@ The desk rests on a highly stable three-stage T-frame, specifically engineered t
 
 Steelcase integrates decades of kinesiology research into the Gesture Desk AI, resulting in a workstation that acts as an invisible ergonomic assistant. The desk relies on embedded millimeter-wave radar to track user movement, breathing patterns, and micro-shifts in weight. By reading these biological cues, the desk determines the precise moment musculoskeletal fatigue begins and initiates a transition. 
 
-The motor profiling is where Steelcase justifies its premium positioning. The system employs highly advanced soft-start and soft-stop algorithms, ensuring zero liquid spillage or monitor shake, even with complex, top-heavy setups. Furthermore, it syncs seamlessly with enterprise calendar systems to suppress automated movements during active video conferences.
+The motor profiling is where Steelcase justifies its premium positioning. The system employs highly advanced soft-start and soft-stop algorithms, ensuring zero liquid spillage or monitor shake, even with complex, top-heavy setups. Furthermore, it syncs seamlessly with enterprise calendar systems to suppress automated movements during active [video](/posts/best-desk-lamp-for-video-calls/) conferences.
 
 **Pros:**
 - Radar tracking is completely unobtrusive and immune to lighting conditions
@@ -105,7 +105,7 @@ When the algorithm determines it is time to change posture, the desktop controll
 **Price:** $1,099-$1,499
 **Rating:** 4.6/5
 
-Uplift takes their highly respected V3 commercial frame and pairs it with an intelligent control module. The V3 AI Edition connects directly with popular fitness wearables—including the Apple Watch and Oura Ring—to pull heart rate variability (HRV) and activity metrics. By analyzing your systemic fatigue via wearable data, the desk knows exactly when standing will boost your circulation and when sitting is required for recovery.
+Uplift takes their highly respected V3 commercial frame and pairs it with an intelligent control module. The V3 AI Edition connects directly with popular [fitness](/posts/best-under-desk-treadmill-for-home-office/) wearables—including the Apple Watch and Oura Ring—to pull heart rate variability (HRV) and activity metrics. By analyzing your systemic fatigue via wearable data, the desk knows exactly when standing will boost your circulation and when sitting is required for recovery.
 
 The frame boasts best-in-class height range, making it the superior choice for users over 6'4" or under 5'2". With over 40 desktop material choices ranging from reclaimed fir to specialized acoustic felts, it offers aesthetic flexibility that heavily technical desks often ignore. 
 

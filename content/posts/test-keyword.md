@@ -55,7 +55,7 @@ The most effective way to test a keyword rapidly is through a tightly controlled
 
 ### Configure Exact Match Types
 
-When testing a specific keyword, isolate it completely. Use exact match targeting (e.g., `test keyword`) to ensure your ads are only triggered by users typing that precise phrase or its closest variants. Broad match and phrase match will introduce variables that corrupt your test data by bringing in tangential queries.
+When testing a specific keyword, isolate it completely. Use exact match targeting (e.g., `test keyword`) to ensure your ads are only triggered by users [typing](/posts/what-is-the-ideal-desk-height-for-typing/) that precise phrase or its closest variants. Broad match and phrase match will introduce variables that corrupt your test data by bringing in tangential queries.
 
 ### Create Dedicated Landing Pages
 

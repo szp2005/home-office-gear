@@ -39,7 +39,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 ## Why Desk Lamp Quality Matters for Video Calls {#why-it-matters}
 
-Most people think bad video call lighting is just an aesthetic problem. It's actually a technical one. Your webcam's image sensor — even on a decent 1080p model — is working hard to auto-adjust exposure and white balance. When the lighting is wrong, the camera makes the wrong guesses, and you look washed out, shadowed, or vaguely green.
+Most people think bad video call [lighting](/posts/home-office-lighting-for-eye-strain/) is just an aesthetic problem. It's actually a technical one. Your webcam's image sensor — even on a decent 1080p model — is working hard to auto-adjust exposure and white balance. When the lighting is wrong, the camera makes the wrong guesses, and you look washed out, shadowed, or vaguely green.
 
 **The three most common mistakes:**
 
@@ -127,7 +127,7 @@ For people who need to position light precisely — especially if their desk set
 
 **Pros:** Maximum positioning flexibility, sturdy spring arm, accepts standard E26 bulbs (buy your own 4000K CRI 90+ LED)
 **Cons:** Requires separate bulb purchase for optimal performance, base takes up more desk space
-**Best for:** Users with unconventional desk setups or multiple monitors who need precise control over light direction
+**Best for:** Users with unconventional desk setups or multiple [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/) who need precise control over light direction
 
 ---
 
@@ -237,5 +237,5 @@ Absolutely, webcams struggle in low-light conditions and compensate by artificia
 
 - [Why Cable Clutter Matters](/posts/how-to-reduce-cable-clutter-on-desk/)
 - [The Ultimate Guide to the Best USB-C Hub for Your Desk Setup](/posts/best-usb-c-hub-for-desk-setup/)
-- [The Ultimate Guide: Best Pegboard Accessories for Desk Organization](/posts/best-pegboard-accessories-for-desk-organization/)
+- [The Ultimate Guide: Best Pegboard Accessories for [Desk Organization](/posts/best-under-desk-drawer-for-cable-management/)](/posts/best-pegboard-accessories-for-desk-organization/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)

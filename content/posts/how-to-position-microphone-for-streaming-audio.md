@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** To properly position your microphone for streaming audio, place a dynamic microphone 2 to 4 inches from your mouth, or a condenser microphone 6 to 10 inches away. Angle the microphone 45 degrees off-axis, pointing toward the corner of your mouth to prevent harsh plosives. Mount the microphone on a suspended boom arm to isolate it from desk vibrations, and position your mechanical keyboard entirely within the microphone's rear null point to reject typing noise.
 
-Audio quality is the primary metric by which viewers judge the production value of a live stream. Upgrading your hardware is a standard step, but a premium microphone placed incorrectly will consistently underperform a budget microphone positioned with precision. The physics of sound capture dictate that placement directly influences your signal-to-noise ratio, the severity of room reflection, and the presence of unwanted mechanical interference.
+Audio quality is the primary metric by which viewers judge the production value of a live stream. Upgrading your [hardware](/posts/best-usb-c-hub-for-desk-setup/) is a standard step, but a premium microphone placed incorrectly will consistently underperform a budget microphone positioned with precision. The physics of sound capture dictate that placement directly influences your signal-to-noise ratio, the severity of room reflection, and the presence of unwanted mechanical interference.
 
 Figuring out how to position microphone for streaming audio setups involves balancing three variables: the acoustic design of the microphone, the geometry of your desk space, and your natural [posture](/posts/home-office-posture-checklist/) while broadcasting. When you optimize these elements, you isolate your voice from the chaotic acoustic environment of a typical gaming or recording room.
 
@@ -27,7 +27,7 @@ Before moving a single piece of equipment, you must identify two hardware specif
 
 ### Front-Address vs. Side-Address
 
-Microphones capture sound based on where their internal capsule is oriented. 
+[Microphones](/posts/difference-between-condenser-and-dynamic-mics-explained/) capture sound based on where their internal capsule is oriented. 
 
 Front-address microphones require you to speak directly into the top or end of the cylinder. Common examples include the Shure SM7B, Electro-Voice RE20, and Rode PodMic. If you speak into the side of a front-address microphone, the sound will be thin, distant, and heavily muffled.
 
@@ -39,7 +39,7 @@ The polar pattern dictates where the microphone listens and, more importantly, w
 
 Most streaming microphones utilize a Cardioid polar pattern. A cardioid pattern captures sound in a heart shape directly in front of the capsule while aggressively rejecting sound from the direct rear (180 degrees). This rear rejection zone is called the "null point." 
 
-If you use a Supercardioid microphone (like the Razer Seiren V2 Pro), the pattern is tighter in front, but it has a small node of sensitivity at the direct rear. The null points on a supercardioid microphone are actually located at roughly 120 degrees and 240 degrees off-axis. 
+If you use a Supercardioid microphone (like the Razer Seiren V2 Pro), the pattern is tighter in front, but it has a [small](/posts/standing-desk-setup-for-small-apartment/) node of sensitivity at the direct rear. The null points on a supercardioid microphone are actually located at roughly 120 degrees and 240 degrees off-axis. 
 
 Knowing exactly where your microphone is "deaf" is the foundation of proper positioning. 
 

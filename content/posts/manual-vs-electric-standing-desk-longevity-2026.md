@@ -114,12 +114,12 @@ The newly updated Fully Jarvis frame strikes an ideal balance between commercial
 - Frame can exhibit slight lateral wobble at maximum height extension
 - Included [cable management](/posts/mic-stand-with-hidden-cable-management/) tray is somewhat minimal
 
-## Core Longevity Factors: Frame, Lifting Capacity, and Maintenance
+## Core Longevity Factors: Frame, Lifting Capacity, and [Maintenance](/posts/how-to-clean-mechanical-keyboard-switches-safely/)
 
 Regardless of whether you choose a manual or electric lifting mechanism, several universal factors dictate how long your standing desk will survive daily operations. 
 
 **Frame Material and Glide Systems:**
-The telescoping legs of a standing desk require inner glides—usually made of specialized plastics like acetal or polyurethane—to reduce friction between the steel columns. Over time, these glides wear down, leading to a desk that wobbles noticeably when extended. Premium desks use precision-machined glides that fit tightly and resist wear, maintaining frame stiffness for a decade. Cheaper frames use generic plastic glides that degrade quickly, resulting in structural instability long before the lifting mechanism fails.
+The telescoping legs of a standing desk require inner glides—usually made of specialized plastics like acetal or polyurethane—to [reduce](/posts/how-to-reduce-cable-clutter-on-desk/) friction between the steel columns. Over time, these glides wear down, leading to a desk that wobbles noticeably when extended. Premium desks use precision-machined glides that fit tightly and resist wear, maintaining frame stiffness for a decade. Cheaper frames use generic plastic glides that degrade quickly, resulting in structural instability long before the lifting mechanism fails.
 
 **Lifting Capacity vs. Operating Load:**
 A desk’s listed weight capacity is its absolute limit, not its optimal operating load. If you place 150 lbs of [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/), PCs, and equipment on a desk rated for 154 lbs, you are forcing the mechanical gears or electric motors to operate at maximum strain during every transition. To maximize longevity, calculate your total equipment weight and purchase a desk with a capacity at least double that number. A dual-motor desk rated for 350 lbs lifting a 100 lb setup will easily outlast a 150 lb-rated desk lifting the same load, simply due to reduced component stress.
@@ -131,7 +131,7 @@ Electric desk motors are not designed for continuous operation. They have a stri
 
 Protecting your investment requires more than just choosing the right brand. Implement these practices to extend the life of your standing desk by years:
 
-1. **Center Your Load:** Do not place all your heavy equipment (like a massive desktop PC tower) on one extreme edge of the desk. Uneven loading forces one leg's gear or motor to work significantly harder than the other, leading to premature failure and leg desynchronization. Mount heavy hardware centrally or distribute weight evenly across the surface.
+1. **Center Your Load:** Do not place all your heavy equipment (like a massive desktop PC tower) on one extreme edge of the desk. Uneven loading forces one leg's gear or motor to work significantly harder than the other, leading to premature failure and leg desynchronization. Mount heavy [hardware](/posts/best-usb-c-hub-for-desk-setup/) centrally or distribute weight evenly across the surface.
 2. **Utilize Surge Protection:** For electric desks, the control box is effectively a specialized computer. A sudden power surge can fry the motherboard, rendering the desk immobile. Always plug your electric standing desk into a high-quality surge protector, never directly into a wall outlet.
 3. **Respect Cable Tolerances:** When managing cables, ensure there is enough slack for the desk to reach its maximum height. If cables are pulled taut during transition, the desk's motors will fight the tension, straining the internal gears. This can also damage your plugged-in electronics.
 4. **Periodic Hardware Checks:** Desks vibrate slightly during movement. Every six months, take an Allen wrench and tighten all the bolts connecting the legs to the desktop and the feet to the columns. Loose hardware transfers stress from the rigid frame to the moving components.

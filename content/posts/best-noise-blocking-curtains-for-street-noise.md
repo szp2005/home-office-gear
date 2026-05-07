@@ -43,7 +43,7 @@ We have analyzed dozens of heavy drapes based on fabric density, layer count, we
 **Price:** $120-$160
 **Rating:** 4.8/5
 
-The Moondream 3-in-1 Soundproof Curtain is widely considered the gold standard for non-permanent window [soundproofing](/posts/how-to-soundproof-a-home-office-window/). Unlike most brands that simply market heavy blackout curtains as "soundproof," Moondream actually utilizes patented acoustic technology and subjects their products to independent laboratory testing. The curtain is composed of three distinct layers: a heavy blackout fabric, a dense thermal insulation layer, and a tightly woven cotton acoustic lining. According to their tests, this specific combination can reduce ambient street noise by up to 7 decibels (a noticeable drop in perceived volume) while completely blocking out light and heavily insulating the window against drafts. The panels are exceptionally heavy, weighing significantly more than standard drapes, which is exactly what you want for acoustic dampening.
+The Moondream 3-in-1 Soundproof Curtain is widely considered the gold standard for non-permanent window [soundproofing](/posts/how-to-soundproof-a-home-office-window/). Unlike most brands that simply market heavy blackout curtains as "soundproof," Moondream actually utilizes patented acoustic technology and subjects their products to independent laboratory testing. The curtain is composed of three distinct layers: a heavy blackout fabric, a dense thermal insulation layer, and a tightly woven cotton acoustic lining. According to their tests, this specific combination can [reduce](/posts/how-to-reduce-cable-clutter-on-desk/) ambient street noise by up to 7 decibels (a noticeable drop in perceived volume) while completely blocking out light and heavily insulating the window against drafts. The panels are exceptionally heavy, weighing significantly more than standard drapes, which is exactly what you want for acoustic dampening.
 
 **Pros:**
 - Independently tested and certified for actual decibel reduction
@@ -154,7 +154,7 @@ Velvet is arguably the best single fabric for sound absorption due to its deep, 
 
 **Cons:**
 - Velvet acts as a magnet for dust and pet hair
-- Requires careful spot cleaning or professional dry cleaning
+- Requires careful spot [cleaning](/posts/how-to-clean-mechanical-keyboard-switches-safely/) or professional dry cleaning
 
 ## Practical Advice: How to Maximize Noise Reduction
 

@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Best Anti Fatigue Mat for Standing Desk on Wood Floors in 2026
 
-> **Quick Answer:** The ideal anti fatigue mat for a standing desk on wood floors must feature a high-density polyurethane foam core and a non-staining, non-slip bottom layer. Avoid cheap PVC and rubber mats, as they can cause chemical discoloration (plasticizer migration) on hardwood finishes. For aesthetics, many premium ergonomic mats now offer realistic faux-wood top textures to seamlessly blend with your hardwood or laminate flooring.
+> **Quick Answer:** The ideal anti fatigue mat for a standing desk on wood floors must feature a high-density polyurethane foam core and a non-staining, non-slip bottom layer. Avoid cheap PVC and rubber mats, as they can cause chemical discoloration (plasticizer migration) on hardwood finishes. For aesthetics, many premium [ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) mats now offer realistic faux-wood top textures to seamlessly blend with your hardwood or laminate flooring.
 
 Transitioning to a standing desk is an excellent step toward better [posture](/posts/home-office-posture-checklist/) and reduced sedentary time. However, standing on bare hardwood floors for extended periods introduces new physical challenges, primarily lower back strain, knee compression, and foot fatigue. An anti-fatigue mat is essential for absorbing impact and promoting micro-movements, but finding the right anti fatigue mat for a standing desk on wood floors requires navigating a specific set of constraints.
 
@@ -73,7 +73,7 @@ Tripping is a primary concern with any floor mat. Ensure the mat features edges 
 
 ### Optimal Dimensions
 
-Size matters when setting up an ergonomic workstation. A mat that is too small restricts your natural stance width. For a standard single-[monitor](/posts/best-portable-monitor-for-work-from-home/) or dual-monitor standing [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)(/posts/asymmetric-monitor-light-bar-vs-desk-lamp/), the minimum recommended dimensions are 20 inches deep by 30 inches wide. If your desk requires you to take a step left or right to access filing cabinets or secondary equipment, look for an elongated mat measuring 20 inches deep by 36 to 48 inches wide.
+Size matters when setting up an ergonomic workstation. A mat that is too [small](/posts/standing-desk-setup-for-small-apartment/) restricts your natural stance width. For a standard single-[monitor](/posts/best-portable-monitor-for-work-from-home/) or dual-monitor standing [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)(/posts/asymmetric-monitor-light-bar-vs-desk-lamp/), the minimum recommended dimensions are 20 inches deep by 30 inches wide. If your desk requires you to take a step left or right to access filing cabinets or secondary equipment, look for an elongated mat measuring 20 inches deep by 36 to 48 inches wide.
 
 ### Puncture Resistance
 
@@ -95,7 +95,7 @@ While you are cleaning the floor, wipe down the bottom surface of the mat itself
 
 ### Alternative Protection: Using a Rug Pad
 
-If you have a historic home with antique hardwood floors, or floors finished with natural oils rather than modern polyurethane, you may want to exercise extreme caution. In these specific cases, you can place a thin, 100% natural felt rug pad—specifically rated for antique wood—between the anti-fatigue mat and the floor. This provides a guaranteed barrier against chemical interaction while allowing the floor to breathe, though it may slightly reduce the absolute grip of the mat.
+If you have a historic home with antique hardwood floors, or floors finished with natural oils rather than modern polyurethane, you may want to exercise extreme caution. In these specific cases, you can place a thin, 100% natural felt rug pad—specifically rated for antique wood—between the anti-fatigue mat and the floor. This provides a guaranteed barrier against chemical interaction while allowing the floor to breathe, though it may slightly [reduce](/posts/how-to-reduce-cable-clutter-on-desk/) the absolute grip of the mat.
 
 ## Frequently Asked Questions
 

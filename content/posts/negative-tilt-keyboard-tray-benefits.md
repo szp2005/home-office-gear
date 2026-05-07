@@ -19,7 +19,7 @@ If you spend more than a few hours a day at a desk, you are likely familiar with
 
 The solution to this widespread ergonomic problem is often found beneath the desk surface. A negative tilt keyboard tray fundamentally alters the geometry of your typing [posture](/posts/home-office-posture-checklist/). By slanting the front edge of the keyboard higher than the back edge, the tray allows your arms to slope downward naturally, maintaining a straight line from your elbow through your wrist to your fingertips. 
 
-Understanding the mechanics of negative tilt is critical for anyone experiencing typing-related discomfort. This guide examines the specific biomechanical advantages of negative keyboard tilt, how it integrates into a comprehensive ergonomic workstation, and the practical steps for implementing this setup correctly.
+Understanding the mechanics of negative tilt is critical for anyone experiencing typing-related discomfort. This guide examines the specific biomechanical advantages of negative keyboard tilt, how it integrates into a comprehensive ergonomic workstation, and the practical steps for implementing this [setup](/posts/standing-desk-setup-for-small-apartment/) correctly.
 
 ## The Biomechanics of Wrist Extension and Neutral Posture
 
@@ -36,7 +36,7 @@ Ergonomists define a "neutral posture" as the resting position of a joint where 
 Transitioning to a [desk setup](/posts/minimalist-home-office-setup-checklist/) that incorporates a downward slope for your input devices provides several measurable physiological advantages.
 
 ### 1. Elimination of Wrist Extension
-The most significant benefit of a negative tilt tray is the immediate cessation of wrist extension. When the tray angles downward (away from you), it compensates for the natural downward slope of your forearms. If your chair is properly adjusted so your elbows are slightly higher than your keyboard, your forearms will angle down. A negative tilt aligns the keyboard plane with the forearm plane, allowing the wrists to remain perfectly straight. 
+The most significant benefit of a negative tilt tray is the immediate cessation of wrist extension. When the tray angles downward (away from you), it compensates for the natural downward slope of your forearms. If your [chair](/posts/best-ergonomic-chair-for-small-home-office/) is properly adjusted so your elbows are slightly higher than your keyboard, your forearms will angle down. A negative tilt aligns the keyboard plane with the forearm plane, allowing the wrists to remain perfectly straight. 
 
 ### 2. Reduction in Muscle Fatigue
 Typing with bent wrists requires continuous, low-level static muscle contraction in the forearms to hold the hands up. This static loading restricts blood flow, leading to rapid muscle fatigue and the heavy, aching feeling many office workers experience by mid-afternoon. A negative tilt supports the natural weight distribution of the hands, allowing the forearm flexors and extensors to relax between keystrokes. 
@@ -75,7 +75,7 @@ Not all keyboard trays are capable of providing proper ergonomic benefits. When 
 *   **Platform Size:** The tray must accommodate both your keyboard and your mouse on the same plane. Using a keyboard on a tray and reaching up to the desk surface for the mouse completely negates the ergonomic benefits and introduces severe shoulder strain. Look for a platform width of at least 27 inches.
 
 ### Desk Compatibility Challenges
-Before purchasing a tray, inspect the underside of your desk. Modern standing desks often feature thick metal crossbars running down the center, which block the installation of a standard keyboard tray track. In these cases, you will need a tray system specifically designed for standing desks, which typically utilize a spacer kit to lower the track below the crossbar, or feature an abbreviated track mechanism.
+Before purchasing a tray, inspect the underside of your desk. Modern [standing desks](/posts/ai-integrated-desk-height-adjustment-automatic/) often feature thick metal crossbars running down the center, which block the installation of a standard keyboard tray track. In these cases, you will need a tray system specifically designed for standing desks, which typically utilize a spacer kit to lower the track below the crossbar, or feature an abbreviated track mechanism.
 
 ## Conclusion
 

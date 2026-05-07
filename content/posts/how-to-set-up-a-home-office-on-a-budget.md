@@ -14,7 +14,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 The transition to [remote work](/posts/how-to-improve-home-office-acoustics/) has shifted from a temporary necessity to a permanent lifestyle for millions. However, as many professionals quickly discover, working from a kitchen stool or a couch is a recipe for chronic back pain and plummeting [productivity](/posts/how-to-choose-a-home-office-desk-size/). The challenge? Professional-grade office setups can easily run into the thousands of dollars.
 
-The good news is that a high-performance workspace doesn’t require a Silicon Valley budget. By focusing on "essentialism"—investing in what impacts your health and output while hacking the rest—you can build a world-class home office for a fraction of the retail cost. 
+The good news is that a high-performance [workspace](/posts/home-office-desk-depth-guide/) doesn’t require a Silicon Valley budget. By focusing on "essentialism"—investing in what impacts your health and output while hacking the rest—you can build a world-class home office for a fraction of the retail cost. 
 
 This guide provides a comprehensive roadmap for setting up a home office on a budget, covering everything from ergonomic foundations to technical infrastructure.
 
@@ -53,7 +53,7 @@ A desk is essentially a flat surface at the correct height. This is the easiest 
 One of the most famous budget office hacks is the "Slab Desk." Buy a solid-core flush door from a hardware store (approx. $50) and pair it with two IKEA OLOV adjustable legs or even two small filing cabinets. This provides a massive workspace—larger than most $500 executive desks—for under $100.
 
 ### Second-Hand Treasures
-Check Facebook Marketplace or Craigslist for "dining tables." Many mid-century dining tables make excellent, deep office desks. Avoid "computer desks" from the early 2000s; they are often too small and designed for bulky CRT monitors.
+Check Facebook Marketplace or Craigslist for "dining tables." Many mid-century dining tables make excellent, deep office desks. Avoid "computer desks" from the early 2000s; they are often too small and designed for bulky CRT [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/).
 
 ### Standing Desk on a Budget
 You don’t need a $600 motorized frame.
@@ -157,7 +157,7 @@ Learn how to build a professional, ergonomic, and high-performance home office w
 
 ### Who is Set Up a Productive Home Office on a Budget best for?
 
-Set Up a Productive Home Office on a Budget is best for remote workers and home office buyers who want a practical home office setup improvement without adding unnecessary complexity. It is especially useful when you need repeatable results rather than another isolated tip.
+Set Up a Productive Home Office on a Budget is best for remote workers and home office buyers who want a practical [home office setup](/posts/best-pegboard-accessories-for-desk-organization/) improvement without adding unnecessary complexity. It is especially useful when you need repeatable results rather than another isolated tip.
 
 ### How should I get started with Set Up a Productive Home Office on a Budget?
 

@@ -19,7 +19,7 @@ Standard webcams rely on tiny sensors and fixed, narrow-aperture lenses that kee
 
 Achieving authentic, creamy bokeh requires physical optics. By utilizing a dedicated camera—specifically a mirrorless body—you harness a significantly larger sensor and interchangeable lenses. This approach manipulates physics rather than algorithms to produce a shallow depth of field. The result is a broadcast-quality image that instantly commands attention and projects professionalism. 
 
-This guide breaks down the exact hardware components, focal length mathematics, and lighting strategies required to build a permanent, reliable DSLR-quality bokeh webcam setup for your desk.
+This guide breaks down the exact [hardware](/posts/best-usb-c-hub-for-desk-setup/) components, focal length mathematics, and lighting strategies required to build a permanent, reliable DSLR-quality bokeh webcam setup for your desk.
 
 ## Why Hardware Bokeh Beats Software Blur
 
@@ -105,7 +105,7 @@ Depth of field is the physical distance between the nearest and farthest objects
 
 ### Focal Length vs. Distance
 
-To maximize background blur, you must physically separate yourself from your background. If your chair is pushed flat against a wall, no lens in the world will blur that wall—it exists on the exact same focal plane as your head.
+To maximize background blur, you must physically separate yourself from your background. If your [chair](/posts/best-ergonomic-chair-for-small-home-office/) is pushed flat against a wall, no lens in the world will blur that wall—it exists on the exact same focal plane as your head.
 
 *   **Rule 1: Close the gap to the camera.** Move the camera lens as close to your face as the focal length comfortably allows (typically 24 to 30 inches). 
 *   **Rule 2: Maximize the gap to the background.** Ensure there is at least 4 to 6 feet of physical space between the back of your chair and the wall or objects behind you.
@@ -130,7 +130,7 @@ A common mistake is installing a $1,500 camera setup and relying on overhead roo
 
 To make the bokeh effect pop, your background should generally be darker than your face. If a window behind you is blowing out the exposure, the camera sensor will struggle, and the depth effect will be visually flattened.
 
-Control the ambient light by closing blinds and turning off harsh overhead lights. Introduce practical lighting in the background—such as a small lamp on a bookshelf or an LED strip washing the wall—to provide out-of-focus points of light that render into beautiful, circular bokeh balls.
+Control the ambient light by closing blinds and turning off harsh overhead lights. Introduce practical lighting in the background—such as a [small](/posts/standing-desk-setup-for-small-apartment/) lamp on a bookshelf or an LED strip washing the wall—to provide out-of-focus points of light that render into beautiful, circular bokeh balls.
 
 ### Key Light and Hair Light Setup
 

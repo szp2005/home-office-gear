@@ -19,7 +19,7 @@ Setting up a [home studio](/posts/weighted-desk-mic-stand-with-boom-arm/) or [re
 
 The standard instruction manual for a ring light tells you to mount your webcam or phone directly in the center of the ring, placing the light source directly on the same axis as the camera lens. While this works beautifully for people without eyewear, it is the absolute worst possible configuration for anyone wearing glasses. The camera lens focuses directly on the reflected light source, obscuring your eyes and breaking eye contact with your audience.
 
-Fixing this issue does not require buying a more expensive camera, switching to contact lenses, or spending hundreds of dollars on complex lighting grids. It simply requires a basic understanding of lighting geometry. By adjusting the height, angle, and distance of your light source, you can maintain the high-quality illumination of your ring light without the frustrating reflections.
+Fixing this issue does not require buying a more expensive camera, switching to contact lenses, or spending hundreds of dollars on complex [lighting](/posts/home-office-lighting-for-eye-strain/) grids. It simply requires a basic understanding of lighting geometry. By adjusting the height, angle, and distance of your light source, you can maintain the high-quality illumination of your ring light without the frustrating reflections.
 
 ## The Physics of Lens Glare: Angle of Incidence
 
@@ -70,7 +70,7 @@ Often, glasses wearers successfully reposition their ring light, only to find th
 
 If you are using dual 27-inch monitors, you have two giant light panels sitting directly on the zero-degree axis in front of you. To mitigate monitor glare, apply the exact same physics you used for the ring light. You cannot move the monitors 45 degrees away, but you can adjust their tilt. Physically tilt your monitors downward by just 3 to 5 degrees. Because you are looking slightly down at them, the light from the screen will reflect off your glasses and bounce upward toward the ceiling, missing the camera. 
 
-Additionally, reduce your monitor brightness to 60% or lower, and switch your applications to "Dark Mode" whenever possible. The goal is to make your repositioned ring light the brightest dominant light source in the room, overpowering the light emitted by your screens.
+Additionally, [reduce](/posts/how-to-reduce-cable-clutter-on-desk/) your monitor brightness to 60% or lower, and switch your applications to "Dark Mode" whenever possible. The goal is to make your repositioned ring light the brightest dominant light source in the room, overpowering the light emitted by your screens.
 
 ## Advanced Techniques: Two-Light Setups for Glasses
 

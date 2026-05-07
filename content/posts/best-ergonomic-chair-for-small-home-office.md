@@ -86,7 +86,7 @@ Before purchasing anything, spend 10 minutes with a tape measure taking these fo
 
 3. **Desk clearance height:** Measure from the floor to the underside of your desk surface. If it's under 27 inches, you need removable or flip-up armrests — non-negotiable. Consider pairing with a [monitor](/posts/best-portable-monitor-for-work-from-home/) arm to raise your screen and allow the chair to tuck in fully.
 
-4. **Visual ceiling:** Where are your shelves, lighting, or upper cabinets? If they start below 54 inches from the floor, a high-back chair will read as claustrophobic. Mid-back is the practical ceiling.
+4. **Visual ceiling:** Where are your shelves, [lighting](/posts/home-office-lighting-for-eye-strain/), or upper cabinets? If they start below 54 inches from the floor, a high-back chair will read as claustrophobic. Mid-back is the practical ceiling.
 
 One underused technique: before ordering, cut a piece of cardboard to the chair's base diameter and place it on your floor. Live with it for a day. You'll immediately know whether it works in your actual movement patterns.
 
@@ -106,7 +106,7 @@ One underused technique: before ordering, cut a piece of cardboard to the chair'
 
 ## Real User Feedback on Small Space Performance {#user-feedback}
 
-Across forums like r/HomeOffice, r/malelivingspace, and product review aggregates, a few patterns show up consistently:
+Across forums like r/HomeOffice, r/malelivingspace, and [product review](/posts/manual-vs-electric-standing-desk-longevity-2026/) aggregates, a few patterns show up consistently:
 
 **The armrest clearance complaint is universal.** Users who don't measure desk height before ordering consistently report that standard armrests block them from sitting close to their desk, forcing a forward lean that defeats the ergonomic purpose entirely. This is the single most actionable data point from user reviews — removable or flip-up armrests are table stakes for small desk setups.
 
@@ -140,7 +140,7 @@ You need at minimum a 30" × 30" usable zone centered on your seating position, 
 
 ### Q: Can I use a kneeling chair or saddle stool instead of a traditional ergonomic chair for a small space?
 
-Yes, and they use roughly 60% of the floor footprint of a traditional chair. Kneeling chairs work well for 2–4 hour stretches but most users find them fatiguing for full 8-hour days due to knee and shin pressure. Saddle stools suit standing-desk hybrids well. Neither replaces a proper ergonomic chair for full-time seated work without real adjustment periods.
+Yes, and they use roughly 60% of the floor footprint of a traditional chair. [Kneeling chairs](/posts/top-rated-kneeling-chairs-for-back-pain/) work well for 2–4 hour stretches but most users find them fatiguing for full 8-hour days due to knee and shin pressure. Saddle stools suit standing-desk hybrids well. Neither replaces a proper ergonomic chair for full-time seated work without real adjustment periods.
 
 ### Q: How do I choose between mesh and fabric upholstery for a compact office chair?
 

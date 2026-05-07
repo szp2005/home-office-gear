@@ -41,9 +41,9 @@ The counterintuitive truth: a standing desk setup often takes up *less* floor sp
 
 That reclaimed floor space matters in a 500 sq ft studio. You can place the desk against a wall, fold a chair away when not needed, and get back 6–8 square feet of usable room.
 
-Beyond square footage, standing at a desk creates a visual line that reads as open in compact spaces. Low furniture clusters — sofas, coffee tables, beds — visually compress a room. A tall, vertical workspace introduces contrast that makes ceilings feel higher.
+Beyond square footage, standing at a desk creates a visual line that reads as open in compact spaces. Low furniture clusters — sofas, coffee tables, beds — visually compress a room. A tall, vertical [workspace](/posts/home-office-desk-depth-guide/) introduces contrast that makes ceilings feel higher.
 
-The health argument is real but often overstated. You're not burning significant calories standing. What you *are* doing is breaking up the pattern of sitting for 8+ hours in a small apartment where you're already sedentary (no office commute, no hallway walking between meetings). Even 90 minutes of standing spread across a workday reduces lower back load measurably according to occupational health data from the BMJ.
+The [health](/posts/best-trackball-mouse-for-wrist-pain-2026/) argument is real but often overstated. You're not burning significant calories standing. What you *are* doing is breaking up the pattern of sitting for 8+ hours in a small apartment where you're already sedentary (no office commute, no hallway walking between meetings). Even 90 minutes of standing spread across a workday reduces lower back load measurably according to occupational health data from the BMJ.
 
 Multi-functional use is the final practical win. A standing desk surface at counter height doubles as a prep area, hobby table, or bar-height dining spot. In a studio, that versatility justifies the footprint entirely.
 
@@ -107,7 +107,7 @@ Secondhand electric desks from Facebook Marketplace average $150–$200 in most 
 
 **Monitor arm:** Frees up 6–8 inches of desk depth by removing the monitor stand. The VESA monitor arm clamps to the back edge of the desk. For apartments, a single-arm model is more appropriate than a double-arm — less visual bulk.
 
-**Cable management:** In a small apartment, cable mess looks significantly worse than in a larger room because there's nowhere to hide it. A basic cable management kit with cable raceways, velcro ties, and a cable tray under the desk surface costs $15–$25 and solves 90% of the problem. Stick the raceway along the wall baseboard from the outlet to the desk leg — it disappears visually.
+**[Cable management](/posts/mic-stand-with-hidden-cable-management/):** In a small apartment, cable mess looks significantly worse than in a larger room because there's nowhere to hide it. A basic cable management kit with cable raceways, velcro ties, and a cable tray under the desk surface costs $15–$25 and solves 90% of the problem. Stick the raceway along the wall baseboard from the outlet to the desk leg — it disappears visually.
 
 **Wireless keyboard and mouse:** The Logitech MX Keys Mini plus MX Anywhere 3 eliminates two cables from your desktop entirely. In a space-constrained setup, that simplification is worth the $100–$130 combined cost.
 

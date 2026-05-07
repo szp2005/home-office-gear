@@ -15,18 +15,18 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** To mount a CPU under a standing desk, purchase an adjustable under-desk PC mount that supports your computer's dimensions and weight. Pre-drill pilot holes into your desk surface, secure the mounting bracket using heavy-duty wood screws, and slide your PC into the cradle, ensuring at least two inches of clearance on all sides for proper airflow. 
 
-When you upgrade to a standing desk, the position of your computer tower suddenly becomes a logistical challenge. Leaving the PC on the floor requires excessively long cables that drag and pull when the desk is raised to a standing height. Conversely, placing a mid-tower or full-tower case directly on the desktop consumes valuable surface area and introduces cable clutter into your immediate field of view. 
+When you upgrade to a standing desk, the position of your computer tower suddenly becomes a logistical challenge. Leaving the PC on the floor requires excessively long cables that drag and pull when the desk is raised to a standing height. Conversely, placing a mid-tower or full-tower case directly on the desktop consumes valuable surface area and introduces cable [clutter](/posts/how-to-reduce-cable-clutter-on-desk/) into your immediate field of view. 
 
 The most efficient solution is mounting the CPU directly underneath the desktop surface. This arrangement allows the computer to move up and down synchronously with your [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/) and peripherals, completely eliminating cable tension issues. It also keeps your tower off the floor, significantly reducing dust accumulation inside the power supply and case fans, while reclaiming your desktop space for actual work.
 
-Mounting a heavy metal box to the underside of a moving desk requires careful planning, the right hardware, and an understanding of your desk's structural limits. This guide covers the entire process, from selecting the correct bracket type to executing a safe, secure installation.
+Mounting a heavy metal box to the underside of a moving desk requires careful planning, the right [hardware](/posts/best-usb-c-hub-for-desk-setup/), and an understanding of your desk's structural limits. This guide covers the entire process, from selecting the correct bracket type to executing a safe, secure installation.
 
 ## Why Mount Your PC Under Your Standing Desk?
 
 Before drilling into your desk, it helps to understand the distinct mechanical and aesthetic benefits of an under-desk CPU mount.
 
 ### Eliminating Cable Tension
-A standard sit-stand desk travels approximately 20 inches from its lowest to highest position. If your PC remains on the floor, your display cables, USB hubs, and audio wires must accommodate this entire range of motion without snagging. By mounting the PC to the desk itself, the distance between the computer's I/O shield and your monitors remains constant. You only need to manage a single power cable running from the desk to the wall outlet.
+A standard sit-stand desk travels approximately 20 inches from its lowest to highest position. If your PC remains on the floor, your display cables, USB hubs, and [audio](/posts/best-studio-monitors-for-clear-video-conferencing/) wires must accommodate this entire range of motion without snagging. By mounting the PC to the desk itself, the distance between the computer's I/O shield and your monitors remains constant. You only need to manage a single power cable running from the desk to the wall outlet.
 
 ### Dust Reduction and Thermal Performance
 Computers placed on the floor act as vacuums for dust, pet hair, and carpet fibers. Power supplies, which typically draw air from the bottom of the case, are particularly vulnerable to floor-level particulate matter. Elevating the PC even a few inches off the floor drastically reduces dust intake, leading to cleaner internal components, lower operating temperatures, and quieter fan speeds.

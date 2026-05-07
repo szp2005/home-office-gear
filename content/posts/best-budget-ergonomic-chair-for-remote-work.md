@@ -58,7 +58,7 @@ High-quality mesh chairs in the $200-$300 range are generally very durable and c
 
 ### Can I find a good ergonomic chair under $300 if I am tall or heavy?
 
-Yes, but you need to carefully check the chair's maximum weight capacity and seat depth specifications before purchasing. Look for models labeled "big and tall" or those offering a sliding seat pan, which accommodates longer legs and ensures proper thigh support.
+Yes, but you need to carefully check the chair's maximum weight capacity and seat depth specifications before purchasing. Look for models labeled "[big and tall](/posts/heavy-duty-office-chair-for-long-hours/)" or those offering a sliding seat pan, which accommodates longer legs and ensures proper thigh support.
 
 ## Related Reading
 

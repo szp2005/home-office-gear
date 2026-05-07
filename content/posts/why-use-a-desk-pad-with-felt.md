@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** Using a felt desk pad protects your work surface from scratches, significantly dampens keyboard typing noise, adds a layer of ergonomic warmth during cold months, and elevates the overall visual aesthetic of your workspace. However, genuine wool felt provides superior durability and comfort compared to synthetic polyester alternatives.
 
-Building a productive [home office](/posts/how-to-improve-home-office-acoustics/) requires paying attention to the subtle details that affect your daily comfort. While monitors, ergonomic chairs, and [mechanical keyboards](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) usually receive the bulk of the research budget, the surface you interact with for eight hours a day is often an afterthought. 
+Building a productive [home office](/posts/how-to-improve-home-office-acoustics/) requires paying attention to the subtle details that affect your daily comfort. While [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/), ergonomic chairs, and [mechanical keyboards](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) usually receive the bulk of the research budget, the surface you interact with for eight hours a day is often an afterthought. 
 
 If you have spent any time looking at high-end workspace setups online, you have likely noticed a recurring theme: the textured, matte look of a felt desk mat sitting beneath the keyboard and mouse. The shift away from glossy, rigid plastics and cheap rubber toward natural textiles is not just a visual trend.
 
@@ -33,7 +33,7 @@ This acoustic absorption also applies to moving items around your desk. Setting 
 
 A frequently overlooked aspect of desk work is thermal comfort. Glass, metal, and even polished wood have high thermal conductivity, meaning they pull heat away from your skin when you rest your arms against them. In an air-conditioned room or during winter months, a cold desk surface can cause blood vessels in the forearms and wrists to constrict, leading to stiffness, discomfort, and premature fatigue during long typing sessions.
 
-Because wool and high-quality synthetic felts are excellent insulators, they retain your body heat rather than sapping it away. Resting your wrists on a felt surface provides an immediate feeling of warmth. This subtle shift in temperature regulation keeps the muscles in your forearms relaxed, contributing to better long-term ergonomic health and reducing the risk of repetitive strain injuries associated with stiff, cold muscles.
+Because wool and high-quality synthetic felts are excellent insulators, they retain your body heat rather than sapping it away. Resting your wrists on a felt surface provides an immediate feeling of warmth. This subtle shift in temperature regulation keeps the muscles in your forearms relaxed, contributing to better long-term ergonomic [health](/posts/best-trackball-mouse-for-wrist-pain-2026/) and reducing the risk of repetitive strain injuries associated with stiff, cold muscles.
 
 Beyond temperature, felt provides a cushioned resting area. While it is not as squishy as a thick neoprene gaming mousepad, the density of felt offers a supportive but firm foundation. It eliminates the sharp pressure points that occur when the hard edge of a desk presses into the underside of your wrists.
 
@@ -51,7 +51,7 @@ Functionality aside, the visual impact of felt cannot be understated. Modern wor
 
 The matte finish of felt does not reflect [monitor](/posts/best-portable-monitor-for-work-from-home/) glare or overhead lighting, reducing visual fatigue. Its textured appearance breaks up the monotony of a large, flat desk surface, creating a defined "active zone" for your work. This visual framing helps organize the workspace, implicitly telling your brain that the area within the bounds of the pad is meant for focus and [productivity](/posts/how-to-choose-a-home-office-desk-size/).
 
-Available in various shades—most commonly light grey, charcoal, and black—felt coordinates effortlessly with almost any interior design scheme, from minimalist Scandinavian setups to dark, moody industrial aesthetics.
+Available in various shades—most commonly light grey, charcoal, and black—felt coordinates effortlessly with almost any [interior design](/posts/quiet-luxury-office-decor-ideas/) scheme, from minimalist Scandinavian setups to dark, moody industrial aesthetics.
 
 ## Practical Tradeoffs: Felt vs. Leather vs. PU
 

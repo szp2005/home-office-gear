@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # How to Calibrate Monitor for Creative Work: Complete 5-Step Guide
 
-> **Quick Answer:** To calibrate a monitor for creative work, you need a hardware colorimeter (like a Calibrite Display Plus or Datacolor SpyderX) and calibration software. Connect the device, set your target white point (usually D65/6500K), luminance (100-120 cd/m²), and gamma (2.2 or 2.4), then run the automated profiling process to generate an ICC color profile for your operating system.
+> **Quick Answer:** To calibrate a monitor for creative work, you need a [hardware](/posts/best-usb-c-hub-for-desk-setup/) colorimeter (like a Calibrite Display Plus or Datacolor SpyderX) and calibration software. Connect the device, set your target white point (usually D65/6500K), luminance (100-120 cd/m²), and gamma (2.2 or 2.4), then run the automated profiling process to generate an ICC color profile for your operating system.
 
 One of the most frustrating experiences for any digital artist, photographer, or [video](/posts/best-desk-lamp-for-video-calls/) editor is spending hours perfecting the color grading of a project, only to view it on a smartphone or print it out and realize the colors are entirely wrong. Skin tones look green, shadows are crushed into pure black, and the vibrant reds you carefully balanced appear muted and lifeless. 
 
@@ -134,5 +134,5 @@ D65 (6500K) is the standard for most digital workflows, web design, video editin
 
 ## Related Reading
 
-- [[Standing Desk](/posts/compact-standing-desk-converter-review/) Setup for Small Apartments: Compact Ergonomic Guide](/posts/standing-desk-setup-for-small-apartment/)
+- [[Standing Desk](/posts/compact-standing-desk-converter-review/) Setup for [Small Apartments](/posts/modular-workspace-setup-for-small-apartments/): Compact [Ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) Guide](/posts/standing-desk-setup-for-small-apartment/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your [Home Office](/posts/how-to-choose-a-home-office-desk-size/)](/posts/best-under-desk-treadmill-for-home-office/)

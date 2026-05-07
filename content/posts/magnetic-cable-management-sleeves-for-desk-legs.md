@@ -77,7 +77,7 @@ When implementing magnetic cable management for desk legs, a few frequent errors
 
 ## Conclusion
 
-Magnetic cable management sleeves provide the most adaptable, secure, and aesthetically pleasing method for routing cables down metal desk legs. By choosing a sleeve with high-quality neodymium magnets and sufficient diameter, you can permanently eliminate floor clutter without committing to permanent adhesives or drilling. Measure your cable bundle diameter and verify your desk leg material before purchasing to ensure a perfect fit.
+Magnetic cable management sleeves provide the most adaptable, secure, and aesthetically pleasing method for routing cables down metal desk legs. By choosing a sleeve with high-quality neodymium magnets and sufficient diameter, you can permanently eliminate floor [clutter](/posts/how-to-reduce-cable-clutter-on-desk/) without committing to permanent adhesives or drilling. Measure your cable bundle diameter and verify your desk leg material before purchasing to ensure a perfect fit.
 
 ## Frequently Asked Questions
 
@@ -94,7 +94,7 @@ Magnetic sleeves will not work on wood, aluminum, or plastic. For non-magnetic d
 Yes, but you must attach the magnetic sleeve to the outer, stationary casing of the desk leg, not the inner sliding column. Attaching it to the moving part can cause the sleeve to jam inside the motor housing when the desk lowers.
 
 ### How many cables can a standard magnetic sleeve hold?
-A standard 1.25-inch diameter magnetic sleeve can comfortably hold two thick power cables, two display cables (like HDMI or DisplayPort), and three to four thinner USB or audio cables without bulging or losing its magnetic grip.
+A standard 1.25-inch diameter magnetic sleeve can comfortably hold two thick power cables, two display cables (like HDMI or DisplayPort), and three to four thinner USB or [audio](/posts/best-studio-monitors-for-clear-video-conferencing/) cables without bulging or losing its magnetic grip.
 
 ---
 

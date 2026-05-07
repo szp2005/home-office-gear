@@ -77,7 +77,7 @@ For those who want to test the waters of ergonomic support without a major inves
 
 While wrist rests remain stationary, palm supports are inherently dynamic. A palm support generally refers to a device that specifically targets the base of the hand, lifting the carpal tunnel completely out of the equation. 
 
-Modern palm supports often take the form of "gliders"—small, contoured pads outfitted with low-friction PTFE (Teflon) skates. Instead of resting your arm on a stationary mat, you place the heel of your palm onto the glider. As you move the mouse, the support moves with you. This forces you to engage your shoulder and elbow to navigate your screen. Because the anchor point is removed, harmful wrist pivoting is physically eliminated.
+Modern palm supports often take the form of "gliders"—[small](/posts/standing-desk-setup-for-small-apartment/), contoured pads outfitted with low-friction PTFE (Teflon) skates. Instead of resting your arm on a stationary mat, you place the heel of your palm onto the glider. As you move the mouse, the support moves with you. This forces you to engage your shoulder and elbow to navigate your screen. Because the anchor point is removed, harmful wrist pivoting is physically eliminated.
 
 Alternatively, palm support can be deeply integrated into the mouse itself. High-end ergonomic mice often feature flared bases or thumb wings. These built-in "shelves" prevent the side of your hand and palm from dragging on the mousepad, providing the same friction-reducing benefits without requiring a separate accessory.
 
@@ -104,7 +104,7 @@ The DeltaHub Carpio 2.0 is a masterclass in targeted biomechanical support. Desi
 **Price:** $99-$110
 **Rating:** 4.9/5
 
-Sometimes the best palm support is the one built directly into your hardware. The Logitech MX Master 3S is sculpted to mirror the natural resting position of the human hand. It features a dramatic left-side flare that acts as a structural shelf for the thumb and the lower palm. This integrated support stops the hand from dragging across the desk, reducing friction while naturally encouraging a slight 20-degree tilt. This tilt partially unwinds the pronation of the forearm, providing a significant reduction in muscular tension compared to a flat mouse.
+Sometimes the best palm support is the one built directly into your [hardware](/posts/best-usb-c-hub-for-desk-setup/). The Logitech MX Master 3S is sculpted to mirror the natural resting position of the human hand. It features a dramatic left-side flare that acts as a structural shelf for the thumb and the lower palm. This integrated support stops the hand from dragging across the desk, reducing friction while naturally encouraging a slight 20-degree tilt. This tilt partially unwinds the pronation of the forearm, providing a significant reduction in muscular tension compared to a flat mouse.
 
 **Pros:**
 - Flared thumb rest acts as a robust, built-in palm shelf

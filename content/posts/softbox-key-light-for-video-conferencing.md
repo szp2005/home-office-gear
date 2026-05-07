@@ -44,7 +44,7 @@ The softbox itself measures 20 by 28 inches, providing an excellent surface area
 **Pros:**
 - Adjustable color temperature matches room lighting perfectly
 - LED board design makes the softbox shallower than bulb-based models
-- Remote control allows for adjustments without leaving your chair
+- Remote control allows for adjustments without leaving your [chair](/posts/best-ergonomic-chair-for-small-home-office/)
 
 **Cons:**
 - Tripod legs require considerable floor space
@@ -105,7 +105,7 @@ The included softbox features an inner baffle in addition to the outer diffusion
 
 **Cons:**
 - The fixture head is quite heavy and requires careful balancing
-- Bulky profile can be difficult to fit behind small desks
+- Bulky profile can be difficult to fit behind [small](/posts/standing-desk-setup-for-small-apartment/) desks
 
 ### 5. LimoStudio 700W Photography Softbox
 
@@ -128,7 +128,7 @@ The canopy material is rugged and the reflective silver interior maximizes the e
 
 ## How to Set Up Your Softbox Key Light for Video Calls
 
-Purchasing the hardware is only half the battle; proper placement is what ultimately determines how professional you look on camera. For video conferencing, the goal is to look engaged and natural, not dramatically shadowed.
+Purchasing the [hardware](/posts/best-usb-c-hub-for-desk-setup/) is only half the battle; proper placement is what ultimately determines how professional you look on camera. For video conferencing, the goal is to look engaged and natural, not dramatically shadowed.
 
 The most reliable setup for a single softbox key light is a modification of classic portrait lighting. Position your softbox so it sits just behind and slightly to one side of your monitor. Angle the light so it sits approximately 45 degrees off the direct center line of your face, and raise the stand so the center of the softbox is slightly above your eye level, pointing downward at a 30-degree angle. 
 

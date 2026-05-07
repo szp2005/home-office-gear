@@ -19,13 +19,13 @@ A cluttered desk is a [productivity](/posts/how-to-choose-a-home-office-desk-siz
 
 The solution is an under desk drawer engineered with cable management in mind. These organizers either feature dedicated rear cable passthroughs, open-back architectures, or integrated routing channels that allow you to power devices cleanly while they are stored away. 
 
-Mounting a functional drawer underneath your workspace frees up critical desktop real estate and protects sensitive electronics from spills and dust. In this guide, we review the top under desk storage options that seamlessly integrate with a clean, cable-free office setup. We evaluated these drawers based on their build quality, internal clearance, weight capacity, and—most importantly—their ability to route and hide power cables efficiently.
+Mounting a functional drawer underneath your [workspace](/posts/home-office-desk-depth-guide/) frees up critical desktop real estate and protects sensitive electronics from spills and dust. In this guide, we review the top under desk storage options that seamlessly integrate with a clean, cable-free [office setup](/posts/ideal-screen-height-for-preventing-neck-strain/). We evaluated these drawers based on their build quality, internal clearance, weight capacity, and—most importantly—their ability to route and hide power cables efficiently.
 
 ## Top Under Desk Drawers for Hiding Cords
 
 ### 1. Editor's Choice: Vivo Extra Large Under Desk Drawer
 
-**Best for:** Deep standing desks and extensive peripheral charging
+**Best for:** Deep [standing desks](/posts/ai-integrated-desk-height-adjustment-automatic/) and extensive peripheral charging
 **Price:** $45-$60
 **Rating:** 4.7/5
 

@@ -48,7 +48,7 @@ Articulating arms clamp to the edge of your desk and use mechanical joints or ga
 When selecting a clamp arm, verify the maximum jaw width of the desk clamp; most standard clamps accommodate desks up to 2.5 inches thick. The tablet cradle itself must feature deep, rubberized grips to prevent slipping when interacting with the touchscreen. Arms with ball-joint heads provide 360-degree rotation, allowing you to switch the tablet between landscape mode (for video timelines and spreadsheets) and portrait mode (for reading code or Slack channels) with a single motion.
 
 ### Magnetic Stands and Mounts
-If you use an iPad equipped with internal magnets (such as the iPad Pro or iPad Air), magnetic mounts offer the cleanest aesthetic. These mounts look similar to miniaturized desktop monitor stands and attach directly to the back of the bare tablet.
+If you use an iPad equipped with internal magnets (such as the iPad Pro or iPad Air), magnetic mounts offer the cleanest aesthetic. These mounts look similar to miniaturized desktop [monitor stands](/posts/best-monitor-riser-for-heavy-glass-desks/) and attach directly to the back of the bare tablet.
 
 The primary advantage of a magnetic mount is the instantaneous detachment; you can pull the tablet off the stand to take to a meeting without fighting with spring-loaded clamps. However, magnetic stands generally sit on the desktop rather than floating above it, which may consume valuable desk surface area. If you use a magnetic stand, ensure it has a weighted metal base to prevent tipping when you tap the screen.
 
@@ -62,7 +62,7 @@ Gooseneck mounts feature a flexible, bendable stalk rather than mechanical joint
 
 ## 3. Ergonomic Positioning for a Second Screen
 
-Proper placement of your secondary tablet display prevents neck strain and minimizes eye fatigue caused by shifting focus.
+Proper placement of your secondary tablet display prevents neck strain and minimizes eye fatigue caused by shifting [focus](/posts/noise-canceling-headphones-for-home-office/).
 
 ### Alignment with the Primary Monitor
 The tablet should act as a natural extension of your primary monitor. Position the tablet so its vertical center aligns with the vertical center of your main display. If you are using a 27-inch primary monitor in landscape orientation, mounting an 11-inch tablet vertically (portrait mode) on the immediate right or left creates an optimal viewing corridor.
@@ -70,7 +70,7 @@ The tablet should act as a natural extension of your primary monitor. Position t
 Ensure the bezels of the tablet and the primary monitor are parallel and as close together as the hardware allows. This minimizes the physical gap your eyes must track across when moving the cursor between screens.
 
 ### Viewing Angles and Glare Reduction
-Tablets use glossy glass screens that are highly reflective compared to matte desktop [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/). Position the tablet to avoid direct reflections from overhead lighting or windows behind you.
+Tablets use glossy glass screens that are highly reflective compared to matte desktop [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/). Position the tablet to avoid direct reflections from overhead [lighting](/posts/home-office-lighting-for-eye-strain/) or windows behind you.
 
 Angle the tablet inward toward your face at a 15-to-30-degree offset from the primary monitor, creating a gentle curve. The screen should be positioned roughly an arm's length away (20 to 28 inches) from your seated position. Because tablets have high pixel densities, placing them too far back will force you to squint to read interface text; utilize the operating system's display scaling options to increase the size of text and UI elements on the extended display.
 

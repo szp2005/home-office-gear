@@ -12,7 +12,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # The Ultimate Guide: Best Pegboard Accessories for Desk Organization
 
-> **Quick Answer:** The best pegboard accessories for desk organization include wire baskets for holding notebooks, specialized hooks for hanging headphones or cables, and modular cups for pens and small office supplies. Adding small attachable shelves can also help maximize your vertical space by holding decorative items or frequently used tools. Utilizing a combination of these specific attachments keeps your main workspace clear while ensuring all your daily essentials remain within easy arm's reach.
+> **Quick Answer:** The best pegboard accessories for desk organization include wire baskets for holding notebooks, specialized hooks for hanging headphones or cables, and modular cups for pens and [small](/posts/standing-desk-setup-for-small-apartment/) [office](/posts/best-label-maker-for-home-office-organization/) supplies. Adding small attachable shelves can also help maximize your vertical space by holding decorative items or frequently used tools. Utilizing a combination of these specific attachments keeps your main workspace clear while ensuring all your daily essentials remain within easy arm's reach.
 
 In the modern era of [remote work](/posts/how-to-improve-home-office-acoustics/) and digital creation, the state of your desk directly influences your [productivity](/posts/how-to-choose-a-home-office-desk-size/), focus, and overall well-being. A cluttered workspace can lead to a cluttered mind, causing unnecessary stress and inefficiency. While traditional desk organizers, drawers, and filing cabinets have their place, none offer the flexibility, visibility, and sheer space-saving power of a well-configured pegboard system. 
 
@@ -87,7 +87,7 @@ If you are a gamer, developer, or digital artist, you likely have controllers, t
 
 *   **Controller Mounts:** Specially angled hooks or cradles can hold Xbox, PlayStation, or generic gamepads securely, turning them into a display piece when not in use.
 *   **Tablet Shelves:** A slightly angled, shallow shelf with a lip can hold an iPad or drawing tablet safely against the pegboard, keeping it charged and ready without taking up prime desk real estate.
-*   **Keyboard Displays:** For mechanical keyboard enthusiasts, sturdy double hooks can be used to display alternative keyboards on the wall, freeing up drawer space and showcasing your collection.
+*   **Keyboard Displays:** For mechanical keyboard enthusiasts, sturdy double hooks can be used to display alternative [keyboards](/posts/split-ergonomic-keyboard-vs-standard-2026/) on the wall, freeing up drawer space and showcasing your collection.
 
 ## Organizing Office Supplies and Stationery
 

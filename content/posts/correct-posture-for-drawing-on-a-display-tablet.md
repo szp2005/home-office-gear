@@ -34,7 +34,7 @@ Furthermore, drawing requires micro-movements of the wrist and fingers, stabiliz
 Your posture originates from the floor upward. Attempting to fix your neck without addressing your pelvis and lower back is a temporary patch. 
 
 ### Setting Seat Height and Pelvic Tilt
-Start by adjusting your ergonomic chair. Your feet must rest entirely flat on the floor or on a solid, angled [footrest](/posts/best-footrest-for-under-desk-ergonomics/). Your knees should be positioned at a 90-degree angle or slightly lower than your hips to open the pelvic angle. This slight downward slope of the thighs encourages an anterior pelvic tilt, which naturally stacks the lumbar spine into its healthy lordotic curve. 
+Start by adjusting your [ergonomic chair](/posts/best-budget-ergonomic-chair-for-remote-work/). Your feet must rest entirely flat on the floor or on a solid, angled [footrest](/posts/best-footrest-for-under-desk-ergonomics/). Your knees should be positioned at a 90-degree angle or slightly lower than your hips to open the pelvic angle. This slight downward slope of the thighs encourages an anterior pelvic tilt, which naturally stacks the lumbar spine into its healthy lordotic curve. 
 
 Ensure your lower back is in firm contact with the chair's lumbar support. If you are perching on the front edge of your seat to reach your tablet, your [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/) is fundamentally flawed.
 
@@ -55,7 +55,7 @@ If you are working on highly detailed rendering that requires precision, you may
 ### Elevation and the Visual Horizon
 Angle alone is insufficient; elevation is equally important. Even at a 45-degree tilt, if the bottom of your 24-inch display is resting on the desk surface, you will still look downward. 
 
-The top edge of the drawing area should sit roughly at or slightly below your horizontal eye level. Achieving this typically requires mounting the display tablet on a heavy-duty monitor arm (like an Ergotron LX or the Wacom Flex Arm) or placing a tabletop drafting stand beneath the device. Floating the tablet over the edge of your desk allows you to pull the screen directly into your lap area, entirely eliminating the need to lean forward.
+The top edge of the drawing area should sit roughly at or slightly below your horizontal eye level. Achieving this typically requires mounting the display tablet on a heavy-duty [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) (like an Ergotron LX or the Wacom Flex Arm) or placing a tabletop drafting stand beneath the device. Floating the tablet over the edge of your desk allows you to pull the screen directly into your lap area, entirely eliminating the need to lean forward.
 
 ## Arm, Wrist, and Hand Alignment Guidelines
 
@@ -113,7 +113,7 @@ It is always better to draw on an angled tablet. Drawing on a flat surface force
 Your desk should be at a height where your forearms can rest parallel to the floor with your elbows bent at roughly 90 to 110 degrees while your shoulders remain entirely relaxed. For most people, standard 30-inch desks are too high, making height-adjustable standing desks or adjustable keyboard trays the best solution for achieving exact alignment.
 
 ### Can drawing on an iPad cause neck pain?
-Yes, drawing on an iPad frequently causes neck pain because the device is small, portable, and usually used flat on a desk or in the lap. To prevent this, place your iPad on a dedicated drawing stand that elevates the screen and tilts it at a steep angle, and ensure you sit in a chair with proper lumbar support.
+Yes, drawing on an iPad frequently causes neck pain because the device is small, [portable](/posts/best-portable-monitor-for-work-from-home/), and usually used flat on a desk or in the lap. To prevent this, place your iPad on a dedicated drawing stand that elevates the screen and tilts it at a steep angle, and ensure you sit in a chair with proper lumbar support.
 
 ### What is the best chair for digital artists?
 The best chair for a digital artist is a highly adjustable ergonomic task chair that allows for seat depth modification, adjustable lumbar support, and highly articulated armrests (such as a Herman Miller Aeron or Steelcase Gesture). The chair must support a slight forward-leaning working posture without allowing the lower back to round into a C-curve.

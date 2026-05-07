@@ -51,8 +51,8 @@ Standard ergonomic task chairs are incredibly bulky, often requiring a 36-by-36-
 - **The Dining Chair Compromise:** If you must use a dining chair to save space, invest in a high-density memory foam seat cushion and a strap-on lumbar roll. This modularizes your existing furniture, transforming it into an ergonomic seat during the day and returning it to a dining seat at night.
 
 ### Flexible Monitor and Tech Solutions
-Monitors with stock factory stands waste highly valuable desk depth. In a small space, reclaiming the back 8 inches of your desk is crucial.
-- **Clamp-On Articulating Monitor Arms:** A heavy-duty gas-spring monitor arm allows you to push your screen completely flush against the wall when not in use, and pull it down to the perfect ergonomic height when working. This frees up the entire surface beneath the monitor.
+[Monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/) with stock factory stands waste highly valuable desk depth. In a small space, reclaiming the back 8 inches of your desk is crucial.
+- **Clamp-On Articulating Monitor Arms:** A heavy-duty gas-spring [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) allows you to push your screen completely flush against the wall when not in use, and pull it down to the perfect ergonomic height when working. This frees up the entire surface beneath the monitor.
 - **[Portable](/posts/best-portable-monitor-for-work-from-home/) External Monitors:** Instead of a fixed 27-inch display, consider a 15.6-inch USB-C portable monitor. These match your laptop screen size, can be set up in seconds, and slip into a drawer like an iPad when the workday is over.
 - **Under-Desk Laptop Mounts:** If you use external monitors and a separate keyboard, mount your laptop to the underside of your desk using track brackets. This removes the laptop from your surface entirely, reducing clutter.
 
@@ -103,7 +103,7 @@ Without physical walls, you must rely on sensory cues to separate your modular w
 Never rely solely on your apartment's overhead lighting. Use a clamp-on LED monitor light bar to aggressively illuminate the desk surface, creating a "cone of focus." When work ends, turn off the task light and switch on a warm, ambient floor lamp in the living area. This lighting shift signals to your brain that the function of the room has changed.
 
 **Acoustic Management**
-Small apartments suffer from echo, especially if you share walls with noisy neighbors or live with a partner. Modular acoustic panels can be mounted to the wall behind your monitor using temporary adhesive strips. These panels absorb voice frequencies, making video calls sound professional while subtly demarcating the office boundary.
+Small apartments suffer from echo, especially if you share walls with noisy neighbors or live with a partner. Modular acoustic panels can be mounted to the wall behind your monitor using temporary adhesive strips. These panels absorb voice frequencies, making video [calls](/posts/best-desk-lamp-for-video-calls/) sound professional while subtly demarcating the office boundary.
 
 **Physical Dividers**
 If space allows, a slatted wood room divider or an open-backed bookshelf placed perpendicular to the desk creates a micro-room. The open back allows light to pass through so the apartment doesn't feel closed off, but it provides a necessary visual barrier between your laptop and your television.

@@ -65,7 +65,7 @@ To protect the glass, the VIVO stand comes with pre-installed anti-slip silicone
 **Pros:**
 - Sled-style legs provide excellent weight distribution over long contact lines
 - Highly affordable without sacrificing structural integrity
-- Generous 39-inch width accommodates dual monitor setups easily
+- Generous 39-inch width accommodates [dual monitor](/posts/how-to-mount-tablet-as-second-monitor/) setups easily
 
 **Cons:**
 - Engineered wood top lacks the premium feel of solid wood

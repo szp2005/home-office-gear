@@ -42,7 +42,7 @@ If you're running two monitors on standard stands, roughly one-third of your des
 
 | Solution | Upfront Cost | Flexibility | Desk Space Saved | Install Difficulty |
 |---|---|---|---|---|
-| Dual monitor stands | $0–60 | Low (fixed height) | None | None |
+| Dual [monitor stands](/posts/best-monitor-riser-for-heavy-glass-desks/) | $0–60 | Low (fixed height) | None | None |
 | Dual monitor arm (desk clamp) | $80–400 | High (full articulation) | 40–50% | Low–Medium |
 | Wall mount (fixed) | $30–80 | Very low | 100% of base area | Medium–High |
 | Wall mount (articulating) | $80–200 | Medium | 100% of base area | High |
@@ -51,9 +51,9 @@ Wall mounts look clean and free the most desk space, but they require drilling i
 
 **Ergonomic payoff is real.** The American Optometric Association recommends monitor placement at arm's length (20–28 inches), top of screen at or slightly below eye level. Most factory stands don't reach that height without a riser underneath. A gas-spring arm gets you there in about 10 seconds. Sustained incorrect posture — monitor too low, neck bent forward — contributes to cervical strain that compounds over a 40-hour work week. That's not abstract; it's the reason physical therapists frequently recommend sit-stand desks and adjustable monitor mounts together.
 
-**The hidden financial case:** A quality dual arm costs $150–300. A [standing desk](/posts/compact-standing-desk-converter-review/) conversion kit costs $200–500. Over a five-year home office lifespan, the ergonomic investment is modest. Compare that to a single urgent-care visit or a month of chiropractic appointments. The desk real estate recovered also has intangible value — a less cluttered workspace measurably reduces cognitive load in controlled productivity studies.
+**The hidden financial case:** A quality dual arm costs $150–300. A [standing desk](/posts/compact-standing-desk-converter-review/) conversion kit costs $200–500. Over a five-year home office lifespan, the ergonomic investment is modest. Compare that to a single urgent-care visit or a month of chiropractic appointments. The desk real estate recovered also has intangible value — a less cluttered [workspace](/posts/home-office-desk-depth-guide/) measurably reduces cognitive load in controlled productivity studies.
 
-Cable management is another underrated benefit. Premium arms route cables through internal channels or along the arm spine, eliminating the rat's nest that builds behind dual-stand setups. A tidy cable management set costs under $15 and completes the look.
+[Cable management](/posts/mic-stand-with-hidden-cable-management/) is another underrated benefit. Premium arms route cables through internal channels or along the arm spine, eliminating the rat's nest that builds behind dual-stand setups. A tidy cable management set costs under $15 and completes the look.
 
 ---
 

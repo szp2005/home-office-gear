@@ -14,7 +14,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # The 10 Best Footrests for Under Desk Ergonomics: Boost Comfort While Working
 
-> **Quick Answer:** The best under-desk footrests promote proper sitting [posture](/posts/ideal-screen-height-for-preventing-neck-strain/), reduce lower back strain, and improve leg circulation during long work hours. Top ergonomic options typically feature adjustable heights and angles, with choices ranging from plush memory foam cushions to tilting platforms that encourage active foot movement. Investing in a supportive footrest is a simple yet highly effective way to boost your daily comfort and overall workplace ergonomics.
+> **Quick Answer:** The best under-desk footrests promote proper sitting [posture](/posts/ideal-screen-height-for-preventing-neck-strain/), [reduce](/posts/how-to-reduce-cable-clutter-on-desk/) lower back strain, and improve leg circulation during long work hours. Top [ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) options typically feature adjustable heights and angles, with choices ranging from plush memory foam cushions to tilting platforms that encourage active foot movement. Investing in a supportive footrest is a simple yet highly effective way to boost your daily comfort and overall workplace ergonomics.
 
 If you spend more than four hours a day sitting at a desk, you’ve likely felt the telltale signs of poor ergonomics: aching lower back, swollen ankles, or that restless feeling in your legs. While most people invest heavily in a high-end ergonomic chair, they often forget the "foundation" of their seated posture—their feet.
 

@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The best ergonomic footrest for tall users must offer an extra-large surface area, heavy-duty stability, and most importantly, a low-profile design that doesn't push knees into the underside of the desk. Our top pick is the Humanscale FM300B, which provides dynamic, fluid movement and accommodates users over 6'2" without compromising valuable legroom. 
 
-When establishing a healthy, sustainable workspace, tall individuals face a unique set of biomechanical challenges. Standard office furniture is generally manufactured to accommodate the 5th to 95th percentile of the population. If you fall on the higher end of that spectrum, your desk and chair often work against each other. 
+When establishing a healthy, sustainable workspace, tall individuals face a unique set of biomechanical challenges. Standard [office](/posts/best-label-maker-for-home-office-organization/) furniture is generally manufactured to accommodate the 5th to 95th percentile of the population. If you fall on the higher end of that spectrum, your desk and chair often work against each other. 
 
 Most standard desks sit at a fixed height of 29 to 30 inches. For a tall user to comfortably reach their keyboard without hunching, they often need to raise their office chair. However, elevating the chair frequently causes the feet to dangle or rest at an awkward, unsupported angle, placing intense pressure on the popliteal crease (the area behind the knee) and restricting blood flow. 
 
@@ -123,7 +123,7 @@ Purchasing the hardware is only the first step; configuring the geometry of your
 
 First, adjust your chair height. Ignore the floor entirely for a moment. Raise or lower your cylinder until your elbows are perfectly flush with your desk surface, bent at a 90 to 100-degree angle. Your shoulders should be completely relaxed, not shrugged. 
 
-Second, evaluate your monitors. With your chair at the correct height, the top third of your screen should be at eye level. Tall users frequently need [monitor](/posts/best-portable-monitor-for-work-from-home/) arms or thick risers to achieve this, preventing the "forward head" posture that causes neck pain.
+Second, evaluate your [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/). With your chair at the correct height, the top third of your screen should be at eye level. Tall users frequently need [monitor](/posts/best-portable-monitor-for-work-from-home/) arms or thick risers to achieve this, preventing the "forward head" posture that causes [neck pain](/posts/ideal-screen-height-for-preventing-neck-strain/).
 
 Finally, address the floor. Now that your upper body is perfectly aligned with your tools, look down at your feet. If your heels are slightly lifted, or if the pressure under your thighs is intense, slide the low-profile footrest into place. Adjust the tilt until your feet rest completely flat against the platform, supporting your legs without pushing your knees upward. Your knees should sit at a 90 to 110-degree angle, slightly lower than your hips to open the pelvis and maintain the natural curve of your lumbar spine.
 

@@ -16,7 +16,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 If you have spent any amount of time curating the perfect aesthetic for your home office—selecting the right [ergonomic chair](/posts/best-budget-ergonomic-chair-for-remote-work/), finding the perfect hardwood desk, and meticulously positioning your indoor plants—there is one glaring eyesore that can ruin the entire vibe: the internet router and its accompanying nest of cables. 
 
-Often referred to as the "spaghetti monster," that tangled web of power cords, Ethernet cables, and blinking plastic boxes is the nemesis of a clean, productive workspace. Unfortunately, routers are notoriously ugly, designed more for function than form, resembling miniature spaceships with antennas protruding in every direction. 
+Often referred to as the "spaghetti monster," that tangled web of power cords, Ethernet cables, and blinking plastic boxes is the nemesis of a clean, productive [workspace](/posts/home-office-desk-depth-guide/). Unfortunately, routers are notoriously ugly, designed more for function than form, resembling miniature spaceships with antennas protruding in every direction. 
 
 However, achieving a minimalist, wire-free look isn't just about shoving everything into a drawer. Hiding network equipment requires a delicate balance between aesthetics and functionality. If you hide your router incorrectly, you will cripple your Wi-Fi signal and cause your equipment to overheat and fail prematurely. 
 
@@ -30,7 +30,7 @@ Before we start building enclosures or strapping things under desks, we must und
 Never, under any circumstances, place your router inside a metal box, a solid metal filing cabinet, or behind heavy metallic objects (like a large mirror or a PC tower). Metal is the ultimate enemy of Wi-Fi; it reflects and absorbs radio waves, effectively creating a dead zone. Wood, plastic, glass, and fabric are generally safe materials for hiding routers.
 
 ### 2. Respect the Heat
-Routers are essentially small computers without active cooling fans. They generate a significant amount of heat, especially when [streaming](/posts/how-to-set-up-green-screen-background/) 4K [video](/posts/best-desk-lamp-for-video-calls/) or handling large file downloads. If you place a router in a tightly sealed box or a stuffed drawer, it will inevitably overheat. This leads to thermal throttling (slowing down your internet), random reboots, and a drastically shortened lifespan for the device. Any hiding spot must have adequate passive ventilation.
+Routers are essentially [small](/posts/standing-desk-setup-for-small-apartment/) computers without active cooling fans. They generate a significant amount of heat, especially when [streaming](/posts/how-to-set-up-green-screen-background/) 4K [video](/posts/best-desk-lamp-for-video-calls/) or handling large file downloads. If you place a router in a tightly sealed box or a stuffed drawer, it will inevitably overheat. This leads to thermal throttling (slowing down your internet), random reboots, and a drastically shortened lifespan for the device. Any hiding spot must have adequate passive ventilation.
 
 ### 3. Elevation is Key
 Wi-Fi signals propagate outward and downward. If you hide your router on the floor or behind a low bookshelf, the signal has to punch through dense furniture and human bodies before it reaches your laptop. The ideal placement for a router is at least waist-high, preferably higher. 
@@ -89,7 +89,7 @@ For a modern, minimalist [desk setup](/posts/how-to-choose-a-home-office-desk-si
 Hiding the router is only half the battle. If you still have thick black coaxial cables, bright yellow Ethernet cords, and bulky power adapters dangling down your wall, the illusion is broken. Here is how the pros manage home office cabling.
 
 ### Step 1: The Under-Desk Cable Tray (The Backbone)
-The foundation of any good cable management setup is an under-desk routing system. You want zero cables touching the floor. 
+The foundation of any good [cable management](/posts/mic-stand-with-hidden-cable-management/) setup is an under-desk routing system. You want zero cables touching the floor. 
 
 **J-Channel Raceways:** These are plastic tracks shaped like a "J" that adhere to the back edge or underside of your desk. They are fantastic for routing a few thick cables horizontally across the length of the desk.
 

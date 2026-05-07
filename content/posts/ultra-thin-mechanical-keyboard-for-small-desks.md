@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Working on a shallow or narrow desk forces you to make strict choices about your peripheral footprint. Traditional high-profile mechanical keyboards are notoriously space-hungry. Not only do they take up significant horizontal real estate, but their vertical height—often 35mm to 45mm at the rear—typically necessitates a thick wrist rest, eating even further into your available mouse and document space.
 
-An ultra-thin mechanical keyboard solves this ergonomic geometry problem. By utilizing low-profile switches and low-profile keycaps, these boards deliver the satisfying tactile feedback and durability of a standard mechanical keyboard in a chassis barely thicker than a modern laptop. You regain desk space, eliminate the need for a wrist rest, and maintain a cleaner, more minimalist workspace.
+An ultra-thin mechanical keyboard solves this [ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) geometry problem. By utilizing low-profile switches and low-profile keycaps, these boards deliver the satisfying tactile feedback and durability of a standard mechanical keyboard in a chassis barely thicker than a modern laptop. You regain desk space, eliminate the need for a wrist rest, and maintain a cleaner, more minimalist [workspace](/posts/home-office-desk-depth-guide/).
 
 This guide evaluates the top ultra-thin mechanical keyboards currently available, focusing specifically on their suitability for compact workstations, desk depths under 24 inches, and overall build quality.
 
@@ -25,7 +25,7 @@ This guide evaluates the top ultra-thin mechanical keyboards currently available
 
 The primary benefit of an ultra-thin mechanical keyboard on a small desk is spatial efficiency, but the ergonomic benefits are equally compelling. Standard mechanical keyboards require your wrists to extend upward at a sharp angle to reach the keys. Over an eight-hour workday, this extension causes fatigue and increases the risk of repetitive strain injuries, prompting most users to buy padded wrist rests.
 
-However, a wrist rest can add three to four inches of depth to your keyboard setup. On a 20-inch deep desk, losing that much space pushes your [monitor](/posts/best-portable-monitor-for-work-from-home/) too close to your eyes or leaves your mouse hanging off the edge. 
+However, a wrist rest can add three to four inches of depth to your keyboard [setup](/posts/standing-desk-setup-for-small-apartment/). On a 20-inch deep desk, losing that much space pushes your [monitor](/posts/best-portable-monitor-for-work-from-home/) too close to your eyes or leaves your mouse hanging off the edge. 
 
 Ultra-thin keyboards sit close to the desk surface, usually measuring between 15mm and 25mm at their thickest point. This low profile allows your wrists to rest naturally on the desk surface in a neutral position, completely eliminating the need for an external wrist rest. Furthermore, the shorter travel distance of low-profile switches (typically 2.5mm to 3.2mm total travel compared to the standard 4.0mm) allows for faster actuation with less finger fatigue.
 
