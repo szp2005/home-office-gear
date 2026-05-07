@@ -1,4 +1,5 @@
 ---
+image: "/og/benefits-of-using-an-active-sitting-stool.webp"
 title: "Benefits of Using an Active Sitting Stool: Core Health Guide"
 description: "Discover the proven benefits of using an active sitting stool, from improved core strength to reduced back pain, and learn how to transition safely."
 pubDate: "2026-05-07"
@@ -105,3 +106,9 @@ The stool should be adjusted high enough so that your hips sit higher than your 
 
 ### Will an active sitting stool fix my posture permanently?
 A stool is a tool, not a cure. It creates an environment where good posture is easier and more natural to maintain, but you still must make a conscious effort to keep your chest open and your head aligned over your shoulders.
+
+---
+
+## Related Reading
+
+- [7 Top Rated Monitor Risers with Storage Drawers for 2026](/posts/top-rated-monitor-risers-with-storage-drawers/)

@@ -233,3 +233,5 @@ Varidesk Pro Plus 36 处于升降台类别的顶级——大约 275–300 美元
 ## Related Reading
 
 - [Best Ergonomic Chair for Small Home Office (Compact 2026 Picks)](/posts/best-ergonomic-chair-for-small-home-office/)
+
+- [Best Ergonomic Chair for Small Home Office (Compact 2026 Picks)](/posts/best-ergonomic-chair-for-small-home-office/)

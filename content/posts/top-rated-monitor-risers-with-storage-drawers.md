@@ -1,4 +1,5 @@
 ---
+image: "/og/top-rated-monitor-risers-with-storage-drawers.webp"
 title: "7 Top Rated Monitor Risers with Storage Drawers for 2026"
 description: "Upgrade your desk setup with the top rated monitor risers with storage drawers. Compare ergonomic heights, drawer layouts, and weight limits for your workspace."
 pubDate: "2026-05-07"

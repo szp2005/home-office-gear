@@ -1,4 +1,5 @@
 ---
+image: "/og/glass-vs-wooden-desk-for-optical-mouse-tracking.webp"
 title: "Glass vs Wooden Desk for Optical Mouse Tracking: 2026 Guide"
 description: "Comparing a glass vs wooden desk for optical mouse tracking? Discover which surface offers the best precision, sensor compatibility, and aesthetic for you."
 pubDate: "2026-05-07"
@@ -192,3 +193,9 @@ Yes. Mice marketed specifically as "laser mice" (particularly those with Darkfie
 
 ### What is the best desk mat material for a glass desk?
 For general productivity and aesthetics, synthetic leather (PU leather) desk mats provide a firm, elegant surface that optical mice track easily. For gaming, a large woven cloth (neoprene) mousepad is superior, as it provides consistent friction and pixel-perfect tracking accuracy without slipping on the glass underneath.
+
+---
+
+## Related Reading
+
+- [Best Anti Fatigue Mat for Standing Desk on Wood Floors in 2026](/posts/anti-fatigue-mat-for-standing-desk-wood/)
