@@ -1,1 +1,4 @@
 # Cloudflare Pages serves /404.html automatically for missing static routes.
+# Temporary safety valve: the Cloudflare edge currently returns 500 on the
+# English root while /posts/, /zh-cn/, and article pages are healthy.
+/ /posts/ 302
