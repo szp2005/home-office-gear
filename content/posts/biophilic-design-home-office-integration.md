@@ -41,7 +41,7 @@ Lighting is the single most critical component of biophilic design home office i
 
 ### Maximizing Natural Daylight
 
-Your desk orientation dictates your light exposure. Positioning your workspace perpendicular to a window is the optimal layout. This allows indirect, diffused sunlight to illuminate your primary work surface without creating the severe glare associated with facing a window directly, or the harsh monitor reflections caused by having a window directly behind you.
+Your desk orientation dictates your light exposure. Positioning your workspace perpendicular to a window is the optimal layout. This allows indirect, diffused sunlight to illuminate your primary work surface without creating the severe glare associated with facing a window directly, or the harsh [monitor](/posts/best-portable-monitor-for-work-from-home/) reflections caused by having a window directly behind you.
 
 If your workspace receives intense, direct sunlight during specific hours, employ light-filtering cellular shades or sheer curtains. These treatments scatter the light, mimicking the dappled sunlight effect created by a tree canopy, which is highly soothing to the human visual system.
 
@@ -109,7 +109,7 @@ Executing biophilic design home office integration does not require a complete a
 
 ## Synthesis and Next Steps
 
-Biophilic design home office integration is not a static interior design trend; it is a functional requirement for sustainable remote work(/posts/how-to-improve-home-office-acoustics/). By deliberately constructing an environment that mimics the complex, dynamic, and sensory-rich conditions of the natural world, you directly support your cognitive health and daily performance.
+Biophilic design home office integration is not a static [interior design](/posts/quiet-luxury-office-decor-ideas/) trend; it is a functional requirement for sustainable [remote work](/posts/home-office-posture-checklist/)(/posts/how-to-improve-home-office-acoustics/). By deliberately constructing an environment that mimics the complex, dynamic, and sensory-rich conditions of the natural world, you directly support your cognitive health and daily performance.
 
 Start by auditing your current workspace. Identify the primary sources of synthetic discomfort—whether it is harsh overhead lighting, stagnant air, or a lack of visual depth. Address the lighting and layout first, as these provide the most immediate physiological return on investment. Gradually layer in botanical elements and organic textures. Over time, these deliberate environmental modifications will compound, resulting in a home office that actively restores your energy rather than draining it.
 

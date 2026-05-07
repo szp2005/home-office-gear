@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** To set up a green screen background successfully, stretch your backdrop tight to remove all wrinkles and position your subject at least 3 to 6 feet away from it. Light the green screen evenly using two dedicated lights placed at 45-degree angles, ensuring the screen is lit independently from your subject to avoid casting shadows and color spill.
 
-Achieving a clean, professional chroma key goes far beyond simply hanging a green piece of fabric behind your chair. Whether you are setting up a [home office](/posts/how-to-choose-a-home-office-desk-size/) for high-stakes [video](/posts/best-desk-lamp-for-video-calls/) conferences, streaming live content, or producing a YouTube channel, a poorly lit and wrinkled green screen immediately degrades your production value. The camera sensor needs a uniform block of color to successfully differentiate the background from the subject. When shadows, hot spots, or wrinkles introduce variations in that color, your software struggles to pull a clean key, resulting in fuzzy edges, transparent patches, or a green halo around your hair.
+Achieving a clean, professional chroma key goes far beyond simply hanging a green piece of fabric behind your [chair](/posts/best-ergonomic-chair-for-small-home-office/). Whether you are setting up a [home office](/posts/how-to-choose-a-home-office-desk-size/) for high-stakes [video](/posts/best-desk-lamp-for-video-calls/) conferences, streaming live content, or producing a YouTube channel, a poorly lit and wrinkled green screen immediately degrades your production value. The camera sensor needs a uniform block of color to successfully differentiate the background from the subject. When shadows, hot spots, or wrinkles introduce variations in that color, your software struggles to pull a clean key, resulting in fuzzy edges, transparent patches, or a green halo around your hair.
 
 The mechanics of chroma keying rely on separation and uniformity. Your goal is to create a background that is technically flat in terms of illumination and distinct from whatever you are wearing or holding. By treating the background and the subject as two entirely separate lighting zones, you eliminate the majority of common keying errors before you even open your broadcast software or video editor.
 
@@ -38,7 +38,7 @@ If you have a dedicated studio space, painting a wall with specialized chroma ke
 
 Once you have your material, physical placement dictates the success of the key. The most common mistake beginners make is pressing their chair directly against the background.
 
-To prevent the green light from reflecting off the screen and spilling onto your shoulders and hair (known as "color spill"), you need physical distance. Position your chair or standing mark a minimum of 3 to 6 feet away from the green screen. This gap is non-negotiable for high-end results. The distance allows the light bouncing off the screen to fall off before it hits the back of your head, making the software's job significantly easier.
+To prevent the green light from reflecting off the screen and spilling onto your shoulders and hair (known as "color spill"), you need physical distance. Position your chair or [standing](/posts/standing-desk-setup-for-small-apartment/) mark a minimum of 3 to 6 feet away from the green screen. This gap is non-negotiable for high-end results. The distance allows the light bouncing off the screen to fall off before it hits the back of your head, making the software's job significantly easier.
 
 If you are using fabric, stretch it tight. Use heavy-duty spring clamps (often called A-clamps) to pull the sides of the muslin taut against the vertical poles of your background stand. Run a handheld garment steamer over the surface to release any remaining creases. Even minor folds create shadows, which read as a darker shade of green to your camera sensor.
 
@@ -70,7 +70,7 @@ Auto-settings are the enemy of a consistent chroma key. If your camera adjusts e
 Lock your camera settings to manual:
 - **White Balance:** Set this manually to match the color temperature of your lights (e.g., 5600K for daylight LEDs). Do not leave it on Auto White Balance (AWB).
 - **Exposure (ISO, Aperture, Shutter Speed):** Dial in your exposure manually. Keep your ISO as low as possible (typically 100 to 400) to prevent digital noise. Video noise introduces grain into the green screen, making the edges of your key jitter and crawl.
-- **Focus:** If you tend to move in your chair, use continuous autofocus, but ensure your aperture is not so wide (e.g., f/1.4) that your shoulders drop out of focus. A slightly deeper depth of field (e.g., f/4 or f/5.6) ensures your entire silhouette remains sharp, providing the software with a hard edge to cut against.
+- **[Focus](/posts/noise-canceling-headphones-for-home-office/):** If you tend to move in your chair, use continuous autofocus, but ensure your aperture is not so wide (e.g., f/1.4) that your shoulders drop out of focus. A slightly deeper depth of field (e.g., f/4 or f/5.6) ensures your entire silhouette remains sharp, providing the software with a hard edge to cut against.
 
 ## Step 6: Software and Chroma Key Setup
 

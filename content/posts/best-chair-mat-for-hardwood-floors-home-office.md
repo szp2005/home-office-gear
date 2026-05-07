@@ -30,10 +30,10 @@ Before diving into the specifics of materials and sizing, it is crucial to under
 Standard office chair wheels are typically made from hard nylon or cheap plastic. When these hard wheels roll over hardwood floors, they create localized points of intense friction. Even worse, if a tiny grain of sand or a small piece of dirt gets caught between the wheel and the floor, the wheel will drag it across the wood, acting like sandpaper. This causes micro-scratches that dull the floor's finish and, over months of 40-hour work weeks, deep gouges.
 
 ### 2. Ergonomic Benefits and Movement Efficiency
-Beyond protecting your floors, a high-quality chair mat significantly reduces the rolling resistance of your chair. Hardwood floors, while smooth, still offer more resistance than a specialized, frictionless mat. Reduced rolling resistance means less strain on your lower back and legs when you push away from your desk or slide over to grab a document. Proper ergonomics in a home office setup relies heavily on ease of movement, and a premium mat facilitates this effortlessly.
+Beyond protecting your floors, a high-quality chair mat significantly reduces the rolling resistance of your chair. Hardwood floors, while smooth, still offer more resistance than a specialized, frictionless mat. Reduced rolling resistance means less strain on your lower back and legs when you push away from your desk or slide over to grab a document. Proper ergonomics in a [home office setup](/posts/best-pegboard-accessories-for-desk-organization/) relies heavily on ease of movement, and a premium mat facilitates this effortlessly.
 
 ### 3. Noise Reduction
-Rolling a plastic wheel directly on a hard wooden surface can be surprisingly loud, especially if you live in a multi-story home or an apartment building. The constant clatter of wheels can be distracting during deep work sessions or easily picked up by your microphone during important video calls. A good chair mat dampens this acoustic resonance, creating a quieter, more focused work environment.
+Rolling a plastic wheel directly on a hard wooden surface can be surprisingly loud, especially if you live in a multi-story home or an apartment building. The constant clatter of wheels can be distracting during deep work sessions or easily picked up by your microphone during important video [calls](/posts/best-desk-lamp-for-video-calls/). A good chair mat dampens this acoustic resonance, creating a quieter, more focused work environment.
 
 ---
 
@@ -84,7 +84,7 @@ Once you have decided on a material (ideally tempered glass or polycarbonate), y
 ### 1. Size and Shape
 Measure your workspace carefully before purchasing. Do not just measure the footprint of your desk; measure the area over which you actually roll throughout the day. 
 
-*   **The "Lip" vs. Rectangular:** Many mats feature a "lip"—a narrower extension that fits under your desk, while the wider main section accommodates your rolling area. This is ideal if you have a desk with a narrow opening. However, if you have a wide, open desk or a standing desk, a standard large rectangular mat often provides more usable surface area and a cleaner look.
+*   **The "Lip" vs. Rectangular:** Many mats feature a "lip"—a narrower extension that fits under your desk, while the wider main section accommodates your rolling area. This is ideal if you have a desk with a narrow opening. However, if you have a wide, open desk or a [standing desk](/posts/compact-standing-desk-converter-review/), a standard large rectangular mat often provides more usable surface area and a cleaner look.
 *   **Sizing Up:** It is always better to buy a mat that is slightly too large than one that is too small. Continually rolling off the edge of a mat is frustrating and can eventually damage both the edge of the mat and your floor. A standard size is roughly 48" x 36", but large setups may require 60" x 46" or larger.
 
 ### 2. Edge Beveling

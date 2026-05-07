@@ -53,7 +53,7 @@ When typing 'T' on a standard board, the index finger stretches up and slightly 
 
 ### Significant Reduction in Typos
 
-A major factor in a high WPM is the absence of mistakes. Correcting a typo via the backspace key costs time, breaking your flow and effectively halving your typing speed for that particular word. Ortho-linear keyboards drastically reduce adjacent-key errors.
+A major factor in a high WPM is the absence of mistakes. Correcting a typo via the backspace key costs time, breaking your flow and effectively halving your typing speed for that particular word. Ortho-linear keyboards drastically [reduce](/posts/how-to-reduce-cable-clutter-on-desk/) adjacent-key errors.
 
 Because the columns are straight, fingers are less likely to "drift" into neighboring key zones during vertical movements. Typists frequently report a noticeable drop in error rates, particularly on bottom-row keys like 'Z', 'X', 'C', 'V', 'B', and 'N', which are notoriously awkward on staggered boards. Higher accuracy naturally translates to a higher sustained typing speed.
 
@@ -109,7 +109,7 @@ The secret weapon of the ortho-linear keyboard is programmability. Almost all of
 
 The standard staggered keyboard is a relic of mechanical engineering, not ergonomic design. The benefits of ortho-linear keyboards for typing speed are rooted in basic geometry: straight lines are shorter and easier to navigate than diagonal ones. By adopting a strict grid layout, you reduce finger travel distance, standardize the spatial map your brain has to memorize, and drastically reduce the awkward stretches that lead to fatigue and typos.
 
-While the learning curve requires patience and deliberate practice, the long-term payoff is a more comfortable, highly efficient typing experience. If you are a professional who relies on keyboard efficiency, retraining your hands for a grid layout is one of the most effective hardware upgrades you can make to raise your typing speed ceiling.
+While the learning curve requires patience and deliberate practice, the long-term payoff is a more comfortable, highly efficient typing experience. If you are a professional who relies on keyboard efficiency, retraining your hands for a grid layout is one of the most effective [hardware](/posts/best-usb-c-hub-for-desk-setup/) upgrades you can make to raise your typing speed ceiling.
 
 ## Frequently Asked Questions
 

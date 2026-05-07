@@ -57,13 +57,13 @@ Microphone clips and shock mounts utilize specific thread sizing. The industry s
 
 ## Top Weighted Desk Mic Stands With Boom Arms
 
-Finding a stand designed explicitly for desktop use requires looking closely at low-profile models often categorized as kick drum or guitar amp stands. These short stands utilize the exact physics required for a heavy-duty desk setup(/posts/how-to-choose-a-home-office-desk-size/).
+Finding a stand designed explicitly for desktop use requires looking closely at low-profile models often categorized as kick drum or guitar amp stands. These short stands utilize the exact physics required for a heavy-duty [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)(/posts/how-to-choose-a-home-office-desk-size/).
 
 ### Gator Frameworks Short Weighted Base Stand
 
 The Gator Frameworks short mic stand represents the benchmark for desktop boom applications. It features an exceptionally heavy 6-inch cast-iron base, weighing approximately 5.5 lbs. The bottom is lined with a non-slip rubber gasket that minimizes desk vibration transfer.
 
-The vertical shaft adjusts from 10 inches to 15 inches, providing enough clearance to reach over monitors, while the 16-inch single-section boom arm provides enough reach to clear a keyboard. It uses standard 5/8" threading and includes cable management clips. Because the boom is relatively short, it handles heavy microphones like the Rode PodMic exceptionally well without requiring a rear counterweight.
+The vertical shaft adjusts from 10 inches to 15 inches, providing enough clearance to reach over [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/), while the 16-inch single-section boom arm provides enough reach to clear a keyboard. It uses standard 5/8" threading and includes cable management clips. Because the boom is relatively short, it handles heavy microphones like the Rode PodMic exceptionally well without requiring a rear counterweight.
 
 ### K&M 25950 Extra Low Profile Stand
 
@@ -85,7 +85,7 @@ It features a heavy H-base, which functions similarly to a U-base but offers fou
 
 ## Optimizing Desk Space and Placement Strategy
 
-Integrating a weighted boom stand into a desk environment requires strategic placement to maximize ergonomics(/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) and audio quality.
+Integrating a weighted boom stand into a desk environment requires strategic placement to maximize [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/)(/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) and audio quality.
 
 The optimal position for a weighted base is behind your primary monitor or slightly off to the side, at the 10 o'clock or 2 o'clock position relative to your sitting angle. By placing the heavy base near the rear edge of the desk, you free up the space directly in front of you for typing, writing, or operating a stream deck. 
 

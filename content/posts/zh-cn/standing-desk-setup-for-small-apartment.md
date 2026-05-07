@@ -227,3 +227,9 @@ Varidesk Pro Plus 36 处于升降台类别的顶级——大约 275–300 美元
 - [2026 年紧凑型桌面升降台评测：改造你的狭小工作区](/zh-cn/posts/compact-standing-desk-converter-review/)
 - [最适合居家办公的便携式显示器：随时随地提升[生产力](/zh-cn/posts/how-to-choose-a-home-office-desk-size/)](/zh-cn/posts/best-portable-monitor-for-work-from-home/)
 - [2026 年最适合远程工作的平价人体工学椅：300 美元以内的舒适之选](/zh-cn/posts/best-budget-ergonomic-chair-for-remote-work/)
+
+---
+
+## Related Reading
+
+- [Best Ergonomic Chair for Small Home Office (Compact 2026 Picks)](/posts/best-ergonomic-chair-for-small-home-office/)

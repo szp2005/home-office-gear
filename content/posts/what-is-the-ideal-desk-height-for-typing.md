@@ -1,4 +1,5 @@
 ---
+image: "/og/what-is-the-ideal-desk-height-for-typing.webp"
 title: "What Is the Ideal Desk Height for Typing? Ergonomic Guide"
 description: "Discover exactly what is the ideal desk height for typing to eliminate wrist pain and improve posture. Find your perfect ergonomic setup with our complete guide."
 pubDate: "2026-05-07"
@@ -18,7 +19,7 @@ If you spend several hours a day at a computer, you are likely familiar with the
 
 Determining what is the ideal desk height for typing is the foundational step in creating an ergonomic workstation. While manufacturers mass-produce desks to a standard height, human bodies are infinitely variable. Using a desk that does not fit your specific proportions can lead to repetitive strain injuries (RSIs) such as carpal tunnel syndrome, tendonitis, and chronic upper body pain.
 
-This guide explores the anatomical principles of typing, why standard desks fail most users, and precisely how to measure and adjust your workspace to achieve a pain-free typing posture.
+This guide explores the anatomical principles of typing, why standard desks fail most users, and precisely how to measure and adjust your workspace to achieve a pain-free typing [posture](/posts/home-office-posture-checklist/).
 
 ## The Science Behind Ergonomic Typing Posture
 
@@ -88,7 +89,7 @@ Replacing a desk is not always feasible. If you are stuck with a standard 29-inc
 
 ### Using Keyboard Trays
 
-An articulating keyboard tray is the most effective solution for a desk that is too high. A high-quality keyboard tray mounts beneath the desk surface and allows you to adjust the keyboard's height and tilt. 
+An articulating [keyboard tray](/posts/best-keyboard-tray-for-home-office-desk/) is the most effective solution for a desk that is too high. A high-quality keyboard tray mounts beneath the desk surface and allows you to adjust the keyboard's height and tilt. 
 
 When installing a keyboard tray, look for one that offers negative tilt. Negative tilt angles the top of the keyboard slightly downward (away from you). This aligns perfectly with the natural downward slope of your forearms when sitting slightly reclined, keeping your wrists perfectly neutral.
 
@@ -147,7 +148,7 @@ No, your forearms and wrists should ideally hover slightly above the keyboard wh
 Laptops are ergonomically flawed because the screen and keyboard are attached. To achieve the ideal desk height for typing on a laptop, you must use an external keyboard and mouse. Place the external keyboard at your elbow height and elevate the laptop on a stand so the top of the screen is at eye level.
 
 ### Does the thickness of the keyboard matter?
-Yes, keyboard thickness directly impacts your typing height. Mechanical keyboards can be over an inch thick, raising your hands higher and requiring the desk surface to be lower to compensate. Low-profile keyboards reduce this discrepancy and are often easier to maintain neutral wrists with.
+Yes, keyboard thickness directly impacts your typing height. [Mechanical keyboards](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) can be over an inch thick, raising your hands higher and requiring the desk surface to be lower to compensate. Low-profile keyboards reduce this discrepancy and are often easier to maintain neutral wrists with.
 
 ### What is negative keyboard tilt?
 Negative tilt means the top edge of the keyboard (where the function keys are) is angled downward, away from you. This matches the natural downward angle of your forearms when sitting, keeping your wrists perfectly straight. Positive tilt (using the kickstands on the back of the keyboard) actually increases wrist extension and is not recommended for touch typists.

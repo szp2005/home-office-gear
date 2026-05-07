@@ -19,7 +19,7 @@ Neck strain is the occupational hazard of the modern desk worker. Whether you sp
 
 The human body is designed for dynamic movement and varying focal distances, not for staring at a fixed, illuminated rectangle for eight hours a day. When your screen is positioned incorrectly, you subconsciously contort your body to optimize your field of vision. Over time, these micro-adjustments lead to muscular imbalances, joint compression, and chronic pain. 
 
-Fixing your screen height is the most effective intervention you can make to improve your workstation [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/). A properly positioned monitor aligns your visual requirements with your skeletal structure, allowing your bones to support the weight of your head rather than forcing your muscles to do the heavy lifting. This guide breaks down the precise dimensions, angles, and hardware configurations required to achieve a pain-free desk setup.
+Fixing your screen height is the most effective intervention you can make to improve your workstation [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/). A properly positioned monitor aligns your visual requirements with your skeletal structure, allowing your bones to support the weight of your head rather than forcing your muscles to do the heavy lifting. This guide breaks down the precise dimensions, angles, and hardware configurations required to achieve a pain-free [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/).
 
 ## The Biomechanics of Screen Viewing and Neck Strain
 
@@ -66,7 +66,7 @@ A backward tilt of 10 to 20 degrees ensures that the entire vertical plane of th
 
 ## Adapting for Multiple Monitors
 
-Multi-monitor setups introduce new ergonomic challenges. While dual screens increase productivity(/posts/how-to-choose-a-home-office-desk-size/), they significantly increase the amount of lateral neck rotation required throughout the day. How you position the screens depends entirely on your workflow.
+Multi-monitor setups introduce new ergonomic challenges. While dual screens increase [productivity](/posts/best-footrest-for-under-desk-ergonomics/)(/posts/how-to-choose-a-home-office-desk-size/), they significantly increase the amount of lateral neck rotation required throughout the day. How you position the screens depends entirely on your workflow.
 
 ### The Primary/Secondary Setup (80/20 Workflow)
 If you spend 80% of your time working on one screen (e.g., writing code) and use the second screen strictly for reference material or email, position the primary monitor directly in front of you. Center it on your keyboard and apply the standard top-third height rule. 
@@ -95,7 +95,7 @@ Sit-stand desks allow you to alternate postures throughout the day, which is exc
 
 When you stand, your spinal posture shifts. Most people adopt a slightly more upright posture with a lifted chest, which naturally elevates their resting eye level relative to their shoulders. If you leave your monitor at the seated height, you will likely find yourself looking down too sharply when standing.
 
-If you use a standing desk, a highly adjustable monitor arm is a requirement. Standard monitor stands are too cumbersome to adjust multiple times a day. A gas-spring or pneumatic monitor arm allows you to fluidly pull the screen up an inch or two when you transition to a standing position, ensuring the top-third rule is maintained regardless of your orientation.
+If you use a [standing desk](/posts/compact-standing-desk-converter-review/), a highly adjustable monitor arm is a requirement. Standard monitor stands are too cumbersome to adjust multiple times a day. A gas-spring or pneumatic monitor arm allows you to fluidly pull the screen up an inch or two when you transition to a standing position, ensuring the top-third rule is maintained regardless of your orientation.
 
 ## Practical Hardware Recommendations
 

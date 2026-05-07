@@ -80,7 +80,7 @@ Acoustic window film is a thin, transparent layer of vinyl or plastic adhered di
 
 It is important to manage expectations with window film. It will not drastically reduce the volume of a loud environment. However, it can take the "edge" off sharp, high-frequency noises. It works best when combined with other methods, such as caulking and weatherstripping.
 
-Installation requires a clean window, a spray bottle of soapy water, and a squeegee to remove air bubbles. It is an affordable option (roughly $20 to $40 per roll) that also provides the added benefit of blocking UV rays, which can protect your office furniture from fading.
+Installation requires a clean window, a spray bottle of soapy water, and a squeegee to remove air bubbles. It is an affordable option (roughly $20 to $40 per roll) that also provides the added benefit of blocking UV rays, which can protect your [office furniture](/posts/mesh-vs-leather-office-chair-for-durability/) from fading.
 
 ## Step 5: Build or Buy a Window Plug
 
@@ -90,7 +90,7 @@ A window plug is a custom-fit block of dense, sound-absorbing material that you 
 
 ### Constructing a DIY Window Plug
 
-You can build a highly effective window plug using materials from a local hardware store:
+You can build a highly effective window plug using materials from a local [hardware](/posts/best-usb-c-hub-for-desk-setup/) store:
 1. Cut a piece of 3/4-inch MDF (Medium Density Fiberboard) to fit the exact dimensions of your window opening minus about 1/2 inch on all sides.
 2. Glue a layer of 2-inch thick acoustic foam or rigid fiberglass board to the back of the MDF (facing the window).
 3. Wrap the edge of the MDF in a thick layer of neoprene foam or weatherstripping to create an airtight friction-fit against the window frame.
@@ -135,7 +135,7 @@ Additionally, inspect any air vents or HVAC ducts in the office. Sound travels e
 
 ## Conclusion
 
-Creating a quiet home office is a cumulative process. While a complete window replacement offers the most dramatic results, it is rarely the necessary starting point. By systematically addressing air leaks with acoustic caulk and weatherstripping, and then adding mass through heavy curtains or custom acrylic inserts, you can significantly reduce external distractions. Start with the most budget-friendly, least invasive steps—sealing the gaps—and work your way up to larger investments like inserts only if the noise continues to disrupt your workflow. A quieter office directly translates to better focus, clearer communication, and higher productivity(/posts/how-to-choose-a-home-office-desk-size/).
+Creating a quiet home office is a cumulative process. While a complete window replacement offers the most dramatic results, it is rarely the necessary starting point. By systematically addressing air leaks with acoustic caulk and weatherstripping, and then adding mass through heavy curtains or custom acrylic inserts, you can significantly reduce external distractions. Start with the most budget-friendly, least invasive steps—sealing the gaps—and work your way up to larger investments like inserts only if the noise continues to disrupt your workflow. A quieter office directly translates to better focus, clearer communication, and higher [productivity](/posts/best-footrest-for-under-desk-ergonomics/)(/posts/how-to-choose-a-home-office-desk-size/).
 
 ## Frequently Asked Questions
 
@@ -157,6 +157,8 @@ The most cost-effective method is replacing degraded weatherstripping and applyi
 ---
 
 ## Related Reading
+
+- [Best Acoustic Panels for Home Office Soundproofing in 2026](/posts/acoustic-panels-for-home-office-soundproofing/)
 
 - [Best Acoustic Panels for Home Office Soundproofing in 2026](/posts/acoustic-panels-for-home-office-soundproofing/)
 

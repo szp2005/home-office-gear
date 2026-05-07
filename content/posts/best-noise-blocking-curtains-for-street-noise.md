@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The best noise blocking curtains for street noise use multiple layers of dense fabric—like velvet or thermal weaves—paired with a detached or integrated blackout liner. Our top pick overall is the Moondream 3-in-1 Soundproof Curtain for its certified decibel reduction, while the NICETOWN 100% Blackout Lined Curtains offer the best budget-friendly relief for moderate traffic noise. For maximum sound dampening, choose curtains that are at least two to three times the width of your window and ensure they extend from the ceiling all the way to the floor.
 
-If you live near a busy intersection, a highway, or a street with heavy pedestrian traffic, you already know the toll that constant noise takes on your wellbeing. Sirens, roaring engines, and late-night chatter can easily bleed through standard single-pane or poorly sealed double-pane windows, disrupting your sleep cycles and destroying your focus during the day. While installing specialized acoustic windows or rebuilding walls is the ultimate solution, these renovations cost thousands of dollars and simply are not an option for renters or budget-conscious homeowners.
+If you live near a busy intersection, a highway, or a street with heavy pedestrian traffic, you already know the toll that constant noise takes on your wellbeing. Sirens, roaring engines, and late-night chatter can easily bleed through standard single-pane or poorly sealed double-pane windows, disrupting your sleep cycles and destroying your [focus](/posts/noise-canceling-headphones-for-home-office/) during the day. While installing specialized acoustic windows or rebuilding walls is the ultimate solution, these renovations cost thousands of dollars and simply are not an option for renters or budget-conscious homeowners.
 
 Enter the acoustic drape. True soundproof curtains are engineered differently than standard decorative window treatments. They rely on sheer mass, utilizing heavy layers of tightly woven fabrics, internal felt or thermal liners, and specialized coatings to absorb and muffle incoming sound waves. While no piece of fabric can create a completely silent recording studio environment, installing the right heavyweight noise blocking curtains can successfully take the harsh edge off high-frequency street noise, muffling passing cars and dampening sirens enough to let you sleep through the night. 
 
@@ -43,7 +43,7 @@ We have analyzed dozens of heavy drapes based on fabric density, layer count, we
 **Price:** $120-$160
 **Rating:** 4.8/5
 
-The Moondream 3-in-1 Soundproof Curtain is widely considered the gold standard for non-permanent window soundproofing. Unlike most brands that simply market heavy blackout curtains as "soundproof," Moondream actually utilizes patented acoustic technology and subjects their products to independent laboratory testing. The curtain is composed of three distinct layers: a heavy blackout fabric, a dense thermal insulation layer, and a tightly woven cotton acoustic lining. According to their tests, this specific combination can reduce ambient street noise by up to 7 decibels (a noticeable drop in perceived volume) while completely blocking out light and heavily insulating the window against drafts. The panels are exceptionally heavy, weighing significantly more than standard drapes, which is exactly what you want for acoustic dampening.
+The Moondream 3-in-1 Soundproof Curtain is widely considered the gold standard for non-permanent window [soundproofing](/posts/how-to-soundproof-a-home-office-window/). Unlike most brands that simply market heavy blackout curtains as "soundproof," Moondream actually utilizes patented acoustic technology and subjects their products to independent laboratory testing. The curtain is composed of three distinct layers: a heavy blackout fabric, a dense thermal insulation layer, and a tightly woven cotton acoustic lining. According to their tests, this specific combination can reduce ambient street noise by up to 7 decibels (a noticeable drop in perceived volume) while completely blocking out light and heavily insulating the window against drafts. The panels are exceptionally heavy, weighing significantly more than standard drapes, which is exactly what you want for acoustic dampening.
 
 **Pros:**
 - Independently tested and certified for actual decibel reduction
@@ -137,7 +137,7 @@ If you live in a rental property and cannot install heavy-duty industrial anchor
 
 **Cons:**
 - Not heavy enough to block severe, close-proximity traffic noise
-- Silver grommets may not match all interior hardware styles
+- Silver grommets may not match all interior [hardware](/posts/best-usb-c-hub-for-desk-setup/) styles
 
 ### 7. Absolute Zero Velvet Home Theater Drapes
 

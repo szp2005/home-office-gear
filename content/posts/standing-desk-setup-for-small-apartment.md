@@ -93,11 +93,11 @@ Skip the generic "desk height 44 inches" advice. Here's how to calculate yours p
 
 The DIY route using an IKEA LINNMON tabletop ($25–$35) combined with adjustable-height legs cut to your measurement runs under $120 all-in. It's not pretty, but it's fully custom to your height and space. You can buy aftermarket legs specifically designed for standing-height tables on Amazon for $40–$60.
 
-The Varidesk Pro Plus 36 sits at the top of the converter category — around $275–$300 — and is genuinely solid. The spring-lift mechanism requires no tools and zero installation, which matters for renters. It handles two monitors plus a laptop without wobble.
+The Varidesk Pro Plus 36 sits at the top of the converter category — around $275–$300 — and is genuinely solid. The spring-lift mechanism requires no tools and zero installation, which matters for renters. It handles two [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/) plus a laptop without wobble.
 
 For a complete adjustable desk under $400, the Autonomous SmartDesk Mini targets small spaces specifically with a 43-inch wide surface — narrow enough for tight rooms, wide enough for a monitor and peripherals.
 
-Secondhand electric desks from Facebook Marketplace average $150–$200 in most metro areas. The risk is motor wear, but most motors last well beyond 10 years. Ask for a video of it cycling up and down before committing.
+Secondhand electric desks from Facebook Marketplace average $150–$200 in most metro areas. The risk is motor wear, but most motors last well beyond 10 years. Ask for a [video](/posts/best-desk-lamp-for-video-calls/) of it cycling up and down before committing.
 
 ---
 
@@ -173,7 +173,7 @@ Common troubleshooting: desk wobbles at standing height (tighten all hardware, c
 
 A standing desk setup in a small apartment is less about buying the right product and more about measuring correctly, understanding your floor plan constraints, and matching the desk type to your actual situation.
 
-If you're renting and move frequently: go converter or manual crank. If you're in a stable apartment and work from home daily: invest in an electric adjustable model — the Flexispot E7 or Autonomous SmartDesk Mini depending on your width constraints. If the budget is tight and flexibility doesn't matter: build fixed-height with IKEA parts and spend the savings on a good anti-fatigue mat and monitor arm.
+If you're renting and move frequently: go converter or manual crank. If you're in a stable apartment and [work from home](/posts/home-office-essentials-for-remote-workers/) daily: invest in an electric adjustable model — the Flexispot E7 or Autonomous SmartDesk Mini depending on your width constraints. If the budget is tight and flexibility doesn't matter: build fixed-height with IKEA parts and spend the savings on a good anti-fatigue mat and monitor arm.
 
 The accessory stack (mat, monitor arm, cable management, wireless peripherals) matters as much as the desk itself in a small space. Budget $100–$150 for those after the desk purchase.
 

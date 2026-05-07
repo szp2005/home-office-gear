@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** To mount your tablet as a second monitor, you need a reliable screen-extension app (like Sidecar, Spacedesk, or Duet Display) and a sturdy physical mount (such as a clamp arm, magnetic stand, or VESA adapter). Position the tablet adjacent to your primary display at eye level, connect via USB-C for the lowest latency, and adjust your OS display settings to align the screens physically.
 
-Adding a secondary screen to your workstation provides a dedicated space for reference materials, communication apps, or media controls. Many professionals already own an iPad, Galaxy Tab, or Surface device that sits unused during standard working hours. Repurposing these devices as a secondary display maximizes the return on your hardware investment and keeps your primary monitor clear of clutter. 
+Adding a secondary screen to your workstation provides a dedicated space for reference materials, communication apps, or media controls. Many professionals already own an iPad, Galaxy Tab, or Surface device that sits unused during standard working hours. Repurposing these devices as a secondary display maximizes the return on your [hardware](/posts/best-usb-c-hub-for-desk-setup/) investment and keeps your primary monitor clear of clutter. 
 
 The primary challenge of this setup is achieving a permanent, seamless integration. Propping a tablet against a coffee mug or relying on flimsy folio cases results in poor [ergonomics](/posts/how-to-choose-a-home-office-desk-size/) and unstable connections. A proper implementation requires specific mounting hardware to elevate the tablet to eye level and the right software configuration to ensure a lag-free extension of your desktop. 
 
@@ -70,7 +70,7 @@ The tablet should act as a natural extension of your primary monitor. Position t
 Ensure the bezels of the tablet and the primary monitor are parallel and as close together as the hardware allows. This minimizes the physical gap your eyes must track across when moving the cursor between screens.
 
 ### Viewing Angles and Glare Reduction
-Tablets use glossy glass screens that are highly reflective compared to matte desktop monitors. Position the tablet to avoid direct reflections from overhead lighting or windows behind you.
+Tablets use glossy glass screens that are highly reflective compared to matte desktop [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/). Position the tablet to avoid direct reflections from overhead lighting or windows behind you.
 
 Angle the tablet inward toward your face at a 15-to-30-degree offset from the primary monitor, creating a gentle curve. The screen should be positioned roughly an arm's length away (20 to 28 inches) from your seated position. Because tablets have high pixel densities, placing them too far back will force you to squint to read interface text; utilize the operating system's display scaling options to increase the size of text and UI elements on the extended display.
 
@@ -130,4 +130,4 @@ Yes. If you connect the tablet to your computer via USB-C, it will receive both 
 Yes, most screen extension applications support touch input. Software like Duet Display, SuperDisplay, and native Sidecar translate your finger taps and stylus inputs into mouse clicks and drawing inputs for the host operating system.
 
 ### What is the best resolution to set for a tablet monitor?
-Tablets have much higher pixel densities than standard desktop monitors. Running the tablet at its native, unscaled resolution will make text illegibly small. Use your operating system's display settings to apply a 150% or 200% scale factor. This utilizes the high pixel count for crisp text rendering while keeping the interface elements at a readable physical size.
+Tablets have much higher pixel densities than standard desktop monitors. Running the tablet at its native, unscaled resolution will make text illegibly [small](/posts/standing-desk-setup-for-small-apartment/). Use your operating system's display settings to apply a 150% or 200% scale factor. This utilizes the high pixel count for crisp text rendering while keeping the interface elements at a readable physical size.

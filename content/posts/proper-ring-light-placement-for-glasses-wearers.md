@@ -15,7 +15,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The proper ring light placement for glasses wearers involves moving the light off your camera's direct axis. Position the ring light 45 degrees to your left or right, elevate it slightly above your eye level, and tilt it downward at a 15 to 20-degree angle. This geometry bounces the light reflection off your lenses and away from the camera, instantly eliminating glare while maintaining flattering illumination.
 
-Setting up a home studio or [remote work](/posts/how-to-improve-home-office-acoustics/) desk usually involves purchasing a ring light as the first step toward professional video quality. They are inexpensive, easy to set up, and provide incredibly flattering, shadowless light by illuminating your face from all directions simultaneously. However, the moment you put on a pair of prescription glasses or blue-light blockers, that shadowless perfection is ruined by two glowing, distracting white rings floating over your eyes. 
+Setting up a [home studio](/posts/weighted-desk-mic-stand-with-boom-arm/) or [remote work](/posts/how-to-improve-home-office-acoustics/) desk usually involves purchasing a ring light as the first step toward professional [video](/posts/best-desk-lamp-for-video-calls/) quality. They are inexpensive, easy to set up, and provide incredibly flattering, shadowless light by illuminating your face from all directions simultaneously. However, the moment you put on a pair of prescription glasses or blue-light blockers, that shadowless perfection is ruined by two glowing, distracting white rings floating over your eyes. 
 
 The standard instruction manual for a ring light tells you to mount your webcam or phone directly in the center of the ring, placing the light source directly on the same axis as the camera lens. While this works beautifully for people without eyewear, it is the absolute worst possible configuration for anyone wearing glasses. The camera lens focuses directly on the reflected light source, obscuring your eyes and breaking eye contact with your audience.
 
@@ -23,7 +23,7 @@ Fixing this issue does not require buying a more expensive camera, switching to 
 
 ## The Physics of Lens Glare: Angle of Incidence
 
-To understand why the default ring light setup fails for glasses wearers, you have to understand the fundamental rule of reflection: the angle of incidence equals the angle of reflection. 
+To understand why the default ring light [setup](/posts/standing-desk-setup-for-small-apartment/) fails for glasses wearers, you have to understand the fundamental rule of reflection: the angle of incidence equals the angle of reflection. 
 
 When a beam of light hits a reflective surface—like the glass or polycarbonate material of your eyewear lenses—it bounces off that surface at the exact same angle it arrived. If you place a ring light directly in front of your face on a zero-degree axis (straight on), the light hits your glasses at zero degrees and bounces straight back at zero degrees. Because your camera is also sitting at that zero-degree axis, it captures the full, intense reflection of the light bulbs. 
 

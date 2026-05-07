@@ -218,3 +218,9 @@ USB-C 扩展坞适用于任何支持 USB-C 供电 (Power Delivery) 和 DisplayPo
 - [什么让办公椅适合狭小空间](/zh-cn/posts/best-ergonomic-chair-for-small-home-office/)
 - [为什么双显示器支架对家庭办公设置很重要](/zh-cn/posts/best-monitor-arm-for-dual-monitors-home-office/)
 - [为什么升降桌适合小公寓](/zh-cn/posts/standing-desk-setup-for-small-apartment/)
+
+---
+
+## Related Reading
+
+- [Best Desk Lamp for Video Calls: Bias Lighting & Color Temperature Guide](/posts/best-desk-lamp-for-video-calls/)

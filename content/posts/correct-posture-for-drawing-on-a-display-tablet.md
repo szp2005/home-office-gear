@@ -1,4 +1,5 @@
 ---
+image: "/og/correct-posture-for-drawing-on-a-display-tablet.webp"
 title: "Correct Posture for Drawing on a Display Tablet: Complete Guide"
 description: "Learn the correct posture for drawing on a display tablet to prevent back pain. Discover ideal screen angles and ergonomic setups for digital artists."
 pubDate: "2026-05-07"
@@ -33,14 +34,14 @@ Furthermore, drawing requires micro-movements of the wrist and fingers, stabiliz
 Your posture originates from the floor upward. Attempting to fix your neck without addressing your pelvis and lower back is a temporary patch. 
 
 ### Setting Seat Height and Pelvic Tilt
-Start by adjusting your ergonomic chair. Your feet must rest entirely flat on the floor or on a solid, angled footrest. Your knees should be positioned at a 90-degree angle or slightly lower than your hips to open the pelvic angle. This slight downward slope of the thighs encourages an anterior pelvic tilt, which naturally stacks the lumbar spine into its healthy lordotic curve. 
+Start by adjusting your ergonomic chair. Your feet must rest entirely flat on the floor or on a solid, angled [footrest](/posts/best-footrest-for-under-desk-ergonomics/). Your knees should be positioned at a 90-degree angle or slightly lower than your hips to open the pelvic angle. This slight downward slope of the thighs encourages an anterior pelvic tilt, which naturally stacks the lumbar spine into its healthy lordotic curve. 
 
-Ensure your lower back is in firm contact with the chair's lumbar support. If you are perching on the front edge of your seat to reach your tablet, your desk setup is fundamentally flawed.
+Ensure your lower back is in firm contact with the chair's lumbar support. If you are perching on the front edge of your seat to reach your tablet, your [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/) is fundamentally flawed.
 
 ### Desk Height Calibration
 Standard desks are manufactured at a height of 28 to 30 inches (71 to 76 cm), which is designed for writing, not necessarily for digital painting. If your desk is too high, you will involuntarily shrug your shoulders to lift your arm onto the tablet, pinching the supraspinatus tendon. If it is too low, you will collapse your chest to reach the drawing surface.
 
-Your ideal desk height allows your shoulders to remain fully relaxed while your forearms rest parallel to the floor (elbows at roughly 90 to 110 degrees). For many users, particularly those under 5'8" (172 cm), standard desks are too high, necessitating the use of an adjustable sit-stand desk or a lower keyboard tray mechanism adapted for drawing.
+Your ideal desk height allows your shoulders to remain fully relaxed while your forearms rest parallel to the floor (elbows at roughly 90 to 110 degrees). For many users, particularly those under 5'8" (172 cm), standard desks are too high, necessitating the use of an adjustable sit-stand desk or a lower [keyboard tray](/posts/best-keyboard-tray-for-home-office-desk/) mechanism adapted for drawing.
 
 ## Positioning Your Display Tablet: Angles and Distance
 
@@ -119,3 +120,9 @@ The best chair for a digital artist is a highly adjustable ergonomic task chair 
 
 ### Should I rest my wrist on the screen while drawing?
 Yes, resting your wrist or the heel of your hand on the screen provides essential stability for precise line work. To prevent unwanted touch inputs and reduce friction against the hot glass, use a two-finger artist's smudge glove, which allows your hand to glide smoothly across the display without sticking.
+
+---
+
+## Related Reading
+
+- [Best AI-Integrated Desk: Height Adjustment Automatic Systems 2026](/posts/ai-integrated-desk-height-adjustment-automatic/)

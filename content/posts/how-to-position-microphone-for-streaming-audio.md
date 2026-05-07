@@ -1,4 +1,5 @@
 ---
+image: "/og/how-to-position-microphone-for-streaming-audio.webp"
 title: "How to Position Microphone for Streaming Audio: 5-Step Guide"
 description: "Learn exactly how to position microphone for streaming audio to eliminate keyboard noise, reduce echo, and achieve professional broadcast sound quality."
 pubDate: "2026-05-07"
@@ -16,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Audio quality is the primary metric by which viewers judge the production value of a live stream. Upgrading your hardware is a standard step, but a premium microphone placed incorrectly will consistently underperform a budget microphone positioned with precision. The physics of sound capture dictate that placement directly influences your signal-to-noise ratio, the severity of room reflection, and the presence of unwanted mechanical interference.
 
-Figuring out how to position microphone for streaming audio setups involves balancing three variables: the acoustic design of the microphone, the geometry of your desk space, and your natural posture while broadcasting. When you optimize these elements, you isolate your voice from the chaotic acoustic environment of a typical gaming or recording room.
+Figuring out how to position microphone for streaming audio setups involves balancing three variables: the acoustic design of the microphone, the geometry of your desk space, and your natural [posture](/posts/home-office-posture-checklist/) while broadcasting. When you optimize these elements, you isolate your voice from the chaotic acoustic environment of a typical gaming or recording room.
 
 This guide details a systematic approach to microphone placement. By mapping out your microphone's polar pattern, establishing the correct physical distance, and applying acoustic isolation techniques, you can achieve broadcast-grade audio without requiring a soundproof studio.
 
@@ -95,9 +96,9 @@ When setting up your boom arm:
 
 ### Low-Profile vs. Traditional Arms
 
-Traditional broadcast arms articulate from a high angle, coming down over your monitors. These are effective but can visually clutter your stream framing. 
+Traditional broadcast arms articulate from a high angle, coming down over your [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/). These are effective but can visually clutter your stream framing. 
 
-Low-profile boom arms shoot under your monitors and rise up horizontally. These are highly recommended for streamers using side-address condenser microphones or lightweight dynamic microphones, as they keep the hardware out of the camera's line of sight while easily reaching the required 6-to-10 inch distance.
+Low-profile [boom arms](/posts/internal-spring-boom-arm-reviews-2026/) shoot under your monitors and rise up horizontally. These are highly recommended for streamers using side-address condenser microphones or lightweight dynamic microphones, as they keep the hardware out of the camera's line of sight while easily reaching the required 6-to-10 inch distance.
 
 ### The Role of Shock Mounts
 

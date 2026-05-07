@@ -84,7 +84,7 @@ Before purchasing anything, spend 10 minutes with a tape measure taking these fo
 
 2. **Recline clearance:** Measure from the back of your desk to the wall or shelf behind you. Under 36 inches means a full-recline chair will hit your wall. At 36–42 inches, synchronized tilt is fine. Over 42 inches, you have freedom to choose any mechanism.
 
-3. **Desk clearance height:** Measure from the floor to the underside of your desk surface. If it's under 27 inches, you need removable or flip-up armrests — non-negotiable. Consider pairing with a monitor arm to raise your screen and allow the chair to tuck in fully.
+3. **Desk clearance height:** Measure from the floor to the underside of your desk surface. If it's under 27 inches, you need removable or flip-up armrests — non-negotiable. Consider pairing with a [monitor](/posts/best-portable-monitor-for-work-from-home/) arm to raise your screen and allow the chair to tuck in fully.
 
 4. **Visual ceiling:** Where are your shelves, lighting, or upper cabinets? If they start below 54 inches from the floor, a high-back chair will read as claustrophobic. Mid-back is the practical ceiling.
 
@@ -152,7 +152,7 @@ Generally no, with exceptions. Most gaming chairs have bases in the 27–30 inch
 
 ### Q: What upgrades make an existing chair work better in a small space?
 
-Three specific upgrades cover most situations: polyurethane replacement casters for quiet movement on hard floors ($15–$25), a standalone lumbar support pillow if your chair's built-in support is insufficient ($25–$60), and a monitor arm to raise your screen and let the chair sit closer to the desk without armrest conflict ($40–$120). These three changes can extend the functional life of a marginal chair by 2–3 years.
+Three specific upgrades cover most situations: polyurethane replacement casters for quiet movement on hard floors ($15–$25), a standalone lumbar support pillow if your chair's built-in support is insufficient ($25–$60), and a [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) to raise your screen and let the chair sit closer to the desk without armrest conflict ($40–$120). These three changes can extend the functional life of a marginal chair by 2–3 years.
 
 ### What is the most important feature to look for in a small office chair?
 
@@ -160,7 +160,7 @@ The most crucial feature is a compact footprint combined with robust ergonomic a
 
 ### Are armless chairs better for small home offices?
 
-Armless chairs are excellent for tight spaces because they take up less physical room and can slide easily under almost any workspace. However, if you work long hours, a chair with flip-up arms provides a much better balance of essential support and space-saving design.
+Armless chairs are excellent for tight spaces because they take up less physical room and can slide easily under almost any [workspace](/posts/home-office-desk-depth-guide/). However, if you work long hours, a chair with flip-up arms provides a much better balance of essential support and space-saving design.
 
 ### Do compact office chairs still provide good ergonomic support?
 

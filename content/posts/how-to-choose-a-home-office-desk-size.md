@@ -33,8 +33,8 @@ The furniture industry operates on a spectrum of standard dimensions. Understand
 ### Desk Width (Left to Right)
 Width is the dimension that dictates how much horizontal real estate you have for monitors, paperwork, and accessories.
 *   **Compact (30 to 40 inches):** Ideal for laptop-only users, dorm rooms, or secondary hallway workspaces. These are space-savers but offer zero room for expansion.
-*   **Standard (48 to 60 inches):** This is the sweet spot for most professionals. A 48-inch desk comfortably fits a laptop and a single external monitor. A 60-inch desk is the gold standard for dual-monitor setups, leaving enough room for a desk lamp, notepad, and coffee mug without feeling cluttered.
-*   **Executive / Oversized (60 to 72+ inches):** Required for multi-monitor arrays (3+ screens), large architectural blueprints, dual laptop/desktop configurations, or substantial audio/video editing consoles.
+*   **Standard (48 to 60 inches):** This is the sweet spot for most professionals. A 48-inch desk comfortably fits a laptop and a single external [monitor](/posts/best-portable-monitor-for-work-from-home/). A 60-inch desk is the gold standard for dual-monitor setups, leaving enough room for a desk lamp, notepad, and coffee mug without feeling cluttered.
+*   **Executive / Oversized (60 to 72+ inches):** Required for multi-monitor arrays (3+ screens), large architectural blueprints, dual laptop/desktop configurations, or substantial audio/[video](/posts/best-desk-lamp-for-video-calls/) editing consoles.
 
 ### Desk Depth (Front to Back)
 Depth is arguably the most critical dimension for ergonomic health, as it dictates monitor viewing distance.
@@ -43,7 +43,7 @@ Depth is arguably the most critical dimension for ergonomic health, as it dictat
 *   **Deep (30 to 36 inches):** Necessary for massive ultra-wide monitors (34 inches and above) or for professionals who use monitor arms combined with significant analog work (like sketching or drafting) directly in front of their keyboards.
 
 ### Desk Height (Floor to Desktop)
-*   **Standard Height (29 to 30 inches):** Most fixed-height desks fall into this range. However, this height is actually optimized for a person who is roughly 6 feet tall. If you are shorter, you will likely need a footrest or an adjustable keyboard tray to achieve proper [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/).
+*   **Standard Height (29 to 30 inches):** Most fixed-height desks fall into this range. However, this height is actually optimized for a person who is roughly 6 feet tall. If you are shorter, you will likely need a [footrest](/posts/best-footrest-for-under-desk-ergonomics/) or an adjustable keyboard tray to achieve proper [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/).
 *   **Sit-Stand / Adjustable Desks:** The ultimate solution. These desks typically range from 22 inches to 48 inches, allowing you to fine-tune the height to your exact bodily proportions, whether seated or standing.
 
 ## 3. Matching Desk Size to Your Workflow and Equipment

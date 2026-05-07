@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Working from a studio or a one-bedroom apartment often feels like a constant battle for space. When your living room, dining area, and office are all confined to a single footprint, finding a balance between professional [productivity](/posts/how-to-choose-a-home-office-desk-size/) and personal relaxation becomes a distinct architectural challenge. The default solution for many is working from the couch or the kitchen island, which quickly leads to compromised [posture](/posts/home-office-posture-checklist/), blurred work-life boundaries, and scattered documents. 
 
-A static, heavy desk setup simply does not work when every square inch must serve multiple purposes throughout the day. This is where modularity becomes essential. By rethinking how office furniture functions, you can build an environment that expands when you need to focus and contracts when it is time to unwind.
+A static, heavy [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/) simply does not work when every square inch must serve multiple purposes throughout the day. This is where modularity becomes essential. By rethinking how office furniture functions, you can build an environment that expands when you need to focus and contracts when it is time to unwind.
 
 A modular workspace setup for small apartments is built on the philosophy of adaptability. It relies on interchangeable components, wall-mounted fixtures, and mobile storage to create a highly efficient zone that defies its physical constraints. Whether you have an unused closet, a blank living room wall, or a tight corner next to your bed, applying modular principles allows you to engineer a dedicated office without making your apartment feel cramped or cluttered.
 
@@ -41,7 +41,7 @@ Selecting the right hardware is the most critical step in executing a modular st
 ### The Adaptive Desk Foundation
 The desk is the anchor of your workspace, but it does not need four legs and a solid modesty panel.
 - **Wall-Mounted Drop-Down Desks (Murphy Desks):** These are the gold standard for ultra-tight spaces. When closed, they project merely 6 to 8 inches from the wall and often masquerade as shelving units or chalkboards. When deployed, they offer a standard 20-to-24-inch depth for working. Ensure you mount these into wall studs, as drywall anchors cannot support the cantilevered weight of a person leaning on a laptop.
-- **Narrow Standing Desks:** If wall-mounting is prohibited by your lease, opt for a compact electric standing desk. Look for frame dimensions around 36 inches wide and 20 inches deep. The ability to elevate the desk not only provides ergonomic benefits but also allows you to slide tall storage units or a laundry basket underneath when not in use.
+- **Narrow Standing Desks:** If wall-mounting is prohibited by your lease, opt for a compact electric [standing desk](/posts/compact-standing-desk-converter-review/). Look for frame dimensions around 36 inches wide and 20 inches deep. The ability to elevate the desk not only provides ergonomic benefits but also allows you to slide tall storage units or a laundry basket underneath when not in use.
 - **C-Table Desks:** For those who must work near a sofa or bed, a heavy-duty C-table with a tilting top provides a mobile surface that slides its base under existing furniture, effectively reducing its footprint to zero when tucked away.
 
 ### Ergonomic Seating That Doesn't Dominate
@@ -53,7 +53,7 @@ Standard ergonomic task chairs are incredibly bulky, often requiring a 36-by-36-
 ### Flexible Monitor and Tech Solutions
 Monitors with stock factory stands waste highly valuable desk depth. In a small space, reclaiming the back 8 inches of your desk is crucial.
 - **Clamp-On Articulating Monitor Arms:** A heavy-duty gas-spring monitor arm allows you to push your screen completely flush against the wall when not in use, and pull it down to the perfect ergonomic height when working. This frees up the entire surface beneath the monitor.
-- **Portable External Monitors:** Instead of a fixed 27-inch display, consider a 15.6-inch USB-C portable monitor. These match your laptop screen size, can be set up in seconds, and slip into a drawer like an iPad when the workday is over.
+- **[Portable](/posts/best-portable-monitor-for-work-from-home/) External Monitors:** Instead of a fixed 27-inch display, consider a 15.6-inch USB-C portable monitor. These match your laptop screen size, can be set up in seconds, and slip into a drawer like an iPad when the workday is over.
 - **Under-Desk Laptop Mounts:** If you use external monitors and a separate keyboard, mount your laptop to the underside of your desk using track brackets. This removes the laptop from your surface entirely, reducing clutter.
 
 ## Strategic Layout Options for Under 500 Sq Ft

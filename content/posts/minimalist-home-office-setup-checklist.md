@@ -30,8 +30,8 @@ The core of any minimalist home office setup is the furniture. Your desk and cha
 The desk is the focal point of your workspace. In a minimalist setup, the desk should be as unobtrusive as possible while providing ample space for your essential tasks.
 
 *   **Clean, Simple Lines:** Avoid bulky executive desks with built-in hutches or excessive drawers. Opt for a simple tabletop supported by sleek legs. Materials like solid wood (walnut or oak), matte black metal, or crisp white laminate work perfectly.
-*   **Appropriate Sizing:** Choose a desk that fits your space without dominating it. Ensure it has enough surface area for your monitor, keyboard, mouse, and a notebook, but not so much space that it invites clutter. A depth of 24 to 30 inches is generally ideal.
-*   **Standing Desk Option:** Consider a height-adjustable standing desk. Not only are they excellent for ergonomics and physical health, but modern electric standing desks also feature incredibly sleek, minimalist designs with hidden motors.
+*   **Appropriate Sizing:** Choose a desk that fits your space without dominating it. Ensure it has enough surface area for your [monitor](/posts/best-portable-monitor-for-work-from-home/), keyboard, mouse, and a notebook, but not so much space that it invites clutter. A depth of 24 to 30 inches is generally ideal.
+*   **[Standing Desk](/posts/compact-standing-desk-converter-review/) Option:** Consider a height-adjustable standing desk. Not only are they excellent for ergonomics and physical health, but modern electric standing desks also feature incredibly sleek, minimalist designs with hidden motors.
 *   **Built-in Cable Routing:** If possible, look for desks with built-in grommets or cable management trays. Concealing wires is the number one rule of minimalist aesthetics.
 
 ### 2. The Ergonomic Chair
@@ -51,7 +51,7 @@ In the digital age, technology is the lifeblood of our work. However, tech gear 
 A minimalist setup usually benefits from a streamlined screen configuration. 
 
 *   **The Single Ultrawide Monitor:** Instead of dual or triple monitor setups with distracting bezels and multiple power cords, consider a single 34-inch or 38-inch ultrawide monitor. It provides the screen real estate of two monitors but requires only one stand, one power cable, and one display cable.
-*   **Monitor Arms:** Ditch the bulky stand that comes in the box. A heavy-duty, gas-spring monitor arm (often finished in matte black or silver) frees up massive amounts of desk space underneath the screen. It allows the monitor to "float," instantly elevating the minimalist aesthetic.
+*   **Monitor Arms:** Ditch the bulky stand that comes in the box. A heavy-duty, gas-spring [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) (often finished in matte black or silver) frees up massive amounts of desk space underneath the screen. It allows the monitor to "float," instantly elevating the minimalist aesthetic.
 
 ### 4. Wireless Peripherals
 Wires are the enemy of minimalism. Cutting the cord on your primary input devices makes an immediate and profound difference in how clean your desk looks.

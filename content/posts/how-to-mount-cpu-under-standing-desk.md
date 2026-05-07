@@ -63,7 +63,7 @@ The most critical point of failure in a CPU mount installation is the connection
 ### Assessing the Desk Material
 * **Solid Wood (Walnut, Oak, Birch):** The strongest option. It holds screws exceptionally well and can support heavy, water-cooled full-tower PCs (40+ lbs) without issue.
 * **MDF:** Very dense and consistent. Holds screws securely, but requires careful pre-drilling to prevent the material from mushrooming around the screw hole. Suitable for standard setups (25-35 lbs).
-* **Particle Board:** Common in budget standing desks. It consists of wood chips glued together. Particle board has the lowest pull-out strength. If mounting a PC under a particle board desk, use specialized threaded inserts or expanding anchors rather than standard wood screws.
+* **Particle Board:** Common in budget [standing desks](/posts/ai-integrated-desk-height-adjustment-automatic/). It consists of wood chips glued together. Particle board has the lowest pull-out strength. If mounting a PC under a particle board desk, use specialized threaded inserts or expanding anchors rather than standard wood screws.
 
 ### Desk Thickness Requirements
 Your desktop should be at least 1 inch (25mm) thick. Most heavy-duty CPU mounts require screws that penetrate 3/4 of an inch into the wood. If your desk is only 5/8 or 3/4 inches thick, standard screws will puncture the top surface. In these cases, you must use shorter screws combined with a wider mounting plate to distribute the load, or add a secondary piece of wood underneath as a reinforcement block.
@@ -109,7 +109,7 @@ With the PC attached to the moving surface, your cable management strategy must 
 
 * **The Single Power Umbilical:** Route all peripheral cables (monitors, speakers, USB hubs) along the underside of the desk and plug them into the PC. Then, mount a surge protector to the underside of the desk. Plug the PC and monitors into this surge protector. Now, only one thick power cable needs to travel from the desk down to the wall outlet.
 * **Cable Spines:** For the single power cord dropping to the floor, use a flexible cable spine. These plastic, articulated vertebrae attach to the desk and the floor, keeping the cable organized and preventing it from catching on the desk legs during movement.
-* **Slack Loops:** When routing cables from monitors on [monitor](/posts/best-portable-monitor-for-work-from-home/) arms down to the mounted PC, leave a small loop of slack near the [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) joints. This ensures the cables won't be violently yanked if you adjust the monitor position.
+* **Slack Loops:** When routing cables from monitors on [monitor](/posts/best-portable-monitor-for-work-from-home/) arms down to the mounted PC, leave a [small](/posts/standing-desk-setup-for-small-apartment/) loop of slack near the [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) joints. This ensures the cables won't be violently yanked if you adjust the monitor position.
 
 ## Practical Advice: Hardware Specifications and Tradeoffs
 
@@ -122,7 +122,7 @@ When purchasing and installing an under-desk mount, keep these technical specifi
 
 ## Conclusion
 
-Mounting your CPU under your standing desk is the definitive solution for managing cables, protecting your hardware from dust, and maximizing your workspace. While the installation process requires basic tools and careful measurement, the resulting clean aesthetic and seamless desk operation are well worth the effort. By properly identifying your desk material, selecting the right type of bracket, and rigorously following pilot hole procedures, you can securely integrate your workstation tower into your sit-stand setup.
+Mounting your CPU under your standing desk is the definitive solution for managing cables, protecting your hardware from dust, and maximizing your [workspace](/posts/home-office-desk-depth-guide/). While the installation process requires basic tools and careful measurement, the resulting clean aesthetic and seamless desk operation are well worth the effort. By properly identifying your desk material, selecting the right type of bracket, and rigorously following pilot hole procedures, you can securely integrate your workstation tower into your sit-stand setup.
 
 ## Frequently Asked Questions
 

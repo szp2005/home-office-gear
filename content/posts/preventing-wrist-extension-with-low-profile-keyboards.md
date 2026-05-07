@@ -61,7 +61,7 @@ For many individuals, this measurement is between 24 and 27 inches. If your desk
 
 ### Adjusting the Environment
 
-If you have an adjustable standing desk, lower it to match your exact elbow height. If you are using a fixed-height desk, you must raise your chair until your elbows are slightly above the desk surface, and then use a footrest to support your feet and maintain a 90-degree angle at your knees.
+If you have an adjustable [standing desk](/posts/compact-standing-desk-converter-review/), lower it to match your exact elbow height. If you are using a fixed-height desk, you must raise your chair until your elbows are slightly above the desk surface, and then use a [footrest](/posts/best-footrest-for-under-desk-ergonomics/) to support your feet and maintain a 90-degree angle at your knees.
 
 When your forearms are parallel to the floor (or sloping slightly downward) and the low profile keyboard is resting on the desk, your hands can float over the keys in a perfectly neutral, flat alignment.
 
@@ -87,7 +87,7 @@ The physical angle of the keyboard on your desk is a critical variable in preven
 
 ### Positive Tilt is the Enemy
 
-Positive tilt refers to raising the back edge of the keyboard so the keys slope upward toward the monitor. This is a legacy design from the era of manual typewriters, engineered to prevent mechanical arms from jamming, not for human ergonomics. Using positive tilt on any keyboard, including low profile models, forces your wrists into immediate extension to reach the higher rows. Always keep the rear feet of your low profile keyboard folded flat.
+Positive tilt refers to raising the back edge of the keyboard so the keys slope upward toward the [monitor](/posts/best-portable-monitor-for-work-from-home/). This is a legacy design from the era of manual typewriters, engineered to prevent mechanical arms from jamming, not for human ergonomics. Using positive tilt on any keyboard, including low profile models, forces your wrists into immediate extension to reach the higher rows. Always keep the rear feet of your low profile keyboard folded flat.
 
 ### Implementing Negative Tilt
 

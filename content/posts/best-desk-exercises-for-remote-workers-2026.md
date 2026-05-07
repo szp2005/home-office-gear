@@ -39,7 +39,7 @@ While bodyweight stretches are essential, investing in dedicated desk exercise e
 
 The Cubii Go remains the gold standard for seated, active workstations. Unlike traditional under-desk bikes that cause your knees to hit the underside of your desk, the Cubii features a patented elliptical motion that keeps your knees low and your posture aligned. It is exceptionally quiet, allowing you to pedal through conference calls without the microphone picking up any mechanical noise. 
 
-The device features a built-in LCD monitor to track strides, calories, and distance, while syncing via Bluetooth to the companion app for long-term data tracking. The resistance is adjustable across eight levels, providing enough tension to elevate your heart rate slightly without causing you to sweat profusely during work hours. The retractable handle and built-in wheels make it easy to roll out of the way when you transition to a standing desk.
+The device features a built-in LCD monitor to track strides, calories, and distance, while syncing via Bluetooth to the companion app for long-term data tracking. The resistance is adjustable across eight levels, providing enough tension to elevate your heart rate slightly without causing you to sweat profusely during work hours. The retractable handle and built-in wheels make it easy to roll out of the way when you transition to a [standing desk](/posts/compact-standing-desk-converter-review/).
 
 **Pros:**
 - Whisper-quiet operation suitable for shared spaces and calls
@@ -66,7 +66,7 @@ The board's geometry induces micro-movements in your calves, thighs, and core, s
 - Reduces foot and lower back fatigue from standing
 
 **Cons:**
-- Requires an existing standing desk setup
+- Requires an existing standing [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)
 - Takes a few days to build the necessary core stamina
 
 ### 3. Theraband Resistance Bands Set
@@ -77,7 +77,7 @@ The board's geometry induces micro-movements in your calves, thighs, and core, s
 
 Sometimes the simplest tools are the most effective. A set of high-quality resistance bands is the ultimate low-cost, high-reward desk exercise equipment. The Theraband set includes varying levels of resistance, allowing you to progress as your strength improves. These bands are essential for counteracting the forward-rounded posture caused by typing.
 
-You can easily anchor them to your chair, a door handle, or simply use your own body weight to perform pull-aparts, rows, and shoulder extensions. Because they are infinitely portable, you can keep them in your desk drawer and grab them for a two-minute posture reset between tasks. The tension provided by the bands helps activate the rhomboids and lower trapezius, muscles that are chronically underused in remote workers.
+You can easily anchor them to your chair, a door handle, or simply use your own body weight to perform pull-aparts, rows, and shoulder extensions. Because they are infinitely [portable](/posts/best-portable-monitor-for-work-from-home/), you can keep them in your desk drawer and grab them for a two-minute posture reset between tasks. The tension provided by the bands helps activate the rhomboids and lower trapezius, muscles that are chronically underused in remote workers.
 
 **Pros:**
 - Highly affordable and extremely versatile

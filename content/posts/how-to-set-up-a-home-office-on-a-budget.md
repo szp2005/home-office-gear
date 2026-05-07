@@ -10,7 +10,7 @@ type: "informational"
 
 _As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
 
-> **Quick Answer:** Set Up a Productive Home Office on a Budget matters because it gives remote workers and home office buyers a practical way to solve the problem behind the search. Learn how to build a professional, ergonomic, and high-performance home office without breaking the bank. Expert tips on furniture, tech, and DIY hacks.
+> **Quick Answer:** Set Up a Productive [Home Office](/posts/home-office-posture-checklist/) on a Budget matters because it gives remote workers and home office buyers a practical way to solve the problem behind the search. Learn how to build a professional, ergonomic, and high-performance home office without breaking the bank. Expert tips on furniture, tech, and DIY hacks.
 
 The transition to [remote work](/posts/how-to-improve-home-office-acoustics/) has shifted from a temporary necessity to a permanent lifestyle for millions. However, as many professionals quickly discover, working from a kitchen stool or a couch is a recipe for chronic back pain and plummeting [productivity](/posts/how-to-choose-a-home-office-desk-size/). The challenge? Professional-grade office setups can easily run into the thousands of dollars.
 
@@ -43,7 +43,7 @@ If you must buy new and are under a strict $150 limit, look for chairs with:
 *   **Breathable Mesh:** Better for temperature regulation.
 *   **Adjustable Armrests:** Your elbows should be at a 90-degree angle, level with your desk.
 
-**Budget Hack:** If you are stuck with a non-ergonomic chair for now, buy a memory foam lumbar pillow ($20) and a seat cushion. This "hacks" the ergonomics of a standard dining chair while you save for a better option.
+**Budget Hack:** If you are stuck with a non-[ergonomic chair](/posts/best-budget-ergonomic-chair-for-remote-work/) for now, buy a memory foam lumbar pillow ($20) and a seat cushion. This "hacks" the ergonomics of a standard dining chair while you save for a better option.
 
 ## 3. The Desk: Function Over Form
 
@@ -68,7 +68,7 @@ Poor lighting causes eye fatigue and makes you look like you're calling from a b
 Position your desk perpendicular to a window. Never have the window directly behind you (it creates a silhouette) or directly in front of you (it can cause glare on your screen). Natural light is free and boosts serotonin.
 
 ### The Three-Point Lighting Hack
-For video calls, use the three-point lighting principle:
+For video [calls](/posts/best-desk-lamp-for-video-calls/), use the three-point lighting principle:
 1.  **Key Light:** Your main light source (the window or a desk lamp).
 2.  **Fill Light:** A secondary, dimmer light to remove shadows on the other side of your face.
 3.  **Back Light:** A small light behind you to separate you from the background.

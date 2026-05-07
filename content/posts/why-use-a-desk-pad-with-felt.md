@@ -27,7 +27,7 @@ One of the most immediate benefits of placing a felt pad on your desk is acousti
 
 Felt is a dense, non-woven textile. Because its fibers are matted together rather than woven in a strict grid, it creates thousands of microscopic air pockets. These pockets trap sound waves, preventing them from bouncing off the hard desk surface. For users of mechanical keyboards—especially those with tactile or clicky switches—a 3mm to 5mm layer of felt can lower the acoustic profile of typing by several decibels. The sound transforms from a sharp, echoing clack to a deeper, muted thud.
 
-This acoustic absorption also applies to moving items around your desk. Setting down a coffee mug, dropping a pen, or sliding a phone across the table becomes a silent action. In shared office environments or during frequent video calls, minimizing these sharp, incidental noises provides a much cleaner audio experience for both you and whoever is listening on the other end of your microphone.
+This acoustic absorption also applies to moving items around your desk. Setting down a coffee mug, dropping a pen, or sliding a phone across the table becomes a silent action. In shared office environments or during frequent video [calls](/posts/best-desk-lamp-for-video-calls/), minimizing these sharp, incidental noises provides a much cleaner audio experience for both you and whoever is listening on the other end of your microphone.
 
 ## Ergonomics and Thermal Comfort
 
@@ -49,7 +49,7 @@ Conversely, the felt also protects your peripherals. The feet of your keyboard a
 
 Functionality aside, the visual impact of felt cannot be understated. Modern workspaces often consist of harsh lines, cold metals, and smooth plastics. The addition of a felt desk pad introduces much-needed organic texture into the environment.
 
-The matte finish of felt does not reflect monitor glare or overhead lighting, reducing visual fatigue. Its textured appearance breaks up the monotony of a large, flat desk surface, creating a defined "active zone" for your work. This visual framing helps organize the workspace, implicitly telling your brain that the area within the bounds of the pad is meant for focus and [productivity](/posts/how-to-choose-a-home-office-desk-size/).
+The matte finish of felt does not reflect [monitor](/posts/best-portable-monitor-for-work-from-home/) glare or overhead lighting, reducing visual fatigue. Its textured appearance breaks up the monotony of a large, flat desk surface, creating a defined "active zone" for your work. This visual framing helps organize the workspace, implicitly telling your brain that the area within the bounds of the pad is meant for focus and [productivity](/posts/how-to-choose-a-home-office-desk-size/).
 
 Available in various shades—most commonly light grey, charcoal, and black—felt coordinates effortlessly with almost any interior design scheme, from minimalist Scandinavian setups to dark, moody industrial aesthetics.
 
@@ -102,7 +102,7 @@ The most common hesitation regarding felt is how to keep it clean. Because it is
 
 ## Conclusion
 
-Understanding why use a desk pad with felt ultimately comes down to prioritizing a sensory-rich, comfortable workspace. By replacing the hard, cold surface of a desk with a warm, sound-dampening layer of wool, you improve the acoustics of your keyboard, protect your furniture, and provide ergonomic relief to your wrists during long hours of work. While it demands a bit more care regarding spills and requires an upfront investment in genuine Merino wool to avoid a scratchy texture, the immediate upgrade to your daily working environment makes a high-quality felt pad a fundamental addition to any considered desk setup.
+Understanding why use a desk pad with felt ultimately comes down to prioritizing a sensory-rich, comfortable workspace. By replacing the hard, cold surface of a desk with a warm, sound-dampening layer of wool, you improve the acoustics of your keyboard, protect your furniture, and provide ergonomic relief to your wrists during long hours of work. While it demands a bit more care regarding spills and requires an upfront investment in genuine Merino wool to avoid a scratchy texture, the immediate upgrade to your daily working environment makes a high-quality felt pad a fundamental addition to any considered [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/).
 
 ## Frequently Asked Questions
 

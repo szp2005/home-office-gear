@@ -82,7 +82,7 @@ If you need functional workspace [ergonomics](/posts/how-to-choose-a-home-office
 
 **Cons:**
 - Lacks a locking mechanism if you prefer a static foot angle
-- Lightweight plastic base can slide on hard hardwood floors
+- Lightweight plastic base can slide on hard [hardwood floors](/posts/best-chair-mat-for-hardwood-floors-home-office/)
 
 ### 4. ErgoFoam Adjustable Desk Foot Rest
 
@@ -106,7 +106,7 @@ The ErgoFoam footrest takes a fundamentally different approach by utilizing high
 When evaluating any ergonomic accessory as a tall user, standard marketing claims matter far less than exact dimensions. Before purchasing, take a tape measure to your current setup and evaluate potential footrests against these specific criteria.
 
 ### Minimum Height Profile
-The single most common mistake tall users make is buying a footrest that is too thick. If your fixed desk is 29 inches high, raising your feet by 5 inches means your knees will likely collide with your keyboard tray(/posts/best-keyboard-tray-for-home-office-desk/) or desk drawers. Look for a footrest with a starting height of 3 inches or less. The goal is angle modification, not elevation.
+The single most common mistake tall users make is buying a footrest that is too thick. If your fixed desk is 29 inches high, raising your feet by 5 inches means your knees will likely collide with your [keyboard tray](/posts/best-keyboard-tray-for-home-office-desk/)(/posts/best-keyboard-tray-for-home-office-desk/) or desk drawers. Look for a footrest with a starting height of 3 inches or less. The goal is angle modification, not elevation.
 
 ### Generous Surface Area
 Taller individuals generally have larger feet and naturally assume a wider stance for stability. A footrest that is too narrow forces you to hold your knees together, creating tension in the hips. Seek out platforms that are at least 16 inches wide and 11 inches deep. This ensures your entire foot is supported and you have the freedom to shift your stance laterally throughout the day.
@@ -123,7 +123,7 @@ Purchasing the hardware is only the first step; configuring the geometry of your
 
 First, adjust your chair height. Ignore the floor entirely for a moment. Raise or lower your cylinder until your elbows are perfectly flush with your desk surface, bent at a 90 to 100-degree angle. Your shoulders should be completely relaxed, not shrugged. 
 
-Second, evaluate your monitors. With your chair at the correct height, the top third of your screen should be at eye level. Tall users frequently need monitor arms or thick risers to achieve this, preventing the "forward head" posture that causes neck pain.
+Second, evaluate your monitors. With your chair at the correct height, the top third of your screen should be at eye level. Tall users frequently need [monitor](/posts/best-portable-monitor-for-work-from-home/) arms or thick risers to achieve this, preventing the "forward head" posture that causes neck pain.
 
 Finally, address the floor. Now that your upper body is perfectly aligned with your tools, look down at your feet. If your heels are slightly lifted, or if the pressure under your thighs is intense, slide the low-profile footrest into place. Adjust the tilt until your feet rest completely flat against the platform, supporting your legs without pushing your knees upward. Your knees should sit at a 90 to 110-degree angle, slightly lower than your hips to open the pelvis and maintain the natural curve of your lumbar spine.
 

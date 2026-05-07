@@ -39,7 +39,7 @@ tags: ["reduce", "cable", "clutter", "desk"]
 
 A tangled desk isn't just ugly. It creates real, measurable problems.
 
-**Professionalism and focus.** Studies on workspace environment consistently link visual disorder to reduced concentration. If you're on video calls, a spaghetti bowl of cables behind your monitor signals disorganization to whoever is watching. It's a small thing that registers immediately.
+**Professionalism and focus.** Studies on workspace environment consistently link visual disorder to reduced concentration. If you're on video calls, a spaghetti bowl of cables behind your [monitor](/posts/best-portable-monitor-for-work-from-home/) signals disorganization to whoever is watching. It's a small thing that registers immediately.
 
 **Safety.** Cables draped across the floor are a tripping hazard. Cables pinched under desk legs develop frayed insulation over time, which is a genuine fire risk. Power bricks stacked on top of each other trap heat. None of this is theoretical — it happens in real offices every year.
 
@@ -77,7 +77,7 @@ Do this once properly and maintenance takes five minutes per quarter.
 
 **Step 4 — Plan routes on paper or sketch them.** Decide where each bundle travels before sticking anything. Power cables go one way, data another. They should never share a sleeve — electrical interference is a real issue for audio and some USB devices.
 
-**Step 5 — Install from the fixed end outward.** Start at the wall outlet or desk grommet and work toward the device. Use adhesive clips at 6–8 inch intervals on straight runs, more tightly on corners. Leave 10–15% slack in every cable. Cables need to move slightly when you adjust monitors or lean equipment.
+**Step 5 — Install from the fixed end outward.** Start at the wall outlet or desk grommet and work toward the device. Use adhesive clips at 6–8 inch intervals on straight runs, more tightly on corners. Leave 10–15% slack in every cable. Cables need to move slightly when you adjust [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/) or lean equipment.
 
 **Step 6 — Test everything before final tidying.** Power on, check all devices, then seal sleeves and close the cable box.
 
@@ -91,7 +91,7 @@ Do this once properly and maintenance takes five minutes per quarter.
 
 **[Standing desk](/posts/compact-standing-desk-converter-review/) (sit-stand).** You need a retractable or looped cable management approach. Cables must accommodate the full height travel range. Use a cable carrier chain (also called a cable drag chain) or a long cable sleeve with a coiled loop at the desk base. A spiral cable wrap for standing desks handles the movement without tangling.
 
-**Monitor arm with cable management.** A quality monitor arm has an internal cable channel. Feed the display cable and any USB cables through the arm's hollow channel. A monitor arm with integrated cable management eliminates the most visible cable run on the entire desk — the one going to your monitor.
+**[Monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) with cable management.** A quality monitor arm has an internal cable channel. Feed the display cable and any USB cables through the arm's hollow channel. A monitor arm with integrated cable management eliminates the most visible cable run on the entire desk — the one going to your monitor.
 
 **Grommet holes.** If your desk has a pre-cut grommet, use it. If not, a 2.5-inch hole saw in a drill creates one in wood. For desks where drilling isn't an option, adhesive desk grommets provide a clean pass-through for cables going from the desktop surface to the underside.
 

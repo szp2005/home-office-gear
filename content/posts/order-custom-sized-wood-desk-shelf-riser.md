@@ -13,7 +13,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Order Custom Sized Wood Desk Shelf Riser: Complete Buyer Guide
 
-> **Quick Answer:** When you order a custom sized wood desk shelf riser, measure your desk width minus 2 to 4 inches for aesthetics, ensure a minimum depth of 9 inches for monitor bases, and select a height between 3.5 to 5 inches to achieve optimal ergonomic eye level. Solid hardwoods like walnut, oak, and maple offer the best durability to support heavy dual-monitor setups without sagging.
+> **Quick Answer:** When you order a custom sized wood desk shelf riser, measure your desk width minus 2 to 4 inches for aesthetics, ensure a minimum depth of 9 inches for [monitor](/posts/best-portable-monitor-for-work-from-home/) bases, and select a height between 3.5 to 5 inches to achieve optimal ergonomic eye level. Solid hardwoods like walnut, oak, and maple offer the best durability to support heavy dual-monitor setups without sagging.
 
 Standard desk accessories rarely accommodate the nuanced requirements of a specialized workspace. You might have an ultra-wide monitor, a heavy dual-screen array on monitor arms, or specific audio interfaces that need to slide perfectly underneath your displays. Off-the-shelf solutions force you to compromise—they are often too short, awkwardly deep, or made from inferior particle board wrapped in cheap veneers that bow under the weight of premium hardware.
 
@@ -27,7 +27,7 @@ The primary function of a desk shelf is ergonomic correction. Most factory-issue
 
 Ergonomic guidelines dictate that the top third of your monitor screen should sit precisely at eye level when you are seated with your feet flat on the floor and your arms resting at a 90-degree angle. Because human torsos, desk heights, and chair cylinders vary wildly, a standardized 4-inch riser will not work for everyone. 
 
-Beyond vertical alignment, precise lateral dimensions allow you to optimize the usable footprint of your desk. A 48-inch standing desk overwhelmed by a 46-inch standard shelf leaves no room for side-mounted accessories, desktop speakers, or task lighting. Conversely, placing a small 32-inch riser on a massive 72-inch executive desk makes the accessory look disproportionate and out of place. Custom sizing ensures the architectural scale of the shelf matches your specific environment.
+Beyond vertical alignment, precise lateral dimensions allow you to optimize the usable footprint of your desk. A 48-inch [standing desk](/posts/compact-standing-desk-converter-review/) overwhelmed by a 46-inch standard shelf leaves no room for side-mounted accessories, desktop speakers, or task lighting. Conversely, placing a small 32-inch riser on a massive 72-inch executive desk makes the accessory look disproportionate and out of place. Custom sizing ensures the architectural scale of the shelf matches your specific environment.
 
 ## How to Measure Before You Order Your Custom Riser
 
@@ -37,7 +37,7 @@ Providing a woodworker or manufacturer with arbitrary numbers will result in a f
 
 Your shelf width should bridge the gap between aesthetic balance and functional necessity.
 *   **The Edge-to-Edge Approach:** For smaller desks (under 42 inches), ordering a shelf that matches the exact width of your desk maximizes surface area. 
-*   **The Inset Approach:** For medium to large desks (48 to 72 inches), the most visually pleasing measurement leaves 2 to 4 inches of clearance on either side. If your desk is 60 inches wide, a 54-inch custom riser provides ample room for dual monitors while leaving space on the desk perimeter for a desk lamp or headphone stand.
+*   **The Inset Approach:** For medium to large desks (48 to 72 inches), the most visually pleasing measurement leaves 2 to 4 inches of clearance on either side. If your desk is 60 inches wide, a 54-inch custom riser provides ample room for dual [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/) while leaving space on the desk perimeter for a desk lamp or headphone stand.
 
 ### Determining the Right Depth
 

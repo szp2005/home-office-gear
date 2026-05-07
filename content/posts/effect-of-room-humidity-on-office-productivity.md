@@ -15,9 +15,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 > **Quick Answer:** The effect of room humidity on office productivity is substantial. Ideal indoor humidity levels for cognitive function and physical comfort range between 40% and 60%. Environments outside this zone cause physical discomfort—such as dry eyes and respiratory irritation in low humidity, or lethargy and thermal stress in high humidity—directly reducing focus, typing speed, and overall cognitive output.
 
-While temperature often dominates thermostat debates in professional environments, relative humidity (RH) remains the silent variable dictating daily comfort. Most professionals invest heavily in ergonomic chairs, [mechanical keyboards](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/), and low-glare [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/), yet completely ignore the moisture content of the air they breathe for eight hours a day.
+While temperature often dominates thermostat debates in professional environments, relative humidity (RH) remains the silent variable dictating daily comfort. Most professionals invest heavily in [ergonomic](/posts/best-ergonomic-chair-for-small-home-office/) chairs, [mechanical keyboards](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/), and low-glare [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/), yet completely ignore the moisture content of the air they breathe for eight hours a day.
 
-Research into indoor environmental quality (IEQ) reveals that the effect of room humidity on office productivity is measurable and significant. Humidity levels govern everything from how our eyes tolerate extended screen time to how effectively our immune systems fight off seasonal viruses. When workspace humidity deviates from the optimal biological range, the body redirects energy from executive cognitive functions toward physiological regulation and stress management. 
+Research into indoor environmental quality (IEQ) reveals that the effect of room humidity on office productivity is measurable and significant. Humidity levels govern everything from how our eyes tolerate extended screen time to how effectively our immune systems fight off seasonal viruses. When [workspace](/posts/home-office-desk-depth-guide/) humidity deviates from the optimal biological range, the body redirects energy from executive cognitive functions toward physiological regulation and stress management. 
 
 Understanding the mechanics of indoor air moisture is a prerequisite for optimizing any remote or corporate workspace. This guide breaks down the science of humidity, its direct impact on work performance, and actionable methods to stabilize your office environment.
 
@@ -27,7 +27,7 @@ Relative humidity measures the amount of water vapor in the air compared to the 
 
 The brain requires massive amounts of energy to maintain focus. When environmental conditions degrade, the autonomic nervous system must expend metabolic resources to regulate body temperature and maintain mucosal barriers (like tears and saliva). This biological overhead leaves fewer resources available for high-level problem solving, reading comprehension, and sustained attention. 
 
-Furthermore, relative humidity directly impacts the transmission of airborne particles. Viral droplets, dust mites, volatile organic compounds (VOCs), and fungal spores all react differently depending on the moisture in the air. Consequently, humidity does not just affect immediate comfort; it is a primary driver of office absenteeism and long-term respiratory health.
+Furthermore, relative humidity directly impacts the transmission of airborne particles. Viral droplets, dust mites, volatile organic compounds (VOCs), and fungal spores all react differently depending on the moisture in the air. Consequently, humidity does not just affect immediate comfort; it is a primary driver of office absenteeism and long-term respiratory [health](/posts/best-trackball-mouse-for-wrist-pain-2026/).
 
 ## Direct Impacts of Low Humidity on Office Work
 

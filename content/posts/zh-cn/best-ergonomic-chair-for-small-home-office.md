@@ -176,3 +176,9 @@ tags: ["ergonomic", "chair", "small", "home"]
 - [家庭办公硬木地板最佳椅垫终极指南](/zh-cn/posts/best-chair-mat-for-hardwood-floors-home-office/)
 - [2026 年最佳家庭办公文档扫描仪：专家指南](/zh-cn/posts/best-document-scanner-for-home-office/)
 - [为什么双显示器支架对家庭办公设置很重要](/zh-cn/posts/best-monitor-arm-for-dual-monitors-home-office/)
+
+---
+
+## Related Reading
+
+- [Standing Desk Setup for Small Apartments: Compact Ergonomic Guide](/posts/standing-desk-setup-for-small-apartment/)

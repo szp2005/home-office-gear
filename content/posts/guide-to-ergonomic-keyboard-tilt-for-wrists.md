@@ -13,9 +13,9 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 # Guide to Ergonomic Keyboard Tilt for Wrists: Setup Rules
 
-> **Quick Answer:** The optimal ergonomic keyboard tilt for wrists is actually a negative tilt (sloping downward, away from you) between -4 and -15 degrees. Using the kickstands on the back of a standard keyboard creates a positive tilt, which forces your wrists into dangerous extension, drastically increasing pressure on the carpal tunnel and elevating the risk of repetitive strain injuries.
+> **Quick Answer:** The optimal ergonomic keyboard tilt for wrists is actually a negative tilt (sloping downward, away from you) between -4 and -15 degrees. Using the kickstands on the back of a standard keyboard creates a positive tilt, which forces your wrists into dangerous extension, drastically increasing pressure on the [carpal tunnel](/posts/best-ergonomic-mouse-for-carpal-tunnel/) and elevating the risk of repetitive strain injuries.
 
-Most office workers spend over 2,000 hours a year typing, yet few analyze the exact geometric relationship between their hands and their hardware. For decades, standard keyboards have been manufactured with small retractable feet on the back edge. We intuitively flip them up, assuming that angling the keys toward us makes the legends easier to read and the keys easier to strike. However, from a biomechanical perspective, this convention is actively harmful. 
+Most [office](/posts/best-label-maker-for-home-office-organization/) workers spend over 2,000 hours a year typing, yet few analyze the exact geometric relationship between their hands and their hardware. For decades, standard keyboards have been manufactured with small retractable feet on the back edge. We intuitively flip them up, assuming that angling the keys toward us makes the legends easier to read and the keys easier to strike. However, from a biomechanical perspective, this convention is actively harmful. 
 
 Addressing wrist pain, numbness, and repetitive strain injuries (RSI) requires a fundamental misunderstanding of desk [ergonomics](/posts/how-to-choose-a-home-office-desk-size/). It is not just about buying an expensive chair or standing at your desk; it is about the micro-adjustments at the point of contact between human and machine. Understanding the physics of keyboard tilt is the most critical intervention you can make for your upper extremity health.
 
@@ -57,7 +57,7 @@ While zero tilt is vastly superior to positive tilt, it is rarely perfect. Becau
 
 Negative tilt occurs when the front edge of the keyboard (closest to you) is higher than the back edge, sloping down and away from the user. 
 
-This counterintuitive setup is the gold standard for office ergonomics. By sloping the keyboard downward, the keys meet the natural downward trajectory of your forearms. This allows the hands to cascade downward over the keys, maintaining a perfectly straight, neutral wrist alignment. A negative tilt of -4 to -15 degrees ensures that gravity assists your finger strikes rather than fighting them, reducing fatigue in the forearm extensors.
+This counterintuitive setup is the gold standard for [office ergonomics](/posts/understanding-desk-bike-ergonomics-for-weight-loss/). By sloping the keyboard downward, the keys meet the natural downward trajectory of your forearms. This allows the hands to cascade downward over the keys, maintaining a perfectly straight, neutral wrist alignment. A negative tilt of -4 to -15 degrees ensures that gravity assists your finger strikes rather than fighting them, reducing fatigue in the forearm extensors.
 
 ## Tenting and Pronation: The Missing 3D Angles
 

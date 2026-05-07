@@ -23,7 +23,7 @@ This guide breaks down exactly what materials are safe for wood finishes, how to
 
 ## Why Hardwood Floors Require Specific Standing Desk Mats
 
-When outfitting a workspace that features hardwood flooring, the anti-fatigue mat you select must perform a dual role: protecting your musculoskeletal system and protecting the floor itself. Choosing the wrong base material can lead to irreversible damage to your flooring finish.
+When outfitting a [workspace](/posts/home-office-desk-depth-guide/) that features hardwood flooring, the anti-fatigue mat you select must perform a dual role: protecting your musculoskeletal system and protecting the floor itself. Choosing the wrong base material can lead to irreversible damage to your flooring finish.
 
 ### The Danger of Plasticizer Migration
 
@@ -73,7 +73,7 @@ Tripping is a primary concern with any floor mat. Ensure the mat features edges 
 
 ### Optimal Dimensions
 
-Size matters when setting up an ergonomic workstation. A mat that is too small restricts your natural stance width. For a standard single-monitor or dual-monitor standing desk setup(/posts/asymmetric-monitor-light-bar-vs-desk-lamp/), the minimum recommended dimensions are 20 inches deep by 30 inches wide. If your desk requires you to take a step left or right to access filing cabinets or secondary equipment, look for an elongated mat measuring 20 inches deep by 36 to 48 inches wide.
+Size matters when setting up an ergonomic workstation. A mat that is too small restricts your natural stance width. For a standard single-[monitor](/posts/best-portable-monitor-for-work-from-home/) or dual-monitor standing [desk setup](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)(/posts/asymmetric-monitor-light-bar-vs-desk-lamp/), the minimum recommended dimensions are 20 inches deep by 30 inches wide. If your desk requires you to take a step left or right to access filing cabinets or secondary equipment, look for an elongated mat measuring 20 inches deep by 36 to 48 inches wide.
 
 ### Puncture Resistance
 

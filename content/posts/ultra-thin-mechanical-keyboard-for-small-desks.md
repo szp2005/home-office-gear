@@ -25,7 +25,7 @@ This guide evaluates the top ultra-thin mechanical keyboards currently available
 
 The primary benefit of an ultra-thin mechanical keyboard on a small desk is spatial efficiency, but the ergonomic benefits are equally compelling. Standard mechanical keyboards require your wrists to extend upward at a sharp angle to reach the keys. Over an eight-hour workday, this extension causes fatigue and increases the risk of repetitive strain injuries, prompting most users to buy padded wrist rests.
 
-However, a wrist rest can add three to four inches of depth to your keyboard setup. On a 20-inch deep desk, losing that much space pushes your monitor too close to your eyes or leaves your mouse hanging off the edge. 
+However, a wrist rest can add three to four inches of depth to your keyboard setup. On a 20-inch deep desk, losing that much space pushes your [monitor](/posts/best-portable-monitor-for-work-from-home/) too close to your eyes or leaves your mouse hanging off the edge. 
 
 Ultra-thin keyboards sit close to the desk surface, usually measuring between 15mm and 25mm at their thickest point. This low profile allows your wrists to rest naturally on the desk surface in a neutral position, completely eliminating the need for an external wrist rest. Furthermore, the shorter travel distance of low-profile switches (typically 2.5mm to 3.2mm total travel compared to the standard 4.0mm) allows for faster actuation with less finger fatigue.
 
@@ -137,7 +137,7 @@ Low-profile switches operate differently than their full-sized counterparts. The
 
 *   **Linear (Red/Clear):** Smooth from top to bottom with no tactile bump. These are quietest and fastest, making them excellent for shared office spaces and gaming.
 *   **Tactile (Brown):** Features a small bump halfway through the keypress, confirming actuation. This is generally the best middle ground for typing accuracy.
-*   **Clicky (Blue):** Features a tactile bump and an audible click. While satisfying for the typist, these are generally too loud for shared environments or frequent Zoom calls.
+*   **Clicky (Blue):** Features a tactile bump and an audible click. While satisfying for the typist, these are generally too loud for shared environments or frequent Zoom [calls](/posts/best-desk-lamp-for-video-calls/).
 
 When selecting an ultra-thin keyboard, pay attention to the switch manufacturer. Gateron Low Profile 2.0 switches (found in NuPhy boards) currently offer the best balance of smoothness and durability. Kailh Choc switches are also highly regarded, though finding replacement keycaps for them can be challenging due to their proprietary stem design.
 
@@ -145,7 +145,7 @@ When selecting an ultra-thin keyboard, pay attention to the switch manufacturer.
 
 On a small desk, every cable is an eyesore and a potential snag. Ultra-thin keyboards almost exclusively offer wireless capabilities, but the type of wireless matters.
 
-If you game or require zero-latency inputs, look for a keyboard with a 2.4GHz USB receiver. If your primary goal is productivity and keeping USB ports free on your laptop, Bluetooth 5.0 or higher is perfectly adequate. To truly maximize a small desk setup, pair a wireless ultra-thin keyboard with a wireless mouse to completely eliminate cords traversing your workspace.
+If you game or require zero-latency inputs, look for a keyboard with a 2.4GHz USB receiver. If your primary goal is productivity and keeping USB ports free on your laptop, Bluetooth 5.0 or higher is perfectly adequate. To truly maximize a small [desk setup](/posts/minimalist-home-office-setup-checklist/), pair a wireless ultra-thin keyboard with a wireless mouse to completely eliminate cords traversing your workspace.
 
 ## Conclusion
 

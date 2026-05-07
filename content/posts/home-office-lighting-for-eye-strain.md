@@ -27,7 +27,7 @@ In this comprehensive guide, we will break down exactly how you should approach 
 
 ## 1. The Science of Lighting and Eye Strain
 
-To understand how to fix the problem, we must first understand why it happens. Eye strain occurs when the ciliary muscles in your eyes are overworked. When you stare at a glowing monitor in a dark room, or struggle to read a screen that is overwhelmed by a bright window behind you, your eyes are forced to constantly readjust.
+To understand how to fix the problem, we must first understand why it happens. Eye strain occurs when the ciliary muscles in your eyes are overworked. When you stare at a glowing [monitor](/posts/best-portable-monitor-for-work-from-home/) in a dark room, or struggle to read a screen that is overwhelmed by a bright window behind you, your eyes are forced to constantly readjust.
 
 ### Contrast and the "Cave Effect"
 One of the most common mistakes remote workers make is the "cave effect"—working in a dark room with only the computer monitor acting as the light source. Your monitor emits light directly into your eyes. If the surrounding room is dark, the contrast between your bright screen and the dark background forces your pupils to dilate and constrict continuously as your gaze drifts on and off the screen. This repetitive motion exhausts the eye muscles.
@@ -106,7 +106,7 @@ Ready to fix your setup? Follow this checklist to overhaul your home office ligh
 2.  Add a floor lamp pointing upward in a corner to bounce soft light off the ceiling and walls. Ensure the room's overall brightness roughly matches the brightness of a white page on your screen.
 
 ### Step 3: Add Bias Lighting
-1.  Purchase a simple, dimmable LED strip (ideally 6500K to perfectly match the white point of most monitors, though a warm white is better than nothing).
+1.  Purchase a simple, dimmable LED strip (ideally 6500K to perfectly match the white point of most [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/), though a warm white is better than nothing).
 2.  Stick it to the back perimeter of your monitor.
 3.  Turn it on when working in darker conditions. This simple $20 addition is often the most noticeable relief for eye strain.
 
@@ -142,7 +142,7 @@ Discover the best home office lighting strategies to reduce eye strain, improve 
 
 ### Who is The Ultimate Guide to Home Office Lighting for Eye Strain best for?
 
-The Ultimate Guide to Home Office Lighting for Eye Strain is best for remote workers and home office buyers who want a practical home office setup improvement without adding unnecessary complexity. It is especially useful when you need repeatable results rather than another isolated tip.
+The Ultimate Guide to Home Office Lighting for Eye Strain is best for remote workers and home office buyers who want a practical [home office setup](/posts/best-pegboard-accessories-for-desk-organization/) improvement without adding unnecessary complexity. It is especially useful when you need repeatable results rather than another isolated tip.
 
 ### How should I get started with The Ultimate Guide to Home Office Lighting for Eye Strain?
 

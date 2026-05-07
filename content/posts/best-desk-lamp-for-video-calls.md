@@ -113,7 +113,7 @@ The WILIT-T Touch Control Desk Lamp offers three color modes and ten brightness 
 
 ### 4. [Philips Hue Go — Best for Advanced or Smart Home Setups](https://www.amazon.com/s?k=Philips%20Hue%20Go%20%E2%80%94%20Best%20for%20Advanced%20or%20Smart%20Home%20Setups&tag=gear.toolrouteai-20)
 
-The Philips Hue Go is the premium pick for users already in the Hue ecosystem. Full RGB color control via app means you can dial in precisely 4500K or create scenes. It's portable and battery-powered, so you can reposition it quickly between desk work and calls. CRI is 80, which is the one genuine drawback versus the BenQ.
+The Philips Hue Go is the premium pick for users already in the Hue ecosystem. Full RGB color control via app means you can dial in precisely 4500K or create scenes. It's [portable](/posts/best-portable-monitor-for-work-from-home/) and battery-powered, so you can reposition it quickly between desk work and calls. CRI is 80, which is the one genuine drawback versus the BenQ.
 
 **Pros:** Full app control, portable, integrates with voice assistants, excellent build quality
 **Cons:** ~$80–100, CRI 80, requires Hue Bridge for full features (extra cost), overkill for most users
@@ -153,7 +153,7 @@ For people who need to position light precisely — especially if their desk set
 
 **Avoiding glare on your monitor:** If you see a reflection of your lamp in your screen, shift it further to the side or lower the angle slightly. Glare on screen also bleeds into your camera image.
 
-**Three-point lighting for serious setups:** If you regularly present on camera, a key light (your main lamp at 45 degrees), a fill light (softer lamp on the opposite side at lower intensity), and a hair/separation light behind you creates studio-level quality. A monitor arm with integrated lighting can serve as a clean fill light solution without adding another standalone lamp to the desk.
+**Three-point lighting for serious setups:** If you regularly present on camera, a key light (your main lamp at 45 degrees), a fill light (softer lamp on the opposite side at lower intensity), and a hair/separation light behind you creates studio-level quality. A [monitor arm](/posts/laptop-stand-vs-monitor-arm-home-office/) with integrated lighting can serve as a clean fill light solution without adding another standalone lamp to the desk.
 
 ---
 
@@ -165,7 +165,7 @@ For people who need to position light precisely — especially if their desk set
 
 **$100+ — Premium and Power Users:** The Philips Hue Go at the top of this range makes sense only if you're already in a smart home ecosystem. Standalone, the BenQ outperforms it for video call use at lower cost.
 
-One practical note: a cheap lamp with poor CRI 80 won't ruin your calls, but the difference between CRI 80 and CRI 95 is visible on most modern webcams. It's worth knowing that before you settle.
+One practical note: a cheap lamp with poor CRI 80 won't ruin your calls, but the difference between CRI 80 and CRI 95 is visible on most modern [webcams](/posts/best-low-light-sensor-pro-webcams/). It's worth knowing that before you settle.
 
 ---
 

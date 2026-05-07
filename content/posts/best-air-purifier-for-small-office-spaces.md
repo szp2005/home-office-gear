@@ -17,7 +17,7 @@ _As an Amazon Associate we earn from qualifying purchases. This post may contain
 
 Whether you are working from a converted spare bedroom or a leased suite in a commercial building, indoor air quality directly impacts cognitive function, energy levels, and overall health. Small office spaces present unique challenges: they often suffer from poor ventilation, accumulate dust from electronics, and harbor volatile organic compounds (VOCs) off-gassing from office furniture and printers. 
 
-A dedicated air purifier addresses these invisible [productivity](/posts/how-to-choose-a-home-office-desk-size/) killers. However, you cannot simply purchase the largest unit available; [small spaces](/posts/wall-mounted-fold-down-desk-for-laptop/) require specific form factors, minimal noise output during calls, and targeted filtration capabilities. Balancing Clean Air Delivery Rate (CADR) with acoustic profile is essential when the device sits only a few feet from your microphone.
+A dedicated air purifier addresses these invisible [productivity](/posts/how-to-choose-a-home-office-desk-size/) killers. However, you cannot simply purchase the largest unit available; [small spaces](/posts/wall-mounted-fold-down-desk-for-laptop/) require specific form factors, minimal noise output during [calls](/posts/best-desk-lamp-for-video-calls/), and targeted filtration capabilities. Balancing Clean Air Delivery Rate (CADR) with acoustic profile is essential when the device sits only a few feet from your microphone.
 
 This comprehensive guide evaluates the top models on the market, focusing on how they perform in confined professional environments. We look past marketing claims to examine filter replacement costs, real-world noise levels, and footprint efficiency.
 
@@ -41,7 +41,7 @@ The models selected below have been evaluated on their filtration efficiency, de
 
 The Coway Airmega AP-1512HH has remained a benchmark in the air purification category for years, and for good reason. It offers an exceptional balance of CADR, quiet operation, and intelligent design. Rated for rooms up to 361 square feet, it can turn over the air in a small 150-square-foot office more than eight times per hour. 
 
-What makes it ideal for a workspace is its Eco Mode. The internal particle sensor monitors air quality; if no pollution is detected for 30 minutes, the fan shuts off entirely, resuming only when necessary. This saves electricity and eliminates background noise when the air is clean. The four-stage filtration system includes a washable pre-filter, an odor-reducing carbon filter, a True HEPA filter, and an optional vital ionizer (which can be turned off). At 16.8 by 18.3 by 9.6 inches, it sits comfortably against a wall without dominating the room.
+What makes it ideal for a workspace is its Eco Mode. The internal particle sensor [monitors](/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/) air quality; if no pollution is detected for 30 minutes, the fan shuts off entirely, resuming only when necessary. This saves electricity and eliminates background noise when the air is clean. The four-stage filtration system includes a washable pre-filter, an odor-reducing carbon filter, a True HEPA filter, and an optional vital ionizer (which can be turned off). At 16.8 by 18.3 by 9.6 inches, it sits comfortably against a wall without dominating the room.
 
 **Pros:**
 - Eco mode significantly reduces energy consumption and noise
@@ -60,7 +60,7 @@ What makes it ideal for a workspace is its Eco Mode. The internal particle senso
 
 For those with offices under 200 square feet, or those looking for a unit that can sit directly on a desk or filing cabinet, the Levoit Core 300 is an outstanding choice. Its cylindrical design draws air from 360 degrees, making placement highly flexible. 
 
-Despite its compact size (8.7 by 8.7 by 14.2 inches), it features a legitimate True HEPA filter and a respectable CADR of 141 CFM. The Core 300 operates at just 24 decibels on its lowest setting, which is nearly imperceptible and will not trigger noise gates on microphones during Zoom calls. Levoit also offers specialized replacement filters, including a Toxin Absorber filter with extra carbon, which is highly recommended if your office contains new furniture or heavy electronics.
+Despite its compact size (8.7 by 8.7 by 14.2 inches), it features a legitimate True HEPA filter and a respectable CADR of 141 CFM. The Core 300 operates at just 24 decibels on its lowest setting, which is nearly imperceptible and will not trigger noise gates on [microphones](/posts/difference-between-condenser-and-dynamic-mics-explained/) during Zoom calls. Levoit also offers specialized replacement filters, including a Toxin Absorber filter with extra carbon, which is highly recommended if your office contains new furniture or heavy electronics.
 
 **Pros:**
 - Extremely compact, 360-degree intake design

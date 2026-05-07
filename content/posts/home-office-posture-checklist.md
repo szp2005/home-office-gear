@@ -29,7 +29,7 @@ If you’re in a rush, here is the essential "neutral posture" checklist. Scan y
 - [ ] **Back:** Fully supported by the chair’s backrest with lumbar contact.
 - [ ] **Elbows:** Close to the body, bent at 90–100°.
 - [ ] **Wrists:** Straight and neutral, not resting on hard edges.
-- [ ] **Monitor:** Top third of the screen at eye level, arm’s length away.
+- [ ] **[Monitor](/posts/best-portable-monitor-for-work-from-home/):** Top third of the screen at eye level, arm’s length away.
 - [ ] **Shoulders:** Relaxed, down, and not rounded forward.
 
 ---
@@ -101,7 +101,7 @@ The most important takeaway from ergonomic science is this: **The best posture i
 ### Micro-Breaks and Movement
 *   **The 30-Minute Reset:** Every half hour, stand up for at least 60 seconds. Shrug your shoulders, reach for the ceiling, and perform a quick chest stretch.
 *   **Active Sitting:** Consider an ergonomic stool or a "wobble" board under your feet to engage your core muscles while sitting.
-*   **Standing Desks:** If you use a standing desk, do not stand all day. The ideal ratio is 1:1 or 2:1 (sit for 30–60 mins, stand for 30–60 mins). When standing, ensure you aren't leaning on one hip.
+*   **Standing Desks:** If you use a [standing desk](/posts/compact-standing-desk-converter-review/), do not stand all day. The ideal ratio is 1:1 or 2:1 (sit for 30–60 mins, stand for 30–60 mins). When standing, ensure you aren't leaning on one hip.
 
 ---
 
@@ -119,7 +119,7 @@ Integrate these three simple stretches into your daily routine to counteract the
 
 If you are serious about your home office health, prioritize your budget in this order:
 
-1.  **A High-Quality Ergonomic Chair:** Look for adjustable seat depth, lumbar support, and 4D armrests (brands like Herman Miller, Steelcase, or more affordable options like ErgoChair).
+1.  **A High-Quality [Ergonomic Chair](/posts/best-budget-ergonomic-chair-for-remote-work/):** Look for adjustable seat depth, lumbar support, and 4D armrests (brands like Herman Miller, Steelcase, or more affordable options like ErgoChair).
 2.  **External Monitor & Stand:** If you work on a laptop, a stand is non-negotiable. Raising the screen to eye level is the single biggest improvement you can make.
 3.  **External Keyboard & Mouse:** Once your laptop is on a stand, you need external peripherals to keep your elbows and wrists in the neutral zone.
 4.  **Anti-Fatigue Mat:** If you have a standing desk, a cushioned mat is essential to prevent foot and joint pain.
