@@ -1,4 +1,5 @@
 ---
+image: "/og/quiet-mechanical-switches-shared-home-office.webp"
 title: "Best Quiet Mechanical Switches for Shared Home Office in 2026"
 description: "Discover the best quiet mechanical switches for a shared home office. Compare top silent tactile and linear switches to type comfortably without disturbing others."
 pubDate: "2026-05-07"
@@ -132,3 +133,9 @@ No. Rubber O-rings only dampen the downward stroke (bottom-out) and do nothing t
 
 ### What is the quietest mechanical switch overall?
 Silent linear switches are objectively the quietest because they lack any internal tactile friction. Heavy silent linears, such as the Gateron Silent Ink Black V2, are generally considered the quietest options when properly lubricated.
+
+---
+
+## Related Reading
+
+- [Best Anti Fatigue Mat for Standing Desk on Wood Floors in 2026](/posts/anti-fatigue-mat-for-standing-desk-wood/)

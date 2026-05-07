@@ -180,4 +180,6 @@ For a desktop supporting multiple monitors and heavy risers, look for tempered g
 
 ## Related Reading
 
+- [Best Anti Fatigue Mat for Standing Desk Workers in 2026](/posts/anti-fatigue-mat-for-standing-desk-workers/)
+
 - [Best Heavy Duty Under Desk CPU Mounts in 2026: A Full Review](/posts/heavy-duty-under-desk-cpu-mount-review/)

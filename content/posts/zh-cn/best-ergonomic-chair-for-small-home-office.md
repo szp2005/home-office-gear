@@ -182,3 +182,5 @@ tags: ["ergonomic", "chair", "small", "home"]
 ## Related Reading
 
 - [Standing Desk Setup for Small Apartments: Compact Ergonomic Guide](/posts/standing-desk-setup-for-small-apartment/)
+
+- [Standing Desk Setup for Small Apartments: Compact Ergonomic Guide](/posts/standing-desk-setup-for-small-apartment/)
