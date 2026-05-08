@@ -39,7 +39,7 @@ The calorie burn is substantially higher—averaging 150 to 250 calories per hou
 
 Under-desk ellipticals are defined by their low profile and quiet operation. When evaluating these machines, the key metrics are the height of the pedal apex (to ensure knee clearance under standard desks), resistance mechanics (magnetic is vastly superior to friction), and overall stability.
 
-### 1. Cubii Go
+### 1. [Cubii Go](https://www.amazon.com/s?k=Cubii%20Go&tag=gear.toolrouteai-20)
 
 **Best for:** Shared workspaces and portability
 **Price:** $250-$300
@@ -56,7 +56,7 @@ The Cubii Go is widely recognized as one of the smoothest, quietest seated ellip
 - Lower caloric expenditure compared to standing movement
 - Premium price point for a seated pedaler
 
-### 2. DeskCycle 2
+### 2. [DeskCycle 2](https://www.amazon.com/s?k=DeskCycle%202&tag=gear.toolrouteai-20)
 
 **Best for:** Intense resistance and taller users
 **Price:** $190-$220
@@ -77,7 +77,7 @@ While technically a compact pedal exerciser rather than a true elliptical, the D
 
 Also known as walking pads, these treadmills omit the handrails and bulky consoles of traditional gym treadmills. They are designed strictly for walking, usually maxing out at 3 to 4 miles per hour. Key considerations include the motor's continuous duty horsepower (CHP), deck length, and noise output.
 
-### 1. WalkingPad C2 Mini Foldable Treadmill
+### 1. [WalkingPad C2 Mini Foldable Treadmill](https://www.amazon.com/s?k=WalkingPad%20C2%20Mini%20Foldable%20Treadmill&tag=gear.toolrouteai-20)
 
 **Best for:** Small apartments and tight storage
 **Price:** $400-$450
@@ -94,7 +94,7 @@ The WalkingPad C2 solves the biggest problem with home office treadmills: footpr
 - The hinge mechanism can be felt slightly underfoot
 - Belt is relatively narrow, requiring focused walking
 
-### 2. UREVO 2 in 1 Under Desk Treadmill
+### 2. [UREVO 2 in 1 Under Desk Treadmill](https://www.amazon.com/s?k=UREVO%202%20in%201%20Under%20Desk%20Treadmill&tag=gear.toolrouteai-20)
 
 **Best for:** Budget-conscious buyers wanting durability
 **Price:** $250-$300

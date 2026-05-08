@@ -33,7 +33,7 @@ To successfully accommodate both writing and a mouse, a desk pad must possess a 
 
 ## Top Picks: The Best Desk Pads for Writing and Mouse
 
-### 1. Grovemade Matte Desk Pad
+### 1. [Grovemade Matte Desk Pad](https://www.amazon.com/s?k=Grovemade%20Matte%20Desk%20Pad&tag=gear.toolrouteai-20)
 
 **Best for:** Professionals wanting a premium, dual-purpose surface
 **Price:** $50-$90
@@ -56,7 +56,7 @@ Available in multiple sizes, the medium (26" x 11.5") and large (38" x 11.5") di
 - Linoleum edges can feel slightly sharp against wrists initially
 - Requires occasional dusting as the matte texture grips fine particles
 
-### 2. Orbitkey Desk Mat
+### 2. [Orbitkey Desk Mat](https://www.amazon.com/s?k=Orbitkey%20Desk%20Mat&tag=gear.toolrouteai-20)
 
 **Best for:** Organization enthusiasts and minimalist setups
 **Price:** $80-$100
@@ -79,7 +79,7 @@ Furthermore, the mat features a built-in polycarbonate toolbar along the top edg
 - Synthetic polyurethane material can run warm under wrists during summer
 - Edges may curl slightly upon initial unboxing
 
-### 3. Satechi Eco-Leather Desk Mate
+### 3. [Satechi Eco-Leather Desk Mate](https://www.amazon.com/s?k=Satechi%20Eco-Leather%20Desk%20Mate&tag=gear.toolrouteai-20)
 
 **Best for:** Budget-conscious [home office](/posts/how-to-improve-home-office-acoustics/) workers
 **Price:** $35-$45
@@ -102,7 +102,7 @@ Mouse tracking is reliable and consistent. The surface has a subtle faux-grain t
 - Lacks a high-friction rubber base, which may cause sliding on heavily polished glass
 - Faux-grain texture looks slightly synthetic under bright [lighting](/posts/home-office-lighting-for-eye-strain/)
 
-### 4. Harber London Leather Desk Mat
+### 4. [Harber London Leather Desk Mat](https://www.amazon.com/s?k=Harber%20London%20Leather%20Desk%20Mat&tag=gear.toolrouteai-20)
 
 **Best for:** Executive setups and luxury aesthetics
 **Price:** $120-$160
@@ -125,7 +125,7 @@ The leather surface is naturally micro-textured, meaning optical and laser mice 
 - Requires occasional leather conditioning to prevent drying and cracking
 - Not suitable for users who frequently spill liquids at their desk
 
-### 5. DeltaHub Minimalist Desk Pad
+### 5. [DeltaHub Minimalist Desk Pad](https://www.amazon.com/s?k=DeltaHub%20Minimalist%20Desk%20Pad&tag=gear.toolrouteai-20)
 
 **Best for:** Ergonomic setups and heavy mouse users
 **Price:** $40-$50

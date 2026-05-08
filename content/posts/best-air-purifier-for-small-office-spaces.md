@@ -33,7 +33,7 @@ Running an air purifier equipped with a True HEPA filter and an activated carbon
 
 The models selected below have been evaluated on their filtration efficiency, decibel output on low and medium settings, footprint, and ongoing maintenance costs.
 
-### 1. Coway Airmega AP-1512HH Mighty
+### 1. [Coway Airmega AP-1512HH Mighty](https://www.amazon.com/s?k=Coway%20Airmega%20AP-1512HH%20Mighty&tag=gear.toolrouteai-20)
 
 **Best for:** Overall performance and energy efficiency
 **Price:** $180-$230
@@ -52,7 +52,7 @@ What makes it ideal for a [workspace](/posts/home-office-desk-depth-guide/) is i
 - Glossy front panel attracts visible dust and fingerprints
 - The top-mounted light can be distracting, though it can be toggled off
 
-### 2. Levoit Core 300 True HEPA
+### 2. [Levoit Core 300 True HEPA](https://www.amazon.com/s?k=Levoit%20Core%20300%20True%20HEPA&tag=gear.toolrouteai-20)
 
 **Best for:** Budget-conscious buyers and tight desk corners
 **Price:** $85-$100
@@ -71,7 +71,7 @@ Despite its compact size (8.7 by 8.7 by 14.2 inches), it features a legitimate T
 - High fan speed is noticeably loud (50 decibels)
 - Lacks a smart sensor or auto mode to adjust speeds dynamically
 
-### 3. Blueair Blue Pure 411a Max
+### 3. [Blueair Blue Pure 411a Max](https://www.amazon.com/s?k=Blueair%20Blue%20Pure%20411a%20Max&tag=gear.toolrouteai-20)
 
 **Best for:** Aesthetic integration and whisper-quiet operation
 **Price:** $110-$140
@@ -90,7 +90,7 @@ It utilizes Blueair's proprietary HEPASilent technology, which combines electros
 - Proprietary filtration tech is technically not standard True HEPA (though performance is comparable)
 - Minimalist design means no air quality sensors or auto-adjust features
 
-### 4. Winix 5500-2 Air Purifier
+### 4. [Winix 5500-2 Air Purifier](https://www.amazon.com/s?k=Winix%205500-2%20Air%20Purifier&tag=gear.toolrouteai-20)
 
 **Best for:** Offices with heavy odors or nearby pets
 **Price:** $140-$170

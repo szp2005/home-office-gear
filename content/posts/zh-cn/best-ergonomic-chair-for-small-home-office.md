@@ -11,6 +11,8 @@ type: "informational"
 tags: ["ergonomic", "chair", "small", "home"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # 小型家庭办公最佳人体工学椅：不占空间的紧凑型推荐
 
 **TL;DR**

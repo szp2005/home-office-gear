@@ -20,15 +20,15 @@ The Herman Miller Aeron is iconic, but at $1,600+, it's out of reach for many. D
 
 Here are our top budget picks that will keep your back happy without breaking the bank.
 
-## 1. The Value King: Sihoo M57
+## 1. [The Value King: Sihoo M57](https://www.amazon.com/s?k=The%20Value%20King%3A%20Sihoo%20M57&tag=gear.toolrouteai-20)
 The Sihoo M57 remains the best-selling budget ergonomic chair for a reason. It features a full mesh design, adjustable lumbar support, and 3D armrests—features usually reserved for chairs twice the price.
 - **Price**: Approx. $220.
 
-## 2. The Stylish Minimalist: IKEA MARKUS
+## 2. [The Stylish Minimalist: IKEA MARKUS](https://www.amazon.com/s?k=The%20Stylish%20Minimalist%3A%20IKEA%20MARKUS&tag=gear.toolrouteai-20)
 The MARKUS is a classic. It lacks some of the fine-tuning of the Sihoo, but its high backrest and simple tilt mechanism are rock-solid. It’s the "buy it once and forget it" chair.
 - **Price**: Approx. $190.
 
-## 3. The Modern Contender: Branch Daily Chair
+## 3. [The Modern Contender: Branch Daily Chair](https://www.amazon.com/s?k=The%20Modern%20Contender%3A%20Branch%20Daily%20Chair&tag=gear.toolrouteai-20)
 Branch has disrupted the [office furniture](/posts/mesh-vs-leather-office-chair-for-durability/) market by selling direct-to-consumer. The Daily Chair is stylish, compact, and designed specifically for [home office](/posts/how-to-choose-a-home-office-desk-size/) aesthetics.
 - **Price**: Approx. $250.
 

@@ -11,6 +11,8 @@ type: "informational"
 tags: ["monitor", "arm", "dual", "monitors"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Best Monitor Arm for Dual Monitors: Home Office Buying Guide (2024)
 
 ---

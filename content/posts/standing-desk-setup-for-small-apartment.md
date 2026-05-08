@@ -11,6 +11,8 @@ type: "informational"
 tags: ["standing", "desk", "setup", "small"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Standing Desk Setup for Small Apartment: Budget Fixes That Actually Work
 
 **TL;DR**

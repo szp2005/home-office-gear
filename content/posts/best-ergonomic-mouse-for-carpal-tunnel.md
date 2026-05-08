@@ -22,13 +22,13 @@ Standard flat mice force your forearm to "twist" (pronation), putting pressure o
 
 ## Top Picks for 2026
 
-### 1. The Vertical Standard: Logitech MX Vertical 2
+### 1. [The Vertical Standard: Logitech MX Vertical 2](https://www.amazon.com/s?k=The%20Vertical%20Standard%3A%20Logitech%20MX%20Vertical%202&tag=gear.toolrouteai-20)
 The successor to the legendary MX Vertical, the v2 features improved silent clicks and a more refined 57-degree angle. It’s the perfect balance between a traditional mouse and a radical ergonomic tool.
 
-### 2. The Precision Trackball: Kensington Expert Mouse Wireless
+### 2. [The Precision Trackball: Kensington Expert Mouse Wireless](https://www.amazon.com/s?k=The%20Precision%20Trackball%3A%20Kensington%20Expert%20Mouse%20Wireless&tag=gear.toolrouteai-20)
 Trackballs are often the ultimate solution for CTS because your **wrist doesn't move at all**. You control the cursor with your fingers, allowing your wrist to rest on a plush pad.
 
-### 3. The Boutique Choice: Contour Unimouse
+### 3. [The Boutique Choice: Contour Unimouse](https://www.amazon.com/s?k=The%20Boutique%20Choice%3A%20Contour%20Unimouse&tag=gear.toolrouteai-20)
 This is the "Transformer" of mice. You can adjust the angle of the tilt from 35 to 70 degrees, allowing you to find the exact millimeter of comfort for your specific hand shape.
 
 ## What to Look for

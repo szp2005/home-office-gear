@@ -11,6 +11,8 @@ type: "informational"
 tags: ["reduce", "cable", "clutter", "desk"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # 如何减少办公桌上的线缆杂乱：一份实用、直截了当的指南
 
 **太长不看 (TL;DR)**

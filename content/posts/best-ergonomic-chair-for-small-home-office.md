@@ -11,6 +11,8 @@ type: "informational"
 tags: ["ergonomic", "chair", "small", "home"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Best Ergonomic Chair for Small Home Office: Compact Picks That Don't Eat Your Room
 
 **TL;DR**

@@ -31,7 +31,7 @@ Furthermore, wide desks often involve larger distances between grommet holes. If
 
 ## Top Under Desk Cable Trays for Wide Desks
 
-### 1. Stand Up Desk Store 72-Inch Under Desk Cable Management Tray
+### 1. [Stand Up Desk Store 72-Inch Under Desk Cable Management Tray](https://www.amazon.com/s?k=Stand%20Up%20Desk%20Store%2072-Inch%20Under%20Desk%20Cable%20Management%20Tray&tag=gear.toolrouteai-20)
 
 **Best for:** Ultra-wide [standing desks](/posts/ai-integrated-desk-height-adjustment-automatic/) (72+ inches) and heavy power users
 **Price:** $50-$70
@@ -50,7 +50,7 @@ Its powder-coated steel construction ensures it will not flex, even when loaded 
 - Installation can be awkward for one person due to the 72-inch length
 - May interfere with certain [monitor](/posts/best-portable-monitor-for-work-from-home/) arm clamps if positioned too close to the rear edge
 
-### 2. VIVO Extra Long 43-Inch Steel Cable Tray
+### 2. [VIVO Extra Long 43-Inch Steel Cable Tray](https://www.amazon.com/s?k=VIVO%20Extra%20Long%2043-Inch%20Steel%20Cable%20Tray&tag=gear.toolrouteai-20)
 
 **Best for:** Multi-monitor setups on standard wide desks (60 to 72 inches)
 **Price:** $30-$45
@@ -69,7 +69,7 @@ The mesh also offers endless tie-down points. You can use velcro straps or zip t
 - Open mesh aesthetic is more industrial and less sleek than solid trays
 - Does not span the entire length of desks wider than 60 inches
 
-### 3. Humanscale NeatTech Cable Management System (Large)
+### 3. [Humanscale NeatTech Cable Management System (Large)](https://www.amazon.com/s?k=Humanscale%20NeatTech%20Cable%20Management%20System%20%28Large%29&tag=gear.toolrouteai-20)
 
 **Best for:** Premium setups requiring easy access and soft mesh flexibility
 **Price:** $120-$150
@@ -88,7 +88,7 @@ This system is exceptionally lightweight and forgiving during installation. Beca
 - Premium price point compared to metal alternatives
 - Fabric can sag slightly if unevenly loaded with heavy items
 
-### 4. Monoprice Under Desk Steel Cable Tray (47-Inch)
+### 4. [Monoprice Under Desk Steel Cable Tray (47-Inch)](https://www.amazon.com/s?k=Monoprice%20Under%20Desk%20Steel%20Cable%20Tray%20%2847-Inch%29&tag=gear.toolrouteai-20)
 
 **Best for:** Budget-conscious buyers needing rigid structural support
 **Price:** $25-$35
@@ -107,7 +107,7 @@ The solid bottom provides a stable shelf for mounting power strips using double-
 - Fewer tie-down points than wire mesh alternatives
 - Solid design offers less ventilation for hot power bricks
 
-### 5. Uplift Desk Advanced Wire Management Tray (Large)
+### 5. [Uplift Desk Advanced Wire Management Tray (Large)](https://www.amazon.com/s?k=Uplift%20Desk%20Advanced%20Wire%20Management%20Tray%20%28Large%29&tag=gear.toolrouteai-20)
 
 **Best for:** Seamless integration with existing standing desks
 **Price:** $60-$80

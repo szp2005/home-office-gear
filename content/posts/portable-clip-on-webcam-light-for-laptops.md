@@ -41,7 +41,7 @@ If you are highly mobile, a light with an internal battery is essential. Look fo
 
 Here is our curated list of the best portable clip-on webcam lights for laptops available this year, evaluated for professionals and creators.
 
-### 1. Lume Cube Panel Mini
+### 1. [Lume Cube Panel Mini](https://www.amazon.com/s?k=Lume%20Cube%20Panel%20Mini&tag=gear.toolrouteai-20)
 
 **Best for:** Remote professionals and frequent travelers
 **Price:** $59-$69
@@ -58,7 +58,7 @@ The Lume Cube Panel Mini is widely considered the gold standard for portable lap
 - Premium price point for its size
 - Suction mount requires a flat, smooth surface on the back of the laptop
 
-### 2. Logitech Litra Glow
+### 2. [Logitech Litra Glow](https://www.amazon.com/s?k=Logitech%20Litra%20Glow&tag=gear.toolrouteai-20)
 
 **Best for:** Home office setups and desktop replacement laptops
 **Price:** $55-$65
@@ -75,7 +75,7 @@ While slightly larger than the Lume Cube, the Logitech Litra Glow excels in prov
 - Requires a constant USB connection (no internal battery)
 - Slightly bulkier than other travel-focused options
 
-### 3. NexiGo Clip-on Ring Light
+### 3. [NexiGo Clip-on Ring Light](https://www.amazon.com/s?k=NexiGo%20Clip-on%20Ring%20Light&tag=gear.toolrouteai-20)
 
 **Best for:** Budget-conscious buyers and casual video callers
 **Price:** $15-$25
@@ -93,7 +93,7 @@ If you need a quick, inexpensive fix for poorly lit zoom calls, the NexiGo Clip-
 - Plastic build quality feels somewhat fragile
 - Inline remote can be cumbersome on a cluttered desk
 
-### 4. Ulanzi VL49 RGB
+### 4. [Ulanzi VL49 RGB](https://www.amazon.com/s?k=Ulanzi%20VL49%20RGB&tag=gear.toolrouteai-20)
 
 **Best for:** Creative streamers and content creators
 **Price:** $25-$35
@@ -110,7 +110,7 @@ For those who want to add a splash of color to their background or need a highly
 - Often sold without a laptop clip included
 - Boxy design isn't as sleek as other options
 
-### 5. Razer Ring Light (12-inch)
+### 5. [Razer Ring Light (12-inch)](https://www.amazon.com/s?k=Razer%20Ring%20Light%20%2812-inch%29&tag=gear.toolrouteai-20)
 
 **Best for:** Dedicated streaming setups and large laptops
 **Price:** $70-$85

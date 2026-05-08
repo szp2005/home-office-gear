@@ -11,6 +11,8 @@ type: "informational"
 tags: ["monitor", "arm", "dual", "monitors"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # 最佳双显示器支架：家庭办公选购指南 (2024)
 
 ---

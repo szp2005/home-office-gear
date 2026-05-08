@@ -22,26 +22,26 @@ Here are our top recommendations for home office keyboard trays this year.
 
 ## The Different Types of Trays
 
-### 1. Clamp-On Trays (No Drilling Required)
+### 1. [Clamp-On Trays (No Drilling Required)](https://www.amazon.com/s?k=Clamp-On%20Trays%20%28No%20Drilling%20Required%29&tag=gear.toolrouteai-20)
 Perfect for renters or those with expensive glass/stone desks. These use C-clamps to attach to the edge of the desk.
 - **Top Choice**: *Vivo Clamp-On Large Keyboard Tilting Tray.*
 
-### 2. Track-Mounted Trays (Professional/Drill-In)
+### 2. [Track-Mounted Trays (Professional/Drill-In)](https://www.amazon.com/s?k=Track-Mounted%20Trays%20%28Professional/Drill-In%29&tag=gear.toolrouteai-20)
 These allow you to slide the keyboard under the desk entirely when not in use. They often offer negative tilt (tilting the keyboard away from you), which is the most ergonomic position.
 - **Top Choice**: *3M Under-Desk Keyboard Tray.*
 
-### 3. Wall-Mounted / Fixed Trays
+### 3. [Wall-Mounted / Fixed Trays](https://www.amazon.com/s?k=Wall-Mounted%20/%20Fixed%20Trays&tag=gear.toolrouteai-20)
 Specialized for [standing](/posts/standing-desk-setup-for-small-apartment/) stations or very small niches.
 
 ## Top 3 Recommendations
 
-### 1. 3M Adjustable Keyboard Tray (AKT150LE)
+### 1. [3M Adjustable Keyboard Tray (AKT150LE)](https://www.amazon.com/s?k=3M%20Adjustable%20Keyboard%20Tray%20%28AKT150LE%29&tag=gear.toolrouteai-20)
 This is the "gold standard" for [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/). It features a gel wrist rest and a highly adjustable track. The mouse platform is independent, meaning you can keep it level even if the keyboard is tilted.
 
-### 2. Fellowes Office Suites Underdesk Keyboard Drawer
+### 2. [Fellowes Office Suites Underdesk Keyboard Drawer](https://www.amazon.com/s?k=Fellowes%20Office%20Suites%20Underdesk%20Keyboard%20Drawer&tag=gear.toolrouteai-20)
 A budget-friendly option for those who just need a simple sliding drawer. It features three height adjustments to help you find your comfort zone.
 
-### 3. Mount-It! Clamp-On Keyboard Tray
+### 3. [Mount-It! Clamp-On Keyboard Tray](https://www.amazon.com/s?k=Mount-It%21%20Clamp-On%20Keyboard%20Tray&tag=gear.toolrouteai-20)
 For those who want zero-tool installation. It’s extra-wide, meaning it can hold a full-sized keyboard and a large mouse pad with room to spare.
 
 ## Installation Tips

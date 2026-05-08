@@ -23,7 +23,7 @@ Finding the right boom arm requires balancing aesthetic preferences with mechani
 
 ## Top Picks for Clean Cable Routing
 
-### 1. Elgato Wave Mic Arm LP
+### 1. [Elgato Wave Mic Arm LP](https://www.amazon.com/s?k=Elgato%20Wave%20Mic%20Arm%20LP&tag=gear.toolrouteai-20)
 
 **Best for:** Streamers and creators wanting an unobstructed view
 **Price:** $99-$119
@@ -42,7 +42,7 @@ This stand mounts via a padded C-clamp and supports [microphones](/posts/differe
 - Limited vertical height adjustment compared to traditional arms
 - Takes up more horizontal desk space when fully folded back
 
-### 2. Rode PSA1+ Professional Studio Arm
+### 2. [Rode PSA1+ Professional Studio Arm](https://www.amazon.com/s?k=Rode%20PSA1%2B%20Professional%20Studio%20Arm&tag=gear.toolrouteai-20)
 
 **Best for:** Professional podcasters with heavy microphones
 **Price:** $129-$149
@@ -61,7 +61,7 @@ Integrated clips along the upper and lower arms guide the cable perfectly undern
 - Neoprene covers can gather dust over time
 - Higher price point than standard studio arms
 
-### 3. Logitech for Creators Compass
+### 3. [Logitech for Creators Compass](https://www.amazon.com/s?k=Logitech%20for%20Creators%20Compass&tag=gear.toolrouteai-20)
 
 **Best for:** Camera-facing setups requiring a sleek aesthetic
 **Price:** $99-$109
@@ -80,7 +80,7 @@ Routing the cable involves pressing it into the track and snapping the clips ove
 - Plastic snap clips for the cable channel can be stiff to remove
 - Friction hinges require manual tightening unlike spring-loaded arms
 
-### 4. Gator Frameworks Deluxe Desk-Mounted Boom Arm
+### 4. [Gator Frameworks Deluxe Desk-Mounted Boom Arm](https://www.amazon.com/s?k=Gator%20Frameworks%20Deluxe%20Desk-Mounted%20Boom%20Arm&tag=gear.toolrouteai-20)
 
 **Best for:** Heavy-duty studio setups
 **Price:** $89-$119
@@ -99,7 +99,7 @@ The cable management system requires you to slide the plastic covers off, lay th
 - Sliding covers can be difficult to align if the cable is very thick
 - The base cylinder is quite large and requires significant desk clearance
 
-### 5. IXTech Premium Boom Arm
+### 5. [IXTech Premium Boom Arm](https://www.amazon.com/s?k=IXTech%20Premium%20Boom%20Arm&tag=gear.toolrouteai-20)
 
 **Best for:** Budget-conscious creators needing solid cable channels
 **Price:** $45-$60

@@ -55,7 +55,7 @@ The main drawback of the split ergonomic keyboard is the steep learning curve. T
 
 If you are ready to make the transition to a healthier typing posture, here are the standout models currently leading the market.
 
-### 1. ZSA Moonlander Mark II
+### 1. [ZSA Moonlander Mark II](https://www.amazon.com/s?k=ZSA%20Moonlander%20Mark%20II&tag=gear.toolrouteai-20)
 
 **Best for:** Software engineers and power users
 **Price:** $365-$400
@@ -72,7 +72,7 @@ The ZSA Moonlander remains the gold standard for high-end split ergonomic keyboa
 - Premium price tag makes it a significant investment
 - Tenting system can feel slightly unstable at maximum angles
 
-### 2. Kinesis Advantage360
+### 2. [Kinesis Advantage360](https://www.amazon.com/s?k=Kinesis%20Advantage360&tag=gear.toolrouteai-20)
 
 **Best for:** Severe RSI sufferers and heavy typists
 **Price:** $439-$499
@@ -89,7 +89,7 @@ The Advantage360 takes [ergonomics](/posts/home-office-posture-checklist/) to th
 - Exceptionally bulky and practically impossible to travel with
 - The steepest learning curve due to the bowl shape
 
-### 3. Logitech Ergo K860
+### 3. [Logitech Ergo K860](https://www.amazon.com/s?k=Logitech%20Ergo%20K860&tag=gear.toolrouteai-20)
 
 **Best for:** Office workers wanting an easy transition
 **Price:** $119-$130
@@ -106,7 +106,7 @@ For those who want ergonomic benefits without relearning how to type or spending
 - Fixed split design does not allow you to adjust shoulder width
 - Membrane keys lack the tactile feedback of mechanical switches
 
-### 4. Glove80
+### 4. [Glove80](https://www.amazon.com/s?k=Glove80&tag=gear.toolrouteai-20)
 
 **Best for:** Typists with smaller hands and travel needs
 **Price:** $399-$420

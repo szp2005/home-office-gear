@@ -54,7 +54,7 @@ The Lume Cube Cordless Ring Light offers a versatile 18-inch diameter with built
 - The included tripod base takes up considerable desk space
 - Maximum brightness drops slightly as the battery depletes
 
-### 2. Elgato Ring Light
+### 2. [Elgato Ring Light](https://www.amazon.com/s?k=Elgato%20Ring%20Light&tag=gear.toolrouteai-20)
 
 **Best for:** Streamers and dedicated desk setups
 **Price:** $189-$199

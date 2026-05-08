@@ -23,7 +23,7 @@ In this comprehensive guide, we will break down the top models available, analyz
 
 ## Top Picks for Mac Users
 
-### 1. Logitech Ergo K860 for Mac
+### 1. [Logitech Ergo K860 for Mac](https://www.amazon.com/s?k=Logitech%20Ergo%20K860%20for%20Mac&tag=gear.toolrouteai-20)
 
 **Best for:** General professionals and developers dealing with mild to moderate wrist strain
 **Price:** $119-$129
@@ -42,7 +42,7 @@ The Logitech Ergo K860 for Mac takes an already excellent ergonomic design and t
 - The unibody design means you cannot adjust the split angle or distance
 - Membrane scissor keys lack the deep tactile feedback of mechanical switches
 
-### 2. Keychron Q8 Max
+### 2. [Keychron Q8 Max](https://www.amazon.com/s?k=Keychron%20Q8%20Max&tag=gear.toolrouteai-20)
 
 **Best for:** Mechanical keyboard enthusiasts who want a premium, customizable Alice layout
 **Price:** $199-$219
@@ -61,7 +61,7 @@ For those who refuse to compromise on typing feel, the Keychron Q8 Max delivers 
 - Does not include a palm rest, which must be purchased separately for proper posture
 - The layout requires a slight learning curve, particularly the split spacebar
 
-### 3. Kinesis Advantage360 Professional
+### 3. [Kinesis Advantage360 Professional](https://www.amazon.com/s?k=Kinesis%20Advantage360%20Professional&tag=gear.toolrouteai-20)
 
 **Best for:** Severe RSI sufferers and extreme power users requiring maximum adjustability
 **Price:** $449-$469
@@ -80,7 +80,7 @@ The Kinesis Advantage360 Professional is the undisputed heavyweight champion of 
 - Premium price point makes it an investment rather than a casual purchase
 - ZMK programming can be technical for users unfamiliar with GitHub integrations
 
-### 4. Logitech Wave Keys for Mac
+### 4. [Logitech Wave Keys for Mac](https://www.amazon.com/s?k=Logitech%20Wave%20Keys%20for%20Mac&tag=gear.toolrouteai-20)
 
 **Best for:** Beginners to ergonomics seeking a familiar, compact typing experience
 **Price:** $59-$69

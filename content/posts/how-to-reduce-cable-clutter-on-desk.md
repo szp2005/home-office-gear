@@ -11,6 +11,8 @@ type: "informational"
 tags: ["reduce", "cable", "clutter", "desk"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # Desk Cable Management: A Practical, No-Nonsense Guide
 
 **TL;DR**

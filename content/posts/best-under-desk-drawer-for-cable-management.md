@@ -23,7 +23,7 @@ Mounting a functional drawer underneath your [workspace](/posts/home-office-desk
 
 ## Top Under Desk Drawers for Hiding Cords
 
-### 1. Editor's Choice: Vivo Extra Large Under Desk Drawer
+### 1. [Editor's Choice: Vivo Extra Large Under Desk Drawer](https://www.amazon.com/s?k=Editor%27s%20Choice%3A%20Vivo%20Extra%20Large%20Under%20Desk%20Drawer&tag=gear.toolrouteai-20)
 
 **Best for:** Deep [standing desks](/posts/ai-integrated-desk-height-adjustment-automatic/) and extensive peripheral charging
 **Price:** $45-$60
@@ -42,7 +42,7 @@ Constructed from heavy-duty steel, it supports up to 11 pounds of gear, making i
 - Requires permanent screw installation (not suitable for glass or thin particleboard desks)
 - The 16.5-inch depth means it will not fit on shallow desks with crossbars
 
-### 2. Best for Laptops & Docks: Penn Elcom Under Desk Laptop Security Drawer
+### 2. [Best for Laptops & Docks: Penn Elcom Under Desk Laptop Security Drawer](https://www.amazon.com/s?k=Best%20for%20Laptops%20%26%20Docks%3A%20Penn%20Elcom%20Under%20Desk%20Laptop%20Security%20Drawer&tag=gear.toolrouteai-20)
 
 **Best for:** Storing and powering active laptops or docking stations
 **Price:** $85-$105
@@ -61,7 +61,7 @@ You can safely lock your MacBook or Windows workstation inside the drawer while 
 - Considerably heavier than plastic or mesh alternatives
 - Higher price point compared to standard organizational drawers
 
-### 3. Best No-Drill Clamp Mount: Stand Up Desk Store Slide-Out Drawer
+### 3. [Best No-Drill Clamp Mount: Stand Up Desk Store Slide-Out Drawer](https://www.amazon.com/s?k=Best%20No-Drill%20Clamp%20Mount%3A%20Stand%20Up%20Desk%20Store%20Slide-Out%20Drawer&tag=gear.toolrouteai-20)
 
 **Best for:** Glass desks, rental offices, and quick installations
 **Price:** $50-$70
@@ -80,7 +80,7 @@ The drawer features a sturdy plastic tray suspended by metal tracks and clamps. 
 - Clamps take up roughly 2 inches of top desk space
 - Lower weight capacity (around 5-7 lbs) compared to screw-in models
 
-### 4. Best Minimalist Pick: HumanCentric Under Desk Storage Drawer
+### 4. [Best Minimalist Pick: HumanCentric Under Desk Storage Drawer](https://www.amazon.com/s?k=Best%20Minimalist%20Pick%3A%20HumanCentric%20Under%20Desk%20Storage%20Drawer&tag=gear.toolrouteai-20)
 
 **Best for:** Streamlined setups focusing on small accessories and phones
 **Price:** $35-$45
@@ -99,7 +99,7 @@ The drawer pulls out on precision ball-bearing slides, offering a surprisingly p
 - Limited internal volume; cannot hold full-sized [keyboards](/posts/split-ergonomic-keyboard-vs-standard-2026/) or larger laptops
 - Only available in a single color option (black)
 
-### 5. Best Budget: Mount-It! Under Desk Pull Out Drawer
+### 5. [Best Budget: Mount-It! Under Desk Pull Out Drawer](https://www.amazon.com/s?k=Best%20Budget%3A%20Mount-It%21%20Under%20Desk%20Pull%20Out%20Drawer&tag=gear.toolrouteai-20)
 
 **Best for:** Cost-conscious buyers needing basic cable routing
 **Price:** $25-$35
@@ -118,7 +118,7 @@ While it lacks the premium feel of all-steel construction or lockable features, 
 - Plastic tray can feel slightly flimsy under maximum weight
 - Track movement is relatively stiff compared to ball-bearing competitors
 
-### 6. Best Eco-Friendly Pick: Oakywood Felt & Wood Under Desk Drawer
+### 6. [Best Eco-Friendly Pick: Oakywood Felt & Wood Under Desk Drawer](https://www.amazon.com/s?k=Best%20Eco-Friendly%20Pick%3A%20Oakywood%20Felt%20%26%20Wood%20Under%20Desk%20Drawer&tag=gear.toolrouteai-20)
 
 **Best for:** Premium aesthetics and protecting delicate glass screens
 **Price:** $120-$140
@@ -137,7 +137,7 @@ Because the rear is completely unobstructed, routing braided cables or thick cha
 - The most expensive drawer on this list
 - Smaller dimensions limit it to accessories and tablets, rather than laptops
 
-### 7. Best Ergonomic Combo: EUREKA ERGONOMIC Sliding Keyboard & Storage Tray
+### 7. [Best Ergonomic Combo: EUREKA ERGONOMIC Sliding Keyboard & Storage Tray](https://www.amazon.com/s?k=Best%20Ergonomic%20Combo%3A%20EUREKA%20ERGONOMIC%20Sliding%20Keyboard%20%26%20Storage%20Tray&tag=gear.toolrouteai-20)
 
 **Best for:** Dual-purpose [ergonomics](/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/) and peripheral cable routing
 **Price:** $70-$90

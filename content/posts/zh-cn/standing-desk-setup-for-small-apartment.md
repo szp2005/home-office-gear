@@ -11,6 +11,8 @@ type: "informational"
 tags: ["standing", "desk", "setup", "small"]
 ---
 
+_As an Amazon Associate we earn from qualifying purchases. This post may contain affiliate links._
+
 # 小公寓升降桌配置：真正实用的平价解决方案
 
 **太长不看 (TL;DR)**
