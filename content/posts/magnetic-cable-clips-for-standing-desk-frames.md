@@ -112,3 +112,9 @@ Hard plastic or bare metal magnets can scratch powder-coated steel if dragged fo
 
 ### How far apart should I space my cable clips on a desk leg?
 For optimal vertical routing without sagging, space your magnetic cable clips roughly 12 to 16 inches apart along the desk leg. You may need them closer together near the top where the cables bend to travel under the desktop.
+
+---
+
+## Related Reading
+
+- [Standing Desk CPU Mount: 5-Step Under-Desk Setup Guide](/posts/how-to-mount-cpu-under-standing-desk/)

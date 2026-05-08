@@ -114,6 +114,8 @@ You should rest the fleshy heel of your palm on the highest point of the gel pad
 
 ## Related Reading
 
+- [Guide to Ergonomic Keyboard Tilt for Wrists: Setup Rules](/posts/guide-to-ergonomic-keyboard-tilt-for-wrists/)
+
 - [Best Under Desk CPU Holder Mount Brackets in 2026](/posts/under-desk-cpu-holder-mount-bracket-2026/)
 
 - [Custom Ergonomic Wrist Rest for Mechanical Keyboard: 2026 Guide](/posts/custom-ergonomic-wrist-rest-for-mechanical-keyboard/)

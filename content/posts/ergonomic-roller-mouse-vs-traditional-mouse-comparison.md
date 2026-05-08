@@ -140,6 +140,8 @@ You do not need a special keyboard, but low-profile, standard straight keyboards
 
 ## Related Reading
 
+- [Ergonomic Mouse Wrist Rest vs Palm Support: Top 2026 Picks](/posts/ergonomic-mouse-wrist-rest-vs-palm-support/)
+
 - [Glass vs Wooden Desk for Optical Mouse Tracking: 2026 Guide](/posts/glass-vs-wooden-desk-for-optical-mouse-tracking/)
 
 - [Best Monitor Arm for Dual Monitors in 2026 (Home Office)](/posts/best-monitor-arm-for-dual-monitors-home-office/)
