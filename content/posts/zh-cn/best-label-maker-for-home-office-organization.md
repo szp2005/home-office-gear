@@ -234,4 +234,6 @@ Brother 的覆膜 TZe 色带通常提供卓越的耐用性，这些色带具有�
 
 - [The Ultimate Guide to Home Office Lighting for Eye Strain](/posts/home-office-lighting-for-eye-strain/)
 
+- [The Ultimate Guide to Home Office Lighting for Eye Strain](/posts/home-office-lighting-for-eye-strain/)
+
 - [Best Ergonomic Chair for Small Home Office (Compact 2026 Picks)](/posts/best-ergonomic-chair-for-small-home-office/)

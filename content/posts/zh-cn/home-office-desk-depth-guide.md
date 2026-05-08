@@ -195,6 +195,10 @@ L 型办公桌通常具有不同的深度。“主”部分的深度可能是标
 
 ## Related Reading
 
+- [Ergonomic Dual Monitor Layout: 7-Step Setup Guide](/posts/how-to-setup-ergonomic-dual-monitor-layout/)
+
+- [Home Office Desk Size: Best Dimensions for Productivity](/posts/how-to-choose-a-home-office-desk-size/)
+
 - [Home Office Desk Size: Best Dimensions for Productivity](/posts/how-to-choose-a-home-office-desk-size/)
 
 - [Best Desk Pad for Writing and Mouse Use in 2026](/posts/best-desk-pad-for-writing-and-mouse/)

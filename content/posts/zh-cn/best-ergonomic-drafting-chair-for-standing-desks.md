@@ -228,4 +228,8 @@ Veer 提供的下背部腰部支撑直接且高效，自然有助于保持下脊
 
 ## Related Reading
 
+- [Balance Ball Chair: 7-Step Guide to Perfect Posture](/posts/how-to-use-a-balance-ball-chair/)
+
+- [Best AI-Integrated Desk: Height Adjustment Automatic Systems 2026](/posts/ai-integrated-desk-height-adjustment-automatic/)
+
 - [Best AI-Integrated Desk: Height Adjustment Automatic Systems 2026](/posts/ai-integrated-desk-height-adjustment-automatic/)

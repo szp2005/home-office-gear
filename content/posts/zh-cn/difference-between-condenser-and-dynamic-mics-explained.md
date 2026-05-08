@@ -167,3 +167,5 @@ USB 麦克风可以利用这两种内部技术。USB 麦克风只是将标准麦
 ## Related Reading
 
 - [Streaming Microphone Placement: 5-Step Audio Guide](/posts/how-to-position-microphone-for-streaming-audio/)
+
+- [Streaming Microphone Placement: 5-Step Audio Guide](/posts/how-to-position-microphone-for-streaming-audio/)

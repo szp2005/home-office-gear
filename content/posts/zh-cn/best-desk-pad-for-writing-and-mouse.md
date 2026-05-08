@@ -208,4 +208,8 @@ DeltaHub 最为知名的是它的人体工学腕托，但它的 Minimalist Desk 
 
 ## Related Reading
 
+- [Guide to Proper Mouse Grip Styles for Ergonomics: Stop Pain](/posts/guide-to-proper-mouse-grip-styles-for-ergonomics/)
+
+- [Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?](/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)
+
 - [Effect of Room Humidity on Office Productivity: 2026 Guide](/posts/effect-of-room-humidity-on-office-productivity/)

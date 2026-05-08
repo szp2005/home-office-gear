@@ -178,4 +178,8 @@ Dyson Solarcycle Morph 是台灯类别中的工程奇迹。它使用自定义算
 
 - [Office Window Glare: 7 Best Ways to Reduce Reflections](/posts/how-to-reduce-glare-from-office-windows/)
 
+- [Best Desk Pad for Writing and Mouse Use in 2026](/posts/best-desk-pad-for-writing-and-mouse/)
+
+- [Office Window Glare: 7 Best Ways to Reduce Reflections](/posts/how-to-reduce-glare-from-office-windows/)
+
 - [Best Ergonomic Foot Switch for Productivity Shortcuts in 2026](/posts/best-ergonomic-foot-switch-productivity-shortcuts/)

@@ -131,3 +131,5 @@ _作为Amazon Associate，我们从符合条件的购买中赚取收益。本文
 ## Related Reading
 
 - [Tablet as Second Monitor: 5-Step Setup & Mounting Guide](/posts/how-to-mount-tablet-as-second-monitor/)
+
+- [Tablet as Second Monitor: 5-Step Setup & Mounting Guide](/posts/how-to-mount-tablet-as-second-monitor/)

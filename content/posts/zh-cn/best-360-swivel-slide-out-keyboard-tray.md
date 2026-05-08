@@ -188,4 +188,6 @@ Fellowes 是企业[人体工程学](/zh-cn/posts/home-office-posture-checklist/)
 
 - [Best Ergonomic Footrest for Tall Users in 2026](/posts/ergonomic-footrest-for-tall-users/)
 
+- [Best Ergonomic Footrest for Tall Users in 2026](/posts/ergonomic-footrest-for-tall-users/)
+
 - [Best Ergonomic Drafting Chair for Standing Desks in 2026](/posts/best-ergonomic-drafting-chair-for-standing-desks/)

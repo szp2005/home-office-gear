@@ -198,6 +198,8 @@ For general productivity and aesthetics, synthetic leather (PU leather) desk mat
 
 ## Related Reading
 
+- [Best Under Desk Cable Tray for Wide Desks in 2026](/posts/best-under-desk-cable-tray-for-wide-desks/)
+
 - [Curved vs Flat Monitor for Remote Data Entry: 2026 Guide](/posts/curved-vs-flat-monitor-for-remote-data-entry/)
 
 - [Best Anti Fatigue Mat for Standing Desk on Wood Floors in 2026](/posts/anti-fatigue-mat-for-standing-desk-wood/)

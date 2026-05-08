@@ -141,3 +141,9 @@ _作为Amazon Associate，我们从符合条件的购买中赚取收益。本文
 
 - [Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?](/zh-cn/posts/asymmetric-monitor-light-bar-vs-desk-lamp/)
 - [Best Acoustic Panels for Home Office Soundproofing in 2026](/zh-cn/posts/acoustic-panels-for-home-office-soundproofing/)
+
+---
+
+## Related Reading
+
+- [Benefits of Using an Active Sitting Stool: Core Health Guide](/posts/benefits-of-using-an-active-sitting-stool/)

@@ -176,3 +176,5 @@ Uplift Desk Advanced Wire Management Tray 主要是作为其流行的升降桌�
 ## Related Reading
 
 - [Glass vs Wooden Desk for Optical Mouse Tracking: 2026 Guide](/posts/glass-vs-wooden-desk-for-optical-mouse-tracking/)
+
+- [Glass vs Wooden Desk for Optical Mouse Tracking: 2026 Guide](/posts/glass-vs-wooden-desk-for-optical-mouse-tracking/)

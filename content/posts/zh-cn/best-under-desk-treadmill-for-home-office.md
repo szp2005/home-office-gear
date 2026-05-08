@@ -168,6 +168,8 @@ WalkingPad 凭借其专利的折叠机制彻底改变了市场。这些跑步机
 
 - [Budget Home Office Setup: Ultimate Productivity Guide](/posts/how-to-set-up-a-home-office-on-a-budget/)
 
+- [Budget Home Office Setup: Ultimate Productivity Guide](/posts/how-to-set-up-a-home-office-on-a-budget/)
+
 - [Desk Drawer Organization: Expert Tips for Productivity](/posts/how-to-organize-a-desk-drawer-for-productivity/)
 
 - [Compact Standing Desk Converter Review 2026: Transform Your Small Workspace](/posts/compact-standing-desk-converter-review/)

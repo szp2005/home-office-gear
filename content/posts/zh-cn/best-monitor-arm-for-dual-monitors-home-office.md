@@ -229,3 +229,5 @@ r/homeoffice 上经常出现的一类帖子是，用户买了一个 50 美元的
 ## Related Reading
 
 - [The Best Portable Monitor for Work From Home: Boost Productivity Anywhere](/posts/best-portable-monitor-for-work-from-home/)
+
+- [The Best Portable Monitor for Work From Home: Boost Productivity Anywhere](/posts/best-portable-monitor-for-work-from-home/)
