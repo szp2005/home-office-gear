@@ -1,5 +1,11 @@
 ---
 image: "/og/what-is-the-ideal-desk-height-for-typing.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/standing-desk.jpg"
+  alt: "Standing desk setup showing keyboard-height posture context"
+  caption: "A standing laptop workstation, used to illustrate desk-height and posture guidance."
+  credit: "Standsome Worklifestyle / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/a-woman-standing-while-busy-working-on-her-laptop-5301776/"
 title: "Ideal Desk Height for Typing: Ergonomic Setup Guide"
 description: "Discover exactly what is the ideal desk height for typing to eliminate wrist pain and improve posture. Find your perfect ergonomic setup with our complete guide."
 pubDate: "2026-05-07"

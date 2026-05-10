@@ -1,5 +1,11 @@
 ---
 image: "/og/glass-vs-wooden-desk-for-optical-mouse-tracking.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/keyboard-mouse.jpg"
+  alt: "Mouse and keyboard on a wooden work surface"
+  caption: "A keyboard and mouse workspace, used to illustrate ergonomic input placement."
+  credit: "Alpha En / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/modern-workspace-with-keyboard-and-mouse-31726724/"
 title: "Glass vs Wooden Desk for Optical Mouse Tracking: 2026 Guide"
 description: "Comparing a glass vs wooden desk for optical mouse tracking? Discover which surface offers the best precision, sensor compatibility, and aesthetic for you."
 pubDate: "2026-05-07"

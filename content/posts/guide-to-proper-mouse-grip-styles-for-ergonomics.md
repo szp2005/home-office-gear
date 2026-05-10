@@ -1,5 +1,11 @@
 ---
 image: "/og/guide-to-proper-mouse-grip-styles-for-ergonomics.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/mouse-keyboard-closeup.jpg"
+  alt: "Mouse and keyboard close-up for grip and wrist placement"
+  caption: "Close-up keyboard and mouse placement, used to illustrate grip and wrist-angle discussion."
+  credit: "Abdulla / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/modern-workspace-with-wireless-mouse-and-keyboard-30986854/"
 title: "Guide to Proper Mouse Grip Styles for Ergonomics: Stop Pain"
 description: "Discover the ultimate guide to proper mouse grip styles for ergonomics. Learn how palm, claw, and fingertip grips impact wrist health and find your ideal fit."
 pubDate: "2026-05-07"

@@ -1,5 +1,11 @@
 ---
 image: "/og/how-to-position-microphone-for-streaming-audio.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/monitor-desk.jpg"
+  alt: "Desk setup with monitor and audio-friendly workspace layout"
+  caption: "A complete desk and monitor setup, used to illustrate surface, monitor, and accessory comparisons."
+  credit: "Mint Workspace / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/computer-monitor-on-a-desk-19053211/"
 title: "Streaming Microphone Placement: 5-Step Audio Guide"
 description: "Learn exactly how to position microphone for streaming audio to eliminate keyboard noise, reduce echo, and achieve professional broadcast sound quality."
 pubDate: "2026-05-07"

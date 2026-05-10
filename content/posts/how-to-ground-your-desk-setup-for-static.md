@@ -1,5 +1,11 @@
 ---
 image: "/og/how-to-ground-your-desk-setup-for-static.webp"
+evidenceImage:
+  src: "/media/adsense-phase2/keyboard-mouse.jpg"
+  alt: "Organized keyboard and mouse desk surface for setup checks"
+  caption: "A keyboard and mouse workspace, used to illustrate ergonomic input placement."
+  credit: "Alpha En / Pexels"
+  sourceUrl: "https://www.pexels.com/photo/modern-workspace-with-keyboard-and-mouse-31726724/"
 title: "Ground Your Desk Setup for Static: 5-Step ESD Guide"
 description: "Learn how to ground your desk setup for static electricity. Discover the precise equipment and steps needed to protect expensive PC components from ESD."
 pubDate: "2026-05-07"
