@@ -6,6 +6,24 @@ evidenceImage:
   caption: "A keyboard and mouse workspace, used to illustrate ergonomic input placement."
   credit: "Alpha En / Pexels"
   sourceUrl: "https://www.pexels.com/photo/modern-workspace-with-keyboard-and-mouse-31726724/"
+editorSummary: >-
+  Static problems around a desk can come from dry air, flooring, chair materials, cable
+  routing, and electronics placement. This guide is useful as a troubleshooting sequence
+  rather than a single-product recommendation. Start by reducing static buildup, then protect
+  sensitive equipment, then inspect power and grounding assumptions safely. I kept the
+  editorial focus on practical caution: do not improvise with mains wiring, and separate
+  everyday static annoyance from electrical issues that deserve a qualified technician.
+authorNote: >-
+  For static issues, I start with the low-risk fixes: humidity, mats, chair wheels, and cable
+  layout. If the problem appears tied to outlets or power strips, that is where I stop DIY
+  advice and get proper electrical help.
+manualRelated:
+  - title: "Best Surge Protector for Home Office Setup"
+    url: "/posts/best-surge-protector-for-home-office-setup/"
+  - title: "How to Reduce Cable Clutter on Desk"
+    url: "/posts/how-to-reduce-cable-clutter-on-desk/"
+  - title: "Under Desk Power Strip with Fast Charging"
+    url: "/posts/under-desk-power-strip-with-fast-charging/"
 title: "Ground Your Desk Setup for Static: 5-Step ESD Guide"
 description: "Learn how to ground your desk setup for static electricity. Discover the precise equipment and steps needed to protect expensive PC components from ESD."
 pubDate: "2026-05-07"

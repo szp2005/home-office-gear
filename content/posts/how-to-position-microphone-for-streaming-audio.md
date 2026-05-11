@@ -6,6 +6,24 @@ evidenceImage:
   caption: "A complete desk and monitor setup, used to illustrate surface, monitor, and accessory comparisons."
   credit: "Mint Workspace / Pexels"
   sourceUrl: "https://www.pexels.com/photo/computer-monitor-on-a-desk-19053211/"
+editorSummary: >-
+  Microphone placement is one of the cheapest ways to improve stream or call audio before
+  buying new gear. This guide is most useful if you test distance, angle, gain, and room noise
+  together. I focused the edit on repeatable setup cues: keep the mic close enough for voice
+  clarity, angle it away from breath and keyboard noise, and record short test clips after
+  each change. A good placement should make your voice easier to hear without forcing heavy
+  noise reduction.
+authorNote: >-
+  When checking mic placement, I use a short spoken test and listen for keyboard clicks,
+  breath pops, and room echo. Moving the mic a few inches often does more than changing
+  software filters.
+manualRelated:
+  - title: "Best Mic Pop Filter for Voice Clarity"
+    url: "/posts/best-mic-pop-filter-for-voice-clarity/"
+  - title: "Low Profile Mic Arm for Minimalist Setup"
+    url: "/posts/low-profile-mic-arm-for-minimalist-setup/"
+  - title: "Heavy Duty Vibration Isolation Mic Mount"
+    url: "/posts/heavy-duty-vibration-isolation-mic-mount/"
 title: "Streaming Microphone Placement: 5-Step Audio Guide"
 description: "Learn exactly how to position microphone for streaming audio to eliminate keyboard noise, reduce echo, and achieve professional broadcast sound quality."
 pubDate: "2026-05-07"
