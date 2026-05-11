@@ -134,13 +134,11 @@ In a small space, editing is critical. Limit furniture to a perfectly scaled des
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
-- 💰 [quiet luxury best-value picks](https://www.amazon.com/s?k=quiet%20luxury&tag=gear.toolrouteai-20)
+- 🏆 [quiet luxury bestsellers](https://www.amazon.com/s?k=quiet%20luxury&tag=gear.toolrouteai-20)
+- 💰 [home office best-value picks](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
 - ⭐ [interior design top-rated](https://www.amazon.com/s?k=interior%20design&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

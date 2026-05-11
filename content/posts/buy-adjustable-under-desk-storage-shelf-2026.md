@@ -119,9 +119,8 @@ Ergonomically, you should strictly maintain a minimum of 24 inches of horizontal
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
-- 💰 [desk organization best-value picks](https://www.amazon.com/s?k=desk%20organization&tag=gear.toolrouteai-20)
-- ⭐ [storage solutions top-rated](https://www.amazon.com/s?k=storage%20solutions&tag=gear.toolrouteai-20)
+- 🏆 [desk organization bestsellers](https://www.amazon.com/s?k=desk%20organization&tag=gear.toolrouteai-20)
+- 💰 [ergonomics best-value picks](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- ⭐ [home office top-rated](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-

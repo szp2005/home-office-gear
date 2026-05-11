@@ -129,13 +129,11 @@ Always prioritize ergonomic height. Do not lower your monitor into a poor postur
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [neck pain bestsellers](https://www.amazon.com/s?k=neck%20pain&tag=gear.toolrouteai-20)
+- 🏆 [ergonomics bestsellers](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
 - 💰 [office setup best-value picks](https://www.amazon.com/s?k=office%20setup&tag=gear.toolrouteai-20)
-- ⭐ [posture top-rated](https://www.amazon.com/s?k=posture&tag=gear.toolrouteai-20)
+- ⭐ [neck pain top-rated](https://www.amazon.com/s?k=neck%20pain&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

@@ -210,7 +210,6 @@ Check these top-rated picks on Amazon:
 
 - 🏆 [streaming audio bestsellers](https://www.amazon.com/s?k=streaming%20audio&tag=gear.toolrouteai-20)
 - 💰 [microphone setup best-value picks](https://www.amazon.com/s?k=microphone%20setup&tag=gear.toolrouteai-20)
-- ⭐ [audio engineering top-rated](https://www.amazon.com/s?k=audio%20engineering&tag=gear.toolrouteai-20)
+- ⭐ [podcasting top-rated](https://www.amazon.com/s?k=podcasting&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-

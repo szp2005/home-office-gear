@@ -151,9 +151,8 @@ No. Numpads operate as entirely independent input devices. Your operating system
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [mechanical numpad bestsellers](https://www.amazon.com/s?k=mechanical%20numpad&tag=gear.toolrouteai-20)
-- 💰 [productivity tools best-value picks](https://www.amazon.com/s?k=productivity%20tools&tag=gear.toolrouteai-20)
-- ⭐ [ergonomic workspace top-rated](https://www.amazon.com/s?k=ergonomic%20workspace&tag=gear.toolrouteai-20)
+- 🏆 [left handed keyboard bestsellers](https://www.amazon.com/s?k=left%20handed%20keyboard&tag=gear.toolrouteai-20)
+- 💰 [ergonomic workspace best-value picks](https://www.amazon.com/s?k=ergonomic%20workspace&tag=gear.toolrouteai-20)
+- ⭐ [mechanical numpad top-rated](https://www.amazon.com/s?k=mechanical%20numpad&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-

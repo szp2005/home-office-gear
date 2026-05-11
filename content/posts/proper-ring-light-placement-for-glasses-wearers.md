@@ -116,9 +116,8 @@ Generally, yes. Ring lights are specifically designed for straight-on, on-axis l
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [home studio bestsellers](https://www.amazon.com/s?k=home%20studio&tag=gear.toolrouteai-20)
-- 💰 [glasses glare best-value picks](https://www.amazon.com/s?k=glasses%20glare&tag=gear.toolrouteai-20)
-- ⭐ [video lighting top-rated](https://www.amazon.com/s?k=video%20lighting&tag=gear.toolrouteai-20)
+- 🏆 [ring light setup bestsellers](https://www.amazon.com/s?k=ring%20light%20setup&tag=gear.toolrouteai-20)
+- 💰 [video lighting best-value picks](https://www.amazon.com/s?k=video%20lighting&tag=gear.toolrouteai-20)
+- ⭐ [glasses glare top-rated](https://www.amazon.com/s?k=glasses%20glare&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-

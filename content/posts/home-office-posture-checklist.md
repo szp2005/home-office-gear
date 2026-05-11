@@ -156,6 +156,17 @@ Start by identifying the specific outcome you want, then apply the smallest usef
 
 Avoid copying a complex system before you understand the problem you are solving. Keep the workflow simple, measure whether it improves your real work, and only add more tools or steps when they remove friction.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [ergonomics bestsellers](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- 💰 [remote work best-value picks](https://www.amazon.com/s?k=remote%20work&tag=gear.toolrouteai-20)
+- ⭐ [posture top-rated](https://www.amazon.com/s?k=posture&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ## Related Reading
 
 - [Pros and Cons of Saddle Chairs Ergonomics: Complete Guide](/posts/pros-and-cons-of-saddle-chairs-ergonomics/)
@@ -164,15 +175,3 @@ Avoid copying a complex system before you understand the problem you are solving
 - [How to Improve Home Office Acoustics: The Ultimate Guide for Remote Professionals](/posts/how-to-improve-home-office-acoustics/)
 - [The Ultimate Minimalist Home Office Setup Checklist for Peak Productivity](/posts/minimalist-home-office-setup-checklist/)
 - [The Best Document Scanner for Home Office in 2026: An Expert Guide](/posts/best-document-scanner-for-home-office/)
-
-## Recommended on Amazon
-
-Looking for the gear mentioned in this guide?
-Check these top-rated picks on Amazon:
-
-- 🏆 [remote work bestsellers](https://www.amazon.com/s?k=remote%20work&tag=gear.toolrouteai-20)
-- 💰 [home office best-value picks](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
-- ⭐ [posture top-rated](https://www.amazon.com/s?k=posture&tag=gear.toolrouteai-20)
-
-_As an Amazon Associate we earn from qualifying purchases._
-

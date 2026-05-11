@@ -115,13 +115,11 @@ You should rest the fleshy heel of your palm on the highest point of the gel pad
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
-- 💰 [wrist health best-value picks](https://www.amazon.com/s?k=wrist%20health&tag=gear.toolrouteai-20)
+- 🏆 [ergonomics bestsellers](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- 💰 [desk setup best-value picks](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
 - ⭐ [office accessories top-rated](https://www.amazon.com/s?k=office%20accessories&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

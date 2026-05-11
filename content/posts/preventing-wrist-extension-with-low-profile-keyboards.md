@@ -140,13 +140,11 @@ The ideal desk height is entirely dependent on your body. The desk surface shoul
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [wrist pain bestsellers](https://www.amazon.com/s?k=wrist%20pain&tag=gear.toolrouteai-20)
-- 💰 [desk setup best-value picks](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
-- ⭐ [low profile keyboards top-rated](https://www.amazon.com/s?k=low%20profile%20keyboards&tag=gear.toolrouteai-20)
+- 🏆 [ergonomics bestsellers](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- 💰 [low profile keyboards best-value picks](https://www.amazon.com/s?k=low%20profile%20keyboards&tag=gear.toolrouteai-20)
+- ⭐ [wrist pain top-rated](https://www.amazon.com/s?k=wrist%20pain&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

@@ -152,12 +152,10 @@ Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
 - 🏆 [home office setup bestsellers](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
-- 💰 [remote work wellness best-value picks](https://www.amazon.com/s?k=remote%20work%20wellness&tag=gear.toolrouteai-20)
-- ⭐ [lighting top-rated](https://www.amazon.com/s?k=lighting&tag=gear.toolrouteai-20)
+- 💰 [productivity best-value picks](https://www.amazon.com/s?k=productivity&tag=gear.toolrouteai-20)
+- ⭐ [remote work wellness top-rated](https://www.amazon.com/s?k=remote%20work%20wellness&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

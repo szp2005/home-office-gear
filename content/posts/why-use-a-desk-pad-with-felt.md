@@ -126,13 +126,11 @@ If your felt pad arrives rolled and retains a curl, you can iron it, but you mus
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
-- 💰 [home office best-value picks](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
-- ⭐ [workspace accessories top-rated](https://www.amazon.com/s?k=workspace%20accessories&tag=gear.toolrouteai-20)
+- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- 💰 [ergonomics best-value picks](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- ⭐ [desk setup top-rated](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

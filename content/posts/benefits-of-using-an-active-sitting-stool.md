@@ -112,13 +112,11 @@ A stool is a tool, not a cure. It creates an environment where good posture is e
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [back pain bestsellers](https://www.amazon.com/s?k=back%20pain&tag=gear.toolrouteai-20)
-- 💰 [active sitting best-value picks](https://www.amazon.com/s?k=active%20sitting&tag=gear.toolrouteai-20)
-- ⭐ [office ergonomics top-rated](https://www.amazon.com/s?k=office%20ergonomics&tag=gear.toolrouteai-20)
+- 🏆 [office ergonomics bestsellers](https://www.amazon.com/s?k=office%20ergonomics&tag=gear.toolrouteai-20)
+- 💰 [back pain best-value picks](https://www.amazon.com/s?k=back%20pain&tag=gear.toolrouteai-20)
+- ⭐ [active sitting top-rated](https://www.amazon.com/s?k=active%20sitting&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

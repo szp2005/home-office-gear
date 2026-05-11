@@ -179,6 +179,17 @@ Start by identifying the specific outcome you want, then apply the smallest usef
 
 Avoid copying a complex system before you understand the problem you are solving. Keep the workflow simple, measure whether it improves your real work, and only add more tools or steps when they remove friction.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- 💰 [acoustics best-value picks](https://www.amazon.com/s?k=acoustics&tag=gear.toolrouteai-20)
+- ⭐ [soundproofing top-rated](https://www.amazon.com/s?k=soundproofing&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ## Related Reading
 
 - [How to Soundproof a Home Office Window: 7-Step Guide](/posts/how-to-soundproof-a-home-office-window/)
@@ -187,15 +198,3 @@ Avoid copying a complex system before you understand the problem you are solving
 - [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
 - [The Ultimate Guide to Home Office Lighting for Eye Strain](/posts/home-office-lighting-for-eye-strain/)
-
-## Recommended on Amazon
-
-Looking for the gear mentioned in this guide?
-Check these top-rated picks on Amazon:
-
-- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
-- 💰 [remote work best-value picks](https://www.amazon.com/s?k=remote%20work&tag=gear.toolrouteai-20)
-- ⭐ [acoustics top-rated](https://www.amazon.com/s?k=acoustics&tag=gear.toolrouteai-20)
-
-_As an Amazon Associate we earn from qualifying purchases._
-

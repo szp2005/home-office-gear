@@ -126,12 +126,10 @@ Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
 - 🏆 [workspace wellness bestsellers](https://www.amazon.com/s?k=workspace%20wellness&tag=gear.toolrouteai-20)
-- 💰 [indoor air quality best-value picks](https://www.amazon.com/s?k=indoor%20air%20quality&tag=gear.toolrouteai-20)
-- ⭐ [ergonomics top-rated](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- 💰 [ergonomics best-value picks](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- ⭐ [indoor air quality top-rated](https://www.amazon.com/s?k=indoor%20air%20quality&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

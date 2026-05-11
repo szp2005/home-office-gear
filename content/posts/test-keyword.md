@@ -148,13 +148,11 @@ A high bounce rate indicates a severe mismatch between the user's search intent 
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [seo strategy bestsellers](https://www.amazon.com/s?k=seo%20strategy&tag=gear.toolrouteai-20)
-- 💰 [search intent best-value picks](https://www.amazon.com/s?k=search%20intent&tag=gear.toolrouteai-20)
-- ⭐ [keyword research top-rated](https://www.amazon.com/s?k=keyword%20research&tag=gear.toolrouteai-20)
+- 🏆 [keyword research bestsellers](https://www.amazon.com/s?k=keyword%20research&tag=gear.toolrouteai-20)
+- 💰 [seo strategy best-value picks](https://www.amazon.com/s?k=seo%20strategy&tag=gear.toolrouteai-20)
+- ⭐ [search intent top-rated](https://www.amazon.com/s?k=search%20intent&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

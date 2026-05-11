@@ -96,13 +96,11 @@ Your palms—specifically the fleshy base of your hands—should rest on the sup
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
-- 💰 [custom accessories best-value picks](https://www.amazon.com/s?k=custom%20accessories&tag=gear.toolrouteai-20)
-- ⭐ [mechanical keyboards top-rated](https://www.amazon.com/s?k=mechanical%20keyboards&tag=gear.toolrouteai-20)
+- 🏆 [mechanical keyboards bestsellers](https://www.amazon.com/s?k=mechanical%20keyboards&tag=gear.toolrouteai-20)
+- 💰 [ergonomics best-value picks](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- ⭐ [desk setup top-rated](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

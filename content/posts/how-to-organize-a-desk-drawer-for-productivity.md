@@ -135,21 +135,20 @@ Start by identifying the specific outcome you want, then apply the smallest usef
 
 Avoid copying a complex system before you understand the problem you are solving. Keep the workflow simple, measure whether it improves your real work, and only add more tools or steps when they remove friction.
 
-## Related Reading
-
-- [The Ultimate Guide to the Best USB-C Hub for Your Desk Setup](/posts/best-usb-c-hub-for-desk-setup/)
-- [The Ultimate Guide: Best Pegboard Accessories for Desk Organization](/posts/best-pegboard-accessories-for-desk-organization/)
-- [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
-- [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)
-
 ## Recommended on Amazon
 
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
 - 🏆 [Home Office bestsellers](https://www.amazon.com/s?k=Home%20Office&tag=gear.toolrouteai-20)
-- 💰 [Desk Organization best-value picks](https://www.amazon.com/s?k=Desk%20Organization&tag=gear.toolrouteai-20)
-- ⭐ [Workspace Optimization top-rated](https://www.amazon.com/s?k=Workspace%20Optimization&tag=gear.toolrouteai-20)
+- 💰 [Productivity best-value picks](https://www.amazon.com/s?k=Productivity&tag=gear.toolrouteai-20)
+- ⭐ [Desk Organization top-rated](https://www.amazon.com/s?k=Desk%20Organization&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
 
+## Related Reading
+
+- [The Ultimate Guide to the Best USB-C Hub for Your Desk Setup](/posts/best-usb-c-hub-for-desk-setup/)
+- [The Ultimate Guide: Best Pegboard Accessories for Desk Organization](/posts/best-pegboard-accessories-for-desk-organization/)
+- [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
+- [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)

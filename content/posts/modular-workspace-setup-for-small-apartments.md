@@ -134,13 +134,11 @@ To comfortably type on a laptop while having a standard notebook open flat in fr
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
-- 💰 [workspace design best-value picks](https://www.amazon.com/s?k=workspace%20design&tag=gear.toolrouteai-20)
-- ⭐ [small apartments top-rated](https://www.amazon.com/s?k=small%20apartments&tag=gear.toolrouteai-20)
+- 🏆 [workspace design bestsellers](https://www.amazon.com/s?k=workspace%20design&tag=gear.toolrouteai-20)
+- 💰 [small apartments best-value picks](https://www.amazon.com/s?k=small%20apartments&tag=gear.toolrouteai-20)
+- ⭐ [home office top-rated](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

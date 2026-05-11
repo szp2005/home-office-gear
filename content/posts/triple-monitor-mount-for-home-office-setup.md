@@ -119,13 +119,11 @@ This depends entirely on your profession. Data analysts, video editors, and fina
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [monitor mounts bestsellers](https://www.amazon.com/s?k=monitor%20mounts&tag=gear.toolrouteai-20)
-- 💰 [desk accessories best-value picks](https://www.amazon.com/s?k=desk%20accessories&tag=gear.toolrouteai-20)
-- ⭐ [home office setup top-rated](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+- 🏆 [home office setup bestsellers](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+- 💰 [monitor mounts best-value picks](https://www.amazon.com/s?k=monitor%20mounts&tag=gear.toolrouteai-20)
+- ⭐ [ergonomics top-rated](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

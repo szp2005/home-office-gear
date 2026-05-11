@@ -146,13 +146,11 @@ Yes, but only if your specific PC case is designed to operate horizontally and y
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [pc mounting bestsellers](https://www.amazon.com/s?k=pc%20mounting&tag=gear.toolrouteai-20)
+- 🏆 [standing desk accessories bestsellers](https://www.amazon.com/s?k=standing%20desk%20accessories&tag=gear.toolrouteai-20)
 - 💰 [cable management best-value picks](https://www.amazon.com/s?k=cable%20management&tag=gear.toolrouteai-20)
 - ⭐ [ergonomic workspace top-rated](https://www.amazon.com/s?k=ergonomic%20workspace&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

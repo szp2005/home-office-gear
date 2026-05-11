@@ -161,13 +161,11 @@ USB microphones can utilize either internal technology. A USB microphone is simp
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [recording gear bestsellers](https://www.amazon.com/s?k=recording%20gear&tag=gear.toolrouteai-20)
-- 💰 [audio engineering best-value picks](https://www.amazon.com/s?k=audio%20engineering&tag=gear.toolrouteai-20)
-- ⭐ [podcasting top-rated](https://www.amazon.com/s?k=podcasting&tag=gear.toolrouteai-20)
+- 🏆 [audio engineering bestsellers](https://www.amazon.com/s?k=audio%20engineering&tag=gear.toolrouteai-20)
+- 💰 [podcasting best-value picks](https://www.amazon.com/s?k=podcasting&tag=gear.toolrouteai-20)
+- ⭐ [recording gear top-rated](https://www.amazon.com/s?k=recording%20gear&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

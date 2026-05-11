@@ -137,9 +137,8 @@ Tablets have much higher pixel densities than standard desktop monitors. Running
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [wfh setup bestsellers](https://www.amazon.com/s?k=wfh%20setup&tag=gear.toolrouteai-20)
-- 💰 [dual monitor best-value picks](https://www.amazon.com/s?k=dual%20monitor&tag=gear.toolrouteai-20)
+- 🏆 [productivity bestsellers](https://www.amazon.com/s?k=productivity&tag=gear.toolrouteai-20)
+- 💰 [wfh setup best-value picks](https://www.amazon.com/s?k=wfh%20setup&tag=gear.toolrouteai-20)
 - ⭐ [tablet accessories top-rated](https://www.amazon.com/s?k=tablet%20accessories&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-

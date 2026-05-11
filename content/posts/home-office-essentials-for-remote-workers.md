@@ -88,21 +88,20 @@ Start by identifying the specific outcome you want, then apply the smallest usef
 
 Avoid copying a complex system before you understand the problem you are solving. Keep the workflow simple, measure whether it improves your real work, and only add more tools or steps when they remove friction.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [Productivity bestsellers](https://www.amazon.com/s?k=Productivity&tag=gear.toolrouteai-20)
+- 💰 [Ergonomics best-value picks](https://www.amazon.com/s?k=Ergonomics&tag=gear.toolrouteai-20)
+- ⭐ [Work From Home top-rated](https://www.amazon.com/s?k=Work%20From%20Home&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ## Related Reading
 
 - [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)
 - [How to Improve Home Office Acoustics: The Ultimate Guide for Remote Professionals](/posts/how-to-improve-home-office-acoustics/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
 - [The Ultimate Guide to Home Office Lighting for Eye Strain](/posts/home-office-lighting-for-eye-strain/)
-
-## Recommended on Amazon
-
-Looking for the gear mentioned in this guide?
-Check these top-rated picks on Amazon:
-
-- 🏆 [Work From Home bestsellers](https://www.amazon.com/s?k=Work%20From%20Home&tag=gear.toolrouteai-20)
-- 💰 [Ergonomics best-value picks](https://www.amazon.com/s?k=Ergonomics&tag=gear.toolrouteai-20)
-- ⭐ [Productivity top-rated](https://www.amazon.com/s?k=Productivity&tag=gear.toolrouteai-20)
-
-_As an Amazon Associate we earn from qualifying purchases._
-

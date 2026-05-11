@@ -116,9 +116,8 @@ You should perform a surface clean (removing dust and wiping keycaps) once a mon
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [pc gaming bestsellers](https://www.amazon.com/s?k=pc%20gaming&tag=gear.toolrouteai-20)
-- 💰 [mechanical keyboards best-value picks](https://www.amazon.com/s?k=mechanical%20keyboards&tag=gear.toolrouteai-20)
+- 🏆 [mechanical keyboards bestsellers](https://www.amazon.com/s?k=mechanical%20keyboards&tag=gear.toolrouteai-20)
+- 💰 [maintenance best-value picks](https://www.amazon.com/s?k=maintenance&tag=gear.toolrouteai-20)
 - ⭐ [cleaning top-rated](https://www.amazon.com/s?k=cleaning&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-

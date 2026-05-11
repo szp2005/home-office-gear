@@ -214,21 +214,20 @@ Cramming power cables alongside delicate data cables can cause electromagnetic i
 
 The best first step is to completely unplug your entire setup and untangle all the cords before you begin organizing. Once everything is separated, you can route the essential cables using zip ties or a raceway while storing away the ones you don't frequently use.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [reduce bestsellers](https://www.amazon.com/s?k=reduce&tag=gear.toolrouteai-20)
+- 💰 [cable best-value picks](https://www.amazon.com/s?k=cable&tag=gear.toolrouteai-20)
+- ⭐ [clutter top-rated](https://www.amazon.com/s?k=clutter&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ## Related Reading
 
 - [Why Desk Lamp Quality Matters for Video Calls](/posts/best-desk-lamp-for-video-calls/)
 - [What Makes an Office Chair Work in Small Spaces](/posts/best-ergonomic-chair-for-small-home-office/)
 - [Why Dual Monitor Arms Matter for Home Office Setup](/posts/best-monitor-arm-for-dual-monitors-home-office/)
 - [Why Standing Desks Work in Small Apartments](/posts/standing-desk-setup-for-small-apartment/)
-
-## Recommended on Amazon
-
-Looking for the gear mentioned in this guide?
-Check these top-rated picks on Amazon:
-
-- 🏆 [desk bestsellers](https://www.amazon.com/s?k=desk&tag=gear.toolrouteai-20)
-- 💰 [cable best-value picks](https://www.amazon.com/s?k=cable&tag=gear.toolrouteai-20)
-- ⭐ [reduce top-rated](https://www.amazon.com/s?k=reduce&tag=gear.toolrouteai-20)
-
-_As an Amazon Associate we earn from qualifying purchases._
-

@@ -185,21 +185,20 @@ Start by identifying the specific outcome you want, then apply the smallest usef
 
 Avoid copying a complex system before you understand the problem you are solving. Keep the workflow simple, measure whether it improves your real work, and only add more tools or steps when they remove friction.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- 💰 [ergonomics best-value picks](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- ⭐ [desk setup top-rated](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ## Related Reading
 
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
 - [The Ultimate Guide to Home Office Essentials for Remote Workers in 2026](/posts/home-office-essentials-for-remote-workers/)
 - [The Ultimate Guide to Home Office Lighting for Eye Strain](/posts/home-office-lighting-for-eye-strain/)
 - [How to Set Up a Productive Home Office on a Budget: The Ultimate Guide](/posts/how-to-set-up-a-home-office-on-a-budget/)
-
-## Recommended on Amazon
-
-Looking for the gear mentioned in this guide?
-Check these top-rated picks on Amazon:
-
-- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
-- 💰 [home office best-value picks](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
-- ⭐ [workspace top-rated](https://www.amazon.com/s?k=workspace&tag=gear.toolrouteai-20)
-
-_As an Amazon Associate we earn from qualifying purchases._
-

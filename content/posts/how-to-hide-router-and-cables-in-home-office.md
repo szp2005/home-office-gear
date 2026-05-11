@@ -167,21 +167,20 @@ Start by identifying the specific outcome you want, then apply the smallest usef
 
 Avoid copying a complex system before you understand the problem you are solving. Keep the workflow simple, measure whether it improves your real work, and only add more tools or steps when they remove friction.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [cable management bestsellers](https://www.amazon.com/s?k=cable%20management&tag=gear.toolrouteai-20)
+- 💰 [home office setup best-value picks](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+- ⭐ [router placement top-rated](https://www.amazon.com/s?k=router%20placement&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ## Related Reading
 
 - [The Best Document Scanner for Home Office in 2026: An Expert Guide](/posts/best-document-scanner-for-home-office/)
 - [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)
 - [Why Dual Monitor Arms Matter for Home Office Setup](/posts/best-monitor-arm-for-dual-monitors-home-office/)
 - [The Best Label Maker for Home Office Organization: A Complete Guide](/posts/best-label-maker-for-home-office-organization/)
-
-## Recommended on Amazon
-
-Looking for the gear mentioned in this guide?
-Check these top-rated picks on Amazon:
-
-- 🏆 [DIY aesthetics bestsellers](https://www.amazon.com/s?k=DIY%20aesthetics&tag=gear.toolrouteai-20)
-- 💰 [cable management best-value picks](https://www.amazon.com/s?k=cable%20management&tag=gear.toolrouteai-20)
-- ⭐ [router placement top-rated](https://www.amazon.com/s?k=router%20placement&tag=gear.toolrouteai-20)
-
-_As an Amazon Associate we earn from qualifying purchases._
-

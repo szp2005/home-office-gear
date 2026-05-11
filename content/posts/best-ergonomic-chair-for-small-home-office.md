@@ -172,21 +172,20 @@ Yes, many compact office chairs are specifically designed to offer premium ergon
 
 A five-point base with a smaller overall diameter is ideal because it provides necessary stability while minimizing your floor footprint. Additionally, consider replacing standard casters with inline skate-style wheels, which are much easier to maneuver in confined areas and safe for all floors.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [ergonomic bestsellers](https://www.amazon.com/s?k=ergonomic&tag=gear.toolrouteai-20)
+- 💰 [chair best-value picks](https://www.amazon.com/s?k=chair&tag=gear.toolrouteai-20)
+- ⭐ [small top-rated](https://www.amazon.com/s?k=small&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ## Related Reading
 
 - [Why Standing Desks Work in Small Apartments](/posts/standing-desk-setup-for-small-apartment/)
 - [The Ultimate Guide to the Best Chair Mat for Hardwood Floors in Your Home Office](/posts/best-chair-mat-for-hardwood-floors-home-office/)
 - [The Best Document Scanner for Home Office in 2026: An Expert Guide](/posts/best-document-scanner-for-home-office/)
 - [Why Dual Monitor Arms Matter for Home Office Setup](/posts/best-monitor-arm-for-dual-monitors-home-office/)
-
-## Recommended on Amazon
-
-Looking for the gear mentioned in this guide?
-Check these top-rated picks on Amazon:
-
-- 🏆 [home bestsellers](https://www.amazon.com/s?k=home&tag=gear.toolrouteai-20)
-- 💰 [chair best-value picks](https://www.amazon.com/s?k=chair&tag=gear.toolrouteai-20)
-- ⭐ [small top-rated](https://www.amazon.com/s?k=small&tag=gear.toolrouteai-20)
-
-_As an Amazon Associate we earn from qualifying purchases._
-

@@ -127,12 +127,10 @@ Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
 - 🏆 [digital art bestsellers](https://www.amazon.com/s?k=digital%20art&tag=gear.toolrouteai-20)
-- 💰 [display tablets best-value picks](https://www.amazon.com/s?k=display%20tablets&tag=gear.toolrouteai-20)
+- 💰 [ergonomics best-value picks](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
 - ⭐ [health top-rated](https://www.amazon.com/s?k=health&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

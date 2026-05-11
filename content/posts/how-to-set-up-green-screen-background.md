@@ -130,4 +130,3 @@ Check these top-rated picks on Amazon:
 - ⭐ [home studio setup top-rated](https://www.amazon.com/s?k=home%20studio%20setup&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-

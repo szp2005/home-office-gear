@@ -159,13 +159,11 @@ The most cost-effective method is replacing degraded weatherstripping and applyi
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [remote work bestsellers](https://www.amazon.com/s?k=remote%20work&tag=gear.toolrouteai-20)
-- 💰 [home office setup best-value picks](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+- 🏆 [home office setup bestsellers](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+- 💰 [soundproofing best-value picks](https://www.amazon.com/s?k=soundproofing&tag=gear.toolrouteai-20)
 - ⭐ [productivity top-rated](https://www.amazon.com/s?k=productivity&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

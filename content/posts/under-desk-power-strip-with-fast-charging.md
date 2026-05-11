@@ -114,13 +114,11 @@ Most fast-charging power strips share a maximum total wattage across all USB por
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 🏆 [cable management bestsellers](https://www.amazon.com/s?k=cable%20management&tag=gear.toolrouteai-20)
 - 💰 [home office best-value picks](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
-- ⭐ [remote work top-rated](https://www.amazon.com/s?k=remote%20work&tag=gear.toolrouteai-20)
+- ⭐ [desk setup top-rated](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

@@ -147,13 +147,11 @@ A "death grip" is often a subconscious reaction to a mouse that is too small, sl
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
-- 💰 [health best-value picks](https://www.amazon.com/s?k=health&tag=gear.toolrouteai-20)
-- ⭐ [ergonomics top-rated](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- 🏆 [ergonomics bestsellers](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- 💰 [desk setup best-value picks](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- ⭐ [health top-rated](https://www.amazon.com/s?k=health&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

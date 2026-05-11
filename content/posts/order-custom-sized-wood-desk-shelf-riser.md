@@ -146,12 +146,10 @@ Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
 - 🏆 [custom desk shelf bestsellers](https://www.amazon.com/s?k=custom%20desk%20shelf&tag=gear.toolrouteai-20)
-- 💰 [home office setup best-value picks](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+- 💰 [wood desk accessories best-value picks](https://www.amazon.com/s?k=wood%20desk%20accessories&tag=gear.toolrouteai-20)
 - ⭐ [ergonomic workspace top-rated](https://www.amazon.com/s?k=ergonomic%20workspace&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

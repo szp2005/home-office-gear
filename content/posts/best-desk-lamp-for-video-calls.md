@@ -233,13 +233,6 @@ For the most natural look on camera, aim for a color temperature between 3500K a
 
 Absolutely, webcams struggle in low-light conditions and compensate by artificially boosting the signal, which causes grainy, low-quality video. An adequately bright desk lamp gives the camera sensor enough light to work efficiently. This results in a sharper, higher-resolution image with much better [color accuracy](/posts/how-to-calibrate-monitor-for-creative-work/).
 
-## Related Reading
-
-- [Why Cable Clutter Matters](/posts/how-to-reduce-cable-clutter-on-desk/)
-- [The Ultimate Guide to the Best USB-C Hub for Your Desk Setup](/posts/best-usb-c-hub-for-desk-setup/)
-- [The Ultimate Guide: Best Pegboard Accessories for Desk Organization](/posts/best-pegboard-accessories-for-desk-organization/)
-- [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
-
 ## Recommended on Amazon
 
 Looking for the gear mentioned in this guide?
@@ -251,3 +244,9 @@ Check these top-rated picks on Amazon:
 
 _As an Amazon Associate we earn from qualifying purchases._
 
+## Related Reading
+
+- [Why Cable Clutter Matters](/posts/how-to-reduce-cable-clutter-on-desk/)
+- [The Ultimate Guide to the Best USB-C Hub for Your Desk Setup](/posts/best-usb-c-hub-for-desk-setup/)
+- [The Ultimate Guide: Best Pegboard Accessories for Desk Organization](/posts/best-pegboard-accessories-for-desk-organization/)
+- [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)

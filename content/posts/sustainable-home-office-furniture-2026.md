@@ -113,11 +113,9 @@ Check these top-rated picks on Amazon:
 
 - 🏆 [home office setup bestsellers](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
 - 💰 [sustainable living best-value picks](https://www.amazon.com/s?k=sustainable%20living&tag=gear.toolrouteai-20)
-- ⭐ [eco-friendly furniture top-rated](https://www.amazon.com/s?k=eco-friendly%20furniture&tag=gear.toolrouteai-20)
+- ⭐ [ergonomics top-rated](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

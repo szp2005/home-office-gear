@@ -110,13 +110,11 @@ Rotary dials (or encoders) are designed for continuous variable adjustments. Ins
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [macro pads bestsellers](https://www.amazon.com/s?k=macro%20pads&tag=gear.toolrouteai-20)
-- 💰 [streaming gear best-value picks](https://www.amazon.com/s?k=streaming%20gear&tag=gear.toolrouteai-20)
-- ⭐ [workstation setup top-rated](https://www.amazon.com/s?k=workstation%20setup&tag=gear.toolrouteai-20)
+- 🏆 [streaming gear bestsellers](https://www.amazon.com/s?k=streaming%20gear&tag=gear.toolrouteai-20)
+- 💰 [productivity best-value picks](https://www.amazon.com/s?k=productivity&tag=gear.toolrouteai-20)
+- ⭐ [macro pads top-rated](https://www.amazon.com/s?k=macro%20pads&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

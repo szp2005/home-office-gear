@@ -108,13 +108,11 @@ Your chair sinks because the pneumatic gas lift cylinder has failed. The interna
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [big and tall bestsellers](https://www.amazon.com/s?k=big%20and%20tall&tag=gear.toolrouteai-20)
-- 💰 [heavy duty chairs best-value picks](https://www.amazon.com/s?k=heavy%20duty%20chairs&tag=gear.toolrouteai-20)
-- ⭐ [ergonomic seating top-rated](https://www.amazon.com/s?k=ergonomic%20seating&tag=gear.toolrouteai-20)
+- 🏆 [heavy duty chairs bestsellers](https://www.amazon.com/s?k=heavy%20duty%20chairs&tag=gear.toolrouteai-20)
+- 💰 [ergonomic seating best-value picks](https://www.amazon.com/s?k=ergonomic%20seating&tag=gear.toolrouteai-20)
+- ⭐ [home office setup top-rated](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 

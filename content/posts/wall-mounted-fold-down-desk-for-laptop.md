@@ -102,13 +102,11 @@ Yes, this is one of their major benefits. Because you determine the installation
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
-- 💰 [small spaces best-value picks](https://www.amazon.com/s?k=small%20spaces&tag=gear.toolrouteai-20)
-- ⭐ [wall mounted desk top-rated](https://www.amazon.com/s?k=wall%20mounted%20desk&tag=gear.toolrouteai-20)
+- 🏆 [wall mounted desk bestsellers](https://www.amazon.com/s?k=wall%20mounted%20desk&tag=gear.toolrouteai-20)
+- 💰 [home office best-value picks](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- ⭐ [small spaces top-rated](https://www.amazon.com/s?k=small%20spaces&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
-
----
 
 ## Related Reading
 
