@@ -113,3 +113,15 @@ While high-quality mats are designed for continuous use, you should never leave 
 
 ### Which is better for a home office: a radiant panel or a heated footrest?
 If you spend most of your day seated in a standard [ergonomic chair](/posts/best-budget-ergonomic-chair-for-remote-work/), a heated footrest provides the dual benefits of warmth and proper lower back support. If you frequently alternate between sitting and standing, or if you prefer to sit cross-legged, a desk-mounted radiant panel will provide more flexible, ambient warmth.
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [office gear bestsellers](https://www.amazon.com/s?k=office%20gear&tag=gear.toolrouteai-20)
+- 💰 [desk accessories best-value picks](https://www.amazon.com/s?k=desk%20accessories&tag=gear.toolrouteai-20)
+- ⭐ [winter workspace top-rated](https://www.amazon.com/s?k=winter%20workspace&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

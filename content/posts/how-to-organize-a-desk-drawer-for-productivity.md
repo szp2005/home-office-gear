@@ -141,3 +141,15 @@ Avoid copying a complex system before you understand the problem you are solving
 - [The Ultimate Guide: Best Pegboard Accessories for Desk Organization](/posts/best-pegboard-accessories-for-desk-organization/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
 - [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [Home Office bestsellers](https://www.amazon.com/s?k=Home%20Office&tag=gear.toolrouteai-20)
+- 💰 [Desk Organization best-value picks](https://www.amazon.com/s?k=Desk%20Organization&tag=gear.toolrouteai-20)
+- ⭐ [Workspace Optimization top-rated](https://www.amazon.com/s?k=Workspace%20Optimization&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

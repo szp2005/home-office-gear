@@ -122,6 +122,17 @@ A C-clamp arm saves desk surface space and offers greater articulating reach, bu
 ### Do I need a counterweight on my boom arm?
 If your boom arm extends further than 15 inches horizontally and you are using a microphone heavier than 1 lb, a counterweight on the rear of the boom is highly recommended. It balances the leverage, reduces strain on the pivot clutch, and prevents the stand from tipping forward.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 💰 [home studio best-value picks](https://www.amazon.com/s?k=home%20studio&tag=gear.toolrouteai-20)
+- ⭐ [audio equipment top-rated](https://www.amazon.com/s?k=audio%20equipment&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

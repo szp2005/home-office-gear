@@ -129,6 +129,17 @@ Wide-plank engineered or solid hardwood (such as white oak or walnut) with a mat
 ### How do I make a small office feel luxurious?
 In a small space, editing is critical. Limit furniture to a perfectly scaled desk, a premium chair, and one closed storage unit to hide all clutter. Paint the walls, trim, and ceiling in the same color (color drenching) to blur the boundaries of the room, and use a single, large piece of art rather than a gallery wall to make the space feel expansive rather than cramped.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- 💰 [quiet luxury best-value picks](https://www.amazon.com/s?k=quiet%20luxury&tag=gear.toolrouteai-20)
+- ⭐ [interior design top-rated](https://www.amazon.com/s?k=interior%20design&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

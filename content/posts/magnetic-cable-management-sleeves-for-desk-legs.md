@@ -96,6 +96,17 @@ Yes, but you must attach the magnetic sleeve to the outer, stationary casing of 
 ### How many cables can a standard magnetic sleeve hold?
 A standard 1.25-inch diameter magnetic sleeve can comfortably hold two thick power cables, two display cables (like HDMI or DisplayPort), and three to four thinner USB or [audio](/posts/best-studio-monitors-for-clear-video-conferencing/) cables without bulging or losing its magnetic grip.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [cable management bestsellers](https://www.amazon.com/s?k=cable%20management&tag=gear.toolrouteai-20)
+- 💰 [desk accessories best-value picks](https://www.amazon.com/s?k=desk%20accessories&tag=gear.toolrouteai-20)
+- ⭐ [home office setup top-rated](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

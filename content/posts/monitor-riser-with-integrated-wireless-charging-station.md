@@ -108,6 +108,17 @@ The ideal height depends on your specific desk and torso length, but most users 
 ### Do I need to plug the riser into my computer or the wall?
 If the riser only features a wireless charging pad, it requires a wall outlet via an AC adapter to provide sufficient power. If the riser also functions as a data hub (featuring USB ports for flash drives), it will require both a connection to a wall outlet for power and a USB connection to your computer to transmit data.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- 💰 [desk accessories best-value picks](https://www.amazon.com/s?k=desk%20accessories&tag=gear.toolrouteai-20)
+- ⭐ [wireless charging top-rated](https://www.amazon.com/s?k=wireless%20charging&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

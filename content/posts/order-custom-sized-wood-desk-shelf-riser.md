@@ -140,6 +140,17 @@ Shelves finished with hardwax oils (like Rubio Monocoat) may require a light rea
 ### Will a custom desk shelf scratch my current desktop?
 It will not scratch your desk as long as the base of the riser legs is properly padded. Always verify that your builder includes high-quality natural cork or dense wool felt pads on the bottom of the shelf legs before placing it on your desk.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [custom desk shelf bestsellers](https://www.amazon.com/s?k=custom%20desk%20shelf&tag=gear.toolrouteai-20)
+- 💰 [home office setup best-value picks](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+- ⭐ [ergonomic workspace top-rated](https://www.amazon.com/s?k=ergonomic%20workspace&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

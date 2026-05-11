@@ -141,6 +141,17 @@ Adding 20 to 40 pounds to one side of the desk is well within the operating limi
 ### Can I mount my PC sideways under the desk?
 Yes, but only if your specific PC case is designed to operate horizontally and your bracket is built for flat mounting. Laying a standard vertical tower on its side can disrupt internal airflow dynamics and block side-panel ventilation.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [pc mounting bestsellers](https://www.amazon.com/s?k=pc%20mounting&tag=gear.toolrouteai-20)
+- 💰 [cable management best-value picks](https://www.amazon.com/s?k=cable%20management&tag=gear.toolrouteai-20)
+- ⭐ [ergonomic workspace top-rated](https://www.amazon.com/s?k=ergonomic%20workspace&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

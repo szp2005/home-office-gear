@@ -148,3 +148,15 @@ Avoid copying a complex system before you understand the problem you are solving
 - [The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup](/posts/home-office-desk-depth-guide/)
 - [The Ultimate Minimalist Home Office Setup Checklist for Peak Productivity](/posts/minimalist-home-office-setup-checklist/)
 - [Best Keyboard Trays for Home Office Desks in 2026: Save Your Wrists and Desk Space](/posts/best-keyboard-tray-for-home-office-desk/)
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 💰 [home office best-value picks](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- ⭐ [ergonomics top-rated](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

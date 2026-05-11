@@ -110,6 +110,17 @@ Generally, no. Gel is vastly superior for sustained ergonomic support because it
 ### What is the correct way to position my hands on the pad?
 You should rest the fleshy heel of your palm on the highest point of the gel pad. Your actual wrist joint should sit just behind the pad, suspended straight and free from direct pressure, ensuring the median nerve is not compressed against the desk or the pad itself.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 💰 [wrist health best-value picks](https://www.amazon.com/s?k=wrist%20health&tag=gear.toolrouteai-20)
+- ⭐ [office accessories top-rated](https://www.amazon.com/s?k=office%20accessories&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

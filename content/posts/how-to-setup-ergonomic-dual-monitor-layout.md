@@ -131,6 +131,17 @@ A single curved ultrawide monitor is generally considered superior for ergonomic
 ### How far away should two monitors be from my eyes?
 Both monitors should sit approximately an arm's length away, which typically translates to a physical distance of 20 to 28 inches. Ensure that the outer edges of the angled screens are exactly the same distance from your eyes as the center of the primary viewing area to prevent constant ocular refocusing.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 💰 [remote work best-value picks](https://www.amazon.com/s?k=remote%20work&tag=gear.toolrouteai-20)
+- ⭐ [ergonomics top-rated](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

@@ -187,3 +187,15 @@ Avoid copying a complex system before you understand the problem you are solving
 - [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
 - [The Ultimate Guide to Home Office Lighting for Eye Strain](/posts/home-office-lighting-for-eye-strain/)
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- 💰 [remote work best-value picks](https://www.amazon.com/s?k=remote%20work&tag=gear.toolrouteai-20)
+- ⭐ [acoustics top-rated](https://www.amazon.com/s?k=acoustics&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

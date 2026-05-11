@@ -130,6 +130,17 @@ It can be, but it doesn't have to be. While solid hardwood desks and smart light
 ### Can artificial plants provide biophilic benefits?
 Artificial plants provide limited, strictly visual benefits. They can break up rigid spatial geometry and add green tones to a room, which offers minor psychological comfort. However, they fail to provide the dynamic visual changes (growth, movement), air quality improvements, or the tactile reality of living flora, making them a suboptimal substitute for real plants.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [biophilic design bestsellers](https://www.amazon.com/s?k=biophilic%20design&tag=gear.toolrouteai-20)
+- 💰 [home office setup best-value picks](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+- ⭐ [wellness top-rated](https://www.amazon.com/s?k=wellness&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

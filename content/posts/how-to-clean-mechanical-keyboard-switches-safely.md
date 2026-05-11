@@ -110,3 +110,15 @@ Electrical contact cleaner (like DeoxIT) can be used to clean mechanical switche
 
 ### How often should I clean my mechanical keyboard?
 You should perform a surface clean (removing dust and wiping keycaps) once a month. A deep clean, which involves removing keycaps to clean the plate and clearing debris from around the switches, should be done every six to twelve months depending on your environment.
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [pc gaming bestsellers](https://www.amazon.com/s?k=pc%20gaming&tag=gear.toolrouteai-20)
+- 💰 [mechanical keyboards best-value picks](https://www.amazon.com/s?k=mechanical%20keyboards&tag=gear.toolrouteai-20)
+- ⭐ [cleaning top-rated](https://www.amazon.com/s?k=cleaning&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

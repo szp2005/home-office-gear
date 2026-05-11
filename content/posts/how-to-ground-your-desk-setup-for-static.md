@@ -150,3 +150,15 @@ No, a surge protector does not prevent static electricity from generating in you
 
 ### How can I test if my grounding mat is actually working?
 The most reliable way to test an ESD mat is using a surface resistance meter, which uses two weighted probes to measure the ohms across the surface. For a more basic check, you can use a standard digital multimeter. Set the multimeter to measure resistance (Ohms), place one probe on the mat's surface, and touch the other probe to the metal ground pin on your wall plug. You should see a reading indicating continuity, typically measuring right around 1 megohm due to the safety resistor in the grounding cable.
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 💰 [pc building best-value picks](https://www.amazon.com/s?k=pc%20building&tag=gear.toolrouteai-20)
+- ⭐ [hardware safety top-rated](https://www.amazon.com/s?k=hardware%20safety&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

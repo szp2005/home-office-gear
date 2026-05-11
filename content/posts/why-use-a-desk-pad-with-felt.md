@@ -121,6 +121,17 @@ A pure felt pad with no backing will slide on smooth surfaces like polished wood
 ### Can I iron a felt desk pad to remove creases?
 If your felt pad arrives rolled and retains a curl, you can iron it, but you must use caution. Set the iron to a medium "wool" setting, turn on the steam function, and place a damp cotton cloth (like a tea towel) between the iron and the felt to prevent scorching the fibers.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 💰 [home office best-value picks](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- ⭐ [workspace accessories top-rated](https://www.amazon.com/s?k=workspace%20accessories&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

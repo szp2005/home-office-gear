@@ -134,6 +134,17 @@ No. Rubber O-rings only dampen the downward stroke (bottom-out) and do nothing t
 ### What is the quietest mechanical switch overall?
 Silent linear switches are objectively the quietest because they lack any internal tactile friction. Heavy silent linears, such as the Gateron Silent Ink Black V2, are generally considered the quietest options when properly lubricated.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [silent switches bestsellers](https://www.amazon.com/s?k=silent%20switches&tag=gear.toolrouteai-20)
+- 💰 [home office setup best-value picks](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+- ⭐ [mechanical keyboards top-rated](https://www.amazon.com/s?k=mechanical%20keyboards&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

@@ -125,6 +125,17 @@ A high-quality, 100% solid polyurethane mat typically lasts between 5 and 10 yea
 ### Should I use my anti-fatigue mat while wearing shoes or barefoot?
 Most premium mats are designed to be used in socks, barefoot, or with flat, supportive shoes. Using an anti-fatigue mat in high heels or shoes with sharp treads can puncture the surface layer, and rigid dress shoes negate many of the ergonomic benefits of the yielding surface.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [standing desks bestsellers](https://www.amazon.com/s?k=standing%20desks&tag=gear.toolrouteai-20)
+- 💰 [workspace health best-value picks](https://www.amazon.com/s?k=workspace%20health&tag=gear.toolrouteai-20)
+- ⭐ [desk accessories top-rated](https://www.amazon.com/s?k=desk%20accessories&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

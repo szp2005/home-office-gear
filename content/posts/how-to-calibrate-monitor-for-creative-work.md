@@ -130,6 +130,17 @@ Monitors emit light, while prints reflect light. Most uncalibrated monitors are 
 ### Is D65 or D50 better for creative editing?
 D65 (6500K) is the standard for most digital workflows, web design, video editing, and general photography. D50 (5000K) is traditionally used in high-end prepress and print environments where the final physical output will be viewed under standard D50 viewing booths. For most modern hybrid workflows, D65 is the recommended target.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [photo editing bestsellers](https://www.amazon.com/s?k=photo%20editing&tag=gear.toolrouteai-20)
+- 💰 [color accuracy best-value picks](https://www.amazon.com/s?k=color%20accuracy&tag=gear.toolrouteai-20)
+- ⭐ [creative workflow top-rated](https://www.amazon.com/s?k=creative%20workflow&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

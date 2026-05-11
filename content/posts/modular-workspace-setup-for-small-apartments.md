@@ -129,6 +129,17 @@ Avoid placing large PC towers on the desk surface or floor where they block legr
 ### How deep does a desk need to be for a laptop and a notebook?
 To comfortably type on a laptop while having a standard notebook open flat in front of or beside it, your desk should be a minimum of 20 to 22 inches deep. Anything shallower will force you to constantly shuffle items to find writing space.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- 💰 [workspace design best-value picks](https://www.amazon.com/s?k=workspace%20design&tag=gear.toolrouteai-20)
+- ⭐ [small apartments top-rated](https://www.amazon.com/s?k=small%20apartments&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

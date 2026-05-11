@@ -142,6 +142,17 @@ For many users, yes. Vertical mice place the hand in a neutral "handshake" posit
 ### How do I stop gripping my mouse so tightly?
 A "death grip" is often a subconscious reaction to a mouse that is too small, slippery, or too high sensitivity. Try switching to a larger mouse with a textured, rubberized surface, lower your cursor sensitivity so you use larger arm sweeps, and focus on resting the weight of your palm heavily onto the mouse body.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 💰 [health best-value picks](https://www.amazon.com/s?k=health&tag=gear.toolrouteai-20)
+- ⭐ [ergonomics top-rated](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

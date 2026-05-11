@@ -91,6 +91,17 @@ While you can use a straight rest, it is highly unergonomic. Alice and split lay
 ### Should my palms or my wrists touch the rest?
 Your palms—specifically the fleshy base of your hands—should rest on the support. The actual wrist joint, where the hand meets the forearm, should not bear weight, as this compresses the median nerve.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 💰 [custom accessories best-value picks](https://www.amazon.com/s?k=custom%20accessories&tag=gear.toolrouteai-20)
+- ⭐ [mechanical keyboards top-rated](https://www.amazon.com/s?k=mechanical%20keyboards&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

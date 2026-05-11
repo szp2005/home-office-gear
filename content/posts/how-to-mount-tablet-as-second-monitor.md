@@ -131,3 +131,15 @@ Yes, most screen extension applications support touch input. Software like Duet 
 
 ### What is the best resolution to set for a tablet monitor?
 Tablets have much higher pixel densities than standard desktop monitors. Running the tablet at its native, unscaled resolution will make text illegibly [small](/posts/standing-desk-setup-for-small-apartment/). Use your operating system's display settings to apply a 150% or 200% scale factor. This utilizes the high pixel count for crisp text rendering while keeping the interface elements at a readable physical size.
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [wfh setup bestsellers](https://www.amazon.com/s?k=wfh%20setup&tag=gear.toolrouteai-20)
+- 💰 [dual monitor best-value picks](https://www.amazon.com/s?k=dual%20monitor&tag=gear.toolrouteai-20)
+- ⭐ [tablet accessories top-rated](https://www.amazon.com/s?k=tablet%20accessories&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

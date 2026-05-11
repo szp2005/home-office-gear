@@ -220,3 +220,15 @@ The best first step is to completely unplug your entire setup and untangle all t
 - [What Makes an Office Chair Work in Small Spaces](/posts/best-ergonomic-chair-for-small-home-office/)
 - [Why Dual Monitor Arms Matter for Home Office Setup](/posts/best-monitor-arm-for-dual-monitors-home-office/)
 - [Why Standing Desks Work in Small Apartments](/posts/standing-desk-setup-for-small-apartment/)
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [desk bestsellers](https://www.amazon.com/s?k=desk&tag=gear.toolrouteai-20)
+- 💰 [cable best-value picks](https://www.amazon.com/s?k=cable&tag=gear.toolrouteai-20)
+- ⭐ [reduce top-rated](https://www.amazon.com/s?k=reduce&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

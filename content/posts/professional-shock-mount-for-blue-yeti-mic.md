@@ -122,6 +122,17 @@ If your microphone slowly tilts downward after installation, the hinge on the sh
 ### How often do I need to replace the elastic bands on the shock mount?
 In a climate-controlled studio environment, high-quality suspension bands will typically maintain their tension for 3 to 5 years. If you notice the microphone is sitting lower inside the frame than it used to, or if the mic bottoms out against the metal when gently tapped, it is time to replace the elastic bands.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [Blue Yeti bestsellers](https://www.amazon.com/s?k=Blue%20Yeti&tag=gear.toolrouteai-20)
+- 💰 [audio gear best-value picks](https://www.amazon.com/s?k=audio%20gear&tag=gear.toolrouteai-20)
+- ⭐ [shock mounts top-rated](https://www.amazon.com/s?k=shock%20mounts&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

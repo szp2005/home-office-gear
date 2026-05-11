@@ -145,3 +145,15 @@ Battery life varies wildly based on RGB lighting. A device with a 1000mAh batter
 
 ### Is it necessary to buy a numpad from the same brand as my keyboard?
 No. Numpads operate as entirely independent input devices. Your operating system will recognize keystrokes from multiple USB or Bluetooth devices simultaneously. You can seamlessly pair a Keychron numpad with a Logitech, Razer, or custom mechanical keyboard without any driver conflicts.
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [mechanical numpad bestsellers](https://www.amazon.com/s?k=mechanical%20numpad&tag=gear.toolrouteai-20)
+- 💰 [productivity tools best-value picks](https://www.amazon.com/s?k=productivity%20tools&tag=gear.toolrouteai-20)
+- ⭐ [ergonomic workspace top-rated](https://www.amazon.com/s?k=ergonomic%20workspace&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

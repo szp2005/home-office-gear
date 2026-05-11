@@ -173,3 +173,15 @@ Avoid copying a complex system before you understand the problem you are solving
 - [The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers](/posts/home-office-posture-checklist/)
 - [Why Dual Monitor Arms Matter for Home Office Setup](/posts/best-monitor-arm-for-dual-monitors-home-office/)
 - [The Best Label Maker for Home Office Organization: A Complete Guide](/posts/best-label-maker-for-home-office-organization/)
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [DIY aesthetics bestsellers](https://www.amazon.com/s?k=DIY%20aesthetics&tag=gear.toolrouteai-20)
+- 💰 [cable management best-value picks](https://www.amazon.com/s?k=cable%20management&tag=gear.toolrouteai-20)
+- ⭐ [router placement top-rated](https://www.amazon.com/s?k=router%20placement&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

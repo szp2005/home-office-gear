@@ -94,3 +94,15 @@ Avoid copying a complex system before you understand the problem you are solving
 - [How to Improve Home Office Acoustics: The Ultimate Guide for Remote Professionals](/posts/how-to-improve-home-office-acoustics/)
 - [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
 - [The Ultimate Guide to Home Office Lighting for Eye Strain](/posts/home-office-lighting-for-eye-strain/)
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [Work From Home bestsellers](https://www.amazon.com/s?k=Work%20From%20Home&tag=gear.toolrouteai-20)
+- 💰 [Ergonomics best-value picks](https://www.amazon.com/s?k=Ergonomics&tag=gear.toolrouteai-20)
+- ⭐ [Productivity top-rated](https://www.amazon.com/s?k=Productivity&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

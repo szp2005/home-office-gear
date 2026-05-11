@@ -128,3 +128,15 @@ Knee pain is typically a geometric issue, not a fundamental flaw with pedaling. 
 
 ### Should I wear specific shoes while using a desk bike?
 Stiff-soled athletic shoes or walking shoes are ideal. Soft slippers, socks, or bare feet cause the pedals to dig into your plantar fascia, leading to foot cramps and arch pain. A firm sole disperses the mechanical pressure of the pedal evenly across the bottom of your foot.
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [desk bikes bestsellers](https://www.amazon.com/s?k=desk%20bikes&tag=gear.toolrouteai-20)
+- 💰 [weight loss best-value picks](https://www.amazon.com/s?k=weight%20loss&tag=gear.toolrouteai-20)
+- ⭐ [office ergonomics top-rated](https://www.amazon.com/s?k=office%20ergonomics&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

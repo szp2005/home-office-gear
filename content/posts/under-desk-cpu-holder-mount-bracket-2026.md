@@ -117,6 +117,17 @@ A swivel mount is not strictly structurally required for a standing desk, but a 
 ### How much clearance is needed between the top of the PC and the desk?
 You must leave an absolute minimum of 2 inches (5 cm) of vertical clearance between the top of the computer case and the underside of the desk. If your system utilizes top-mounted exhaust fans or liquid cooling radiators, expanding this vertical clearance to 3 inches prevents thermal throttling and heat pooling.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 💰 [pc hardware best-value picks](https://www.amazon.com/s?k=pc%20hardware&tag=gear.toolrouteai-20)
+- ⭐ [cable management top-rated](https://www.amazon.com/s?k=cable%20management&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

@@ -119,3 +119,15 @@ Yes, if you want a professional result. Using one light for both you and the bac
 
 ### Why are the edges of my hair flickering and looking fuzzy?
 Flickering edges, often called "crawling," are typically caused by digital noise from a high camera ISO, or a low-bitrate webcam trying to compress the video feed. Lower your ISO, increase your base lighting, and ensure your camera is manually focused sharply on your face.
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [green screen bestsellers](https://www.amazon.com/s?k=green%20screen&tag=gear.toolrouteai-20)
+- 💰 [video production best-value picks](https://www.amazon.com/s?k=video%20production&tag=gear.toolrouteai-20)
+- ⭐ [home studio setup top-rated](https://www.amazon.com/s?k=home%20studio%20setup&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

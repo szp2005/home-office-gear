@@ -113,3 +113,15 @@ You absolutely cannot use screw-in models on any glass desks. Clamp-on models ca
 
 ### What is the ideal clearance space for knee room?
 Ergonomically, you should strictly maintain a minimum of 24 inches of horizontal width completely clear of any hard obstructions directly in front of where your chair sits. Vertically, you want at least 2 to 3 inches of empty air clearance between the top of your thighs and the absolute lowest hanging point of any under-desk hardware when seated in your normal working posture.
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- 💰 [desk organization best-value picks](https://www.amazon.com/s?k=desk%20organization&tag=gear.toolrouteai-20)
+- ⭐ [storage solutions top-rated](https://www.amazon.com/s?k=storage%20solutions&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

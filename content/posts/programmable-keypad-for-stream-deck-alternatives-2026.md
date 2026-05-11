@@ -105,6 +105,17 @@ Yes. When connected via a direct USB cable, the latency on apps like Touch Porta
 ### Why do some macro pads have rotary dials?
 Rotary dials (or encoders) are designed for continuous variable adjustments. Instead of pressing a button repeatedly to lower your system volume, change brush size in Photoshop, or zoom in on a timeline, you can smoothly twist a dial. This vastly speeds up workflows that rely on sliding scales rather than simple on/off binary actions.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [macro pads bestsellers](https://www.amazon.com/s?k=macro%20pads&tag=gear.toolrouteai-20)
+- 💰 [streaming gear best-value picks](https://www.amazon.com/s?k=streaming%20gear&tag=gear.toolrouteai-20)
+- ⭐ [workstation setup top-rated](https://www.amazon.com/s?k=workstation%20setup&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

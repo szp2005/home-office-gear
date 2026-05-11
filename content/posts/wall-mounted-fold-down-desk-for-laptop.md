@@ -97,6 +97,17 @@ For a clean look, route cables through a paintable plastic cable raceway adhered
 ### Can a fold-down desk be used as a standing desk?
 Yes, this is one of their major benefits. Because you determine the installation height, you can easily mount the desk at 40 inches (or your specific elbow height) to create a permanent standing workstation.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- 💰 [small spaces best-value picks](https://www.amazon.com/s?k=small%20spaces&tag=gear.toolrouteai-20)
+- ⭐ [wall mounted desk top-rated](https://www.amazon.com/s?k=wall%20mounted%20desk&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

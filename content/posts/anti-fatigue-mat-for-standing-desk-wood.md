@@ -114,6 +114,17 @@ Premium wood-grain anti-fatigue mats utilize high-resolution printing beneath a 
 ### How do I stop my standing desk mat from sliding on wood?
 First, ensure both the wood floor and the bottom of the mat are completely clean and free of dust. If a high-quality mat still slides, you can apply strips of double-sided rug tape designed specifically for hardwood floors (which use silicone adhesives rather than permanent glues) to the bottom corners of the mat. Avoid standard carpet tape, as it will leave an aggressive, hard-to-remove residue on your wood finish.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [hardwood floors bestsellers](https://www.amazon.com/s?k=hardwood%20floors&tag=gear.toolrouteai-20)
+- 💰 [home office setup best-value picks](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+- ⭐ [standing desk accessories top-rated](https://www.amazon.com/s?k=standing%20desk%20accessories&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading

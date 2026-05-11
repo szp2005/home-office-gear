@@ -159,6 +159,17 @@ You can use a zoom lens, but prime lenses (fixed focal length) generally offer m
 ### Why is my auto-focus pulsing or losing my face?
 Ensure your camera is set to "Continuous AF" (AF-C) rather than Single AF, and verify that "Eye/Face Detection" is enabled in your settings. Also, check your lighting; if your face is poorly lit, the camera's contrast or phase detection sensors will struggle to lock onto your features.
 
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [webcam setup bestsellers](https://www.amazon.com/s?k=webcam%20setup&tag=gear.toolrouteai-20)
+- 💰 [bokeh effect best-value picks](https://www.amazon.com/s?k=bokeh%20effect&tag=gear.toolrouteai-20)
+- ⭐ [video streaming top-rated](https://www.amazon.com/s?k=video%20streaming&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
 ---
 
 ## Related Reading
