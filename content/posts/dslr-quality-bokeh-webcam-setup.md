@@ -165,10 +165,12 @@ Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
 - 🏆 [webcam setup bestsellers](https://www.amazon.com/s?k=webcam%20setup&tag=gear.toolrouteai-20)
-- 💰 [video streaming best-value picks](https://www.amazon.com/s?k=video%20streaming&tag=gear.toolrouteai-20)
-- ⭐ [bokeh effect top-rated](https://www.amazon.com/s?k=bokeh%20effect&tag=gear.toolrouteai-20)
+- 💰 [bokeh effect best-value picks](https://www.amazon.com/s?k=bokeh%20effect&tag=gear.toolrouteai-20)
+- ⭐ [video streaming top-rated](https://www.amazon.com/s?k=video%20streaming&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

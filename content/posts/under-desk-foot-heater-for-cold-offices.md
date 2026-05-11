@@ -121,6 +121,7 @@ Check these top-rated picks on Amazon:
 
 - 🏆 [office gear bestsellers](https://www.amazon.com/s?k=office%20gear&tag=gear.toolrouteai-20)
 - 💰 [desk accessories best-value picks](https://www.amazon.com/s?k=desk%20accessories&tag=gear.toolrouteai-20)
-- ⭐ [ergonomics top-rated](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- ⭐ [winter workspace top-rated](https://www.amazon.com/s?k=winter%20workspace&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+

@@ -130,8 +130,9 @@ No, provided the chair is adjusted correctly. Your feet must rest flat on the fl
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [ergonomics bestsellers](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
-- 💰 [posture correction best-value picks](https://www.amazon.com/s?k=posture%20correction&tag=gear.toolrouteai-20)
-- ⭐ [office furniture top-rated](https://www.amazon.com/s?k=office%20furniture&tag=gear.toolrouteai-20)
+- 🏆 [office furniture bestsellers](https://www.amazon.com/s?k=office%20furniture&tag=gear.toolrouteai-20)
+- 💰 [back pain relief best-value picks](https://www.amazon.com/s?k=back%20pain%20relief&tag=gear.toolrouteai-20)
+- ⭐ [posture correction top-rated](https://www.amazon.com/s?k=posture%20correction&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+

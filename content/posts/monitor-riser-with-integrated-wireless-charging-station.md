@@ -113,11 +113,13 @@ If the riser only features a wireless charging pad, it requires a wall outlet vi
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [desk accessories bestsellers](https://www.amazon.com/s?k=desk%20accessories&tag=gear.toolrouteai-20)
-- 💰 [ergonomics best-value picks](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- 💰 [desk accessories best-value picks](https://www.amazon.com/s?k=desk%20accessories&tag=gear.toolrouteai-20)
 - ⭐ [wireless charging top-rated](https://www.amazon.com/s?k=wireless%20charging&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

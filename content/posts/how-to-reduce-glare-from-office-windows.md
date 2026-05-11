@@ -141,10 +141,12 @@ Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
 - 🏆 [office ergonomics bestsellers](https://www.amazon.com/s?k=office%20ergonomics&tag=gear.toolrouteai-20)
-- 💰 [workspace lighting best-value picks](https://www.amazon.com/s?k=workspace%20lighting&tag=gear.toolrouteai-20)
-- ⭐ [productivity top-rated](https://www.amazon.com/s?k=productivity&tag=gear.toolrouteai-20)
+- 💰 [remote work setup best-value picks](https://www.amazon.com/s?k=remote%20work%20setup&tag=gear.toolrouteai-20)
+- ⭐ [workspace lighting top-rated](https://www.amazon.com/s?k=workspace%20lighting&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

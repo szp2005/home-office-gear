@@ -119,11 +119,13 @@ First, ensure both the wood floor and the bottom of the mat are completely clean
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [standing desk accessories bestsellers](https://www.amazon.com/s?k=standing%20desk%20accessories&tag=gear.toolrouteai-20)
-- 💰 [ergonomics best-value picks](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
-- ⭐ [home office setup top-rated](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+- 🏆 [hardwood floors bestsellers](https://www.amazon.com/s?k=hardwood%20floors&tag=gear.toolrouteai-20)
+- 💰 [home office setup best-value picks](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
+- ⭐ [standing desk accessories top-rated](https://www.amazon.com/s?k=standing%20desk%20accessories&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

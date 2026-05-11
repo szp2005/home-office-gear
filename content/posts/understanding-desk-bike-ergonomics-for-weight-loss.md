@@ -134,8 +134,9 @@ Stiff-soled athletic shoes or walking shoes are ideal. Soft slippers, socks, or 
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [office ergonomics bestsellers](https://www.amazon.com/s?k=office%20ergonomics&tag=gear.toolrouteai-20)
+- 🏆 [desk bikes bestsellers](https://www.amazon.com/s?k=desk%20bikes&tag=gear.toolrouteai-20)
 - 💰 [weight loss best-value picks](https://www.amazon.com/s?k=weight%20loss&tag=gear.toolrouteai-20)
-- ⭐ [desk bikes top-rated](https://www.amazon.com/s?k=desk%20bikes&tag=gear.toolrouteai-20)
+- ⭐ [office ergonomics top-rated](https://www.amazon.com/s?k=office%20ergonomics&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+

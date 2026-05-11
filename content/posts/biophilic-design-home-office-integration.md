@@ -137,9 +137,11 @@ Check these top-rated picks on Amazon:
 
 - 🏆 [biophilic design bestsellers](https://www.amazon.com/s?k=biophilic%20design&tag=gear.toolrouteai-20)
 - 💰 [home office setup best-value picks](https://www.amazon.com/s?k=home%20office%20setup&tag=gear.toolrouteai-20)
-- ⭐ [productivity top-rated](https://www.amazon.com/s?k=productivity&tag=gear.toolrouteai-20)
+- ⭐ [wellness top-rated](https://www.amazon.com/s?k=wellness&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

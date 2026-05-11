@@ -223,20 +223,21 @@ Quality compact standing desks are built with sturdy steel frames to ensure stab
 
 Yes, many walking pads are designed to be slim and easily slide under standard or compact standing desks. You will just need to verify the width between the desk's legs to ensure the treadmill fits comfortably underneath. When not in use, they can often be stored vertically or under a sofa to save space.
 
-## Recommended on Amazon
-
-Looking for the gear mentioned in this guide?
-Check these top-rated picks on Amazon:
-
-- 🏆 [standing bestsellers](https://www.amazon.com/s?k=standing&tag=gear.toolrouteai-20)
-- 💰 [desk best-value picks](https://www.amazon.com/s?k=desk&tag=gear.toolrouteai-20)
-- ⭐ [setup top-rated](https://www.amazon.com/s?k=setup&tag=gear.toolrouteai-20)
-
-_As an Amazon Associate we earn from qualifying purchases._
-
 ## Related Reading
 
 - [What Makes an Office Chair Work in Small Spaces](/posts/best-ergonomic-chair-for-small-home-office/)
 - [Compact Standing Desk Converter Review 2026: Transform Your Small Workspace](/posts/compact-standing-desk-converter-review/)
 - [The Best Portable Monitor for Work From Home: Boost Productivity Anywhere](/posts/best-portable-monitor-for-work-from-home/)
 - [Best Budget Ergonomic Chairs for Remote Work in 2026: Comfort Under $300](/posts/best-budget-ergonomic-chair-for-remote-work/)
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [desk bestsellers](https://www.amazon.com/s?k=desk&tag=gear.toolrouteai-20)
+- 💰 [setup best-value picks](https://www.amazon.com/s?k=setup&tag=gear.toolrouteai-20)
+- ⭐ [small top-rated](https://www.amazon.com/s?k=small&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+

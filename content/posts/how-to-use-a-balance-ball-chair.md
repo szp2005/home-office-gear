@@ -142,11 +142,13 @@ They can be highly beneficial for non-specific lower back pain caused by muscula
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [balance ball chair bestsellers](https://www.amazon.com/s?k=balance%20ball%20chair&tag=gear.toolrouteai-20)
-- 💰 [ergonomics best-value picks](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- 💰 [balance ball chair best-value picks](https://www.amazon.com/s?k=balance%20ball%20chair&tag=gear.toolrouteai-20)
 - ⭐ [posture correction top-rated](https://www.amazon.com/s?k=posture%20correction&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

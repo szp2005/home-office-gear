@@ -128,10 +128,12 @@ Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
 - 🏆 [Blue Yeti bestsellers](https://www.amazon.com/s?k=Blue%20Yeti&tag=gear.toolrouteai-20)
-- 💰 [shock mounts best-value picks](https://www.amazon.com/s?k=shock%20mounts&tag=gear.toolrouteai-20)
-- ⭐ [audio gear top-rated](https://www.amazon.com/s?k=audio%20gear&tag=gear.toolrouteai-20)
+- 💰 [audio gear best-value picks](https://www.amazon.com/s?k=audio%20gear&tag=gear.toolrouteai-20)
+- ⭐ [shock mounts top-rated](https://www.amazon.com/s?k=shock%20mounts&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

@@ -182,8 +182,9 @@ Negative tilt means the top edge of the keyboard (where the function keys are) i
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [office ergonomics bestsellers](https://www.amazon.com/s?k=office%20ergonomics&tag=gear.toolrouteai-20)
-- 💰 [desk setup best-value picks](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
-- ⭐ [posture top-rated](https://www.amazon.com/s?k=posture&tag=gear.toolrouteai-20)
+- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 💰 [office ergonomics best-value picks](https://www.amazon.com/s?k=office%20ergonomics&tag=gear.toolrouteai-20)
+- ⭐ [typing top-rated](https://www.amazon.com/s?k=typing&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+

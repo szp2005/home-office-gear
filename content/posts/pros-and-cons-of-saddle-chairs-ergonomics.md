@@ -145,11 +145,13 @@ A solid saddle chair has a continuous surface, which can cause uncomfortable pre
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [ergonomics bestsellers](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
-- 💰 [home office best-value picks](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
-- ⭐ [saddle chairs top-rated](https://www.amazon.com/s?k=saddle%20chairs&tag=gear.toolrouteai-20)
+- 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
+- 💰 [saddle chairs best-value picks](https://www.amazon.com/s?k=saddle%20chairs&tag=gear.toolrouteai-20)
+- ⭐ [posture top-rated](https://www.amazon.com/s?k=posture&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

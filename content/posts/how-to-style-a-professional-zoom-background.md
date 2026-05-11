@@ -136,10 +136,12 @@ Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
 - 🏆 [home office bestsellers](https://www.amazon.com/s?k=home%20office&tag=gear.toolrouteai-20)
-- 💰 [zoom background best-value picks](https://www.amazon.com/s?k=zoom%20background&tag=gear.toolrouteai-20)
-- ⭐ [remote work top-rated](https://www.amazon.com/s?k=remote%20work&tag=gear.toolrouteai-20)
+- 💰 [remote work best-value picks](https://www.amazon.com/s?k=remote%20work&tag=gear.toolrouteai-20)
+- ⭐ [zoom background top-rated](https://www.amazon.com/s?k=zoom%20background&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

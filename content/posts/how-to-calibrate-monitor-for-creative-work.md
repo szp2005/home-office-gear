@@ -135,11 +135,13 @@ D65 (6500K) is the standard for most digital workflows, web design, video editin
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [color accuracy bestsellers](https://www.amazon.com/s?k=color%20accuracy&tag=gear.toolrouteai-20)
-- 💰 [monitor calibration best-value picks](https://www.amazon.com/s?k=monitor%20calibration&tag=gear.toolrouteai-20)
+- 🏆 [photo editing bestsellers](https://www.amazon.com/s?k=photo%20editing&tag=gear.toolrouteai-20)
+- 💰 [color accuracy best-value picks](https://www.amazon.com/s?k=color%20accuracy&tag=gear.toolrouteai-20)
 - ⭐ [creative workflow top-rated](https://www.amazon.com/s?k=creative%20workflow&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

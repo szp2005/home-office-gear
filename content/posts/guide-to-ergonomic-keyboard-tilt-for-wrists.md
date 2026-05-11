@@ -155,11 +155,13 @@ Muscle memory typically adapts within one to two weeks. Initially, typing on a d
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [ergonomics bestsellers](https://www.amazon.com/s?k=ergonomics&tag=gear.toolrouteai-20)
+- 🏆 [wrist health bestsellers](https://www.amazon.com/s?k=wrist%20health&tag=gear.toolrouteai-20)
 - 💰 [keyboard setup best-value picks](https://www.amazon.com/s?k=keyboard%20setup&tag=gear.toolrouteai-20)
-- ⭐ [wrist health top-rated](https://www.amazon.com/s?k=wrist%20health&tag=gear.toolrouteai-20)
+- ⭐ [office workspace top-rated](https://www.amazon.com/s?k=office%20workspace&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

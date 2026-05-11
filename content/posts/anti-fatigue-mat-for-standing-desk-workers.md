@@ -130,11 +130,13 @@ Most premium mats are designed to be used in socks, barefoot, or with flat, supp
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [office ergonomics bestsellers](https://www.amazon.com/s?k=office%20ergonomics&tag=gear.toolrouteai-20)
-- 💰 [standing desks best-value picks](https://www.amazon.com/s?k=standing%20desks&tag=gear.toolrouteai-20)
-- ⭐ [workspace health top-rated](https://www.amazon.com/s?k=workspace%20health&tag=gear.toolrouteai-20)
+- 🏆 [standing desks bestsellers](https://www.amazon.com/s?k=standing%20desks&tag=gear.toolrouteai-20)
+- 💰 [workspace health best-value picks](https://www.amazon.com/s?k=workspace%20health&tag=gear.toolrouteai-20)
+- ⭐ [desk accessories top-rated](https://www.amazon.com/s?k=desk%20accessories&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

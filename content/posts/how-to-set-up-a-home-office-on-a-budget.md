@@ -167,6 +167,13 @@ Start by identifying the specific outcome you want, then apply the smallest usef
 
 Avoid copying a complex system before you understand the problem you are solving. Keep the workflow simple, measure whether it improves your real work, and only add more tools or steps when they remove friction.
 
+## Related Reading
+
+- [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
+- [The Ultimate Guide to Home Office Essentials for Remote Workers in 2026](/posts/home-office-essentials-for-remote-workers/)
+- [The Ultimate Guide to Home Office Lighting for Eye Strain](/posts/home-office-lighting-for-eye-strain/)
+- [The Ultimate Guide to the Best Chair Mat for Hardwood Floors in Your Home Office](/posts/best-chair-mat-for-hardwood-floors-home-office/)
+
 ## Recommended on Amazon
 
 Looking for the gear mentioned in this guide?
@@ -178,9 +185,3 @@ Check these top-rated picks on Amazon:
 
 _As an Amazon Associate we earn from qualifying purchases._
 
-## Related Reading
-
-- [The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office](/posts/best-under-desk-treadmill-for-home-office/)
-- [The Ultimate Guide to Home Office Essentials for Remote Workers in 2026](/posts/home-office-essentials-for-remote-workers/)
-- [The Ultimate Guide to Home Office Lighting for Eye Strain](/posts/home-office-lighting-for-eye-strain/)
-- [The Ultimate Guide to the Best Chair Mat for Hardwood Floors in Your Home Office](/posts/best-chair-mat-for-hardwood-floors-home-office/)

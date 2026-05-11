@@ -127,11 +127,13 @@ If your boom arm extends further than 15 inches horizontally and you are using a
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [audio equipment bestsellers](https://www.amazon.com/s?k=audio%20equipment&tag=gear.toolrouteai-20)
-- 💰 [podcasting gear best-value picks](https://www.amazon.com/s?k=podcasting%20gear&tag=gear.toolrouteai-20)
-- ⭐ [desk setup top-rated](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 💰 [home studio best-value picks](https://www.amazon.com/s?k=home%20studio&tag=gear.toolrouteai-20)
+- ⭐ [audio equipment top-rated](https://www.amazon.com/s?k=audio%20equipment&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
+---
 
 ## Related Reading
 

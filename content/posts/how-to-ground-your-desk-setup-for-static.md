@@ -156,8 +156,9 @@ The most reliable way to test an ESD mat is using a surface resistance meter, wh
 Looking for the gear mentioned in this guide?
 Check these top-rated picks on Amazon:
 
-- 🏆 [cable management bestsellers](https://www.amazon.com/s?k=cable%20management&tag=gear.toolrouteai-20)
-- 💰 [desk setup best-value picks](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
-- ⭐ [pc building top-rated](https://www.amazon.com/s?k=pc%20building&tag=gear.toolrouteai-20)
+- 🏆 [desk setup bestsellers](https://www.amazon.com/s?k=desk%20setup&tag=gear.toolrouteai-20)
+- 💰 [pc building best-value picks](https://www.amazon.com/s?k=pc%20building&tag=gear.toolrouteai-20)
+- ⭐ [hardware safety top-rated](https://www.amazon.com/s?k=hardware%20safety&tag=gear.toolrouteai-20)
 
 _As an Amazon Associate we earn from qualifying purchases._
+
