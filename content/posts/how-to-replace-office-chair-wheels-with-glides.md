@@ -114,3 +114,15 @@ Yes. The friction-ring socket design allows for repeated swapping of hardware. Y
 
 ### Why won't my glides stay in the base?
 If your new glides continuously fall out when you lift the chair, the stem is likely too small (e.g., you installed a 10mm stem in an 11mm socket). Alternatively, the metal friction ring (the small split ring at the top of the stem) may be compressed. You can use a flathead screwdriver to slightly pry the split ring outward, increasing its diameter and restoring its gripping power.
+
+## Recommended on Amazon
+
+Looking for the gear mentioned in this guide?
+Check these top-rated picks on Amazon:
+
+- 🏆 [DIY office bestsellers](https://www.amazon.com/s?k=DIY%20office&tag=gear.toolrouteai-20)
+- 💰 [chair glides best-value picks](https://www.amazon.com/s?k=chair%20glides&tag=gear.toolrouteai-20)
+- ⭐ [office chair upgrades top-rated](https://www.amazon.com/s?k=office%20chair%20upgrades&tag=gear.toolrouteai-20)
+
+_As an Amazon Associate we earn from qualifying purchases._
+
