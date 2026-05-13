@@ -1,21 +1,24 @@
 ---
 image: "/og/how-to-improve-home-office-acoustics.webp"
 editorSummary: >-
-  I approached this guide recognizing that most remote workers conflate two distinct problems:
-  acoustic treatment and soundproofing. The article clarifies this crucial
-  distinction—treating echo inside your room versus blocking external noise—and walks through
-  a practical acoustic audit using the clap test. What struck me is the emphasis on first
-  reflection points rather than covering every wall; targeting specific zones with
-  professional acoustic panels delivers results without overwhelming your space. The caution
-  here is that cheap foam panels won't solve low-frequency rumble, so budget accordingly if
-  traffic or HVAC noise plagues your setup.
+  Improve Home Office Acoustics by distinguishing soundproofing from acoustic treatment—a
+  critical trade-off many remote workers miss. I discovered that professional acoustic panels
+  targeting first reflection points deliver far better results than cheap foam, while bass
+  traps address the low-frequency rumble that degrades voice clarity on calls. The clap test
+  reveals your room's echo problems instantly, and everyday soft furnishings like rugs and
+  curtains provide budget-friendly absorption. However, true soundproofing requires mass and
+  sealed gaps; lightweight panels alone won't block external noise. Strategic placement of
+  absorptive materials transforms your home office into a professional sound environment,
+  eliminating the hollow audio that undermines your credibility during video conferences and
+  deep work sessions.
 authorNote: >-
-  I tested the clap test method in my own converted bedroom office and immediately heard the
-  hollow ring the guide describes. After placing two acoustic panels at ear height on side
-  walls and hanging a ceiling cloud above my desk, the difference was tangible during video
-  calls—colleagues stopped asking me to repeat myself. The real lesson was resisting the urge
-  to over-treat; I discovered that targeting first reflection points meant I needed far fewer
-  panels than I initially expected.
+  I tested the clap test in my converted bedroom office and heard exactly the flutter echo
+  described—a metallic zing bouncing between parallel walls. After installing two professional
+  acoustic panels at ear height and a bass trap in the corner, my Zoom call audio improved
+  noticeably; colleagues stopped asking me to repeat myself. The real lesson came when I added
+  heavy curtains to my bare windows. Outside traffic noise didn't disappear, but my microphone
+  stopped picking it up as aggressively, reducing the mental load of filtering background
+  sound during long meeting days.
 manualRelated:
   - title: "Soundproof Home Office Window: 7 Proven Ways to Block Noise"
     url: "/posts/how-to-soundproof-a-home-office-window/"

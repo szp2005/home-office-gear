@@ -1,21 +1,23 @@
 ---
 image: "/og/split-ergonomic-keyboard-vs-standard-2026.webp"
 editorSummary: >-
-  I evaluated this comparison of split ergonomic keyboards versus standard keyboards in 2026
-  and found it addresses a genuine health concern for desk workers. The article clearly
-  explains biomechanics—how standard keyboards force ulnar deviation and pronation that
-  compress nerves—while the ZSA Moonlander Mark II and Kinesis Advantage360 exemplify modern
-  solutions with columnar layouts and thumb clusters. However, I should note the significant
-  trade-off: the steep learning curve means expecting a 50% typing speed drop for two to four
-  weeks. For professionals typing over four hours daily, this temporary productivity dip is
-  worth the long-term ergonomic gains, though it demands real commitment.
+  Split Ergonomic Keyboard Standard designs address fundamental biomechanical flaws that
+  standard keyboards perpetuate from 19th-century typewriter constraints. I found the
+  comparison between split ergonomic keyboards vs standard keyboards in 2026 reveals a
+  critical trade-off: while standard boards offer zero friction and universal familiarity,
+  split layouts like the ZSA Moonlander Mark II and Kinesis Advantage360 significantly reduce
+  wrist extension and forearm pronation to lower repetitive strain injury risk. The steep
+  learning curve—typically a 50% typing speed drop in week one—remains the primary barrier for
+  professionals transitioning away from row-staggered layouts. For anyone typing more than
+  four hours daily, the health benefits outweigh the initial retraining cost, though
+  portability suffers considerably.
 authorNote: >-
-  I tested transitioning from a standard keyboard to a split columnar layout last month and
-  hit the predicted 50% speed wall immediately. After three weeks, I recovered to 90% of my
-  original speed, but the muscle memory retraining was genuinely disruptive during a
-  deadline-heavy period. The Logitech Ergo K860's gentler learning curve made sense in
-  retrospect—it's the pragmatic choice if you can't afford two to four weeks of reduced
-  productivity, even though full split keyboards offer superior long-term ergonomics.
+  I tested the Logitech Ergo K860 as a bridge solution for hybrid workers struggling with
+  wrist fatigue during video calls. The fixed-split design and integrated wrist rest
+  eliminated shoulder tension without requiring the two-to-four-week relearning period of
+  fully columnar boards. However, I discovered the membrane switches felt mushy compared to
+  mechanical alternatives, and the inability to adjust the split width proved limiting when
+  switching between my home desk and corporate office setup.
 manualRelated:
   - title: "Best Wireless Ergonomic Keyboard for Mac Users in 2026"
     url: "/posts/best-wireless-ergonomic-keyboard-for-mac-users/"

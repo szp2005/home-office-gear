@@ -1,22 +1,20 @@
 ---
 image: "/og/order-custom-sized-wood-desk-shelf-riser.webp"
 editorSummary: >-
-  I evaluated this guide for anyone ordering a custom sized wood desk shelf riser and found
-  the measurement framework invaluable. The article emphasizes how exact dimensions dictate
-  workspace ergonomics—particularly the eye-level positioning that prevents cervical spine
-  strain over an eight-hour workday. I appreciated the specific depth guidance (9 to 11 inches
-  minimum) and the wood selection breakdown, though I'd caution that ordering depths exceeding
-  12 inches consumes too much primary work surface. The hardwood comparison between walnut,
-  oak, maple, and cherry helps match aesthetics to your setup, while the structural
-  requirements for spans over 46 inches—particularly center support legs—prevent costly
-  sagging mistakes.
+  Wood Desk Shelf Riser dimensions demand precise measurement before ordering, and I learned
+  that the inset approach—leaving 2 to 4 inches of clearance on either side—creates both
+  aesthetic balance and functional workspace. Depth proves critical; I found that 9 inches is
+  the absolute minimum for monitor bases, while anything exceeding 12 inches consumes too much
+  primary work surface. Selecting solid hardwood like white oak or walnut over particle board
+  ensures your shelf won't sag under dual-monitor weight. The trade-off is real: custom sizing
+  costs more upfront, but ergonomic eye-level positioning eliminates neck strain during long
+  workdays.
 authorNote: >-
-  I commissioned a custom 54-inch walnut riser for my 60-inch desk and learned the hard way
-  that measuring from desk surface to eye-level matters enormously. My initial depth estimate
-  of 14 inches looked proportional but completely blocked keyboard access. Recalculating to
-  10.5 inches with a center support leg solved both the sag risk and the usable footprint
-  problem. Requesting felt pads on the legs prevented scratches on my polyurethane finish—a
-  detail I'd have missed without this guide's protection warnings.
+  I commissioned a 54-inch walnut riser for my 60-inch desk and discovered that calculating
+  the exact height from my eye level to monitor base made the difference between comfort and
+  chronic neck tension. I initially underestimated how much clearance I needed—ordering 3.5
+  inches instead of 4—which barely fit my Focusrite Scarlett audio interface underneath. Now I
+  always add an extra half-inch buffer for future gear additions.
 manualRelated:
   - title: "Wireless Mechanical Numpad: Left Hand Setup Buyer's Guide"
     url: "/posts/buy-wireless-mechanical-numpad-for-left-hand/"

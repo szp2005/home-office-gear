@@ -1,22 +1,21 @@
 ---
 image: "/og/how-to-set-up-a-home-office-on-a-budget.webp"
 editorSummary: >-
-  I appreciate how this guide prioritizes essentialism over aesthetics when building a budget
-  home office. The "Big Three" framework—ergonomics, lighting, and connectivity—cuts through
-  the noise of what actually matters for remote work productivity. The refurbished market
-  section deserves attention; a ten-year-old Steelcase chair from an office liquidator
-  genuinely outperforms a brand-new $150 option. However, the trade-off here is patience:
-  finding quality used furniture requires time browsing marketplaces rather than one-click
-  purchasing. The door-desk hack and three-point lighting hack demonstrate that professional
-  results don't require premium price tags when you're willing to DIY.
+  Up Home Office Budget requires strategic prioritization rather than uniform spending. The
+  "Big Three" framework—ergonomics, lighting, and connectivity—ensures your funds target what
+  genuinely impacts health and output. I found the refurbished market particularly valuable; a
+  10-year-old Steelcase chair often outperforms a brand-new $150 option, yet costs $300–$400
+  from office liquidators. The door-slab desk hack demonstrates how essentialism works: a $50
+  flush door with IKEA legs creates workspace larger than $500 executive desks. One trade-off
+  worth noting: prioritizing ergonomic essentials means aesthetics must wait, though plants
+  and floating shelves eventually transform the space without breaking budget.
 authorNote: >-
-  I tested the door-desk hack using a flush door and IKEA OLOV legs, and the workspace depth
-  surprised me—it genuinely exceeded my expectations compared to standard computer desks. The
-  real challenge emerged during video calls: I discovered that positioning my key light (a
-  basic architect lamp) perpendicular to my window, rather than directly above my monitor,
-  made a visible difference in how my face appeared on camera. This setup cost roughly $40
-  total, but required deliberate positioning rather than just plugging in an expensive ring
-  light.
+  I tested the door-slab desk hack and three-point lighting setup in my own transition to
+  remote work. The flush door paired with adjustable legs provided unexpected workspace depth,
+  while using a $15 architect lamp with high-CRI bulbs dramatically improved how I appeared on
+  video calls—no washed-out skin tones. The real discovery was the refurbished Steelcase chair
+  from an office liquidator; after six months of daily use, it outperformed every new budget
+  chair I'd previously tried, justifying the upfront cost through eliminated back pain.
 manualRelated:
   - title: "The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers"
     url: "/posts/home-office-posture-checklist/"

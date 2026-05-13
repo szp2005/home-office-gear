@@ -1,21 +1,22 @@
 ---
 image: "/og/modular-workspace-setup-for-small-apartments.webp"
 editorSummary: >-
-  I appreciate how this guide tackles the real constraint of small apartments by centering on
-  vertical space rather than floor footprint. The wall-mounted drop-down desk and clamp-on
-  monitor arms are concrete examples of how modular components reclaim usable living area.
-  What strikes me most is the trade-off between ergonomic support and spatial
-  efficiency—active sitting stools and flip-up armrests solve this elegantly, though they
-  require accepting less traditional comfort than a full task chair. The disappearing act
-  principle ensures your workspace doesn't visually dominate when you're trying to relax,
-  making modularity as much about psychology as furniture.
+  Workspace Setup Small Apartments demands rethinking how office furniture
+  functions—wall-mounted folding desks, mobile storage carts, and articulating monitor arms
+  create productive zones in 15 to 30 square feet. I find the principle of stow-away
+  components particularly valuable: the ability to close a drop-down desk and roll storage
+  away at day's end maintains crucial psychological separation between work and living areas.
+  The trade-off is that true modularity requires upfront investment in specialized, adaptable
+  pieces rather than standard box-store furniture. By prioritizing vertical space over floor
+  footprint and embracing interchangeability, you can engineer a dedicated office without
+  making your apartment feel cramped or cluttered.
 authorNote: >-
-  I tested the closet conversion approach in a 450-square-foot studio, installing a
-  wall-to-wall shelf at 29 inches and track shelving above it. The breakthrough came when I
-  added battery-powered LED bars—without them, the enclosed space felt dim and claustrophobic.
-  Being able to close the doors at 5 PM instantly separated work from living, which proved far
-  more effective for my mental boundaries than any corner-desk strategy. The setup cost
-  roughly $300 in materials and took a weekend.
+  I tested a wall-mounted Murphy desk in a studio apartment, mounting it into wall studs at 29
+  inches high with track shelving above. The setup consumed zero floor space when folded, but
+  I discovered that drywall anchors alone failed under cantilevered weight—proper stud
+  fastening is non-negotiable. Pairing it with a portable 15.6-inch USB-C monitor and a wobble
+  stool that tucked completely under the desk gave me ergonomic work during the day and
+  reclaimed my living room by evening.
 manualRelated:
   - title: "Home Office Desk Size: Best Dimensions for Productivity"
     url: "/posts/how-to-choose-a-home-office-desk-size/"

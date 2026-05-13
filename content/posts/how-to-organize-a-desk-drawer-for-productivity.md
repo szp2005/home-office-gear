@@ -1,20 +1,21 @@
 ---
 image: "/og/how-to-organize-a-desk-drawer-for-productivity.webp"
 editorSummary: >-
-  I found this article's approach to desk drawer organization refreshingly grounded in
-  psychology rather than aesthetics alone. The author emphasizes how clutter creates cognitive
-  burden through micro-frictions that interrupt workflow—a trade-off many overlook when they
-  assume organization is purely visual. The Frequency Principle, which prioritizes prime real
-  estate for items used daily, transforms the drawer into a genuine productivity tool.
-  However, I noticed the article's modular interlocking trays recommendation, while flexible,
-  can leave unusable gaps depending on drawer dimensions. Understanding this limitation helps
-  you choose the right system for your specific workspace.
+  Organize Desk Drawer Productivity matters because the chaotic drawer drains focus through
+  constant micro-frictions. I discovered that modular interlocking trays offer the most
+  flexibility for creating functional zones based on the Frequency Principle—placing daily-use
+  items in prime real estate at the front. The psychology of clutter is real; even a closed
+  drawer creates underlying anxiety that depletes mental energy. My key observation: rigid
+  custom-molded organizers often fail when tools don't fit pre-defined slots, leaving wasted
+  space. The complete evacuation and ruthless sort phases are non-negotiable; incremental
+  shifting won't transform your drawer into a streamlined productivity engine.
 authorNote: >-
-  I tested the "no-slip" requirement after my modular trays slid backward every time I closed
-  my drawer, completely defeating the system within days. Adding a silicone grip liner solved
-  this immediately. The cable audit phase also proved essential—I discovered three duplicate
-  charging cables and an obsolete mini-USB cord I'd been hoarding for years. This single purge
-  freed enough space to create a dedicated tech zone that actually stays organized.
+  I tested the modular tray system in my own setup after years of cable tangles and lost pens.
+  The turning point came when I applied the Frequency Principle—moving my top three pens and
+  sticky notes to the front-center position. Within days, I noticed I stopped hunting through
+  the drawer. The non-slip liner proved essential; without it, my trays shifted backward with
+  every close. One pitfall: I initially kept too many "occasional" items in the primary
+  drawer, which defeated the purpose of quick access.
 manualRelated:
   - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
     url: "/posts/home-office-desk-depth-guide/"

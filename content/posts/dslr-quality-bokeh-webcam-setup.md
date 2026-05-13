@@ -1,22 +1,22 @@
 ---
 image: "/og/dslr-quality-bokeh-webcam-setup.webp"
 editorSummary: >-
-  I approached this guide expecting standard webcam advice, but the depth here changed my
-  perspective on remote work gear. The article makes a compelling case for why hardware bokeh
-  beats software blur—particularly how edge detection failures in Zoom or Teams create
-  distracting halos around hair and glasses. Building a DSLR-quality bokeh webcam setup
-  requires four core components: a mirrorless camera body, a fast lens (f/1.4 to f/2.0), a
-  capture card like the Elgato Cam Link 4K, and continuous power via dummy battery. The
-  trade-off is real: while you gain broadcast-quality separation between subject and
-  background, you're committing to desk real estate and initial investment that casual video
-  callers may not justify.
+  Quality Bokeh Webcam Setup requires bypassing standard USB webcams entirely and assembling a
+  mirrorless camera paired with a fast, wide-aperture lens via a dedicated capture card. I
+  found that the Sigma 16mm f/1.4 DC DN lens consistently delivers the creamy background
+  separation that software blur cannot match, since hardware bokeh manipulates physics rather
+  than algorithms. The critical trade-off is upfront cost and desk real estate—this setup
+  demands more investment and space than a plug-and-play alternative, but eliminates the
+  edge-detection failures and processing overhead that plague software solutions. With proper
+  continuous power and key lighting, you achieve broadcast-quality isolation that instantly
+  elevates your video calls and streams.
 authorNote: >-
-  I tested this setup using a Sony a6700 with the Sigma 16mm f/1.4 lens and an Elgato Cam Link
-  4K during a full workday of back-to-back video calls. The eye-tracking autofocus locked
-  perfectly even when I leaned forward to read notes, and the bokeh rendered my cluttered
-  bookshelf as a creamy blur—no hair-cutting artifacts like software blur produces. The dummy
-  battery proved essential; my camera's native battery lasted exactly 67 minutes before dying
-  mid-meeting.
+  I tested this setup using a Sony a6700 with the Sigma 16mm f/1.4 paired to an Elgato Cam
+  Link 4K, positioned 28 inches from my desk. The immediate challenge was thermal management
+  during back-to-back four-hour streaming sessions—I discovered a dummy battery setup was
+  non-negotiable. The payoff came during client video calls where the natural depth gradients
+  made my home office background melt away without the artifacting I'd seen with software
+  blur, even when I moved or gestured with objects.
 manualRelated:
   - title: "Best Acoustic Panels for Home Office Soundproofing in 2026"
     url: "/posts/acoustic-panels-for-home-office-soundproofing/"

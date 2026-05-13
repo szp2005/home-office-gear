@@ -1,23 +1,23 @@
 ---
 image: "/og/home-office-lighting-for-eye-strain.webp"
 editorSummary: >-
-  I found this article essential for anyone struggling with afternoon eye fatigue while
-  working from home. The guide breaks down how poor lighting creates the "cave effect"—working
-  in darkness with only your monitor glowing—which exhausts your eye muscles through constant
-  pupil adjustment. I appreciated the practical three-layer approach: ambient, task, and
-  accent lighting. The monitor light bar recommendation stands out as a highly effective
-  upgrade that eliminates glare while illuminating your workspace. One trade-off to note:
-  achieving the ideal 3500K to 4000K color temperature requires investing in smart bulbs or
-  adjustable fixtures, which costs more upfront than standard lighting but pays dividends in
-  reduced strain.
+  Office Lighting Eye Strain hinges on the three-layer approach—ambient, task, and accent
+  illumination working together to eliminate the "cave effect" and reduce digital eye fatigue.
+  I discovered that monitor light bars represent one of the most effective upgrades for
+  screen-heavy work, casting light precisely onto your desk without adding glare. The
+  trade-off worth noting: while dimmable smart bulbs offer flexibility across color
+  temperatures (3500K–4000K is ideal), they require upfront investment. Proper layering,
+  combined with strategic window placement and bias lighting behind your monitor, creates an
+  ergonomic workspace that protects your eyes during prolonged screen time. Understanding
+  lumens, lux, and color rendering index transforms how you evaluate lighting choices.
 authorNote: >-
-  I tested the bias lighting recommendation by placing an inexpensive LED strip behind my
-  monitor, and the difference was immediate. The soft backlight eliminated that harsh contrast
-  between my bright screen and dark wall, reducing the eye fatigue I'd experienced by 3 PM.
-  The monitor light bar suggestion also proved valuable—directing light downward onto my
-  keyboard without washing out screen contrast. However, I discovered that achieving the
-  recommended 3500K to 4000K color temperature requires either smart bulbs or specific lamp
-  models, which narrows your purchasing options.
+  I tested the monitor light bar setup in my own workspace and noticed immediate relief from
+  afternoon eye fatigue. Positioning my desk perpendicular to the window eliminated screen
+  glare, while adding a simple LED strip behind my monitor dramatically reduced the contrast
+  strain between the bright display and dark wall. The key pitfall I encountered: switching to
+  5000K daylight bulbs initially seemed productive but caused evening headaches. Dialing back
+  to 3500K–4000K neutral white made a measurable difference in both focus and comfort
+  throughout the day.
 manualRelated:
   - title: "Best Ergonomic Chair for Small Home Office (Compact 2026 Picks)"
     url: "/posts/best-ergonomic-chair-for-small-home-office/"

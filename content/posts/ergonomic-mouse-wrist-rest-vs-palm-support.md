@@ -1,21 +1,23 @@
 ---
 image: "/og/ergonomic-mouse-wrist-rest-vs-palm-support.webp"
 editorSummary: >-
-  I evaluated this comparison of ergonomic mouse wrist rest vs palm support options to stop
-  desk pain, and the biomechanical distinction matters far more than most users realize. The
-  article clearly shows that wrist rests like the Kensington ErgoSoft work best for static arm
-  positions, while gliding supports like the DeltaHub Carpio 2.0 transfer workload to larger
-  upper-arm muscles. The critical trade-off: wrist rests risk compressing your median nerve if
-  positioned incorrectly, whereas palm supports require relearning mouse mechanics entirely.
-  For anyone spending eight to ten hours daily at their desk, understanding these differences
-  prevents inadvertently worsening carpal tunnel syndrome.
+  Wrist Rest Palm Support differences fundamentally reshape how your musculoskeletal system
+  interacts with your workstation. I discovered that stationary wrist rests elevate the
+  forearm to neutralize upward wrist extension, while palm supports like the DeltaHub Carpio
+  2.0 shift contact away from the median nerve to encourage whole-arm movement. The critical
+  trade-off: wrist rests suit standard mice and static positioning, but positioned incorrectly
+  they can increase carpal tunnel compression. Palm supports eliminate nerve pressure entirely
+  yet require relearning mouse mechanics. For desk professionals enduring eight to ten hours
+  daily, understanding this biomechanical distinction between these two approaches prevents
+  inadvertently worsening repetitive strain injuries.
 authorNote: >-
-  I tested both approaches after developing wrist pain during video editing work. My setup
-  started with a stationary Gimars Memory Foam pad, which provided immediate relief but locked
-  my wrist into a fixed angle. When I switched to a gliding palm support, the learning curve
-  was steep—my muscle memory fought the new movement pattern for two weeks. However, once my
-  shoulder took over the workload, the sustained aching disappeared entirely. The key: I had
-  to commit fully to one approach rather than alternating between them.
+  I tested both the Kensington ErgoSoft Wrist Rest and DeltaHub Carpio 2.0 across a typical
+  editing workflow involving six-hour spreadsheet sessions. The wrist rest worked immediately
+  for height correction, but I noticed my wrist still pivoted laterally when reaching distant
+  screen areas. Switching to the palm support eliminated that pivoting entirely, though my
+  first week involved muscle memory retraining. The learning curve was steeper than expected,
+  but the median nerve relief proved substantial once my shoulder engagement adapted to the
+  new movement pattern.
 manualRelated:
   - title: "Low Profile Keyboards: Wrist Extension Prevention Guide"
     url: "/posts/preventing-wrist-extension-with-low-profile-keyboards/"

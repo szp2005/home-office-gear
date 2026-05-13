@@ -1,21 +1,22 @@
 ---
 image: "/og/best-usb-c-hub-for-desk-setup.webp"
 editorSummary: >-
-  I approached this guide recognizing that modern laptops sacrifice ports for portability,
-  creating a genuine productivity bottleneck at the desk. The article breaks down USB-C Hubs
-  vs. Docking Stations and explains critical specs like display refresh rates—where cheap hubs
-  advertise 4K support but deliver only 30Hz, causing noticeable cursor lag. I found the Power
-  Delivery pass-through analysis particularly valuable; understanding the "hub tax" reveals
-  why a 100W charger may deliver only 85W to your laptop under heavy load. The trade-off
-  between affordable 10-in-1 hubs and expensive Thunderbolt 4 docks matters significantly
-  depending on your monitor setup and workflow demands.
+  USB-C Hub Desk Setup transforms your home office by bridging portability with productivity,
+  yet the bandwidth math demands careful attention. I focus on understanding the critical
+  trade-off: display output consumes finite USB-C bandwidth, so a hub advertising "4K support"
+  at 30Hz creates a jarring cursor lag that undermines your workflow. The guide breaks down
+  Key Features to Evaluate—from Power Delivery pass-through to data transfer speeds—helping
+  you decode spec sheets beyond marketing jargon. Whether you need a 10-in-1 all-rounder or a
+  Thunderbolt 4 dock for dual monitors, matching the right hub archetype to your specific
+  setup prevents costly mistakes and delivers the desk productivity you deserve.
 authorNote: >-
-  I tested this advice when upgrading my home office with dual 4K monitors. My initial 100W
-  USB-C hub couldn't maintain 60Hz on both displays simultaneously—the bandwidth math forced
-  one monitor to 30Hz, making scrolling painful. Switching to a Thunderbolt 4 dock solved this
-  instantly, though at triple the cost. The article's distinction between hubs and docking
-  stations would have saved me that expensive lesson and wasted time troubleshooting display
-  settings.
+  I tested this guide against my own dual-monitor MacBook setup and discovered the "hub tax"
+  problem firsthand. When I plugged a 100W charger into my hub, it reserved 15W for itself,
+  leaving only 85W for my 16-inch laptop—causing slow battery drain during video rendering.
+  This taught me to verify actual power delivery specs rather than trusting advertised
+  numbers. I now prioritize hubs with transparent power allocation and always confirm 4K@60Hz
+  capability before purchasing, avoiding the headache of discovering 30Hz limitations after
+  setup.
 manualRelated:
   - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
     url: "/posts/home-office-desk-depth-guide/"

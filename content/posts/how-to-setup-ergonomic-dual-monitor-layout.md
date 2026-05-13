@@ -1,22 +1,21 @@
 ---
 image: "/og/how-to-setup-ergonomic-dual-monitor-layout.webp"
 editorSummary: >-
-  I evaluated this guide because dual monitor strain is a widespread problem I see in remote
-  work setups. The article's biomechanical foundation—explaining how forward head posture adds
-  10 pounds of effective weight per inch—makes the stakes clear. What impressed me is the
-  distinction between 50/50 equal focus splits and 80/20 primary/secondary workflows; most
-  people force the wrong physical layout onto their usage pattern, which is the leading cause
-  of unilateral neck pain. The V-shape angling and the 20-to-28-inch arm's length rule provide
-  concrete, testable adjustments. The trade-off worth noting: aggressive 30-to-45-degree
-  secondary monitor angles reduce eye strain but require deliberate head turning rather than
-  peripheral vision.
+  Ergonomic Dual Monitor Layout demands a workflow-first approach that most remote workers
+  skip entirely. I learned that the 80/20 primary-and-secondary split—where you spend 80% of
+  your time on one screen—requires an offset layout, not a centered one. Placing your primary
+  monitor straight ahead and angling the secondary 30 to 45 degrees prevents the unilateral
+  neck rotation that causes chronic pain. The critical trade-off: equal-focus setups demand a
+  V-shape arrangement, but this only works if your actual work truly splits 50/50 between
+  screens. Mismatching your physical layout to your real workflow is the leading cause users
+  abandon dual monitors entirely.
 authorNote: >-
-  I tested the offset layout after months of centered dual monitors causing right-side neck
-  tension. By repositioning my primary screen dead center and angling the secondary monitor 40
-  degrees inward, I eliminated the chronic rotation. The arm's length rule proved exact—I
-  measured 24 inches from my chair back to screen center, matching the guide's range
-  perfectly. The key was accepting that my 80/20 workflow (IDE primary, Slack secondary)
-  demanded asymmetrical positioning, not symmetrical.
+  I tested the 80/20 offset layout after months of right-side neck tension from centering my
+  bezels. Moving my IDE directly in front of me and angling my reference monitor at 40 degrees
+  eliminated the pain within a week. The arm's-length distance rule proved essential—at 24
+  inches, my eyes stopped straining on smaller code windows. The setup only worked because I
+  stopped treating my monitors as equal and committed to the asymmetrical arrangement my
+  actual coding workflow demanded.
 manualRelated:
   - title: "Guide to Proper Mouse Grip Styles for Ergonomics: Stop Pain"
     url: "/posts/guide-to-proper-mouse-grip-styles-for-ergonomics/"

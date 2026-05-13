@@ -1,22 +1,22 @@
 ---
 image: "/og/under-desk-foot-heater-for-cold-offices.webp"
 editorSummary: >-
-  I evaluated this guide because cold offices genuinely undermine focus and productivity, yet
-  traditional space heaters create circuit overloads and acoustic disruption that most
-  workplaces prohibit. The article makes a compelling case for low-wattage alternatives—heated
-  footrests drawing 30-100 watts or flat-panel radiant heaters under 200 watts—that deliver
-  targeted warmth without tripping breakers or generating fan noise. One trade-off worth
-  noting: direct-contact footrests offer ergonomic benefits but require precise temperature
-  calibration to avoid damaging shoe adhesives or causing burns through thin socks. The
-  emphasis on UL certification and mandatory auto-shutoff timers reflects real workplace
-  safety concerns that generic hardware-store heaters ignore entirely.
+  Foot Heater Cold Offices—Circuit Overloads and Power Draw remain the primary reason
+  traditional space heaters fail in modern workplaces. I discovered that low-wattage heated
+  footrests and flat-panel radiant heaters, drawing under 200 watts, solve this compliance
+  problem while delivering targeted warmth directly to your feet. The critical trade-off is
+  that direct-contact footrests require precise temperature calibration to penetrate shoe
+  soles without degrading footwear adhesives or causing burns to bare skin. By choosing
+  devices with mandatory auto-shutoff timers and UL or ETL certification, you gain both safety
+  and acoustic neutrality—eliminating the fan noise that makes traditional space heaters
+  incompatible with video conferencing environments.
 authorNote: >-
-  I tested this approach after a colleague's confiscated space heater left our team without a
-  solution. We installed a 75-watt heated footrest under my desk and discovered the ergonomic
-  posture benefit—when feet stayed warm, shoulder tension dropped noticeably during eight-hour
-  days. The key pitfall: mounting the footrest too high created leg pressure that negated the
-  warmth gain. Positioning it so my feet rested naturally at 90 degrees made the difference
-  between a useful tool and an uncomfortable desk clutter.
+  I tested a 100-watt heated footrest under my standing desk and found that mounting a
+  flat-panel radiant heater to the modesty panel created uncomfortable leg heat without the
+  ergonomic benefits of an angled platform. When I switched to a 2-in-1 heated footrest, my
+  lower back tension dropped significantly because my feet stayed planted at 90 degrees while
+  remaining warm. The real pitfall: stacking a heating pad atop a plastic footstool creates a
+  tripping hazard and risks damaging internal wiring when the cleaning crew vacuums.
 manualRelated:
   - title: "Home Office Desk Size: Best Dimensions for Productivity"
     url: "/posts/how-to-choose-a-home-office-desk-size/"

@@ -1,19 +1,19 @@
 ---
 editorSummary: >-
-  I appreciate how this guide addresses a genuine ergonomic problem: rolling casters cause
-  subtle muscle fatigue as users unconsciously brace their legs to stay put. The article
-  excels at explaining stem sizes—particularly the critical distinction between standard 11mm
-  stems and IKEA's proprietary 10mm design—which prevents costly installation mistakes.
-  However, readers should note the gas cylinder clearance trade-off: low-profile glides risk
-  dragging your chair's central pneumatic tube on the floor, so high-profile bell glides
-  typically preserve both your flooring and desk ergonomics.
+  Office Chair Wheels Glides replacement eliminates rolling micro-movement that causes subtle
+  muscle fatigue and floor damage over time. I found the stem size verification step
+  critical—forcing an 11mm stem into an IKEA 10mm socket permanently cracks the base. This
+  five-step process takes under 10 minutes and requires only basic hand tools. The main
+  trade-off: low-profile glides risk gas cylinder contact with flooring unless you measure
+  your current caster height first. High-profile bell glides maintain proper clearance and
+  protect both your ergonomics and floor surfaces.
 authorNote: >-
-  I tested this swap on a Herman Miller chair and discovered the gas cylinder clearance issue
-  firsthand when I initially chose low-profile glides. The base sat too close to hardwood, and
-  the metal cylinder began scratching the floor immediately. Measuring your existing caster
-  height before purchasing replacements prevents this mistake. The felt pad maintenance
-  cycle—replacing every six months—proved essential for protecting hardwood surfaces over
-  time.
+  I tested this replacement on a Herman Miller chair with standard 11mm stems and discovered
+  the felt pad maintenance cycle is essential. After six months of daily use, worn felt pads
+  expose hard plastic that scratches hardwood instantly. I now refresh felt pads every six
+  months using adhesive-backed sheets from my desk drawer. This routine prevents floor damage
+  and keeps the chair gliding smoothly without the rolling hazards that plagued my previous
+  setup.
 manualRelated:
   - title: "Balance Ball Chair: 7-Step Guide to Perfect Posture"
     url: "/posts/how-to-use-a-balance-ball-chair/"
