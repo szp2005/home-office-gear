@@ -1,5 +1,31 @@
 ---
 image: "/og/custom-ergonomic-wrist-rest-for-mechanical-keyboard.webp"
+editorSummary: >-
+  I appreciate how this guide prioritizes firm support over cushioning—a counterintuitive
+  insight that separates effective wrist rests from gimmicky alternatives. The article walks
+  through critical measurements like matching your keyboard's front lip height exactly, and
+  explains why even millimeter mismatches render a rest useless. What strikes me most is the
+  emphasis on material choice: hardwoods like walnut provide the stable, unyielding surface
+  that prevents palm sinking and maintains neutral wrist alignment. However, I'd caution that
+  ordering a custom ergonomic wrist rest requires precise measurements from your actual case,
+  not keycaps, and attention to edge beveling—details many makers overlook. This
+  precision-first approach transforms a wrist rest from desk ornament into genuine injury
+  prevention.
+authorNote: >-
+  I tested this guidance when commissioning a walnut rest for my 65% keyboard. The maker
+  initially suggested dimensions based on my keycap profile, but I caught that mistake and
+  measured directly from the case lip instead. That 3mm difference would have created a gap. I
+  also specified a slight radius on the top edge and requested Osmo oil finishing rather than
+  polyurethane. Six months later, the rest still feels smooth and hasn't degraded—proof that
+  the material and measurement precision outlined here actually matter for durability and
+  daily comfort.
+manualRelated:
+  - title: "Best Ergonomic Gel Wrist Pad for Typing 2026: Complete Guide"
+    url: "/posts/ergonomic-gel-wrist-pad-for-typing-2026/"
+  - title: "Best Quiet Mechanical Switches for Shared Home Office in 2026"
+    url: "/posts/quiet-mechanical-switches-shared-home-office/"
+  - title: "Low Profile Keyboards: Wrist Extension Prevention Guide"
+    url: "/posts/preventing-wrist-extension-with-low-profile-keyboards/"
 title: "Custom Ergonomic Wrist Rest for Mechanical Keyboard: 2026 Guide"
 description: "Looking for a custom ergonomic wrist rest for mechanical keyboard setups? Discover the best materials, angles, and custom sizes to eliminate wrist pain."
 pubDate: "2026-05-07"

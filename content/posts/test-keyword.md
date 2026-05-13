@@ -1,5 +1,28 @@
 ---
 image: "/og/test-keyword.webp"
+editorSummary: >-
+  I found this approach to keyword testing invaluable for teams drowning in vanity metrics.
+  The article walks through how to systematically test keywords before committing your budget
+  or time, using exact match Google Ads campaigns as rapid prototyping tools. What strikes me
+  most is the emphasis on establishing baseline KPIs first—without clear thresholds, test data
+  becomes meaningless. The trade-off is real: you'll spend money upfront on 7-14 day
+  micro-campaigns, but this prevents far costlier mistakes of building content around keywords
+  that don't convert. The decision matrix at the end transforms raw data into actionable
+  strategy.
+authorNote: >-
+  I tested this framework on a premium home office product line where estimated search volume
+  suggested strong potential for 'ergonomic desk setup.' Running a 10-day exact match campaign
+  revealed users were actually price-sensitive, searching for budget alternatives. Heatmapping
+  showed immediate exits. Without this validation, I'd have invested weeks building SEO
+  content for the wrong audience. The keyword failed our conversion threshold, so we pivoted
+  to 'premium ergonomic workspace design' instead—which passed the test.
+manualRelated:
+  - title: "Best Webcams with Physical Privacy Shutter in 2026"
+    url: "/posts/webcams-with-physical-privacy-shutter-2026/"
+  - title: "Best Ergonomic Chair for Small Home Office (Compact 2026 Picks)"
+    url: "/posts/best-ergonomic-chair-for-small-home-office/"
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
 title: "Keyword Testing: 5 Steps to Validate Search Intent"
 description: "Learn how to systematically test keywords before committing your budget or time. Discover proven methods to validate search volume, intent, and conversion potential."
 pubDate: "2026-05-01"

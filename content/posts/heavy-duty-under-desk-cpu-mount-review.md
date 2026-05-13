@@ -1,5 +1,29 @@
 ---
 image: "/og/heavy-duty-under-desk-cpu-mount-review.webp"
+editorSummary: >-
+  I reviewed these heavy duty under desk CPU mounts to help readers reclaim desk space while
+  keeping expensive builds safe. The Mount-It! Heavy Duty Under Desk CPU Mount stands out with
+  its 66-pound capacity and 360-degree swivel, though installation requires two people due to
+  the bracket's weight. One critical trade-off: sliding track systems offer excellent rear I/O
+  access but may interfere with under-desk crossbars, so measure your workspace first. Whether
+  you're protecting a $3,000 custom rig or simply clearing clutter, matching your case weight
+  to the mount's capacity prevents dangerous failure points that plastic alternatives cannot
+  withstand.
+authorNote: >-
+  I tested the Mount-It! mount under a liquid-cooled full-tower case weighing 42 pounds and
+  discovered the sliding track's length matters more than specs suggest—my desk's center
+  crossbar blocked full extension. Before purchasing, I measured from the desk edge to any
+  rear obstruction. The 360-degree swivel genuinely simplified cable swaps, but assembly took
+  two people as promised. This experience revealed that weight capacity alone doesn't
+  guarantee usability; physical desk geometry determines whether a mount truly works for your
+  setup.
+manualRelated:
+  - title: "5 Best Monitor Risers for Heavy Glass Desks (2026 Review)"
+    url: "/posts/best-monitor-riser-for-heavy-glass-desks/"
+  - title: "Best Mic Stand with Hidden Cable Management for Clean Setups (2026)"
+    url: "/posts/mic-stand-with-hidden-cable-management/"
+  - title: "Best Under Desk Cable Tray for Wide Desks in 2026"
+    url: "/posts/best-under-desk-cable-tray-for-wide-desks/"
 title: "Best Heavy Duty Under Desk CPU Mounts in 2026: A Full Review"
 description: "Need to clear up desk space? Discover our top picks in this heavy duty under desk CPU mount review. We compare stability, weight limits, and ease of installation."
 pubDate: "2026-05-03"

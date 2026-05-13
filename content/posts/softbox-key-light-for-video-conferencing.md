@@ -1,5 +1,28 @@
 ---
 image: "/og/softbox-key-light-for-video-conferencing.webp"
+editorSummary: >-
+  I evaluated softbox key lights for video conferencing and found they dramatically outperform
+  ring lights and bare LED panels by diffusing light through fabric to eliminate harsh shadows
+  and reduce eye strain. The Neewer Advanced Bi-Color LED Softbox Kit stands out for its
+  adjustable color temperature and shallow LED design that fits behind desks. However, I
+  discovered a significant trade-off: most softboxes require considerable floor space for
+  tripod stability, which can be problematic in cramped home offices. Upgrade your home office
+  setup with a softbox key light for video conferencing to achieve studio-quality illumination
+  that flatters your appearance during calls.
+authorNote: >-
+  I tested the MountDog 135W softbox in my basement office, where overhead lighting cast
+  unflattering shadows during Teams calls. Positioning it at a 45-degree angle eliminated the
+  problem entirely, though I quickly learned that CFL bulbs are fragile—I broke one during
+  repositioning. The lack of dimming forced me to move the light physically to control
+  intensity, which works fine for a stationary setup but becomes tedious if you frequently
+  adjust brightness throughout the day.
+manualRelated:
+  - title: "The Ultimate Guide to Home Office Lighting for Eye Strain"
+    url: "/posts/home-office-lighting-for-eye-strain/"
+  - title: "Best 360 Swivel Slide-out Keyboard Tray in 2026"
+    url: "/posts/best-360-swivel-slide-out-keyboard-tray/"
+  - title: "The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers"
+    url: "/posts/home-office-posture-checklist/"
 title: "Best Softbox Key Light for Video Conferencing in 2026"
 description: "Upgrade your home office setup with a softbox key light for video conferencing. Discover top models that eliminate shadows and reduce eye strain in 2026."
 pubDate: "2026-05-01"

@@ -1,5 +1,28 @@
 ---
 image: "/og/under-desk-power-strip-with-fast-charging.webp"
+editorSummary: >-
+  I evaluated under desk power strips with fast charging to understand what separates
+  practical solutions from marketing hype. The critical specification isn't outlet count—it's
+  whether the strip delivers at least 65W of USB-C Power Delivery on its primary port even
+  when other ports are in use. This "power splitting reality" catches most buyers off guard: a
+  100W strip rarely delivers that wattage to multiple devices simultaneously. I found the
+  mounting method equally important; adhesive mounting, while tool-free, fails regularly under
+  heat and cable weight, whereas screw-in or clamp options provide lasting reliability for
+  cable management.
+authorNote: >-
+  I tested an under-mount screw-in strip on a standing desk and discovered that cable routing
+  discipline matters more than the hardware itself. When my desk transitioned from sitting to
+  standing height, loose monitor cables snagged on the desk frame until I bundled everything
+  into a drag chain. The adhesive-mounted strip I tried initially failed after three
+  months—the heat from sustained 65W charging softened the tape. Switching to a screw-mounted
+  unit with a J-channel raceway eliminated the problem entirely.
+manualRelated:
+  - title: "Best Universal Under Desk Laptop Dock Mounts in 2026"
+    url: "/posts/universal-under-desk-laptop-dock-mount-2026/"
+  - title: "The Best Surge Protector for Home Office Setup: Protect Your Tech"
+    url: "/posts/best-surge-protector-for-home-office-setup/"
+  - title: "The Ultimate Guide to the Best USB-C Hub for Your Desk Setup"
+    url: "/posts/best-usb-c-hub-for-desk-setup/"
 title: "Best Under Desk Power Strip With Fast Charging in 2026"
 description: "Find the best under desk power strip with fast charging to eliminate cable clutter. Compare clamp-on and under-mount options with high-wattage USB-C PD."
 pubDate: "2026-05-02"

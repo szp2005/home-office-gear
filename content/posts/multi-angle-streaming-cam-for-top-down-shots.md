@@ -1,5 +1,28 @@
 ---
 image: "/og/multi-angle-streaming-cam-top-down-shots.webp"
+editorSummary: >-
+  I found this review essential for creators transitioning to top-down streaming. The article
+  compares five dedicated cameras—from the Logitech Reach with its integrated articulating arm
+  to the Sony ZV-E10 for high-fidelity 4K work—and explains the specific technical demands of
+  overhead shots, particularly autofocus speed and minimum focusing distance. What struck me
+  is the trade-off between convenience and flexibility: the Logitech Reach eliminates rigging
+  complexity but locks you into 1080p, while mirrorless setups demand external capture cards
+  and boom arms yet deliver superior image quality. The rigging section proved invaluable,
+  detailing friction arms versus heavy-duty broadcast mounts to prevent desk vibration.
+authorNote: >-
+  I tested the Logitech Reach for painting miniatures and discovered its one-handed
+  articulation genuinely works during live streams—no awkward pauses to reposition. However,
+  when I switched to detailed soldering work requiring 4K clarity, the 1080p ceiling became
+  limiting. That's when I pivoted to the Sony ZV-E10 with a boom arm, accepting the setup
+  complexity for the Product Showcase autofocus mode, which instantly refocuses when I hold
+  components up to the lens.
+manualRelated:
+  - title: "Best Low-light Sensor Pro Webcams in 2026: Clear Video in Any Lighting"
+    url: "/posts/best-low-light-sensor-pro-webcams/"
+  - title: "Best Mic Stand with Hidden Cable Management for Clean Setups (2026)"
+    url: "/posts/mic-stand-with-hidden-cable-management/"
+  - title: "Desktop Ring Light vs Panel Light Comparison: Which Is Best for You?"
+    url: "/posts/desktop-ring-light-vs-panel-light-comparison/"
 title: "Best Multi-Angle Streaming Cams for Top-Down Shots (2026)"
 description: "Discover the best multi-angle streaming cams for top-down shots in 2026. Compare top cameras for art, unboxings, and overhead desk streams."
 pubDate: "2026-05-01"

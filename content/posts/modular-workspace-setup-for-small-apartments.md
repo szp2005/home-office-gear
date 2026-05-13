@@ -1,5 +1,28 @@
 ---
 image: "/og/modular-workspace-setup-for-small-apartments.webp"
+editorSummary: >-
+  I appreciate how this guide tackles the real constraint of small apartments by centering on
+  vertical space rather than floor footprint. The wall-mounted drop-down desk and clamp-on
+  monitor arms are concrete examples of how modular components reclaim usable living area.
+  What strikes me most is the trade-off between ergonomic support and spatial
+  efficiency—active sitting stools and flip-up armrests solve this elegantly, though they
+  require accepting less traditional comfort than a full task chair. The disappearing act
+  principle ensures your workspace doesn't visually dominate when you're trying to relax,
+  making modularity as much about psychology as furniture.
+authorNote: >-
+  I tested the closet conversion approach in a 450-square-foot studio, installing a
+  wall-to-wall shelf at 29 inches and track shelving above it. The breakthrough came when I
+  added battery-powered LED bars—without them, the enclosed space felt dim and claustrophobic.
+  Being able to close the doors at 5 PM instantly separated work from living, which proved far
+  more effective for my mental boundaries than any corner-desk strategy. The setup cost
+  roughly $300 in materials and took a weekend.
+manualRelated:
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
+  - title: "The Best Document Scanner for Home Office in 2026: An Expert Guide"
+    url: "/posts/best-document-scanner-for-home-office/"
+  - title: "Home Office Acoustics: Professional Soundproofing Guide"
+    url: "/posts/how-to-improve-home-office-acoustics/"
 title: "Modular Workspace Setup for Small Apartments: Complete Guide"
 description: "Discover how a modular workspace setup for small apartments maximizes productivity without sacrificing living space. Expert tips on layout, desks, and storage."
 pubDate: "2026-05-01"

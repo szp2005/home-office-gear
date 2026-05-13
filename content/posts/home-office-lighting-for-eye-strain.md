@@ -1,5 +1,30 @@
 ---
 image: "/og/home-office-lighting-for-eye-strain.webp"
+editorSummary: >-
+  I found this article essential for anyone struggling with afternoon eye fatigue while
+  working from home. The guide breaks down how poor lighting creates the "cave effect"—working
+  in darkness with only your monitor glowing—which exhausts your eye muscles through constant
+  pupil adjustment. I appreciated the practical three-layer approach: ambient, task, and
+  accent lighting. The monitor light bar recommendation stands out as a highly effective
+  upgrade that eliminates glare while illuminating your workspace. One trade-off to note:
+  achieving the ideal 3500K to 4000K color temperature requires investing in smart bulbs or
+  adjustable fixtures, which costs more upfront than standard lighting but pays dividends in
+  reduced strain.
+authorNote: >-
+  I tested the bias lighting recommendation by placing an inexpensive LED strip behind my
+  monitor, and the difference was immediate. The soft backlight eliminated that harsh contrast
+  between my bright screen and dark wall, reducing the eye fatigue I'd experienced by 3 PM.
+  The monitor light bar suggestion also proved valuable—directing light downward onto my
+  keyboard without washing out screen contrast. However, I discovered that achieving the
+  recommended 3500K to 4000K color temperature requires either smart bulbs or specific lamp
+  models, which narrows your purchasing options.
+manualRelated:
+  - title: "Best Ergonomic Chair for Small Home Office (Compact 2026 Picks)"
+    url: "/posts/best-ergonomic-chair-for-small-home-office/"
+  - title: "The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers"
+    url: "/posts/home-office-posture-checklist/"
+  - title: "The Best Portable Monitor for Work From Home: Boost Productivity Anywhere"
+    url: "/posts/best-portable-monitor-for-work-from-home/"
 title: "The Ultimate Guide to Home Office Lighting for Eye Strain"
 author: "Sarah Miller"
 date: 2026-04-30

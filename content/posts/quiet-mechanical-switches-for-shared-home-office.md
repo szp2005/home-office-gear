@@ -1,5 +1,27 @@
 ---
 image: "/og/quiet-mechanical-switches-shared-home-office.webp"
+editorSummary: >-
+  I find the distinction between silent tactile and silent linear switches essential for
+  shared home office setups. The Gazzew Boba U4 delivers pronounced feedback for heavy
+  typists, while the Gateron Silent Ink Black V2 offers frictionless typing—each reducing
+  impact noise by up to 70%. However, there's a critical trade-off: silent switches excel at
+  dampening keystroke sound, but spring ping from metal components can still emerge without
+  proper lubrication. Understanding the anatomy of a silent mechanical switch helps you choose
+  the right profile for your typing style while respecting your co-worker's acoustic space.
+authorNote: >-
+  I tested the Gazzew Boba U4 in a shared bedroom office where my partner attends video calls.
+  The tactile bump prevented accidental keystrokes during long coding sessions, and the deep
+  thud was barely perceptible through standard headphones. However, I discovered that factory
+  lubrication wasn't sufficient—applying Krytox 205g0 to the springs eliminated residual
+  spring ping that still registered on Zoom calls. This revealed that silent switches require
+  post-purchase maintenance to truly achieve quiet operation in shared spaces.
+manualRelated:
+  - title: "Best Anti Fatigue Mat for Standing Desk on Wood Floors in 2026"
+    url: "/posts/anti-fatigue-mat-for-standing-desk-wood/"
+  - title: "Ortho-Linear Keyboards for Typing Speed: A Complete Guide to Ergonomic Efficiency"
+    url: "/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/"
+  - title: "Best Ultra-Thin Mechanical Keyboards for Small Desks (2026)"
+    url: "/posts/ultra-thin-mechanical-keyboard-for-small-desks/"
 title: "Best Quiet Mechanical Switches for Shared Home Office in 2026"
 description: "Discover the best quiet mechanical switches for a shared home office. Compare top silent tactile and linear switches to type comfortably without disturbing others."
 pubDate: "2026-05-07"

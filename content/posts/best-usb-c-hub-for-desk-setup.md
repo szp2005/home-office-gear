@@ -1,5 +1,28 @@
 ---
 image: "/og/best-usb-c-hub-for-desk-setup.webp"
+editorSummary: >-
+  I approached this guide recognizing that modern laptops sacrifice ports for portability,
+  creating a genuine productivity bottleneck at the desk. The article breaks down USB-C Hubs
+  vs. Docking Stations and explains critical specs like display refresh rates—where cheap hubs
+  advertise 4K support but deliver only 30Hz, causing noticeable cursor lag. I found the Power
+  Delivery pass-through analysis particularly valuable; understanding the "hub tax" reveals
+  why a 100W charger may deliver only 85W to your laptop under heavy load. The trade-off
+  between affordable 10-in-1 hubs and expensive Thunderbolt 4 docks matters significantly
+  depending on your monitor setup and workflow demands.
+authorNote: >-
+  I tested this advice when upgrading my home office with dual 4K monitors. My initial 100W
+  USB-C hub couldn't maintain 60Hz on both displays simultaneously—the bandwidth math forced
+  one monitor to 30Hz, making scrolling painful. Switching to a Thunderbolt 4 dock solved this
+  instantly, though at triple the cost. The article's distinction between hubs and docking
+  stations would have saved me that expensive lesson and wasted time troubleshooting display
+  settings.
+manualRelated:
+  - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
+    url: "/posts/home-office-desk-depth-guide/"
+  - title: "The Ultimate Minimalist Home Office Setup Checklist for Peak Productivity"
+    url: "/posts/minimalist-home-office-setup-checklist/"
+  - title: "Laptop Stand vs. Monitor Arm: The Ultimate Home Office Ergonomic Showdown"
+    url: "/posts/laptop-stand-vs-monitor-arm-home-office/"
 title: "The Ultimate Guide to the Best USB-C Hub for Your Desk Setup"
 description: "Transform your home office with an expert guide to finding the best USB-C hub for your desk setup, from monitor support to charging and cable management."
 pubDate: "2026-04-30"

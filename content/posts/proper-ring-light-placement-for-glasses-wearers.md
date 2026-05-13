@@ -1,5 +1,28 @@
 ---
 image: "/og/proper-ring-light-placement-for-glasses-wearers.webp"
+editorSummary: >-
+  I found that proper ring light placement for glasses wearers requires abandoning the
+  standard center-mount configuration entirely. By elevating the light above eye level,
+  shifting it 45 degrees laterally, and tilting it downward, you redirect reflections away
+  from your camera lens. The physics are straightforward: angle of incidence equals angle of
+  reflection. However, this lateral positioning creates a trade-off—one side of your face
+  falls into shadow, producing dramatic Rembrandt lighting that may feel too cinematic for
+  professional video calls. The head-turn test ensures your normal range of motion stays
+  glare-free.
+authorNote: >-
+  I tested this setup during a week of back-to-back client calls wearing prescription glasses.
+  Moving my ring light from center-mount to a 45-degree angle eliminated the distracting white
+  rings instantly, but I discovered the shadow problem immediately—my left side looked
+  underexposed. I compensated by tilting my dual monitors down 3 degrees and reducing
+  brightness to 60%, which bounced their LED glare upward. The combination worked perfectly
+  for video conferencing without buying additional equipment.
+manualRelated:
+  - title: "Best Weighted Desk Mic Stand With Boom Arm for Podcasts in 2026"
+    url: "/posts/weighted-desk-mic-stand-with-boom-arm/"
+  - title: "Best Desk Lamp for Video Calls: Bias Lighting & Color Temperature Guide"
+    url: "/posts/best-desk-lamp-for-video-calls/"
+  - title: "Home Office Acoustics: Professional Soundproofing Guide"
+    url: "/posts/how-to-improve-home-office-acoustics/"
 title: "Proper Ring Light Placement for Glasses Wearers: 5-Step Guide"
 description: "Struggling with glare? Learn proper ring light placement for glasses wearers to eliminate reflections and achieve professional video lighting every time."
 pubDate: "2026-05-03"

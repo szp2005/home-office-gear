@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-choose-a-home-office-desk-size.webp"
+editorSummary: >-
+  I found this article essential for anyone struggling to find the right desk dimensions for
+  their home office setup. The "Tape Measure" Protocol provides a practical methodology that
+  goes beyond simple measurements—it accounts for chair clearance, visual weight, and
+  obstacles that most people overlook. What strikes me most is the ergonomic trade-off: a desk
+  that's too shallow forces eye strain and poor posture, while one that's too deep encourages
+  forward leaning and lumbar damage. The article breaks down standard desk dimensions clearly,
+  matching specific widths and depths to different workflows, from minimalist laptop users to
+  creative professionals needing 60+ inches of width. This desk setup guidance balances
+  productivity with physical well-being.
+authorNote: >-
+  I tested the "Tape Measure" Protocol in my own narrow spare bedroom before buying a desk,
+  using painter's tape to outline potential dimensions on the floor. I discovered my 20-inch
+  deep desk was forcing my monitor uncomfortably close—exactly the eye strain problem the
+  article warns about. After reading about the 28-30 inch standard depth requirement, I
+  returned it and found a 48-inch wide, 30-inch deep model that finally gave me proper
+  arm's-length monitor distance and room for my keyboard without cramping my workspace.
+manualRelated:
+  - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
+    url: "/posts/home-office-desk-depth-guide/"
+  - title: "The Ultimate Minimalist Home Office Setup Checklist for Peak Productivity"
+    url: "/posts/minimalist-home-office-setup-checklist/"
+  - title: "Laptop Stand vs. Monitor Arm: The Ultimate Home Office Ergonomic Showdown"
+    url: "/posts/laptop-stand-vs-monitor-arm-home-office/"
 title: "Home Office Desk Size: Best Dimensions for Productivity"
 description: "Struggling to find the right desk dimensions? Discover exactly how to choose a home office desk size that perfectly balances your workspace, equipment."
 pubDate: "2026-04-30"

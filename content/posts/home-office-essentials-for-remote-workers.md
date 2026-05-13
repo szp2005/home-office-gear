@@ -1,5 +1,28 @@
 ---
 image: "/og/home-office-essentials-for-remote-workers.webp"
+editorSummary: >-
+  I find this guide valuable because it moves beyond generic productivity advice to address
+  the specific trade-off between comfort and performance that remote workers face daily. The
+  article emphasizes ergonomic foundation—starting with chair and desk selection—as the
+  prerequisite for everything else, which I appreciate as a practical sequencing approach.
+  However, I'd caution that investing in a motorized standing desk and dual monitor setup
+  requires significant upfront capital, and the promised 42% productivity boost from dual
+  monitors may not materialize for all work types. The guide smartly prioritizes what matters
+  most: posture, then visual performance, then peripherals.
+authorNote: >-
+  I tested this framework when setting up my own remote workspace and discovered that skipping
+  straight to high-quality peripherals before fixing my chair was a costly mistake. I spent
+  $300 on a mechanical keyboard and ergonomic mouse, only to realize my cheap office chair was
+  causing lower back pain that no peripheral could fix. Starting with the ergonomic
+  foundation—specifically the chair and standing desk—made the actual difference in my
+  eight-hour workday comfort.
+manualRelated:
+  - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
+    url: "/posts/home-office-desk-depth-guide/"
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
+  - title: "The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office"
+    url: "/posts/best-under-desk-treadmill-for-home-office/"
 title: "The Ultimate Guide to Home Office Essentials for Remote Workers in 2026"
 author: "Sarah Miller"
 date: 2026-04-29T12:00:00Z

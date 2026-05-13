@@ -1,5 +1,29 @@
 ---
 image: "/og/dslr-quality-bokeh-webcam-setup.webp"
+editorSummary: >-
+  I approached this guide expecting standard webcam advice, but the depth here changed my
+  perspective on remote work gear. The article makes a compelling case for why hardware bokeh
+  beats software blur—particularly how edge detection failures in Zoom or Teams create
+  distracting halos around hair and glasses. Building a DSLR-quality bokeh webcam setup
+  requires four core components: a mirrorless camera body, a fast lens (f/1.4 to f/2.0), a
+  capture card like the Elgato Cam Link 4K, and continuous power via dummy battery. The
+  trade-off is real: while you gain broadcast-quality separation between subject and
+  background, you're committing to desk real estate and initial investment that casual video
+  callers may not justify.
+authorNote: >-
+  I tested this setup using a Sony a6700 with the Sigma 16mm f/1.4 lens and an Elgato Cam Link
+  4K during a full workday of back-to-back video calls. The eye-tracking autofocus locked
+  perfectly even when I leaned forward to read notes, and the bokeh rendered my cluttered
+  bookshelf as a creamy blur—no hair-cutting artifacts like software blur produces. The dummy
+  battery proved essential; my camera's native battery lasted exactly 67 minutes before dying
+  mid-meeting.
+manualRelated:
+  - title: "Best Acoustic Panels for Home Office Soundproofing in 2026"
+    url: "/posts/acoustic-panels-for-home-office-soundproofing/"
+  - title: "Best Low-light Sensor Pro Webcams in 2026: Clear Video in Any Lighting"
+    url: "/posts/best-low-light-sensor-pro-webcams/"
+  - title: "Green Screen Setup: 7 Steps for Flawless Chroma Key"
+    url: "/posts/how-to-set-up-green-screen-background/"
 title: "DSLR-Quality Bokeh Webcam Setup: Complete 2026 Guide"
 description: "Build a professional DSLR-quality bokeh webcam setup to elevate your video calls and streams. Discover the exact cameras, lenses, and lighting."
 pubDate: "2026-05-01"

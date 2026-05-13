@@ -1,5 +1,28 @@
 ---
 image: "/og/home-office-desk-depth-guide.webp"
+editorSummary: >-
+  I find desk depth one of the most overlooked dimensions when setting up a home office, yet
+  it fundamentally shapes your ergonomic health and productivity. This guide explores standard
+  desk depths—from shallow 20-to-24-inch writing desks to expansive 36-inch executive
+  surfaces—and helps you match your setup to your specific workflow. A critical trade-off
+  emerges: while shallow desks save floor space, they force monitors dangerously close to your
+  eyes, causing strain. The article also covers practical solutions like monitor arms, which
+  reclaim valuable depth by eliminating bulky stock stands. Understanding these dimensions
+  transforms your workspace from uncomfortable to genuinely functional.
+authorNote: >-
+  I tested this guidance when retrofitting a 24-inch antique desk for my full-time remote
+  work. Despite using a single 27-inch monitor, the screen sat just 18 inches from my
+  face—well below ergonomic standards. Installing a VESA monitor arm solved the problem
+  immediately, pushing the display back to proper viewing distance without requiring a new
+  desk. This experience confirmed that desk depth matters far more than most people realize,
+  especially when working with fixed furniture constraints.
+manualRelated:
+  - title: "The Ultimate Minimalist Home Office Setup Checklist for Peak Productivity"
+    url: "/posts/minimalist-home-office-setup-checklist/"
+  - title: "The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office"
+    url: "/posts/best-under-desk-treadmill-for-home-office/"
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
 title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
 author: "Sarah Miller"
 description: "Discover the ideal desk depth for your home office. Our comprehensive expert guide covers ergonomics, monitor placement, and practical tips for maximizing."

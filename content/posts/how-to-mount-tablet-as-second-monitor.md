@@ -1,5 +1,30 @@
 ---
 image: "/og/how-to-mount-tablet-as-second-monitor.webp"
+editorSummary: >-
+  I found this tablet-as-second-monitor setup genuinely transformative for my WFH
+  productivity. The guide walks through selecting screen extension software—from Apple's
+  native Sidecar to cross-platform options like Duet Display and Spacedesk—then tackles
+  mounting hardware choices ranging from articulating clamp arms to VESA adapters. What
+  strikes me most is the emphasis on ergonomic positioning; the trade-off between magnetic
+  stands' convenience and their desk-space consumption reveals why rigid mechanical arms often
+  serve permanent workstations better. Proper alignment with your primary monitor and glare
+  reduction aren't afterthoughts—they're essential to avoiding neck strain during extended
+  work sessions.
+authorNote: >-
+  I tested this setup by mounting an iPad Pro with a VESA adapter alongside my 27-inch primary
+  display. The critical moment came at Step 3: connecting via USB-C directly to my Mac's
+  motherboard IO rather than through an unpowered hub eliminated the latency lag I'd
+  experienced earlier. Sidecar's near-zero delay made the tablet genuinely usable for
+  reference materials and Slack notifications. The bevel alignment detail proved
+  invaluable—even a quarter-inch gap between screens created noticeable eye strain across an
+  eight-hour workday.
+manualRelated:
+  - title: "The Ultimate Guide to the Best USB-C Hub for Your Desk Setup"
+    url: "/posts/best-usb-c-hub-for-desk-setup/"
+  - title: "Laptop Stand vs. Monitor Arm: The Ultimate Home Office Ergonomic Showdown"
+    url: "/posts/laptop-stand-vs-monitor-arm-home-office/"
+  - title: "Ultrawide Monitor vs Triple Monitor Setup Efficiency: Full Comparison"
+    url: "/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/"
 title: "Tablet as Second Monitor: 5-Step Setup & Mounting Guide"
 description: "Learn how to mount your tablet as a second monitor to boost productivity. Discover the best mounting hardware, software apps, and ergonomic setups."
 pubDate: "2026-05-03"

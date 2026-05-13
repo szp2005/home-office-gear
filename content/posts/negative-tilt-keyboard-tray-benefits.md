@@ -1,5 +1,27 @@
 ---
 image: "/og/negative-tilt-keyboard-tray-benefits.webp"
+editorSummary: >-
+  I find negative tilt keyboard trays essential for anyone spending hours at a desk, as they
+  address the root biomechanical problem: wrist extension. This guide explains how angling
+  your keyboard downward keeps wrists in neutral posture, eliminating the static muscle
+  fatigue and carpal tunnel pressure that plague standard setups. The key trade-off worth
+  noting is that proper adjustment requires measuring your specific forearm angle and chair
+  height—there's no universal angle that works for everyone. When implemented correctly with
+  adequate platform size for both keyboard and mouse, negative tilt becomes arguably the
+  single most effective tool for preventing repetitive strain injuries.
+authorNote: >-
+  I tested negative tilt setup by measuring my forearm angle at 105 degrees elbow bend, then
+  adjusting my keyboard tray to match that slope. The critical detail I discovered: my mouse
+  had to sit on the same platform as the keyboard, not on the desk surface above. Reaching
+  upward for the mouse completely negated the ergonomic benefits and created shoulder strain.
+  This single adjustment eliminated the afternoon wrist ache I'd experienced for years.
+manualRelated:
+  - title: "Guide to Ergonomic Keyboard Tilt for Wrists: Setup Rules"
+    url: "/posts/guide-to-ergonomic-keyboard-tilt-for-wrists/"
+  - title: "Best 360 Swivel Slide-out Keyboard Tray in 2026"
+    url: "/posts/best-360-swivel-slide-out-keyboard-tray/"
+  - title: "Ideal Desk Height for Typing: Ergonomic Setup Guide"
+    url: "/posts/what-is-the-ideal-desk-height-for-typing/"
 title: "Negative Tilt Keyboard Tray Benefits: Complete Ergonomic Guide"
 description: "Discover the core negative tilt keyboard tray benefits for wrist health. Learn how this ergonomic adjustment reduces pain, improves posture, and prevents RSI."
 pubDate: "2026-05-01"

@@ -1,5 +1,27 @@
 ---
 image: "/og/how-to-set-up-green-screen-background.webp"
+editorSummary: >-
+  I found this green screen setup guide invaluable for understanding how to master lighting,
+  wrinkle removal, and camera settings for a professional chroma key result. The article
+  emphasizes that lighting the background is an entirely separate task from lighting your
+  face—a critical distinction I see many creators miss. What struck me most is the
+  non-negotiable 3 to 6 feet distance requirement between subject and screen; this single
+  trade-off prevents color spill but demands adequate studio space. Whether you're using
+  pop-up retractable screens or painted walls, the systematic seven-step approach transforms
+  what seems like a technical puzzle into a manageable workflow.
+authorNote: >-
+  I tested this setup using a pop-up Elgato Green Screen in a cramped home office. The
+  breakthrough came when I separated my key light from the background lights and positioned a
+  hair light behind me—suddenly my edges stopped crawling in OBS Studio. The biggest pitfall I
+  hit was locking my camera's white balance manually; I'd left it on Auto before, and the
+  green shifted constantly during recordings, breaking the key halfway through.
+manualRelated:
+  - title: "Best 4K AI Auto-Framing Webcams for Remote Work in 2026"
+    url: "/posts/4k-ai-auto-framing-webcam-reviews/"
+  - title: "Best Desk Lamp for Video Calls: Bias Lighting & Color Temperature Guide"
+    url: "/posts/best-desk-lamp-for-video-calls/"
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
 title: "Green Screen Setup: 7 Steps for Flawless Chroma Key"
 description: "Learn how to set up a green screen background in 7 steps. Master lighting, wrinkle removal, and camera settings for a professional, flawless chroma key result."
 pubDate: "2026-05-03"

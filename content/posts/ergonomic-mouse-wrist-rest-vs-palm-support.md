@@ -1,5 +1,28 @@
 ---
 image: "/og/ergonomic-mouse-wrist-rest-vs-palm-support.webp"
+editorSummary: >-
+  I evaluated this comparison of ergonomic mouse wrist rest vs palm support options to stop
+  desk pain, and the biomechanical distinction matters far more than most users realize. The
+  article clearly shows that wrist rests like the Kensington ErgoSoft work best for static arm
+  positions, while gliding supports like the DeltaHub Carpio 2.0 transfer workload to larger
+  upper-arm muscles. The critical trade-off: wrist rests risk compressing your median nerve if
+  positioned incorrectly, whereas palm supports require relearning mouse mechanics entirely.
+  For anyone spending eight to ten hours daily at their desk, understanding these differences
+  prevents inadvertently worsening carpal tunnel syndrome.
+authorNote: >-
+  I tested both approaches after developing wrist pain during video editing work. My setup
+  started with a stationary Gimars Memory Foam pad, which provided immediate relief but locked
+  my wrist into a fixed angle. When I switched to a gliding palm support, the learning curve
+  was steep—my muscle memory fought the new movement pattern for two weeks. However, once my
+  shoulder took over the workload, the sustained aching disappeared entirely. The key: I had
+  to commit fully to one approach rather than alternating between them.
+manualRelated:
+  - title: "Low Profile Keyboards: Wrist Extension Prevention Guide"
+    url: "/posts/preventing-wrist-extension-with-low-profile-keyboards/"
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
+  - title: "The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers"
+    url: "/posts/home-office-posture-checklist/"
 title: "Ergonomic Mouse Wrist Rest vs Palm Support: Top 2026 Picks"
 description: "Compare ergonomic mouse wrist rest vs palm support options to stop desk pain. Discover top picks, expert advice, and the exact setups for maximum comfort."
 pubDate: "2026-05-03"

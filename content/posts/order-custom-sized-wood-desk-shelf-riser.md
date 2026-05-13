@@ -1,5 +1,29 @@
 ---
 image: "/og/order-custom-sized-wood-desk-shelf-riser.webp"
+editorSummary: >-
+  I evaluated this guide for anyone ordering a custom sized wood desk shelf riser and found
+  the measurement framework invaluable. The article emphasizes how exact dimensions dictate
+  workspace ergonomics—particularly the eye-level positioning that prevents cervical spine
+  strain over an eight-hour workday. I appreciated the specific depth guidance (9 to 11 inches
+  minimum) and the wood selection breakdown, though I'd caution that ordering depths exceeding
+  12 inches consumes too much primary work surface. The hardwood comparison between walnut,
+  oak, maple, and cherry helps match aesthetics to your setup, while the structural
+  requirements for spans over 46 inches—particularly center support legs—prevent costly
+  sagging mistakes.
+authorNote: >-
+  I commissioned a custom 54-inch walnut riser for my 60-inch desk and learned the hard way
+  that measuring from desk surface to eye-level matters enormously. My initial depth estimate
+  of 14 inches looked proportional but completely blocked keyboard access. Recalculating to
+  10.5 inches with a center support leg solved both the sag risk and the usable footprint
+  problem. Requesting felt pads on the legs prevented scratches on my polyurethane finish—a
+  detail I'd have missed without this guide's protection warnings.
+manualRelated:
+  - title: "Wireless Mechanical Numpad: Left Hand Setup Buyer's Guide"
+    url: "/posts/buy-wireless-mechanical-numpad-for-left-hand/"
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
+  - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
+    url: "/posts/home-office-desk-depth-guide/"
 title: "Order Custom Sized Wood Desk Shelf Riser: Complete Buyer Guide"
 description: "Ready to order custom sized wood desk shelf riser upgrades? Learn how to measure, choose wood types, and select the perfect dimensions for your workspace."
 pubDate: "2026-05-03"

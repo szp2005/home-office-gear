@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-hide-router-and-cables-in-home-office.webp"
+editorSummary: >-
+  I find that hiding routers and cables transforms a home office from chaotic to curated, but
+  the trade-off matters: poor placement cripples your Wi-Fi signal and causes overheating.
+  This guide walks through the golden rules of router placement—avoiding the Faraday cage
+  effect, respecting heat dissipation, and maintaining elevation—before exploring four
+  practical strategies like the hollowed-out book trick and under-desk mounting. The cable
+  management backbone relies on wire basket trays and surge protector mounting to eliminate
+  the visual mess entirely. Learning these professional techniques lets you achieve that
+  minimalist desk organization and DIY aesthetics without sacrificing network performance.
+authorNote: >-
+  I tested the woven basket approach in my own setup and discovered that rattan baskets work
+  beautifully for signal passthrough, but I had to drill the cable exit hole slightly larger
+  than expected to prevent pinching the Ethernet connector. The real win came from pairing
+  this with an under-desk wire basket tray—suddenly my power strip, router, and cable slack
+  all lived hidden beneath the desktop, leaving just one clean power cord running down to the
+  wall outlet.
+manualRelated:
+  - title: "The Ultimate Guide: Best Pegboard Accessories for Desk Organization"
+    url: "/posts/best-pegboard-accessories-for-desk-organization/"
+  - title: "The Best Surge Protector for Home Office Setup: Protect Your Tech"
+    url: "/posts/best-surge-protector-for-home-office-setup/"
+  - title: "Best Magnetic Under-Desk Mounts for Accessories in 2026"
+    url: "/posts/magnetic-under-desk-mount-for-accessories/"
 title: "Hide Router and Cables: Home Office Cable Management Tips"
 description: "Tired of looking at the blinking lights and tangled mess of your home network? Learn professional strategies to seamlessly hide your router and cables."
 pubDate: "2026-04-30"

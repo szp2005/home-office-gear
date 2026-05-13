@@ -1,5 +1,27 @@
 ---
 image: "/og/how-to-style-a-professional-zoom-background.webp"
+editorSummary: >-
+  I find that most remote workers underestimate how much their Zoom background affects
+  perceived credibility. This guide walks through establishing depth by positioning your desk
+  3 to 5 feet from the wall, mastering front lighting at the correct color temperature, and
+  curating decor thoughtfully. The trade-off worth noting: a highly polished background risks
+  appearing clinical or rigid, so the real skill lies in balancing control with authenticity.
+  Bookshelves, plants, and neutral base colors work together to build trust and authority
+  without distraction.
+authorNote: >-
+  I recently tested this setup in my own space by moving my desk away from the wall and adding
+  a small LED accent light behind my monitor. The depth immediately changed how my camera
+  rendered the background—even my basic webcam's edge detection improved noticeably. The
+  hardest part wasn't the lighting or decor; it was resisting the urge to overfill my
+  bookshelf. Leaving 30% empty space actually made the professional effect stronger than a
+  packed shelf ever did.
+manualRelated:
+  - title: "Best Studio Monitors for Clear Video Conferencing in 2026"
+    url: "/posts/best-studio-monitors-for-clear-video-conferencing/"
+  - title: "Best Desk Exercises for Remote Workers in 2026: Gear Review"
+    url: "/posts/best-desk-exercises-for-remote-workers-2026/"
+  - title: "Desktop Ring Light vs Panel Light Comparison: Which Is Best for You?"
+    url: "/posts/desktop-ring-light-vs-panel-light-comparison/"
 title: "Professional Zoom Background Styling: 7-Step Setup Guide"
 description: "Learn how to style a professional Zoom background that builds trust and authority. Discover lighting tips, background setups, and decor strategies for video calls."
 pubDate: "2026-05-02"

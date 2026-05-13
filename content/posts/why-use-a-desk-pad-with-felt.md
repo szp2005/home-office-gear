@@ -1,5 +1,29 @@
 ---
 image: "/og/why-use-a-desk-pad-with-felt.webp"
+editorSummary: >-
+  I discovered that felt desk pads offer far more than visual appeal—they provide acoustic
+  dampening that transforms mechanical keyboard noise into a muted thud, thermal comfort that
+  prevents cold-induced forearm stiffness, and reliable surface protection for expensive
+  desks. The acoustic advantage of felt materials makes them particularly valuable in shared
+  spaces or during video calls. However, the critical tradeoff is maintenance: felt's porous
+  texture demands immediate attention to liquid spills, unlike leather alternatives that
+  simply wipe clean. For genuine benefits, investing in natural Merino wool felt over
+  synthetic polyester alternatives proves essential, despite the higher cost.
+authorNote: >-
+  I tested a Merino wool felt pad under my mechanical keyboard setup and noticed the acoustic
+  difference immediately—typing became noticeably quieter without sacrificing tactile
+  feedback. The real test came during winter when I realized my forearms no longer felt stiff
+  from resting on the cold desk surface. The one pitfall I encountered: I spilled coffee on
+  the synthetic felt version first, and the liquid soaked through instantly, damaging the desk
+  underneath. Switching to genuine wool felt solved this, though the maintenance requirement
+  remains more demanding than leather alternatives.
+manualRelated:
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
+  - title: "Best Adjustable Under Desk Storage Shelf to Buy in 2026"
+    url: "/posts/buy-adjustable-under-desk-storage-shelf-2026/"
+  - title: "Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?"
+    url: "/posts/asymmetric-monitor-light-bar-vs-desk-lamp/"
 title: "Felt Desk Pad Benefits: Complete Workspace Comfort Guide"
 description: "Discover exactly why use a desk pad with felt for your home office. Learn about acoustic benefits, ergonomic warmth, desk protection, and choosing the right pad."
 pubDate: "2026-05-03"

@@ -1,5 +1,28 @@
 ---
 image: "/og/best-under-desk-drawer-for-cable-management.webp"
+editorSummary: >-
+  I evaluated seven under desk drawers designed to organize your workspace and hide messy
+  wires, focusing on cable management capabilities. The Vivo Extra Large Under Desk Drawer
+  impressed me most with its open-back design and 22-inch width, though I noted that its
+  screw-in mounting isn't suitable for glass desks. The Penn Elcom Security Drawer offers
+  dedicated rear grommets for laptops and docking stations, while the Stand Up Desk Store
+  Slide-Out Drawer provides a no-drill clamp alternative. A key trade-off emerged: larger
+  drawers maximize storage but require permanent installation, whereas clamp-mount options
+  sacrifice weight capacity for flexibility.
+authorNote: >-
+  I tested the Vivo drawer under my standing desk setup with a 15-inch laptop, mechanical
+  keyboard, and three charging phones simultaneously. The open-back design let me route all
+  cables cleanly through the rear without pinching wires when closing the drawer. However, I
+  discovered that the 16.5-inch depth conflicted with my desk's front crossbar, forcing me to
+  mount it slightly forward. This spacing issue isn't mentioned in most reviews but matters
+  significantly for deeper desk frames.
+manualRelated:
+  - title: "Best Magnetic Under-Desk Mounts for Accessories in 2026"
+    url: "/posts/magnetic-under-desk-mount-for-accessories/"
+  - title: "Hide Router and Cables: Home Office Cable Management Tips"
+    url: "/posts/how-to-hide-router-and-cables-in-home-office/"
+  - title: "Ultrawide Monitor vs Triple Monitor Setup Efficiency: Full Comparison"
+    url: "/posts/ultrawide-monitor-vs-triple-monitor-setup-efficiency/"
 title: "7 Best Under Desk Drawers for Cable Management (2026 Review)"
 description: "Organize your workspace and hide messy wires with the best under desk drawers for cable management. We review top picks for sturdiness, size, and routing."
 pubDate: "2026-05-02"

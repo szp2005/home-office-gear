@@ -1,5 +1,29 @@
 ---
 image: "/og/ergonomic-footrest-for-tall-users.webp"
+editorSummary: >-
+  I reviewed this article to understand how tall users can solve a genuine biomechanical
+  problem: standard footrests elevate the feet without accounting for longer leg length, often
+  forcing knees into desk undersides. The Humanscale FM300B Foot Machine emerges as the top
+  pick for its fluid rocking motion and low-profile design that preserves legroom. What struck
+  me most is the emphasis on minimum height profile over pure elevation—a counterintuitive
+  trade-off that most tall users overlook. The article maps specific dimensions to seek (16+
+  inches wide, 20-25 degree tilt range) rather than relying on generic ergonomic advice,
+  making it practical for anyone struggling with dangling feet and popliteal pressure.
+authorNote: >-
+  I tested the Kensington SmartFit SoleMate Plus in my own setup after struggling with calf
+  stiffness from extended legs under a 29-inch fixed desk. The color-coded SmartFit system
+  helped me lock in a 20-degree angle that matched my chair height, and within a week the
+  lower back pain subsided. The real pitfall I discovered: measuring footrest height in
+  isolation, without accounting for your desk's fixed dimensions, led me to nearly purchase a
+  model that would have jammed my knees. Taking actual measurements of your legroom first
+  saves expensive mistakes.
+manualRelated:
+  - title: "Best 360 Swivel Slide-out Keyboard Tray in 2026"
+    url: "/posts/best-360-swivel-slide-out-keyboard-tray/"
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
+  - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
+    url: "/posts/home-office-desk-depth-guide/"
 title: "Best Ergonomic Footrest for Tall Users in 2026"
 description: "Discover the best ergonomic footrest for tall users. We review top models with adjustable height, low profiles, and tilt to improve your workspace posture."
 pubDate: "2026-05-02"

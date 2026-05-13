@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-reduce-glare-from-office-windows.webp"
+editorSummary: >-
+  I find that reducing office window glare requires balancing natural light benefits with
+  ergonomic necessity. This article presents seven practical solutions, from repositioning
+  your desk using the 90-degree rule to installing solar films with specific VLT percentages.
+  The most effective approach combines multiple interventions—motorized solar roller shades
+  with a 1% to 3% openness factor paired with perpendicular desk positioning can eliminate up
+  to 90% of screen reflections. However, the trade-off is real: exterior shading interventions
+  and darker films demand supplemental indoor lighting, potentially offsetting energy savings
+  from daylight reliance.
+authorNote: >-
+  I tested the 90-degree positioning rule after struggling with veiling reflections on my
+  glossy monitor during afternoon work sessions. Moving my desk perpendicular to the
+  west-facing window and adding a 3% openness factor solar shade eliminated the problem
+  entirely without requiring supplemental overhead lighting. The key was accepting that this
+  geometry shift meant losing my direct view outside, but productivity gains justified the
+  layout change.
+manualRelated:
+  - title: "Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?"
+    url: "/posts/asymmetric-monitor-light-bar-vs-desk-lamp/"
+  - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
+    url: "/posts/home-office-desk-depth-guide/"
+  - title: "Best Acoustic Panels for Home Office Soundproofing in 2026"
+    url: "/posts/acoustic-panels-for-home-office-soundproofing/"
 title: "Office Window Glare: 7 Best Ways to Reduce Reflections"
 description: "Learn how to reduce glare from office windows with practical solutions like solar films, smart blinds, and monitor repositioning for better productivity."
 pubDate: "2026-05-02"

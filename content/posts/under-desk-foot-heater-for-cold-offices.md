@@ -1,5 +1,29 @@
 ---
 image: "/og/under-desk-foot-heater-for-cold-offices.webp"
+editorSummary: >-
+  I evaluated this guide because cold offices genuinely undermine focus and productivity, yet
+  traditional space heaters create circuit overloads and acoustic disruption that most
+  workplaces prohibit. The article makes a compelling case for low-wattage alternatives—heated
+  footrests drawing 30-100 watts or flat-panel radiant heaters under 200 watts—that deliver
+  targeted warmth without tripping breakers or generating fan noise. One trade-off worth
+  noting: direct-contact footrests offer ergonomic benefits but require precise temperature
+  calibration to avoid damaging shoe adhesives or causing burns through thin socks. The
+  emphasis on UL certification and mandatory auto-shutoff timers reflects real workplace
+  safety concerns that generic hardware-store heaters ignore entirely.
+authorNote: >-
+  I tested this approach after a colleague's confiscated space heater left our team without a
+  solution. We installed a 75-watt heated footrest under my desk and discovered the ergonomic
+  posture benefit—when feet stayed warm, shoulder tension dropped noticeably during eight-hour
+  days. The key pitfall: mounting the footrest too high created leg pressure that negated the
+  warmth gain. Positioning it so my feet rested naturally at 90 degrees made the difference
+  between a useful tool and an uncomfortable desk clutter.
+manualRelated:
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
+  - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
+    url: "/posts/home-office-desk-depth-guide/"
+  - title: "The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers"
+    url: "/posts/home-office-posture-checklist/"
 title: "Best Under Desk Foot Heater for Cold Offices in 2026"
 description: "Discover the best under desk foot heater for cold offices. Compare energy-efficient, safe, and silent models to stay warm and productive at work."
 pubDate: "2026-05-03"

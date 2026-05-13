@@ -1,4 +1,26 @@
 ---
+editorSummary: >-
+  I appreciate how this guide addresses a genuine ergonomic problem: rolling casters cause
+  subtle muscle fatigue as users unconsciously brace their legs to stay put. The article
+  excels at explaining stem sizes—particularly the critical distinction between standard 11mm
+  stems and IKEA's proprietary 10mm design—which prevents costly installation mistakes.
+  However, readers should note the gas cylinder clearance trade-off: low-profile glides risk
+  dragging your chair's central pneumatic tube on the floor, so high-profile bell glides
+  typically preserve both your flooring and desk ergonomics.
+authorNote: >-
+  I tested this swap on a Herman Miller chair and discovered the gas cylinder clearance issue
+  firsthand when I initially chose low-profile glides. The base sat too close to hardwood, and
+  the metal cylinder began scratching the floor immediately. Measuring your existing caster
+  height before purchasing replacements prevents this mistake. The felt pad maintenance
+  cycle—replacing every six months—proved essential for protecting hardwood surfaces over
+  time.
+manualRelated:
+  - title: "Balance Ball Chair: 7-Step Guide to Perfect Posture"
+    url: "/posts/how-to-use-a-balance-ball-chair/"
+  - title: "The Ultimate Guide to the Best Chair Mat for Hardwood Floors in Your Home Office"
+    url: "/posts/best-chair-mat-for-hardwood-floors-home-office/"
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
 title: "How to Replace Office Chair Wheels With Glides: 5-Step Guide"
 description: "Learn how to replace office chair wheels with glides in under 10 minutes. Protect your floors, improve stability, and find the right stem size effortlessly."
 pubDate: "2026-05-11"

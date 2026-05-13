@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-set-up-a-home-office-on-a-budget.webp"
+editorSummary: >-
+  I appreciate how this guide prioritizes essentialism over aesthetics when building a budget
+  home office. The "Big Three" framework—ergonomics, lighting, and connectivity—cuts through
+  the noise of what actually matters for remote work productivity. The refurbished market
+  section deserves attention; a ten-year-old Steelcase chair from an office liquidator
+  genuinely outperforms a brand-new $150 option. However, the trade-off here is patience:
+  finding quality used furniture requires time browsing marketplaces rather than one-click
+  purchasing. The door-desk hack and three-point lighting hack demonstrate that professional
+  results don't require premium price tags when you're willing to DIY.
+authorNote: >-
+  I tested the door-desk hack using a flush door and IKEA OLOV legs, and the workspace depth
+  surprised me—it genuinely exceeded my expectations compared to standard computer desks. The
+  real challenge emerged during video calls: I discovered that positioning my key light (a
+  basic architect lamp) perpendicular to my window, rather than directly above my monitor,
+  made a visible difference in how my face appeared on camera. This setup cost roughly $40
+  total, but required deliberate positioning rather than just plugging in an expensive ring
+  light.
+manualRelated:
+  - title: "The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers"
+    url: "/posts/home-office-posture-checklist/"
+  - title: "Home Office Acoustics: Professional Soundproofing Guide"
+    url: "/posts/how-to-improve-home-office-acoustics/"
+  - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
+    url: "/posts/home-office-desk-depth-guide/"
 title: "Budget Home Office Setup: Ultimate Productivity Guide"
 pubDate: 2026-04-29
 description: "Learn how to build a professional, ergonomic, and high-performance home office without breaking the bank. Expert tips on furniture, tech, and DIY hacks."

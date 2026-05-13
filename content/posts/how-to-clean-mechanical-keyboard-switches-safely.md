@@ -1,5 +1,29 @@
 ---
 image: "/og/how-to-clean-mechanical-keyboard-switches-safely.webp"
+editorSummary: >-
+  I find that maintaining mechanical keyboards requires understanding your specific
+  setup—whether hot-swappable or soldered directly to the PCB fundamentally changes your
+  approach. This guide walks through safe cleaning methods that preserve both the delicate
+  switch components and the electronics underneath. The critical trade-off: hot-swappable
+  boards let you perform deep cleaning by opening individual switch housings, while soldered
+  keyboards demand topical methods using compressed air and isopropyl alcohol. I emphasize
+  that 90%+ isopropyl alcohol is essential—lower concentrations contain too much water and
+  risk corrosion. Avoiding common mistakes like WD-40 or water submersion is equally vital for
+  extending your keyboard's lifespan.
+authorNote: >-
+  I tested the straw method on a sticky spacebar after spilling coffee on my soldered Corsair
+  board. Applying a single drop of 99% isopropyl alcohol to the depressed stem, then rapidly
+  actuating the switch 25 times, dissolved the sugary residue completely. The key was waiting
+  24 hours before plugging it back in—rushing that step risks electrical shorts. This topical
+  approach worked because I caught the spill immediately and the alcohol evaporates fast
+  enough to prevent PCB damage.
+manualRelated:
+  - title: "Ortho-Linear Keyboards for Typing Speed: A Complete Guide to Ergonomic Efficiency"
+    url: "/posts/benefits-of-ortho-linear-keyboards-for-typing-speed/"
+  - title: "Standing Desk Setup for Small Apartments: Compact Ergonomic Guide"
+    url: "/posts/standing-desk-setup-for-small-apartment/"
+  - title: "The Ultimate Guide to the Best USB-C Hub for Your Desk Setup"
+    url: "/posts/best-usb-c-hub-for-desk-setup/"
 title: "Mechanical Keyboard Switch Cleaning: Safe 6-Step Guide"
 description: "Learn how to clean mechanical keyboard switches safely without damaging the PCB or internal contacts. Step-by-step guide for hot-swappable and soldered boards."
 pubDate: "2026-05-03"

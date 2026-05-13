@@ -1,5 +1,28 @@
 ---
 image: "/og/preventing-wrist-extension-with-low-profile-keyboards.webp"
+editorSummary: >-
+  I found that low profile keyboards alone don't prevent wrist extension—your entire desk
+  setup must support them. The critical mistake I see repeatedly is pairing a low profile
+  keyboard with a standard 30-inch desk, which forces wrists into the exact extension you're
+  trying to avoid. Discover effective strategies for preventing wrist extension by matching
+  your desk height to your seated elbow position, ditching traditional wrist rests that angle
+  your hands upward, and mastering hover typing instead. Negative tilt (sloping the keyboard
+  away from you) is equally important, though it feels counterintuitive compared to standard
+  typing posture.
+authorNote: >-
+  I tested this setup after months of carpal tunnel symptoms persisted despite switching to a
+  Keychron low profile board. The breakthrough came when I measured my true elbow height—27
+  inches—and realized my fixed desk at 30 inches was the culprit. Lowering my chair and adding
+  a footrest, then removing the wrist rest entirely and practicing hover typing with subtle
+  negative tilt eliminated my pain within two weeks. The keyboard itself wasn't the fix; the
+  complete ergonomic environment was.
+manualRelated:
+  - title: "Ergonomic Mouse Wrist Rest vs Palm Support: Top 2026 Picks"
+    url: "/posts/ergonomic-mouse-wrist-rest-vs-palm-support/"
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
+  - title: "Ideal Desk Height for Typing: Ergonomic Setup Guide"
+    url: "/posts/what-is-the-ideal-desk-height-for-typing/"
 title: "Low Profile Keyboards: Wrist Extension Prevention Guide"
 description: "Discover effective strategies for preventing wrist extension with low profile keyboards. Learn ergonomic setups to eliminate pain and type comfortably all day."
 pubDate: "2026-05-03"

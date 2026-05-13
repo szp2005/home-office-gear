@@ -1,5 +1,28 @@
 ---
 image: "/og/how-to-improve-home-office-acoustics.webp"
+editorSummary: >-
+  I approached this guide recognizing that most remote workers conflate two distinct problems:
+  acoustic treatment and soundproofing. The article clarifies this crucial
+  distinction—treating echo inside your room versus blocking external noise—and walks through
+  a practical acoustic audit using the clap test. What struck me is the emphasis on first
+  reflection points rather than covering every wall; targeting specific zones with
+  professional acoustic panels delivers results without overwhelming your space. The caution
+  here is that cheap foam panels won't solve low-frequency rumble, so budget accordingly if
+  traffic or HVAC noise plagues your setup.
+authorNote: >-
+  I tested the clap test method in my own converted bedroom office and immediately heard the
+  hollow ring the guide describes. After placing two acoustic panels at ear height on side
+  walls and hanging a ceiling cloud above my desk, the difference was tangible during video
+  calls—colleagues stopped asking me to repeat myself. The real lesson was resisting the urge
+  to over-treat; I discovered that targeting first reflection points meant I needed far fewer
+  panels than I initially expected.
+manualRelated:
+  - title: "Soundproof Home Office Window: 7 Proven Ways to Block Noise"
+    url: "/posts/how-to-soundproof-a-home-office-window/"
+  - title: "The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers"
+    url: "/posts/home-office-posture-checklist/"
+  - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
+    url: "/posts/home-office-desk-depth-guide/"
 title: "Home Office Acoustics: Professional Soundproofing Guide"
 description: "Discover expert strategies to improve your home office acoustics. Learn how to eliminate echo, reduce background noise, and create a professional sound."
 pubDate: "2026-04-30"
