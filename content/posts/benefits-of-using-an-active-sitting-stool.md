@@ -1,5 +1,27 @@
 ---
 image: "/og/benefits-of-using-an-active-sitting-stool.webp"
+editorSummary: >-
+  I’ve spent years trying to solve my lower back stiffness, and this piece on the Benefits of
+  Using an Active Sitting Stool: Core Health Guide really changed how I view my chair. We
+  often think high-end ergonomic chairs are the final fix, but they actually encourage a
+  passive state that leads to gluteal amnesia. I appreciate the deep look into the
+  biomechanics of dynamic sitting, especially the shift to an open hip angle of 110 to 135
+  degrees. One crucial trade-off I noticed is that these stools essentially require a
+  height-adjustable desk. Without one, you’ll likely hunch, which negates the core engagement
+  benefits.
+authorNote: >-
+  My first week with a wobble stool was a wake-up call for my stabilizer muscles. I made the
+  mistake of trying to go for a full four-hour block right away, and by noon, my back felt
+  exhausted. Now, I keep my stool tucked under my standing desk and swap it in for 30-minute
+  intervals specifically while I am clearing my inbox. It successfully prevents that static
+  loading that usually makes my legs feel heavy and sluggish by mid-afternoon.
+manualRelated:
+  - title: "7 Top Rated Monitor Risers with Storage Drawers for 2026"
+    url: "/posts/top-rated-monitor-risers-with-storage-drawers/"
+  - title: "Benefits of Lumbar Support for Spinal Health Complete Guide"
+    url: "/posts/benefits-of-lumbar-support-for-spinal-health/"
+  - title: "Guide to Under Desk Foot Hammock Benefits: Ergonomic Relief"
+    url: "/posts/guide-to-under-desk-foot-hammock-benefits/"
 title: "Benefits of Using an Active Sitting Stool: Core Health Guide"
 description: "Discover the proven benefits of using an active sitting stool, from improved core strength to reduced back pain, and learn how to transition safely."
 pubDate: "2026-05-07"

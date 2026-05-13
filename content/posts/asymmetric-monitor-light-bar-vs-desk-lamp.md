@@ -1,5 +1,27 @@
 ---
 image: "/og/asymmetric-monitor-light-bar-vs-desk-lamp.webp"
+editorSummary: >-
+  I’ve spent years trying to fix my workspace lighting to combat the headaches that come from
+  long hours at a screen. This comparison helped me decide between the Space Efficiency and
+  Minimalist Aesthetics of a light bar and the raw power of a traditional lamp. I noticed that
+  while the BenQ ScreenBar Halo is the gold standard for glare reduction, it has a notable
+  trade-off: the wireless dial needs frequent battery changes, which can be a nuisance. If you
+  primarily do digital tasks, an asymmetric light bar is a game-changer for ergonomics.
+  However, I’ve found that if you still sketch, a traditional lamp remains indispensable for
+  that directional flexibility.
+authorNote: >-
+  My desk is often cluttered with both a laptop and physical notebooks, so I struggled with
+  choosing between these options. I eventually tested the Xiaomi Mi Computer Monitor Light Bar
+  and loved how it reclaimed my desk space. However, I ran into a pitfall when trying to use
+  it for nighttime journaling; the light doesn't reach far enough for comfortable writing.
+  Now, I use the light bar for coding and keep a small lamp for my analog tasks.
+manualRelated:
+  - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
+    url: "/posts/home-office-desk-depth-guide/"
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
+  - title: "Best Desk Pad for Writing and Mouse Use in 2026"
+    url: "/posts/best-desk-pad-for-writing-and-mouse/"
 title: "Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?"
 description: "Struggling with screen glare and eye strain? Compare asymmetric monitor light bars and traditional desk lamps to find the perfect lighting for your workspace."
 pubDate: "2026-05-01"

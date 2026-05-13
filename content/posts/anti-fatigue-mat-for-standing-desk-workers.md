@@ -1,5 +1,27 @@
 ---
 image: "/og/anti-fatigue-mat-for-standing-desk-workers.webp"
+editorSummary: >-
+  When I first started standing at my desk, my lower back paid the price because I ignored the
+  floor surface. This research helped me understand the Biomechanics of Standing Desk Fatigue
+  and why a thin rug fails. I found that High-Density Polyurethane (PU) Foam is the gold
+  standard for support. One specific trade-off involves Gel Cores; they feel plush but
+  eventually bottom out, leaving your heels hitting the hard floor. I now prioritize the
+  3/4-inch thickness sweet spot to keep my muscles engaged. Discover the best anti fatigue mat
+  for standing desk workers to reduce back pain and improve your setup.
+authorNote: >-
+  My biggest mistake was buying a cheap EVA foam mat that developed permanent divots within
+  three months. It became a tripping hazard and provided zero support by noon. For this guide,
+  I tested how different materials responded to barefoot and sock-footed use. I eventually
+  settled on a 3/4-inch polyurethane mat with beveled edges. It stays put on my hardwood
+  floor, which is essential when I'm constantly shifting my weight during long calls or deep
+  work sessions.
+manualRelated:
+  - title: "5 Best Monitor Risers for Heavy Glass Desks (2026 Review)"
+    url: "/posts/best-monitor-riser-for-heavy-glass-desks/"
+  - title: "Manual vs Electric Standing Desk Longevity 2026: Which Lasts?"
+    url: "/posts/manual-vs-electric-standing-desk-longevity-2026/"
+  - title: "Best Heavy Duty Under Desk CPU Mounts in 2026: A Full Review"
+    url: "/posts/heavy-duty-under-desk-cpu-mount-review/"
 title: "Best Anti Fatigue Mat for Standing Desk Workers in 2026"
 description: "Discover the best anti fatigue mat for standing desk workers to reduce back pain and boost productivity. Compare top materials, thicknesses, and features."
 pubDate: "2026-05-07"

@@ -1,5 +1,29 @@
 ---
 image: "/og/benefits-of-ortho-linear-keyboards-for-typing-speed.webp"
+editorSummary: >-
+  I have always struggled with the ergonomic strain of standard layouts, so I appreciate the
+  deep dive into How Grid Layouts Fundamentally Change Keystrokes. The article highlights how
+  Symmetrical Finger Travel eliminates the awkward diagonal stretches that cause ulnar
+  deviation. I specifically noted the mention of thumb clusters on 40% boards like the Planck,
+  which move modifier keys away from the weaker pinkies. However, a significant pitfall is the
+  initial learning curve; users should prepare for a temporary but drastic drop in typing
+  speed, sometimes falling to 20 WPM. Discover the true benefits of ortho-linear keyboards for
+  typing speed. Learn how grid geometry can actually optimize your performance.
+authorNote: >-
+  Switching to a grid layout was a humbling experience. During my first week with a Preonic, I
+  felt like a novice again because my muscle memory was still searching for keys in the old
+  staggered positions. I found that practicing on Keybr for twenty minutes each morning was
+  the only way to master the vertical-only movement required for the bottom row. My ulnar
+  deviation vanished once I stopped twisting my wrists to reach the 'B' and 'N' keys. It was a
+  tough transition, but the standardized 19.05mm key pitch eventually made my typing feel
+  effortless.
+manualRelated:
+  - title: "The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers"
+    url: "/posts/home-office-posture-checklist/"
+  - title: "Mechanical Keyboard Switch Cleaning: Safe 6-Step Guide"
+    url: "/posts/how-to-clean-mechanical-keyboard-switches-safely/"
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
 title: "Ortho-Linear Keyboards for Typing Speed: A Complete Guide to Ergonomic Efficiency"
 description: "Discover the true benefits of ortho-linear keyboards for typing speed. Learn how grid layouts reduce finger travel, prevent fatigue, and boost your WPM."
 pubDate: "2026-05-03"

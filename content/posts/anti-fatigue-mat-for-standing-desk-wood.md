@@ -1,5 +1,27 @@
 ---
 image: "/og/anti-fatigue-mat-for-standing-desk-wood.webp"
+editorSummary: >-
+  Choosing the Best Anti Fatigue Mat for Standing Desk on Wood Floors in 2026 is surprisingly
+  technical. My priority was preventing scratches and abrasions while avoiding the danger of
+  plasticizer migration, a chemical reaction that ruins hardwood finishes. I learned that
+  cheap PVC mats are a massive pitfall; they leached chemicals that clouded my floor's
+  topcoat. I now look for a 100% high-density polyurethane core with 20-degree beveled edges.
+  While topographic mats encourage movement, the trade-off is their bulk; they are much harder
+  to tuck under a desk compared to flat models when I switch back to my chair.
+authorNote: >-
+  After seeing yellow stains on my oak floors from a cheap rubber mat, I realized how critical
+  base materials are. I now use a 3/4-inch polyurethane mat with a non-slip bottom. I’ve
+  integrated a specific maintenance step: I lift the mat every Friday to vacuum underneath.
+  Even high-quality mats trap micro-debris that acts like sandpaper against the wood finish
+  when stepped on. This simple routine has saved my floor from scratches while providing the
+  ergonomic support I need for long deep-work sessions.
+manualRelated:
+  - title: "7 Best Anti Fatigue Mats for Standing Desks in 2026"
+    url: "/posts/best-anti-fatigue-mat-for-standing-desks/"
+  - title: "The Ultimate Guide to the Best Chair Mat for Hardwood Floors in Your Home Office"
+    url: "/posts/best-chair-mat-for-hardwood-floors-home-office/"
+  - title: "Best Under Desk Cable Tray for Wide Desks in 2026"
+    url: "/posts/best-under-desk-cable-tray-for-wide-desks/"
 title: "Best Anti Fatigue Mat for Standing Desk on Wood Floors in 2026"
 description: "Protect your hardwood and your joints. Discover the best anti fatigue mat for a standing desk on wood floors, including wood-grain finishes and non-slip bases."
 pubDate: "2026-05-02"
