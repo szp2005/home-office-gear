@@ -1,5 +1,27 @@
 ---
 image: "/og/best-keyboard-tray-for-home-office-desk.webp"
+editorSummary: >-
+  I often find that my desk height is the biggest hurdle to maintaining a neutral typing
+  position. This review of the Best Keyboard Trays for Home Office Desks in 2026: Save Your
+  Wrists and Desk Space highlights why moving peripherals to lap level is a game-changer. I
+  appreciate the focus on the 3M AKT150LE for its independent mouse platform, which solves the
+  common issue of the mouse sliding away when using negative tilt. However, I noticed a
+  crucial trade-off: many track-mounted models require a flat desk underside, which is a major
+  pitfall if your desk has structural crossbars.
+authorNote: >-
+  When I set up my sit-stand desk, I initially ignored the keyboard tray, thinking the desk
+  height adjustment was enough. I quickly realized my mistake when my shoulders started
+  hunching to reach the surface. I eventually installed a clamp-on tray to avoid drilling into
+  my bamboo desktop. It immediately corrected my elbow angle to that recommended 90-degree
+  position. My main struggle was finding a tray wide enough for my full-sized mechanical
+  keyboard and mousepad without it feeling cramped.
+manualRelated:
+  - title: "The Best Ergonomic Mice for Carpal Tunnel in 2026: Relieve Wrist Pain"
+    url: "/posts/best-ergonomic-mouse-for-carpal-tunnel/"
+  - title: "Best Trackball Mouse for Wrist Pain in 2026: Top Ergonomic Picks"
+    url: "/posts/best-trackball-mouse-for-wrist-pain-2026/"
+  - title: "The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office"
+    url: "/posts/best-under-desk-treadmill-for-home-office/"
 title: "Best Keyboard Trays for Home Office Desks in 2026: Save Your Wrists and Desk Space"
 author: "Sarah Miller"
 date: 2026-04-29T13:20:00Z

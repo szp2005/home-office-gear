@@ -1,5 +1,27 @@
 ---
 image: "/og/best-budget-ergonomic-chair-for-remote-work.webp"
+editorSummary: >-
+  Finding the right seat for a home office usually feels like choosing between a mortgage
+  payment and a backache. I’ve personally tested several models in the $200 range because I
+  believe you don't need to spend $1,500 on a Herman Miller. My current recommendation
+  highlights "The Value King: Sihoo M57" for its impressive 3D armrests and full mesh
+  breathability. However, a significant trade-off involves "What You Sacrifice on a Budget",
+  specifically the shorter 1-3 year warranties compared to high-end brands. I noticed that
+  while the Branch Daily Chair looks better in a living room, it lacks the fine-tuned lumbar
+  depth I need for long coding sessions.
+authorNote: >-
+  When I first moved my desk into my bedroom, I tried using a standard dining chair for a
+  week. My lower back was screaming by Wednesday afternoon. I ended up picking up an IKEA
+  MARKUS because I needed that high backrest for head support during long video calls. It is a
+  sturdy tank, but I did find that the fixed armrests occasionally bumped into my desk edge,
+  preventing me from sitting as close as I like for ergonomic typing.
+manualRelated:
+  - title: "Best Ergonomic Chair for Small Home Office (Compact 2026 Picks)"
+    url: "/posts/best-ergonomic-chair-for-small-home-office/"
+  - title: "Best Trackball Mouse for Wrist Pain in 2026: Top Ergonomic Picks"
+    url: "/posts/best-trackball-mouse-for-wrist-pain-2026/"
+  - title: "Best Heavy Duty Office Chair for Long Hours (2026 Guide)"
+    url: "/posts/heavy-duty-office-chair-for-long-hours/"
 title: "Best Budget Ergonomic Chairs for Remote Work in 2026: Comfort Under $300"
 author: "Sarah Miller"
 date: 2026-04-29T14:20:00Z

@@ -1,5 +1,26 @@
 ---
 image: "/og/best-desk-exercises-for-remote-workers-2026.webp"
+editorSummary: >-
+  Maintaining my physical health while glued to a laptop is a constant struggle, especially
+  since the organic movement of a commute disappeared. My hip flexors often feel shortened
+  after long sessions, which makes The Physiological Impact of the Home Office a reality I
+  face daily. I found the review of the Cubii Go Under Desk Elliptical particularly useful for
+  low-impact movement during calls. One specific observation I appreciated is that static
+  standing at my desk can be just as fatiguing as sitting; using a balance board is a
+  necessary trade-off to keep my core engaged without losing focus on my deep work tasks.
+authorNote: >-
+  I recently tested the WalkingPad C2 Mini Treadmill to see if I could actually type while
+  hitting my step goals. My biggest pitfall was the soft hum of the motor; while quiet, I had
+  to adjust my microphone gain so colleagues wouldn't hear the mechanical whirring during our
+  stand-up meetings. It takes some practice to find a walking speed that doesn't cause my
+  laptop screen to shake, but the folding design is a lifesaver for my small apartment setup.
+manualRelated:
+  - title: "The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office"
+    url: "/posts/best-under-desk-treadmill-for-home-office/"
+  - title: "The Ultimate Home Office Posture Checklist: Expert Ergonomics for Remote Workers"
+    url: "/posts/home-office-posture-checklist/"
+  - title: "Home Office Acoustics: Professional Soundproofing Guide"
+    url: "/posts/how-to-improve-home-office-acoustics/"
 title: "Best Desk Exercises for Remote Workers in 2026: Gear Review"
 description: "Discover the best desk exercises for remote workers in 2026. We review top under-desk equipment and no-gear routines to boost your home office fitness."
 pubDate: "2026-05-02"

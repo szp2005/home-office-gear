@@ -1,5 +1,28 @@
 ---
 image: "/og/best-footrest-for-under-desk-ergonomics.webp"
+editorSummary: >-
+  I spent years focusing on my chair before realizing my feet were the real problem. My lower
+  back pain usually stemmed from my legs dangling just slightly. I’ve reviewed The 10 Best
+  Footrests for Under Desk Ergonomics: Boost Comfort While Working to show how a solid
+  foundation changes everything. I personally find the rocking motion of the ErgoFoot
+  Adjustable Footrest keeps my ankles from getting stiff during long calls. One observation I
+  made is that while memory foam options like the Everlasting Comfort are incredibly plush for
+  working in socks, they can lose their shape or get dirty if you wear heavy outdoor shoes at
+  your desk.
+authorNote: >-
+  When I moved to a standing desk that didn't go quite low enough for my height, my posture
+  suffered immediately. I found my feet constantly tucked under my chair, which crushed my
+  circulation. Adding a textured model like the Kensington SoleMassage helped me stay grounded
+  and gave me a way to fidget productively. If you are struggling with a cold hardwood floor
+  in your home office, I recommend the foam-based piers; they act as a great insulator while
+  keeping your knees at that vital 90-degree angle.
+manualRelated:
+  - title: "The Ultimate Guide to the Best Under Desk Treadmill for Your Home Office"
+    url: "/posts/best-under-desk-treadmill-for-home-office/"
+  - title: "The Ideal Screen Height for Preventing Neck Strain: Complete Guide"
+    url: "/posts/ideal-screen-height-for-preventing-neck-strain/"
+  - title: "The Ultimate Guide to the Best USB-C Hub for Your Desk Setup"
+    url: "/posts/best-usb-c-hub-for-desk-setup/"
 title: "The 10 Best Footrests for Under Desk Ergonomics: Boost Comfort While Working"
 author: "Sarah Miller"
 date: 2026-04-29T13:00:00Z

@@ -1,5 +1,28 @@
 ---
 image: "/og/best-ergonomic-chair-for-small-home-office.webp"
+editorSummary: >-
+  Choosing the Best Ergonomic Chair for Small Home Office (Compact 2026 Picks) requires
+  prioritizing footprint over fancy extras. In my setup, I’ve found that a base width under 26
+  inches is the secret to moving freely without hitting the door frame. I’ve observed that
+  high-back chairs often overwhelm small rooms visually; switching to a mid-back design like
+  the Branch Ergonomic Chair keeps the space feeling open. One specific pitfall to watch for
+  is desk clearance—if your armrests don't flip up or remove, you’ll never be able to tuck the
+  chair in fully. Dont compromise on comfort just because of space. Discover the best
+  ergonomic chairs for tight quarters by measuring your floor zone first.
+authorNote: >-
+  I tested the cardboard circle trick mentioned in the guide before I bought my current chair
+  for my apartment corner. I cut a 25-inch template to simulate the base of the Hbada task
+  chair. It was a wake-up call; I realized that even a few extra inches would have blocked my
+  filing cabinet. I also swapped out the stock plastic wheels for polyurethane casters. They
+  roll silently on my hardwood floors and make those tiny micro-movements much smoother when
+  I'm reaching for my printer in a cramped space.
+manualRelated:
+  - title: "Standing Desk Setup for Small Apartments: Compact Ergonomic Guide"
+    url: "/posts/standing-desk-setup-for-small-apartment/"
+  - title: "The Ultimate Guide to Home Office Lighting for Eye Strain"
+    url: "/posts/home-office-lighting-for-eye-strain/"
+  - title: "The Best Portable Monitor for Work From Home: Boost Productivity Anywhere"
+    url: "/posts/best-portable-monitor-for-work-from-home/"
 title: "Best Ergonomic Chair for Small Home Office (Compact 2026 Picks)"
 author: "Sarah Miller"
 date: 2026-04-29

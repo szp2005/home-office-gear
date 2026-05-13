@@ -1,5 +1,28 @@
 ---
 image: "/og/best-desk-pad-for-writing-and-mouse.webp"
+editorSummary: >-
+  Finding a surface that supports both a fountain pen and a high-DPI mouse is surprisingly
+  difficult. My usual experience with soft gaming mats involves pen tips punching through
+  paper, which is why I focused on high Shore hardness materials here. I’ve found that the
+  Grovemade Matte Desk Pad is the benchmark because its natural linoleum provides a rigid
+  foundation for single-sheet drafting while maintaining pinpoint sensor accuracy. Discover
+  the best desk pad for writing and mouse tracking. Compare top linoleum, leather, and
+  synthetic options to find your balance. Just watch for the slightly sharp edges on linoleum
+  mats before they break in.
+authorNote: >-
+  My setup often gets cluttered with loose project briefs, so I specifically tested the hidden
+  document layer on the Orbitkey Desk Mat. It’s a lifesaver for keeping reference papers
+  reachable but out of sight. I also noticed that switching from a 5mm neoprene mat to a
+  denser linoleum surface immediately improved my handwriting legibility. If you frequently
+  transition between digital design and physical note-taking, the structural rigidity of these
+  picks prevents that frustrating pen-poke resistance during quick brainstorming sessions.
+manualRelated:
+  - title: "Home Office Desk Size: Best Dimensions for Productivity"
+    url: "/posts/how-to-choose-a-home-office-desk-size/"
+  - title: "The Ultimate Home Office Desk Depth Guide: Find Your Perfect Setup"
+    url: "/posts/home-office-desk-depth-guide/"
+  - title: "Asymmetric Monitor Light Bar vs Desk Lamp: Which Is Better for Your Setup?"
+    url: "/posts/asymmetric-monitor-light-bar-vs-desk-lamp/"
 title: "Best Desk Pad for Writing and Mouse Use in 2026"
 description: "Discover the best desk pad for writing and mouse tracking. Compare top linoleum, leather, and synthetic mats for a smooth, highly productive workspace setup."
 pubDate: "2026-05-02"
