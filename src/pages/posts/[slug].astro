@@ -194,6 +194,7 @@ const itemListSchema = schemaProducts.length >= 2 ? {
         ...(p.priceNums.length > 0 ? {
           "offers": {
             "@type": "AggregateOffer",
+            "offerCount": schemaProducts.length,
             "priceCurrency": "USD",
             "lowPrice": p.priceNums[0],
             ...(p.priceNums[1] ? { "highPrice": p.priceNums[1] } : {})
